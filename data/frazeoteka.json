@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T20:02:22.727Z",
+  "updated": "2026-08-17T20:37:10.244Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -1718,6 +1718,32 @@
       "created_at": "2026-08-17T19:29:45.347Z"
     },
     {
+      "id": "msxp30ekxiy9z",
+      "headword_latin": "Jazuk baciti, a od jazuka se deblja",
+      "headword_cyrillic": "Јазук бацити, а од јазука се дебља",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "жалко выбросить, а от объедков и толстеют",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu više, ali jazuk baciti — a od jazuka se deblja.",
+          "russian": "Больше не могу, но выбросить жалко, а от объедков и толстеют."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "доедаю не потому, что хочу, а потому, что жалко",
+        "лучше в нас, чем в таз"
+      ],
+      "literal_ru": "жалко выбросить, а от жалости толстеют — jazuk от тур. yazık «жаль, грех, досада»",
+      "register": "разг., шутл.-самоирон.; боснийский по происхождению, в Сербии редк.; ходовая усечённая форма od jazuka se deblja",
+      "note": "Полная форма зафиксирована в боснийских сборниках пословиц; в записи пользователя была только вторая половина. Само слово jazuk в живой речи чаще идёт как междометие: jazuk je da se to baci «грех такое выбрасывать». Классическая присказка над остатками воскресного обеда.",
+      "keyword": "jazuk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
       "id": "msxnt6d1yu3cl",
       "headword_latin": "Jedna kašika sama ne zveči",
       "headword_cyrillic": "Једна кашика сама не звечи",
@@ -2588,6 +2614,86 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "msxp30ejzffeq",
+      "headword_latin": "Ne poželi nikome ono što samom sebi ne želiš",
+      "headword_cyrillic": "Не пожели никоме оно што самом себи не желиш",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не желай другому того, чего себе не хочешь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Smiri se i ne kuni — ne poželi nikome ono što samom sebi ne želiš.",
+          "russian": "Уймись и не проклинай: не желай другому того, чего себе не хочешь."
+        }
+      ],
+      "analogs_ru": [
+        "чего себе не хочешь, того и другому не желай",
+        "не делай другому того, чего себе не желаешь",
+        "как аукнется, так и откликнется"
+      ],
+      "literal_ru": "",
+      "register": "послов., назидат.",
+      "note": "Сербский вариант «золотого правила» в отрицательной формулировке — как у Гиллеля и от обратного к Мф. 7:12.",
+      "keyword": "poželeti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.219Z"
+    },
+    {
+      "id": "msxp30ejlg3en",
+      "headword_latin": "Ne trči pred rudu",
+      "headword_cyrillic": "Не трчи пред руду",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не забегай вперёд; не лезь поперёд батьки в пекло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Polako, ne trči pred rudu, još ništa nije potpisano.",
+          "russian": "Погоди, не забегай вперёд: ничего ещё не подписано."
+        }
+      ],
+      "analogs_ru": [
+        "не забегай вперёд",
+        "не лезь поперёд батьки в пекло",
+        "не гони лошадей",
+        "всему свой черёд"
+      ],
+      "literal_ru": "не беги перед дышлом",
+      "register": "разг., назидат., очень частотно; полные формы ne trči kao tele pred rudu, ne trči, ko ždrebe, pred rudu",
+      "note": "По словарю Матицы сербской ruda — продольный брус (дышло), вделанный в переднюю ось повозки, к которому припрягают коней или волов. Образ: телёнок или жеребёнок вертится возле матери и выскакивает под ноги упряжке, отсюда оттенок «неопытный, суетливый». Современный сербский слышит в ruda прежде всего «руда, ископаемое», поэтому происхождение оборота регулярно разбирают в языковых рубриках прессы (Danas, Alo, портал Jezikofil).",
+      "keyword": "ruda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.219Z"
+    },
+    {
+      "id": "msxp30ehsubt1",
+      "headword_latin": "Nema brata dok ne rodi majka",
+      "headword_cyrillic": "Нема брата док не роди мајка",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "брат бывает только родной",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prijatelji su prijatelji, ali nema brata dok ne rodi majka.",
+          "russian": "Друзья друзьями, а брат бывает только родной."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "свой своему поневоле брат",
+        "друг другом, а брат братом",
+        "кровь не вода"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; часто в ответ на разговоры о названых братьях и «друзьях как братьях»",
+      "note": "О том, что кровное родство ничем не заменишь.",
+      "keyword": "brat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.218Z"
+    },
+    {
       "id": "msxl0hliu8deq",
       "headword_latin": "Ničija nije gorela do zore",
       "headword_cyrillic": "Ничија није горела до зоре",
@@ -2614,6 +2720,260 @@
       "keyword": "zora",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxp30ej3e1l4",
+      "headword_latin": "Nije zlato sve što sija",
+      "headword_cyrillic": "Није злато све што сија",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не всё то золото, что блестит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ponuda izgleda sjajno, ali nije zlato sve što sija.",
+          "russian": "Предложение выглядит блестяще, да не всё то золото, что блестит."
+        }
+      ],
+      "analogs_ru": [
+        "не всё то золото, что блестит",
+        "не всяк монах, на ком клобук"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр., интернациональная",
+      "note": "",
+      "keyword": "zlato",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.219Z"
+    },
+    {
+      "id": "msxp30ejk9mi0",
+      "headword_latin": "Nikad ne reci nikad",
+      "headword_cyrillic": "Никад не реци никад",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "никогда не говори «никогда»",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Rekao si da se nećeš vraćati — nikad ne reci nikad.",
+          "russian": "Ты говорил, что не вернёшься: никогда не говори «никогда»."
+        }
+      ],
+      "analogs_ru": [
+        "никогда не говори «никогда»",
+        "зарекался кувшин по воду ходить"
+      ],
+      "literal_ru": "",
+      "register": "разг., новое, интернациональное",
+      "note": "Калька с англ. never say never; в народных сборниках отсутствует.",
+      "keyword": "nikad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "msxp30ek8nqhq",
+      "headword_latin": "Od viška glava ne boli",
+      "headword_cyrillic": "Од вишка глава не боли",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "запас карман не тянет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzmi još jedno pakovanje, od viška glava ne boli.",
+          "russian": "Возьми ещё пачку, запас карман не тянет."
+        }
+      ],
+      "analogs_ru": [
+        "запас карман не тянет",
+        "кашу маслом не испортишь",
+        "лишним не будет"
+      ],
+      "literal_ru": "от избытка голова не болит",
+      "register": "разг., шутл., общеупотр.; оправдание запаса впрок — денег, продуктов, знаний",
+      "note": "",
+      "keyword": "višak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "msxp30ekhmnxb",
+      "headword_latin": "Opreznost je majka mudrosti",
+      "headword_cyrillic": "Опрезност је мајка мудрости",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "осторожность — мать мудрости",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Proveri ugovor dvaput, opreznost je majka mudrosti.",
+          "russian": "Проверь договор дважды: осторожность — мать мудрости."
+        }
+      ],
+      "analogs_ru": [
+        "береженого Бог бережёт",
+        "осторожность никогда не лишняя",
+        "семь раз отмерь"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-афор.",
+      "note": "Модель X je majka Y-a продуктивна: ponavljanje je majka znanja «повторение — мать учения».",
+      "keyword": "opreznost",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "msxp30el5z8ib",
+      "headword_latin": "Otac ko kolac",
+      "headword_cyrillic": "Отац ко колац",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "отец — пустое место",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kod njih je majka sve, a otac ko kolac.",
+          "russian": "У них мать — всё, а отец — пустое место."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "от отца ни жарко ни холодно",
+        "отец только числится"
+      ],
+      "literal_ru": "отец как кол",
+      "register": "разг., пренебр.; чаще из женских уст — об отце, от которого в семье никакого проку",
+      "note": "Рифма otac — kolac держит всю формулу. Регулярно оспаривается в сербской публицистике о роли отца и об отчуждении детей после развода — её цитируют, чтобы с ней поспорить.",
+      "keyword": "otac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "msxp30el18e1l",
+      "headword_latin": "Otrov se drži u malim bočicama",
+      "headword_cyrillic": "Отров се држи у малим бочицама",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "мал золотник, да дорог",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisam ja mala — otrov se drži u malim bočicama.",
+          "russian": "Я не маленькая: мал золотник, да дорог."
+        }
+      ],
+      "analogs_ru": [
+        "мал золотник, да дорог",
+        "мал, да удал"
+      ],
+      "literal_ru": "яд держат в маленьких пузырьках",
+      "register": "разг., шутл.; чаще о невысоких людях — и в комплимент, и как самозащита; отдельно о женщинах «маленькая, да опасная»; варианты глагола drži se, čuva se",
+      "note": "Фраза настолько заезжена, что к ней прилипло издевательское продолжение …i govno za analizu — так отвечают тому, кто произнёс её всерьёз. Название песни Майи Николич и Цецы Славкович «Otrov u malim bočicama» закрепило оборот в эстрадном обиходе.",
+      "keyword": "otrov",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "msxp30eldl7wp",
+      "headword_latin": "Pas koji laje ne ujeda",
+      "headword_cyrillic": "Пас који лаје не уједа",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не бойся собаки брехливой, бойся молчаливой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne brini zbog njegovih pretnji, pas koji laje ne ujeda.",
+          "russian": "Не переживай из-за его угроз: брехливая собака не кусает."
+        }
+      ],
+      "analogs_ru": [
+        "не бойся собаки брехливой, бойся молчаливой",
+        "брехливая собака не кусает",
+        "кто много грозит, тот мало вредит"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; чаще как успокоение — о том, кто громко угрожает",
+      "note": "См. также: ISPOD MIRE STO ĐAVOLA VIRE — тот же принцип с обратной стороны: опасен тихий.",
+      "keyword": "pas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "msxp30elpij8p",
+      "headword_latin": "Po jutru se dan poznaje",
+      "headword_cyrillic": "По јутру се дан познаје",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "каково начало, таков и конец",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prosuo sam kafu čim sam ustao — po jutru se dan poznaje.",
+          "russian": "Только встал — пролил кофе: каково начало, таков и день."
+        }
+      ],
+      "analogs_ru": [
+        "каково начало, таков и конец",
+        "по утру видно, каков день будет"
+      ],
+      "literal_ru": "по утру день узнаётся",
+      "register": "послов., общеупотр.; чаще иронически — о дне, начавшемся неудачей",
+      "note": "",
+      "keyword": "jutro",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "msxp30elejba0",
+      "headword_latin": "Poklonu se u zube ne gleda",
+      "headword_cyrillic": "Поклону се у зубе не гледа",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "дарёному коню в зубы не смотрят",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije baš moja boja, ali poklonu se u zube ne gleda.",
+          "russian": "Не совсем мой цвет, но дарёному коню в зубы не смотрят."
+        }
+      ],
+      "analogs_ru": [
+        "дарёному коню в зубы не смотрят"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; в сербском чаще без коня — просто poklonu, хотя вариант poklonjenom konju se u zube ne gleda тоже живой",
+      "note": "Восходит к латинской формуле, приписываемой Иерониму.",
+      "keyword": "poklon",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "msxp30elqvhc6",
+      "headword_latin": "Pruži se koliko ti je jorgan dug",
+      "headword_cyrillic": "Пружи се колико ти је јорган дуг",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "по одёжке протягивай ножки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne uzimaj taj kredit, pruži se koliko ti je jorgan dug.",
+          "russian": "Не бери этот кредит: по одёжке протягивай ножки."
+        }
+      ],
+      "analogs_ru": [
+        "по одёжке протягивай ножки",
+        "живи по средствам",
+        "не по карману замах"
+      ],
+      "literal_ru": "вытянись настолько, насколько длинно твоё одеяло",
+      "register": "послов., общеупотр.; jorgan — турцизм, стёганое ватное одеяло",
+      "note": "Прямая калька турецкой пословицы Ayağını yorganına göre uzat «вытягивай ногу по своему одеялу» — один из самых наглядных случаев, когда вместе со словом (jorgan) заимствован и целый образ. Форма из записи пользователя (pokrivaj se jorganom koliko je širok) передаёт смысл, но устойчивая формула — с pruži se и dug.",
+      "keyword": "jorgan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:37:10.222Z"
     },
     {
       "id": "msxkiw6xpnjum",
