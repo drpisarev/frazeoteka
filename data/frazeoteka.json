@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T21:51:42.284Z",
+  "updated": "2026-08-17T22:56:52.706Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -2614,6 +2614,32 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "msxu2ocorja8b",
+      "headword_latin": "Našla vreća zakrpu",
+      "headword_cyrillic": "Нашла врећа закрпу",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "два сапога пара",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzeli se oni — našla vreća zakrpu.",
+          "russian": "Поженились они: два сапога пара."
+        }
+      ],
+      "analogs_ru": [
+        "два сапога пара",
+        "подобрались один к одному",
+        "по Сеньке и шапка"
+      ],
+      "literal_ru": "нашёл мешок заплату",
+      "register": "разг., неодобр.-шутл.; о двоих равно никчёмных — чаще о паре, женитьбе, реже о компаньонах",
+      "note": "Запись пользователя (svaka slika nađe priliku, a vreća zakrpu) достоверно не подтверждается; устойчива вторая половина. Первая, вероятно, контаминация с svaki lonac nađe svoj poklopac «всякая кастрюля найдёт свою крышку» — тот же смысл, но без насмешки. Латинское соответствие в сербских сборниках: Invenit protinus patella operculum.",
+      "keyword": "vreća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.680Z"
+    },
+    {
       "id": "msxp30ejzffeq",
       "headword_latin": "Ne poželi nikome ono što samom sebi ne želiš",
       "headword_cyrillic": "Не пожели никоме оно што самом себи не желиш",
@@ -3238,6 +3264,33 @@
       "created_at": "2026-08-17T21:51:42.265Z"
     },
     {
+      "id": "msxu2ocp53din",
+      "headword_latin": "S vragom došlo, s vragom i otišlo",
+      "headword_cyrillic": "С врагом дошло, с врагом и отишло",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "как пришло, так и ушло; худо нажитое впрок не идёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zaradio preko noći, izgubio za mesec — s vragom došlo, s vragom i otišlo.",
+          "russian": "За ночь заработал, за месяц спустил: как пришло, так и ушло."
+        }
+      ],
+      "analogs_ru": [
+        "как нажито, так и прожито",
+        "пришло махом, ушло прахом",
+        "худо нажитое впрок не идёт",
+        "шальные деньги не держатся"
+      ],
+      "literal_ru": "с чёртом пришло, с чёртом и ушло",
+      "register": "разг.; о нечестно нажитом, которое не задержалось",
+      "note": "Вариант lako došlo, lako otišlo — без темы греха, только о лёгкости.",
+      "keyword": "vrag",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.681Z"
+    },
+    {
       "id": "msxqn1oqntui1",
       "headword_latin": "Sila Boga ne moli",
       "headword_cyrillic": "Сила Бога не моли",
@@ -3654,6 +3707,58 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "msxu2ocpyup2z",
+      "headword_latin": "Svoje se meso ne jede",
+      "headword_cyrillic": "Своје се месо не једе",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "своя кровь не чужая; родню не сдают",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neće on protiv brata svedočiti — svoje se meso ne jede.",
+          "russian": "Против брата он свидетельствовать не станет: своя кровь не чужая."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "свой своему поневоле брат",
+        "на своих не доносят"
+      ],
+      "literal_ru": "своё мясо не едят",
+      "register": "разг.; часто как объяснение семейного покрывательства",
+      "note": "",
+      "keyword": "meso",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.681Z"
+    },
+    {
+      "id": "msxu2ocpbsryc",
+      "headword_latin": "Svud se dičim što na babu ličim",
+      "headword_cyrillic": "Свуд се дичим што на бабу личим",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "везде хвалюсь, что на бабку похожа",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Isti nos, iste ruke — svud se dičim što na babu ličim.",
+          "russian": "Тот же нос, те же руки: везде хвалюсь, что на бабку похожа."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "вся в бабку",
+        "есть в кого пойти"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл., рифмов. (dičim — ličim); присказка о фамильном сходстве, чаще женская",
+      "note": "Обычно с гордостью, иногда с самоиронией — когда сходство сомнительный подарок.",
+      "keyword": "baba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.682Z"
+    },
+    {
       "id": "msxl6oyszvk82",
       "headword_latin": "Svuda pođi, kući dođi",
       "headword_cyrillic": "Свуда пођи, кући дођи",
@@ -3678,6 +3783,32 @@
       "keyword": "kuća",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxu2ocq6h4js",
+      "headword_latin": "Što je džaba, i Bogu je drago",
+      "headword_cyrillic": "Што је џаба, и Богу је драго",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "что даром, то и Богу мило",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzeo je tri kese sa štanda — što je džaba, i Bogu je drago.",
+          "russian": "Три пакета со стенда сгрёб: что даром, то и Богу мило."
+        }
+      ],
+      "analogs_ru": [
+        "дармовое и Богу любо",
+        "на халяву и уксус сладкий",
+        "бесплатный сыр всякому по вкусу"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; оправдание того, кто берёт лишнее, раз не платит",
+      "note": "džaba (тур. caba) «даром, бесплатно»; отсюда же džabalebaroš «дармоед» — буквально «тот, кто ест хлеб задаром».",
+      "keyword": "džaba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.682Z"
     },
     {
       "id": "msxrqv225zcgn",
@@ -3705,6 +3836,134 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "msxu2ocq2a9y7",
+      "headword_latin": "Što posiješ, to ćeš i požnjeti",
+      "headword_cyrillic": "Што посијеш, то ћеш и пожњети",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "что посеешь, то и пожнёшь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisi učio celu godinu — što posiješ, to ćeš i požnjeti.",
+          "russian": "Весь год не занимался: что посеешь, то и пожнёшь."
+        }
+      ],
+      "analogs_ru": [
+        "что посеешь, то и пожнёшь",
+        "как аукнется, так и откликнется"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.",
+      "note": "Восходит к Гал. 6:7. Родственная, более грозная — ko seje vetar, žanje oluju «кто сеет ветер, пожнёт бурю».",
+      "keyword": "posejati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.682Z"
+    },
+    {
+      "id": "msxu2ocq378u9",
+      "headword_latin": "Što trezan misli, pijan govori",
+      "headword_cyrillic": "Што трезан мисли, пијан говори",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "что у трезвого на уме, то у пьяного на языке",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sinoć je sve izgovorio — što trezan misli, pijan govori.",
+          "russian": "Вчера всё выложил: что у трезвого на уме, то у пьяного на языке."
+        }
+      ],
+      "analogs_ru": [
+        "что у трезвого на уме, то у пьяного на языке",
+        "истина в вине"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.",
+      "note": "Сербская параллель — u vinu je istina. В записи была иекавская форма trijezan; сербский стандарт trezan.",
+      "keyword": "pijan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.682Z"
+    },
+    {
+      "id": "msxu2ocr4wmq0",
+      "headword_latin": "Teško je žabu u vodu naterati",
+      "headword_cyrillic": "Тешко је жабу у воду натерати",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "его упрашивать не надо",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pozvali ga na pivo, a teško je žabu u vodu naterati.",
+          "russian": "Позвали его на пиво — его и упрашивать не надо."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "его два раза просить не надо",
+        "сам рад стараться"
+      ],
+      "literal_ru": "трудно лягушку в воду загнать",
+      "register": "разг., ирон.; о мнимом принуждении — человек и сам только того и ждал",
+      "note": "Ирония в том, что лягушка в воду прыгает сама.",
+      "keyword": "žaba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.683Z"
+    },
+    {
+      "id": "msxu2ocrezaed",
+      "headword_latin": "Teško se s rogatim bosti",
+      "headword_cyrillic": "Тешко се с рогатим бости",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "против рожна не попрёшь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne idi na sud protiv njih, teško se s rogatim bosti.",
+          "russian": "Не судись с ними: против рожна не попрёшь."
+        }
+      ],
+      "analogs_ru": [
+        "против рожна не попрёшь",
+        "плетью обуха не перешибёшь",
+        "не тягайся с сильным"
+      ],
+      "literal_ru": "трудно бодаться с рогатым",
+      "register": "послов.; о безнадёжности тягаться с тем, у кого сила, власть или связи",
+      "note": "Вариант ne može se s rogatim šukati — боснийский.",
+      "keyword": "rogat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.683Z"
+    },
+    {
+      "id": "msxu2ocr5l4bq",
+      "headword_latin": "Tiha voda breg roni",
+      "headword_cyrillic": "Тиха вода брег рони",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "в тихом омуте черти водятся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne potcenjuj je, tiha voda breg roni.",
+          "russian": "Не недооценивай её: в тихом омуте черти водятся."
+        }
+      ],
+      "analogs_ru": [
+        "в тихом омуте черти водятся",
+        "тихой сапой",
+        "вода камень точит"
+      ],
+      "literal_ru": "тихая вода берег подмывает",
+      "register": "послов., общеупотр.; о человеке незаметном, но действующем исподволь",
+      "note": "Форма из записи (tiha voda brijege valja) иекавская и с другим глаголом; сербский стандарт breg roni. См. также: ISPOD MIRE STO ĐAVOLA VIRE.",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.683Z"
+    },
+    {
       "id": "msxl0hlirujo9",
       "headword_latin": "Tražiti dlaku u jajetu",
       "headword_cyrillic": "Тражити длаку у јајету",
@@ -3730,6 +3989,186 @@
       "keyword": "dlaka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxu2ocr42kdd",
+      "headword_latin": "Triput meri, jednom seci",
+      "headword_cyrillic": "Трипут мери, једном сеци",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "семь раз отмерь, один раз отрежь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne žuri s potpisom, triput meri, jednom seci.",
+          "russian": "Не спеши подписывать: семь раз отмерь, один раз отрежь."
+        }
+      ],
+      "analogs_ru": [
+        "семь раз отмерь, один раз отрежь"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; из портновского и плотницкого обихода",
+      "note": "В сербском три раза, в русском семь — при переводе число не сохраняют, берут русскую формулу целиком.",
+      "keyword": "meriti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.683Z"
+    },
+    {
+      "id": "msxu2ocrzvwrp",
+      "headword_latin": "Tuđu nafaku niko ukrasti ne može",
+      "headword_cyrillic": "Туђу нафаку нико украсти не може",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "чужой доли не отнимешь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne brini što je njemu krenulo, tuđu nafaku niko ukrasti ne može.",
+          "russian": "Не переживай, что у него пошло: чужой доли не отнимешь."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "что кому на роду написано",
+        "своего не минуешь, чужого не возьмёшь",
+        "всякому своё"
+      ],
+      "literal_ru": "",
+      "register": "послов., боснийский и мусульманский по колориту",
+      "note": "nafaka (араб. через тур.) — «удел, пропитание, ниспосланное свыше». Утешение тому, кто завидует чужому успеху, и обещание, что своё придёт.",
+      "keyword": "nafaka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "msxu2ocse4xvv",
+      "headword_latin": "U laži su kratke noge",
+      "headword_cyrillic": "У лажи су кратке ноге",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "у лжи короткие ноги",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Priznaj odmah, u laži su kratke noge.",
+          "russian": "Признавайся сразу: у лжи короткие ноги."
+        }
+      ],
+      "analogs_ru": [
+        "у лжи короткие ноги",
+        "на лжи далеко не уедешь",
+        "тайное всегда становится явным"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр., назидат.",
+      "note": "Интернациональная; ср. нем. Lügen haben kurze Beine.",
+      "keyword": "laž",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "msxu2ocs69sgg",
+      "headword_latin": "U se, na se i poda se",
+      "headword_cyrillic": "У се, на се и пода се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "всё себе да под себя",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve što zaradi ide u se, na se i poda se.",
+          "russian": "Всё, что зарабатывает, уходит на себя да под себя."
+        }
+      ],
+      "analogs_ru": [
+        "грести под себя",
+        "себе на уме",
+        "всё в дом, всё в семью"
+      ],
+      "literal_ru": "в себя, на себя и под себя — то есть на еду, на одежду и на постель",
+      "register": "разг., неодобр.-шутл.; ходовые формы sve u se, na se i poda se; troši u se i na se",
+      "note": "О том, кто всё тратит на собственные удовольствия, ничего не откладывая и ни с кем не делясь.",
+      "keyword": "sebe",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "msxu2ocshtp4s",
+      "headword_latin": "U strahu su velike oči",
+      "headword_cyrillic": "У страху су велике очи",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "у страха глаза велики",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije bilo tako strašno, u strahu su velike oči.",
+          "russian": "Не так уж было страшно: у страха глаза велики."
+        }
+      ],
+      "analogs_ru": [
+        "у страха глаза велики"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.",
+      "note": "Совпадение с русским полное, включая образ.",
+      "keyword": "strah",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "msxu2ocs6m5in",
+      "headword_latin": "U svakom žitu ima kukolja",
+      "headword_cyrillic": "У сваком житу има кукоља",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "в семье не без урода",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima i takvih među njima — u svakom žitu ima kukolja.",
+          "russian": "Есть и такие среди них: в семье не без урода."
+        }
+      ],
+      "analogs_ru": [
+        "в семье не без урода",
+        "и в хорошем стаде паршивая овца найдётся",
+        "нет пшеницы без плевел"
+      ],
+      "literal_ru": "во всякой пшенице есть плевелы",
+      "register": "послов., примирит.",
+      "note": "Восходит к евангельской притче о плевелах (Мф. 13). Сербская параллель jedna šugava ovca celo stado ošuga имеет обратный смысл: одна паршивая овца портит всё стадо.",
+      "keyword": "kukolj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "msxu2ocs6zw8j",
+      "headword_latin": "U šali se deca prave",
+      "headword_cyrillic": "У шали се деца праве",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "шутки шутками, а последствия настоящие",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Počelo je kao zezanje, a sad su zajedno — u šali se deca prave.",
+          "russian": "Началось как хохма, а теперь они вместе: шутки шутками, а последствия настоящие."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "в каждой шутке есть доля правды",
+        "дошутишься",
+        "шути, да оглядывайся"
+      ],
+      "literal_ru": "в шутку дети делаются",
+      "register": "разг., шутл.-предостерег.; употребляется и буквально, и переносно — о романе, о деле, о ссоре",
+      "note": "",
+      "keyword": "šala",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.684Z"
     },
     {
       "id": "msxrqv219d8s1",
@@ -3781,6 +4220,84 @@
       "keyword": "srce",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxu2octqb7al",
+      "headword_latin": "Videla žaba da se konj potkiva, pa i ona digla nogu",
+      "headword_cyrillic": "Видела жаба да се коњ поткива, па и она дигла ногу",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "куда конь с копытом, туда и рак с клешнёй",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kupio je isti sat kao direktor — videla žaba da se konj potkiva, pa i ona digla nogu.",
+          "russian": "Купил такие же часы, как у директора: куда конь с копытом, туда и рак с клешнёй."
+        }
+      ],
+      "analogs_ru": [
+        "куда конь с копытом, туда и рак с клешнёй",
+        "куда все, туда и я",
+        "не по чину замах"
+      ],
+      "literal_ru": "увидела лягушка, что коня подковывают, и тоже подняла лапу",
+      "register": "послов., насмешл.; о том, кто тянется подражать тем, кто ему не ровня; варианты с kobila и konj, с potkivaju и potkiva se",
+      "note": "Известна и на других балканских языках; среди переводчиков считается классическим примером фразы без короткого английского соответствия — русскому в этом смысле повезло больше. См. также: GDE SVI TURCI, TU I MALI MUJO.",
+      "keyword": "žaba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.685Z"
+    },
+    {
+      "id": "msxu2octnuu95",
+      "headword_latin": "Voda sve opere osim crna obraza",
+      "headword_cyrillic": "Вода све опере осим црна образа",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "грязь смоешь, позор — нет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vratiće on pare, ali voda sve opere osim crna obraza.",
+          "russian": "Деньги-то он вернёт, да грязь смоешь, а позор нет."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "доброе имя не отмоешь",
+        "пятно на чести ничем не выведешь"
+      ],
+      "literal_ru": "вода всё отмоет, кроме почернелого лица",
+      "register": "послов., нар.; расширенные формы …i pogana jezika, voda svašta opere, osim pogana jezika",
+      "note": "obraz здесь не «щека», а «честь, доброе имя» — ключевое понятие балканской этики. Всё гнездо стоит держать вместе: obraz čuvati, ostati bez obraza, nema obraza, obraz mu je pao. Русское «лицо» в значении чести работает уже, поэтому переводить приходится через «честь», «доброе имя», «стыд».",
+      "keyword": "obraz",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.685Z"
+    },
+    {
+      "id": "msxu2octd4vjh",
+      "headword_latin": "Vrana vrani oči ne vadi",
+      "headword_cyrillic": "Врана врани очи не вади",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "ворон ворону глаз не выклюет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neće ga osuditi kolege — vrana vrani oči ne vadi.",
+          "russian": "Коллеги его не осудят: ворон ворону глаз не выклюет."
+        }
+      ],
+      "analogs_ru": [
+        "ворон ворону глаз не выклюет",
+        "свой своего не выдаст",
+        "рука руку моет"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр., неодобр.; о круговой поруке — особенно среди политиков, судей, чиновников",
+      "note": "Совпадение с русским полное. См. также: RUKA RUKU MIJE.",
+      "keyword": "vrana",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T22:56:52.685Z"
     },
     {
       "id": "msxl6oysbytjq",
