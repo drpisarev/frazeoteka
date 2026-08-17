@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T18:33:17.253Z",
+  "updated": "2026-08-17T18:37:24.765Z",
   "entries": [
     {
       "id": "msxkiw6xa0khe",
@@ -50,7 +50,7 @@
       ],
       "literal_ru": "",
       "register": "нейтр., общеупотр., частотно в прессе; вид: сов. doliti / несов. dolivati; управление na + аккузатив",
-      "note": "Поправка: обычно doliti/dolivati ulje na vatru; вариант sipati ulje na vatru встречается, но заметно реже. Перевод пользователя верен. Сербское ulje — растительное масло, сливочное будет puter/maslac, поэтому калька с русского через maslac невозможна.",
+      "note": "Поправка: обычно doliti/dolivati ulje na vatru; вариант sipati ulje na vatru встречается, но заметно реже. Сербское ulje — растительное масло, сливочное будет puter/maslac, поэтому калька с русского через maslac невозможна.",
       "keyword": "ulje",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
@@ -88,6 +88,33 @@
       "keyword": "đene",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "msxkt02iv7wbf",
+      "headword_latin": "Kad bandera olista",
+      "headword_cyrillic": "Кад бандера олиста",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "когда рак на горе свистнет; после дождичка в четверг; никогда",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vratiće ti on pare kad bandera olista.",
+          "russian": "Отдаст он тебе деньги, когда рак на горе свистнет."
+        }
+      ],
+      "analogs_ru": [
+        "когда рак на горе свистнет",
+        "после дождичка в четверг",
+        "на турецкую пасху",
+        "до второго пришествия"
+      ],
+      "literal_ru": "когда столб покроется листвой (bandera разг. «столб», вероятно от ит. bandiera «знамя», первонач. флагшток)",
+      "register": "разг., шутл.-ирон.; городской новый вариант классического kad na vrbi rodi grožđe; обычно в конце фразы, после футура",
+      "note": "В записи пользователя «кад’» — разговорное усечение kada, в словарной форме апостроф не нужен. Образ строится на невозможном событии (адинатон), как и в русском; модель у сербов продуктивна: kad na vrbi rodi grožđe, o svetom Živku, na svetog Nikad. Слово bandera живёт и в обороте stoji kao bandera «стоит как столб». См. также: BANDERA, KAD NA VRBI RODI GROŽĐE.",
+      "keyword": "bandera",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:37:24.762Z"
     },
     {
       "id": "msxkiw6xe5rip",
