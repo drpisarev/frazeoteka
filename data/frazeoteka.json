@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T19:33:15.990Z",
+  "updated": "2026-08-17T20:01:31.780Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -1666,6 +1666,32 @@
       "created_at": "2026-08-17T19:29:45.346Z"
     },
     {
+      "id": "msxnt6czu2sgh",
+      "headword_latin": "Iz mira sto đavola viri",
+      "headword_cyrillic": "Из мира сто ђавола вири",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "в тихом омуте черти водятся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne daj se prevariti time što ćuti — iz mira sto đavola viri.",
+          "russian": "Не обманывайся его молчанием: в тихом омуте черти водятся."
+        }
+      ],
+      "analogs_ru": [
+        "в тихом омуте черти водятся",
+        "тихая вода берега подмывает",
+        "не бойся крикливого, бойся молчаливого"
+      ],
+      "literal_ru": "из тихони сто чертей выглядывает",
+      "register": "послов., нар., неодобр.",
+      "note": "При числительном sto глагол стоит в единственном числе — viri, не vire.",
+      "keyword": "đavo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.764Z"
+    },
+    {
       "id": "msxmobcy1b9o9",
       "headword_latin": "Izdajica svog naroda izdajnik je celog sveta",
       "headword_cyrillic": "Издајица свог народа издајник је целог света",
@@ -1690,6 +1716,81 @@
       "keyword": "izdajica",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.347Z"
+    },
+    {
+      "id": "msxnt6d1yu3cl",
+      "headword_latin": "Jedna kašika sama ne zveči",
+      "headword_cyrillic": "Једна кашика сама не звечи",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "один в поле не воин; в одиночку шума не поднимешь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sam nećeš ništa postići, jedna kašika sama ne zveči.",
+          "russian": "Один ты ничего не добьёшься: один в поле не воин."
+        }
+      ],
+      "analogs_ru": [
+        "один в поле не воин",
+        "одной рукой в ладоши не хлопнешь",
+        "одна пчела немного мёду натаскает"
+      ],
+      "literal_ru": "одна ложка сама не звенит",
+      "register": "послов., редк./не подтверждено надёжно",
+      "note": "В основных сборниках сербских пословиц не зафиксирована, толкование выведено из образа — при случае стоит перепроверить у носителей.",
+      "keyword": "kašika",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.765Z"
+    },
+    {
+      "id": "msxnt6d16pbfv",
+      "headword_latin": "Jedna lasta ne čini proleće",
+      "headword_cyrillic": "Једна ласта не чини пролеће",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "одна ласточка весны не делает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pobedili su jednom, ali jedna lasta ne čini proleće.",
+          "russian": "Один раз выиграли, но одна ласточка весны не делает."
+        }
+      ],
+      "analogs_ru": [
+        "одна ласточка весны не делает",
+        "один цветок весны не делает"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.",
+      "note": "Восходит к басне Эзопа, интернациональная. В записи была иекавская форма proljeće; сербский стандарт proleće.",
+      "keyword": "lasta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.765Z"
+    },
+    {
+      "id": "msxnt6d1fu5hb",
+      "headword_latin": "Jutro je pametnije od noći",
+      "headword_cyrillic": "Јутро је паметније од ноћи",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "утро вечера мудренее",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne odlučuj sad, jutro je pametnije od noći.",
+          "russian": "Не решай сейчас, утро вечера мудренее."
+        }
+      ],
+      "analogs_ru": [
+        "утро вечера мудренее"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; совет отложить решение до утра",
+      "note": "Сербский противопоставляет утро ночи, русский — вечеру; смысл тот же, но при обратном переводе легко ошибиться в паре.",
+      "keyword": "jutro",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.765Z"
     },
     {
       "id": "msxkt02iv7wbf",
@@ -1717,6 +1818,32 @@
       "keyword": "bandera",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:37:24.762Z"
+    },
+    {
+      "id": "msxnt6d2r5jgo",
+      "headword_latin": "Kad Ciganin masla ima, i guzicu njim maže",
+      "headword_cyrillic": "Кад Циганин масла има, и гузицу њим маже",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "дорвался как свинья до апельсинов; о неумеренной трате внезапно доставшегося",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kupio je treći auto — kad Ciganin masla ima, i guzicu njim maže.",
+          "russian": "Третью машину купил: дорвался как свинья до апельсинов."
+        }
+      ],
+      "analogs_ru": [
+        "дорвался как свинья до апельсинов",
+        "у кого густо, тот и по бороде льёт",
+        "дай дураку мёду — он и в лапти нальёт"
+      ],
+      "literal_ru": "когда у цыгана есть масло, он и зад им мажет",
+      "register": "груб., этнически оскорбит.",
+      "note": "Формулу лучше знать пассивно: слово Ciganin сегодня воспринимается как оскорбление, нейтральное — Rom.",
+      "keyword": "Ciganin",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
       "id": "msxl6oyratm5p",
@@ -1772,6 +1899,32 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "msxnt6d2dazuo",
+      "headword_latin": "Kadija te tuži, kadija ti sudi",
+      "headword_cyrillic": "Кадија те тужи, кадија ти суди",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "и истец, и судья в одном лице",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sami sebe kontrolišu — kadija te tuži, kadija ti sudi.",
+          "russian": "Сами себя проверяют: и истец, и судья в одном лице."
+        }
+      ],
+      "analogs_ru": [
+        "сам себе истец и судья",
+        "сам пёк, сам и ел",
+        "волк и обвинитель, и судья"
+      ],
+      "literal_ru": "кадий на тебя жалуется, кадий тебя и судит",
+      "register": "послов., неодобр.; частотно в публицистике о конфликте интересов",
+      "note": "kadija — турцизм, шариатский судья.",
+      "keyword": "kadija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
       "id": "msxl0hliu6xd7",
       "headword_latin": "Kao da je pao s kruške",
       "headword_cyrillic": "Као да је пао с крушке",
@@ -1825,6 +1978,58 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "msxnt6d20rlfl",
+      "headword_latin": "Ko laže, taj i krade",
+      "headword_cyrillic": "Ко лаже, тај и краде",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кто лжёт, тот и крадёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da izmišljaš — ko laže, taj i krade.",
+          "russian": "Не выдумывай: кто лжёт, тот и крадёт."
+        }
+      ],
+      "analogs_ru": [
+        "кто лжёт, тот и крадёт",
+        "раз солгал — навек лгуном стал",
+        "соврёт — недорого возьмёт"
+      ],
+      "literal_ru": "",
+      "register": "послов., назидат.; типичная родительская формула детям, уличённым во лжи",
+      "note": "",
+      "keyword": "lagati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
+      "id": "msxnt6d23ly8b",
+      "headword_latin": "Ko malo traži, malo prima",
+      "headword_cyrillic": "Ко мало тражи, мало прима",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "мало просишь — мало получишь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Traži veću platu, ko malo traži, malo prima.",
+          "russian": "Проси больше: мало просишь — мало получишь."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "под лежачий камень вода не течёт",
+        "за спрос денег не берут"
+      ],
+      "literal_ru": "",
+      "register": "разг., назидат.; совет не занижать запрос при торге или переговорах",
+      "note": "Ходит и в форме ko malo traži, malo i dobije.",
+      "keyword": "tražiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
       "id": "msxl6oys8u7zv",
       "headword_latin": "Ko peva, zlo ne misli",
       "headword_cyrillic": "Ко пева, зло не мисли",
@@ -1848,6 +2053,31 @@
       "keyword": "pevati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxnt6d2i4860",
+      "headword_latin": "Ko pod drugim jamu kopa, sam u nju pada",
+      "headword_cyrillic": "Ко под другим јаму копа, сам у њу пада",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не рой другому яму, сам в неё попадёшь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Podmetao im je mesecima — ko pod drugim jamu kopa, sam u nju pada.",
+          "russian": "Месяцами им подстраивал: не рой другому яму, сам в неё попадёшь."
+        }
+      ],
+      "analogs_ru": [
+        "не рой другому яму, сам в неё попадёшь",
+        "как аукнется, так и откликнется"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.",
+      "note": "Восходит к библейскому тексту (Притчи, Псалтирь), отсюда полное совпадение с русским.",
+      "keyword": "jama",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
       "id": "msxl6oyrj2ukb",
@@ -1902,6 +2132,32 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "msxnt6d24a4il",
+      "headword_latin": "Ko se hvali, taj se kvari",
+      "headword_cyrillic": "Ко се хвали, тај се квари",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "хвастовство до добра не доводит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne pričaj unapred, ko se hvali, taj se kvari.",
+          "russian": "Не говори наперёд: хвастовство до добра не доводит."
+        }
+      ],
+      "analogs_ru": [
+        "хвастовство до добра не доводит",
+        "не хвались, идучи на рать",
+        "всякая сорока от своего языка погибает"
+      ],
+      "literal_ru": "кто хвалится, тот портится",
+      "register": "разг., назидат.; рифма hvali — kvari, чаще детям",
+      "note": "Форма fali — говорная (утрата h), стандарт hvali.",
+      "keyword": "hvaliti se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
       "id": "msxl6oyrkm1aw",
       "headword_latin": "Ko se zadnji smeje, najslađe se smeje",
       "headword_cyrillic": "Ко се задњи смеје, најслађе се смеје",
@@ -1924,6 +2180,32 @@
       "keyword": "smejati se",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.555Z"
+    },
+    {
+      "id": "msxnt6d39szyl",
+      "headword_latin": "Ko spava s decom, ujutru se budi popišan",
+      "headword_cyrillic": "Ко спава с децом, ујутру се буди попишан",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "с кем свяжешься, от того и натерпишься",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzeo je amatere u tim — ko spava s decom, ujutru se budi popišan.",
+          "russian": "Набрал в команду любителей: с кем свяжешься, от того и натерпишься."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "с кем поведёшься, от того и наберёшься",
+        "связался с дураками — пеняй на себя"
+      ],
+      "literal_ru": "кто спит с детьми, просыпается описанным",
+      "register": "разг., шутл.-груб.",
+      "note": "Предупреждение о ненадёжных или несерьёзных партнёрах, не о детях буквально.",
+      "keyword": "deca",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
       "id": "msxmstvc6jsfj",
@@ -1958,6 +2240,161 @@
       "keyword": "šišati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:33:15.961Z"
+    },
+    {
+      "id": "msxnt6d3edeo9",
+      "headword_latin": "Ko tebe kamenom, ti njega hlebom",
+      "headword_cyrillic": "Ко тебе каменом, ти њега хлебом",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "тебя камнем, а ты его хлебом",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Naljutio te, ali ko tebe kamenom, ti njega hlebom.",
+          "russian": "Он тебя разозлил, но тебя камнем — а ты его хлебом."
+        }
+      ],
+      "analogs_ru": [
+        "тебя камнем, а ты его хлебом",
+        "за зло плати добром",
+        "добро побеждает зло"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., одобр.; евангельский по духу совет",
+      "note": "В записи было kruhom — хорватская и боснийская форма, сербская hlebom. См. также: DUŠMAN SE HLEBOM UDARA.",
+      "keyword": "kamen",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.767Z"
+    },
+    {
+      "id": "msxnt6d2yui3i",
+      "headword_latin": "Koga je moliti, nije srditi",
+      "headword_cyrillic": "Кога је молити, није срдити",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кого просишь, того не гневи",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Smiri ton, koga je moliti, nije srditi.",
+          "russian": "Сбавь тон: кого просишь, того не гневи."
+        }
+      ],
+      "analogs_ru": [
+        "кого просишь, того не серди",
+        "не плюй в колодец",
+        "на просителя с кулаками не ходят"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.",
+      "note": "Инфинитивная безличная конструкция, характерная для старых пословиц.",
+      "keyword": "moliti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
+      "id": "msxnt6d27nojh",
+      "headword_latin": "Koga su zmije klale, i guštera se plaši",
+      "headword_cyrillic": "Кога су змије клале, и гуштера се плаши",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "обжёгшись на молоке, дуют на воду",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne ulazi više ni u kakav posao — koga su zmije klale, i guštera se plaši.",
+          "russian": "Ни в какое дело больше не лезет: обжёгшись на молоке, дует на воду."
+        }
+      ],
+      "analogs_ru": [
+        "обжёгшись на молоке, дуют на воду",
+        "пуганая ворона куста боится"
+      ],
+      "literal_ru": "кого змеи кусали, тот и ящерицы боится",
+      "register": "послов., общеупотр., сочувств.-ирон.",
+      "note": "Глагол klati здесь в старом значении «жалить, кусать», а не «резать».",
+      "keyword": "zmija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
+      "id": "msxnt6d3xgn7k",
+      "headword_latin": "Lažni prijatelj je opasniji od sto otvorenih neprijatelja",
+      "headword_cyrillic": "Лажни пријатељ је опаснији од сто отворених непријатеља",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "ложный друг опаснее сотни явных врагов",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Čuvaj se takvih, lažni prijatelj je opasniji od sto otvorenih neprijatelja.",
+          "russian": "Берегись таких: ложный друг опаснее сотни явных врагов."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "не бойся врага явного, бойся друга тайного",
+        "неверный друг опаснее врага"
+      ],
+      "literal_ru": "",
+      "register": "послов.-афор., книжн.; цифра варьирует (sto, hiljadu)",
+      "note": "",
+      "keyword": "prijatelj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.767Z"
+    },
+    {
+      "id": "msxnt6d3h9pqs",
+      "headword_latin": "Lepa reč i gvozdena vrata otvara",
+      "headword_cyrillic": "Лепа реч и гвоздена врата отвара",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "ласковое слово и железные двери открывает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Probaj lepo da ga zamoliš, lepa reč i gvozdena vrata otvara.",
+          "russian": "Попроси по-хорошему: ласковое слово и железные двери открывает."
+        }
+      ],
+      "analogs_ru": [
+        "ласковое слово и кость ломит",
+        "доброе слово и кошке приятно",
+        "ласковое слово пуще дубины"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., одобр., общеупотр.",
+      "note": "В записи были иекавские формы lijepa rijeć; сербский стандарт lepa reč.",
+      "keyword": "reč",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.767Z"
+    },
+    {
+      "id": "msxnt6d3rqexs",
+      "headword_latin": "Ljudi se vezuju za reč, a volovi za rogove",
+      "headword_cyrillic": "Људи се везују за реч, а волови за рогове",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "человека держит слово, а вола — рога",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Rukovali smo se i gotovo — ljudi se vezuju za reč, a volovi za rogove.",
+          "russian": "Ударили по рукам, и всё: человека держит слово, а вола — рога."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "не давши слова, крепись, а давши, держись",
+        "уговор дороже денег"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; о нерушимости данного слова, часто при устном договоре",
+      "note": "",
+      "keyword": "reč",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
       "id": "msxlgokc2gisz",
@@ -2071,6 +2508,58 @@
       "keyword": "hleb",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:40:26.460Z"
+    },
+    {
+      "id": "msxnt6d3jh52b",
+      "headword_latin": "Na mlađima svet ostaje",
+      "headword_cyrillic": "На млађима свет остаје",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "за молодыми будущее",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neka oni sad vode, na mlađima svet ostaje.",
+          "russian": "Пусть теперь они ведут: за молодыми будущее."
+        }
+      ],
+      "analogs_ru": [
+        "молодым везде у нас дорога",
+        "будущее за молодыми",
+        "новое поколение подрастает"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., общеупотр., одобр.; часто в тостах и на выпускных",
+      "note": "",
+      "keyword": "mlad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.767Z"
+    },
+    {
+      "id": "msxnt6d3onugw",
+      "headword_latin": "Na mostu dobio, na ćupriji izgubio",
+      "headword_cyrillic": "На мосту добио, на ћуприји изгубио",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "что нажил, то и прожил",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dobio na kursu, izgubio na proviziji — na mostu dobio, na ćupriji izgubio.",
+          "russian": "На курсе выиграл, на комиссии потерял: что нажил, то и прожил."
+        }
+      ],
+      "analogs_ru": [
+        "что нажито, то и прожито",
+        "как пришло, так и ушло",
+        "в одну руку взял, из другой выпустил"
+      ],
+      "literal_ru": "на мосту выиграл, на мосту потерял",
+      "register": "разг., ирон.",
+      "note": "Вся соль в том, что most и ćuprija — одно и то же, славянское слово и турцизм: перемена названия скрывает, что место не изменилось.",
+      "keyword": "most",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
       "id": "msxl0hlid7j90",
