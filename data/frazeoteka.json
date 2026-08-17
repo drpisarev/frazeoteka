@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T19:01:20.443Z",
+  "updated": "2026-08-17T19:29:45.363Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -783,6 +783,158 @@
       "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
+      "id": "msxmobcr7ljnv",
+      "headword_latin": "Budalu ni jebi ni kući vodi",
+      "headword_cyrillic": "Будалу ни јеби ни кући води",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "с дураком не связывайся ни при каких обстоятельствах",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne raspravljaj se s njim — budalu ni jebi ni kući vodi.",
+          "russian": "Не спорь ты с ним: с дураком лучше вообще не связываться."
+        }
+      ],
+      "analogs_ru": [
+        "с дураком свяжись — сам дураком станешь",
+        "дурака учить — что мёртвого лечить"
+      ],
+      "literal_ru": "дурака ни в постель, ни в дом",
+      "register": "груб., вульг., нар.; о полной бесперспективности любых отношений с глупцом; в приличном обществе не произносится",
+      "note": "",
+      "keyword": "budala",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.340Z"
+    },
+    {
+      "id": "msxmobctm7d9s",
+      "headword_latin": "Čast svakom, veresije nikom",
+      "headword_cyrillic": "Част сваком, вересије ником",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "дружба дружбой, а денежки врозь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kod nas je čast svakom, veresije nikom.",
+          "russian": "У нас дружба дружбой, а денежки врозь."
+        }
+      ],
+      "analogs_ru": [
+        "дружба дружбой, а денежки врозь",
+        "в долг давать — дружбу терять"
+      ],
+      "literal_ru": "почёт всякому, кредита никому",
+      "register": "разг.; типичная надпись-табличка в кафанах и лавках",
+      "note": "veresija — турцизм «продажа в долг, под запись».",
+      "keyword": "veresija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.341Z"
+    },
+    {
+      "id": "msxmobctaw4ds",
+      "headword_latin": "Čega se pametan stidi, time se budala ponosi",
+      "headword_cyrillic": "Чега се паметан стиди, тиме се будала поноси",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "чего умный стыдится, тем дурак гордится",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hvali se time što nikad nije pročitao knjigu — čega se pametan stidi, time se budala ponosi.",
+          "russian": "Хвастается, что книг не читал: чего умный стыдится, тем дурак гордится."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "дурак гордится тем, чего умный стыдится",
+        "невежда своим невежеством хвалится"
+      ],
+      "literal_ru": "",
+      "register": "послов.-афор., неодобр.",
+      "note": "",
+      "keyword": "budala",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.341Z"
+    },
+    {
+      "id": "msxmobct5kuvu",
+      "headword_latin": "Čist račun, duga ljubav",
+      "headword_cyrillic": "Чист рачун, дуга љубав",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "счёт дружбы не портит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Podelimo račun — čist račun, duga ljubav.",
+          "russian": "Давай пополам: счёт дружбы не портит."
+        }
+      ],
+      "analogs_ru": [
+        "счёт дружбы не портит",
+        "дружба дружбой, а табачок врозь",
+        "чаще счёт — крепче дружба"
+      ],
+      "literal_ru": "чистый счёт — долгая любовь",
+      "register": "разг., общеупотр.; о денежных отношениях между близкими, часто при разделе счёта",
+      "note": "",
+      "keyword": "račun",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
+      "id": "msxmobcuwa798",
+      "headword_latin": "Čizma glavu čuva, šubara je kvari",
+      "headword_cyrillic": "Чизма главу чува, шубара је квари",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "сапог голову бережёт, папаха портит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Stara izreka kaže: čizma glavu čuva, šubara je kvari.",
+          "russian": "Старая присказка гласит: сапог голову бережёт, папаха портит."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "армия человека делает"
+      ],
+      "literal_ru": "",
+      "register": "послов., идеол.; противопоставление военного (сапог) штатскому или крестьянскому (папаха)",
+      "note": "В 1990-е приобрела политическую окраску и звучит нейтрально далеко не для всех.",
+      "keyword": "čizma",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
+      "id": "msxmobcugleg1",
+      "headword_latin": "Čovek se uči dok je živ",
+      "headword_cyrillic": "Човек се учи док је жив",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "век живи, век учись",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nikad nisam radio s ovim programom — čovek se uči dok je živ.",
+          "russian": "Никогда с этой программой не работал — век живи, век учись."
+        }
+      ],
+      "analogs_ru": [
+        "век живи, век учись",
+        "учиться никогда не поздно"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр., одобр.",
+      "note": "В записи была иекавская форма čovjek; сербский стандарт čovek.",
+      "keyword": "čovek",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
       "id": "msxkvbpsguqok",
       "headword_latin": "Čuvati kao malo vode na dlanu",
       "headword_cyrillic": "Чувати као мало воде на длану",
@@ -811,6 +963,56 @@
       "created_at": "2026-08-17T18:39:13.168Z"
     },
     {
+      "id": "msxmobcunx20e",
+      "headword_latin": "Ćutanje je zlato",
+      "headword_cyrillic": "Ћутање је злато",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "молчание — золото",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bolje ne reci ništa, ćutanje je zlato.",
+          "russian": "Лучше промолчи, молчание — золото."
+        }
+      ],
+      "analogs_ru": [
+        "молчание — золото",
+        "слово серебро, а молчание золото"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; полная форма govor je srebro, a ćutanje zlato",
+      "note": "",
+      "keyword": "ćutanje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
+      "id": "msxmobcucukpw",
+      "headword_latin": "Da su babi muda, bila bi deda",
+      "headword_cyrillic": "Да су баби муда, била би деда",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "если бы да кабы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Da smo krenuli ranije… — Ma da su babi muda, bila bi deda.",
+          "russian": "Вот если бы выехали пораньше… — Если бы да кабы."
+        }
+      ],
+      "analogs_ru": [
+        "если бы да кабы, во рту росли б грибы",
+        "если бы у бабушки было мужское достоинство, она была бы дедушкой"
+      ],
+      "literal_ru": "",
+      "register": "груб.-шутл., разг.; ответ на бесплодные рассуждения в сослагательном наклонении",
+      "note": "Русский эквивалент существует в той же грубой форме, совпадение полное.",
+      "keyword": "baba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
       "id": "msxl0hliw7m4n",
       "headword_latin": "Da znam gde ću pasti, seo bih",
       "headword_cyrillic": "Да знам где ћу пасти, сео бих",
@@ -837,6 +1039,162 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "msxmobcu5qy3x",
+      "headword_latin": "Danas jesi, sutra nisi",
+      "headword_cyrillic": "Данас јеси, сутра ниси",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "сегодня жив, завтра нет; всё бренно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne oholi se, danas jesi, sutra nisi.",
+          "russian": "Не заносись: сегодня ты есть, а завтра нет."
+        }
+      ],
+      "analogs_ru": [
+        "сегодня в порфире, а завтра в могиле",
+        "сегодня густо, а завтра пусто",
+        "всё бренно"
+      ],
+      "literal_ru": "сегодня ты есть, завтра тебя нет",
+      "register": "разг.; о бренности жизни, а также о шаткости положения и должности",
+      "note": "",
+      "keyword": "danas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
+      "id": "msxmobcvchf62",
+      "headword_latin": "Dobar glas daleko se čuje, a rđav još dalje",
+      "headword_cyrillic": "Добар глас далеко се чује, а рђав још даље",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "добрая слава лежит, а худая бежит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pazi šta radiš, dobar glas daleko se čuje, a rđav još dalje.",
+          "russian": "Смотри, что делаешь: добрая слава лежит, а худая бежит."
+        }
+      ],
+      "analogs_ru": [
+        "добрая слава лежит, а худая бежит",
+        "добрая слава до порога, а худая за порог"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; вторая часть часто опускается",
+      "note": "В записи было ružan; в устойчивой форме пословицы обычно rđav или zao.",
+      "keyword": "glas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.343Z"
+    },
+    {
+      "id": "msxmobcu6bqmj",
+      "headword_latin": "Dobar i lud su braća",
+      "headword_cyrillic": "Добар и луд су браћа",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "доброта без ума пуста",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Svima pozajmljuje, a niko ne vraća — dobar i lud su braća.",
+          "russian": "Всем одалживает, никто не отдаёт: доброта без ума пуста."
+        }
+      ],
+      "analogs_ru": [
+        "простота хуже воровства",
+        "добрый до глупости",
+        "услужливый дурак опаснее врага"
+      ],
+      "literal_ru": "добрый и дурак — братья",
+      "register": "разг., неодобр.-сочувств.; о том, чьей добротой беззастенчиво пользуются",
+      "note": "См. также: MOŽEŠ NA HLEB DA GA NAMAŽEŠ.",
+      "keyword": "dobar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.343Z"
+    },
+    {
+      "id": "msxmobcvxt345",
+      "headword_latin": "Doći će maca na vratanca",
+      "headword_cyrillic": "Доћи ће маца на вратанца",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "отольются кошке мышкины слёзки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Samo ti likuj, doći će maca na vratanca.",
+          "russian": "Радуйся-радуйся: отольются кошке мышкины слёзки."
+        }
+      ],
+      "analogs_ru": [
+        "отольются кошке мышкины слёзки",
+        "будет и на нашей улице праздник",
+        "как аукнется, так и откликнется"
+      ],
+      "literal_ru": "придёт кошечка к дверце",
+      "register": "разг., угрож.; обещание расплаты",
+      "note": "Вариант doći će cica na kolica — местная рифмованная переделка того же образа, встречается реже.",
+      "keyword": "maca",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.343Z"
+    },
+    {
+      "id": "msxmobcv01fur",
+      "headword_latin": "Dođi mi da ti dođem",
+      "headword_cyrillic": "Дођи ми да ти дођем",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "ты мне — я тебе",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Tako to kod njih ide: dođi mi da ti dođem.",
+          "russian": "У них так и заведено: ты мне — я тебе."
+        }
+      ],
+      "analogs_ru": [
+        "ты мне — я тебе",
+        "рука руку моет",
+        "услуга за услугу",
+        "долг платежом красен"
+      ],
+      "literal_ru": "приди ко мне, чтобы я пришёл к тебе",
+      "register": "разг.; о взаимных услугах, часто с оттенком кумовства и круговой поруки",
+      "note": "",
+      "keyword": "doći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.343Z"
+    },
+    {
+      "id": "msxmobcwioxyv",
+      "headword_latin": "Dok se dvoje tuku, treći izvlači korist",
+      "headword_cyrillic": "Док се двоје туку, трећи извлачи корист",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кому война, а кому мать родна",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dok se dvoje tuku, treći izvlači korist — pogledaj ko je na kraju dobio posao.",
+          "russian": "Кому война, а кому мать родна: посмотри, кому в итоге достался подряд."
+        }
+      ],
+      "analogs_ru": [
+        "кому война, а кому мать родна",
+        "кошки грызутся — мышам раздолье",
+        "двое спорят, третий пользуется"
+      ],
+      "literal_ru": "",
+      "register": "послов., нейтр.-неодобр.; частотно в политических комментариях",
+      "note": "Не смешивать с русским «двое дерутся — третий не мешай»: там призыв не вмешиваться, здесь констатация чужой выгоды.",
+      "keyword": "tući se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
       "id": "msxknp37i528f",
       "headword_latin": "Doliti ulje na vatru",
       "headword_cyrillic": "Долити уље на ватру",
@@ -861,6 +1219,109 @@
       "keyword": "ulje",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msxmobcxtjclq",
+      "headword_latin": "Došli divlji da isteraju pitome",
+      "headword_cyrillic": "Дошли дивљи да истерају питоме",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "пришёл в чужой дом и хозяев выгнал",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Došli divlji da isteraju pitome — sad nam oni objašnjavaju kako se ovde živi.",
+          "russian": "Пришли в чужой дом и хозяев выгоняют: теперь они нам объясняют, как тут жить."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "пришёл в чужой монастырь со своим уставом",
+        "пустили козла в огород",
+        "незваный гость хуже татарина"
+      ],
+      "literal_ru": "пришли дикие выгонять домашних",
+      "register": "разг., неодобр., резк.; о пришлых, устанавливающих свои порядки",
+      "note": "Часто с национальным или региональным подтекстом, поэтому употребление рискованное.",
+      "keyword": "divlji",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "msxmobcx9eih9",
+      "headword_latin": "Drži vodu dok majstori odu",
+      "headword_cyrillic": "Држи воду док мајстори оду",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сойдёт, лишь бы до сдачи не развалилось",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ovo je krpljeno na brzinu, drži vodu dok majstori odu.",
+          "russian": "Залатали наспех — лишь бы до сдачи не развалилось."
+        }
+      ],
+      "analogs_ru": [
+        "сделано на живую нитку",
+        "тяп-ляп да и корабль",
+        "лишь бы с рук сбыть"
+      ],
+      "literal_ru": "держи воду, пока мастера не уйдут",
+      "register": "разг., ирон.; о халтуре, которая держится ровно до ухода исполнителей; употребляется и как самостоятельная характеристика: to ti je „drži vodu dok majstori odu“",
+      "note": "См. также: RADITI LEVOM NOGOM.",
+      "keyword": "majstor",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "msxmobcxe6twe",
+      "headword_latin": "Duga kosa, kratka pamet",
+      "headword_cyrillic": "Дуга коса, кратка памет",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "волос долог, да ум короток",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj mi tu „duga kosa, kratka pamet“, to je odavno prevaziđeno.",
+          "russian": "Не надо мне этого «волос долог, да ум короток», это давно устарело."
+        }
+      ],
+      "analogs_ru": [
+        "волос долог, да ум короток"
+      ],
+      "literal_ru": "",
+      "register": "послов., устар., пренебр.; сегодня цитируется преимущественно с осуждением или в шутку",
+      "note": "Сексистская формула; русский эквивалент совпадает дословно.",
+      "keyword": "kosa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "msxmobcxo7wiw",
+      "headword_latin": "Dušman se hlebom udara",
+      "headword_cyrillic": "Душман се хлебом удара",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "на зло отвечай добром",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pozovi ga na slavu, dušman se hlebom udara.",
+          "russian": "Позови его на славу: на зло отвечают добром."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "добро побеждает зло",
+        "за зло плати добром"
+      ],
+      "literal_ru": "врага бьют хлебом",
+      "register": "послов., нар., одобр.",
+      "note": "dušman — турцизм «враг, недоброжелатель». В записи было kruh — хорватская и боснийская форма, сербская hleb.",
+      "keyword": "dušman",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
     },
     {
       "id": "msxkiw6xld5ov",
@@ -897,6 +1358,235 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "msxmobcxtwg5x",
+      "headword_latin": "Gde čeljad nisu besna, ni kuća nije tesna",
+      "headword_cyrillic": "Где чељад нису бесна, ни кућа није тесна",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "в тесноте, да не в обиде",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nas šestoro u dve sobe, ali gde čeljad nisu besna, ni kuća nije tesna.",
+          "russian": "Нас шестеро в двух комнатах, но в тесноте, да не в обиде."
+        }
+      ],
+      "analogs_ru": [
+        "в тесноте, да не в обиде",
+        "не тесна изба, коли лад в семье"
+      ],
+      "literal_ru": "где домочадцы не бешеные, там и дом не тесен",
+      "register": "послов., нар., одобр.; о согласии в доме, а не о жилищных условиях",
+      "note": "В записи были иекавские формы gdje, bjesna, tjesna; сербский стандарт gde, besna, tesna.",
+      "keyword": "čeljad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "msxmobcx44h8l",
+      "headword_latin": "Gde ima dima, ima i vatre",
+      "headword_cyrillic": "Где има дима, има и ватре",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "нет дыма без огня",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Priče se šire mesecima, a gde ima dima, ima i vatre.",
+          "russian": "Слухи ходят месяцами, а нет дыма без огня."
+        }
+      ],
+      "analogs_ru": [
+        "нет дыма без огня",
+        "дыма без огня не бывает"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; частотно в прессе, о слухах и подозрениях",
+      "note": "",
+      "keyword": "dim",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "msxmobcxv2zgo",
+      "headword_latin": "Gde je puno baba, kilava su deca",
+      "headword_cyrillic": "Где је пуно баба, килава су деца",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "у семи нянек дитя без глазу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šestoro njih vodi projekat — gde je puno baba, kilava su deca.",
+          "russian": "Проектом рулят шестеро: у семи нянек дитя без глазу."
+        }
+      ],
+      "analogs_ru": [
+        "у семи нянек дитя без глазу",
+        "где много пастухов, там овцы дохнут"
+      ],
+      "literal_ru": "где много повитух, дети хилые",
+      "register": "послов., неодобр.; о размытой ответственности при множестве распорядителей",
+      "note": "baba здесь «повитуха», а не «старуха».",
+      "keyword": "baba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "msxmobcx1ybvm",
+      "headword_latin": "Gde svi Turci, tu i mali Mujo",
+      "headword_cyrillic": "Где сви Турци, ту и мали Мујо",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "куда все, туда и я",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Svi su se prijavili, pa i on — gde svi Turci, tu i mali Mujo.",
+          "russian": "Все записались, и он туда же: куда все, туда и я."
+        }
+      ],
+      "analogs_ru": [
+        "куда все, туда и я",
+        "куда конь с копытом, туда и рак с клешнёй",
+        "со всеми за компанию"
+      ],
+      "literal_ru": "где все турки, там и маленький Муйо",
+      "register": "разг., ирон.; о безвольном следовании за большинством",
+      "note": "mali Mujo — уменьшительное имя из боснийского фольклора.",
+      "keyword": "Turci",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "msxmobcy37sfj",
+      "headword_latin": "Gvožđe se kuje dok je vruće",
+      "headword_cyrillic": "Гвожђе се кује док је вруће",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "куй железо, пока горячо",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zovi ih odmah, gvožđe se kuje dok je vruće.",
+          "russian": "Звони им сразу: куй железо, пока горячо."
+        }
+      ],
+      "analogs_ru": [
+        "куй железо, пока горячо",
+        "коси коса, пока роса"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.",
+      "note": "",
+      "keyword": "gvožđe",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "msxmobcyxddx1",
+      "headword_latin": "Hodže i popovi, najgori lopovi",
+      "headword_cyrillic": "Хоџе и попови, најгори лопови",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "попы да муллы — первые воры",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Deda je govorio: hodže i popovi, najgori lopovi.",
+          "russian": "Дед говорил: попы да муллы — первые воры."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "поп да петух и не евши поют",
+        "у попа глаза завидущие, руки загребущие"
+      ],
+      "literal_ru": "",
+      "register": "груб., антиклерик., рифмов.; в приличном разговоре и при верующих не произносится",
+      "note": "",
+      "keyword": "pop",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "msxmobcymmi18",
+      "headword_latin": "I ćorava koka zrno pogodi",
+      "headword_cyrillic": "И ћорава кока зрно погоди",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "и слепая курица зерно находит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pogodio je jednom, ali i ćorava koka zrno pogodi.",
+          "russian": "Один раз угадал, так и слепая курица зерно находит."
+        }
+      ],
+      "analogs_ru": [
+        "и слепая курица зерно найдёт",
+        "раз в год и палка стреляет",
+        "и дураку иногда везёт",
+        "бывает, что и медведь летает"
+      ],
+      "literal_ru": "и слепая курица зерно склюёт",
+      "register": "разг., ирон.; об удаче неумелого, не о таланте",
+      "note": "Не путать с «и на старуху бывает проруха»: там о промахе умелого, здесь об удаче неумелого.",
+      "keyword": "koka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "msxmobcyr67km",
+      "headword_latin": "I put od hiljadu milja počinje prvim korakom",
+      "headword_cyrillic": "И пут од хиљаду миља почиње првим кораком",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "дорога в тысячу ли начинается с первого шага",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da odustaješ, i put od hiljadu milja počinje prvim korakom.",
+          "russian": "Не сдавайся: дорога в тысячу ли начинается с первого шага."
+        }
+      ],
+      "analogs_ru": [
+        "дорога в тысячу ли начинается с первого шага",
+        "лиха беда начало",
+        "глаза боятся, а руки делают"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-афор., ободряющ.",
+      "note": "Переводное, восходит к Лао-цзы; в народных сербских сборниках отсутствует. В записи была искажённая форма с predstoji.",
+      "keyword": "put",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "msxmobcy7x8i7",
+      "headword_latin": "I vuk sit i sve ovce na broju",
+      "headword_cyrillic": "И вук сит и све овце на броју",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "и волки сыты, и овцы целы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Našli smo rešenje da i vuk bude sit i sve ovce na broju.",
+          "russian": "Нашли решение, чтобы и волки были сыты, и овцы целы."
+        }
+      ],
+      "analogs_ru": [
+        "и волки сыты, и овцы целы"
+      ],
+      "literal_ru": "",
+      "register": "разг., общеупотр.; о компромиссе, устраивающем всех, часто с оттенком сомнения в его осуществимости",
+      "note": "",
+      "keyword": "vuk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
       "id": "msxl0hlit6syc",
       "headword_latin": "Imati u malom prstu",
       "headword_cyrillic": "Имати у малом прсту",
@@ -922,6 +1612,84 @@
       "keyword": "mali prst",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxmobcyt20a4",
+      "headword_latin": "Ispeci pa reci",
+      "headword_cyrillic": "Испеци па реци",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "семь раз отмерь, один раз отрежь (о сказанном)",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Stani malo — ispeci pa reci.",
+          "russian": "Погоди — сперва подумай, потом говори."
+        }
+      ],
+      "analogs_ru": [
+        "семь раз отмерь, один отрежь",
+        "сперва подумай, потом говори",
+        "слово не воробей, вылетит — не поймаешь"
+      ],
+      "literal_ru": "испеки, потом скажи",
+      "register": "разг., назидат.; краткая рифмованная формула, чаще как одёргивание",
+      "note": "См. также: BRŽI JEZIK OD PAMETI.",
+      "keyword": "reći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "msxmobcymqhpe",
+      "headword_latin": "Iver ne pada daleko od klade",
+      "headword_cyrillic": "Ивер не пада далеко од кладе",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "яблоко от яблони недалеко падает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sav je na oca — iver ne pada daleko od klade.",
+          "russian": "Весь в отца: яблоко от яблони недалеко падает."
+        }
+      ],
+      "analogs_ru": [
+        "яблоко от яблони недалеко падает",
+        "каков отец, таков и сын",
+        "от осинки не родятся апельсинки"
+      ],
+      "literal_ru": "щепка недалеко от колоды падает",
+      "register": "послов., общеупотр.; чаще неодобр., о наследовании дурных черт",
+      "note": "Форма iver pada tamo gde je klada — вариант того же образа, но общепринята отрицательная конструкция.",
+      "keyword": "iver",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "msxmobcy1b9o9",
+      "headword_latin": "Izdajica svog naroda izdajnik je celog sveta",
+      "headword_cyrillic": "Издајица свог народа издајник је целог света",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "предавший свой народ предаст любого",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kod nas se često čuje da je izdajica svog naroda izdajnik celog sveta.",
+          "russian": "У нас часто говорят, что предавший свой народ предаст любого."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "предавший раз предаст и дважды",
+        "кто изменил однажды, изменит и вновь"
+      ],
+      "literal_ru": "",
+      "register": "публиц.-афор., редк./не подтверждено надёжно как народная пословица",
+      "note": "Звучит как политический лозунг, а не как фольклорная формула; в устойчивых сборниках сербских пословиц не встречается.",
+      "keyword": "izdajica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:29:45.347Z"
     },
     {
       "id": "msxkt02iv7wbf",
