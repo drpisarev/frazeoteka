@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T18:29:33.179Z",
+  "updated": "2026-08-17T18:33:17.253Z",
   "entries": [
     {
       "id": "msxkiw6xa0khe",
@@ -28,6 +28,32 @@
       "keyword": "bitisati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "msxknp37i528f",
+      "headword_latin": "Doliti ulje na vatru",
+      "headword_cyrillic": "Долити уље на ватру",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "подлить масла в огонь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Njegova izjava samo je dolila ulje na vatru.",
+          "russian": "Его заявление только подлило масла в огонь."
+        }
+      ],
+      "analogs_ru": [
+        "подлить масла в огонь",
+        "раздуть пламя",
+        "только подзадорить"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., общеупотр., частотно в прессе; вид: сов. doliti / несов. dolivati; управление na + аккузатив",
+      "note": "Поправка: обычно doliti/dolivati ulje na vatru; вариант sipati ulje na vatru встречается, но заметно реже. Перевод пользователя верен. Сербское ulje — растительное масло, сливочное будет puter/maslac, поэтому калька с русского через maslac невозможна.",
+      "keyword": "ulje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:33:17.251Z"
     },
     {
       "id": "msxkiw6xld5ov",
@@ -117,6 +143,120 @@
       "keyword": "puncat",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "msxknp37fbcp4",
+      "headword_latin": "Raditi levom nogom",
+      "headword_cyrillic": "Радити левом ногом",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "делать левой ногой; делать спустя рукава, тяп-ляп, через пень колоду",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ovo je urađeno levom nogom, mora sve iznova.",
+          "russian": "Это сделано левой ногой, всё надо переделывать."
+        }
+      ],
+      "analogs_ru": [
+        "делать левой ногой",
+        "спустя рукава",
+        "через пень колоду",
+        "на отвяжись",
+        "тяп-ляп"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; о небрежно сделанной работе, не о лёгкости выполнения",
+      "note": "Редкий случай полного совпадения образа с русским, но сербский оборот строго об исполнении, тогда как русское «левой ногой» может значить и «без труда» — в этом ловушка. «Мне это раз плюнуть» = to mi je mačji kašalj. В записи пользователя было слито с zbrda-zdola — это два разных выражения.",
+      "keyword": "leva noga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msxknp37toeua",
+      "headword_latin": "Smilje i bosilje",
+      "headword_cyrillic": "Смиље и босиље",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. тишь да гладь да божья благодать, полная идиллия; 2. (с još, в сравнении) ещё цветочки, ещё благодать по сравнению с чем-то худшим",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije baš sve smilje i bosilje u toj firmi.",
+          "russian": "[знач. 1] Не так уж всё безоблачно в этой конторе."
+        },
+        {
+          "serbian_latin": "Prošla zima je bila smilje i bosilje prema ovoj.",
+          "russian": "[знач. 2] Прошлая зима была просто благодать по сравнению с нынешней."
+        }
+      ],
+      "analogs_ru": [
+        "тишь да гладь да божья благодать",
+        "не жизнь, а малина",
+        "это ещё цветочки",
+        "это ещё по-божески"
+      ],
+      "literal_ru": "бессмертник и базилик — две обрядовые травы из народных песен и свадебного обихода",
+      "register": "разг., часто ирон.; ходовая форма отрицательная: nije sve smilje i bosilje; второе значение всегда со сравнением (prema, u odnosu na)",
+      "note": "В записи пользователя «jo» — очевидно još, и именно оно даёт второе значение. Словари толкуют выражение как «прелесть, благодать, особенно на фоне чего-то дурного». Русское «это ещё цветочки, ягодки впереди» совпадает и по смыслу, и по растительному образу, но в русском взгляд обращён вперёд, а в сербском назад — к тому, что было сноснее. См. также: NIJE SVE SMILJE I BOSILJE.",
+      "keyword": "smilje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msxknp378iezv",
+      "headword_latin": "Zbrda-zdola",
+      "headword_cyrillic": "Збрда-здола",
+      "transcription": "",
+      "pos": "prilog",
+      "definition_ru": "как попало, вкривь и вкось; сбивчиво, пятое через десятое; через пень колоду",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Priča zbrda-zdola, ne može čovek ništa da razume.",
+          "russian": "Говорит пятое через десятое, ничего не разберёшь."
+        }
+      ],
+      "analogs_ru": [
+        "как попало",
+        "вкривь и вкось",
+        "пятое через десятое",
+        "без ладу и складу",
+        "через пень колоду"
+      ],
+      "literal_ru": "«с горы да с долу» — сращение z brda z dola, отовсюду вперемешку",
+      "register": "разг., неодобр.; неизменяемое наречие; чаще о речи и изложении (priča, objašnjava, piše zbrda-zdola), реже о работе; пишется через дефис",
+      "note": "Ядро значения — беспорядок и бессвязность, в отличие от levom nogom, где речь о небрежном исполнении. В записи пользователя эти два выражения были слиты в одно; вместе они обычно не употребляются.",
+      "keyword": "zbrda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msxknp37gg2ck",
+      "headword_latin": "Znati sve staze i bogaze",
+      "headword_cyrillic": "Знати све стазе и богазе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "знать все тропы и стёжки; знать местность как свои пять пальцев; знать все ходы и выходы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odrastao je ovde, zna sve staze i bogaze.",
+          "russian": "Он тут вырос, знает каждую тропинку."
+        }
+      ],
+      "analogs_ru": [
+        "знать как свои пять пальцев",
+        "исходить вдоль и поперёк",
+        "знать все ходы и выходы",
+        "знать все входы и выходы"
+      ],
+      "literal_ru": "знать все тропинки и теснины (bogaz — тур. boğaz «горло, ущелье, узкий проход»)",
+      "register": "разг., экспресс.; чаще с obići, proći, prokrstariti, реже с znati; staze i bogaze употребляется и самостоятельно",
+      "note": "Поправка к переводу пользователя: «знать все ходы и выходы» по-русски прежде всего о посвящённости в скрытые механизмы, тогда как в сербском ядро образа — местность и реальные тропы. Для «разбираться в закулисье» естественнее znati gde je ključ, znati sve rupe u zakonu. См. также: BOGAZ, OBIĆI STAZE I BOGAZE.",
+      "keyword": "staze i bogaze",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:33:17.251Z"
     }
   ]
 }
