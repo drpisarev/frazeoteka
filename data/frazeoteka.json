@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T21:20:44.652Z",
+  "updated": "2026-08-17T21:51:42.284Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -3212,6 +3212,32 @@
       "created_at": "2026-08-17T21:20:44.618Z"
     },
     {
+      "id": "msxrqv21dloeq",
+      "headword_latin": "S medom raditi, a prste ne lizati",
+      "headword_cyrillic": "С медом радити, а прсте не лизати",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у воды быть да не напиться — о том, что у распорядителя чужого добра непременно что-то прилипнет к рукам",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Naravno da je nešto uzeo — ne može se s medom raditi, a prste ne lizati.",
+          "russian": "Конечно, что-то прикарманил: у воды быть да не напиться."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "около воды ходить да не замочиться",
+        "у хлеба не без крох"
+      ],
+      "literal_ru": "с мёдом работать и пальцы не облизывать",
+      "register": "разг., чаще в отрицательной или риторической форме: ne može se s medom raditi, a prste ne lizati; оттенок скорее снисходительный, чем обвинительный",
+      "note": "",
+      "keyword": "med",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.265Z"
+    },
+    {
       "id": "msxqn1oqntui1",
       "headword_latin": "Sila Boga ne moli",
       "headword_cyrillic": "Сила Бога не моли",
@@ -3289,6 +3315,25 @@
       "created_at": "2026-08-17T21:20:44.619Z"
     },
     {
+      "id": "msxrqv1yiioys",
+      "headword_latin": "Sitno sito o čiviji visi",
+      "headword_cyrillic": "Ситно сито о чивији виси",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "значение не установлено",
+      "paradigm": null,
+      "examples": [],
+      "analogs_ru": [
+        "не подтверждено"
+      ],
+      "literal_ru": "мелкое сито на колышке висит (čivija — турцизм, колышек, гвоздь в стене для утвари)",
+      "register": "редк./не подтверждено надёжно; в доступных сборниках сербских и боснийских пословиц не зафиксировано",
+      "note": "По форме больше похоже на загадку или присказку-скороговорку, чем на пословицу: рифма и звукопись (sitno sito) в народных загадках обычны. Толкования в доступных источниках не найдено — любое было бы домыслом. Направления поиска: сборники загадок Вука Караджича, словарь турцизмов Шкалича на слово čivija. Если фраза слышана вживую, нужен контекст употребления.",
+      "keyword": "čivija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.264Z"
+    },
+    {
       "id": "msxqn1orfbr1w",
       "headword_latin": "Sjaši Kurta da uzjaši Murta",
       "headword_cyrillic": "Сјаши Курта да узјаши Мурта",
@@ -3314,6 +3359,59 @@
       "keyword": "Kurta",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.620Z"
+    },
+    {
+      "id": "msxrqv204fhqh",
+      "headword_latin": "Skuplja pita nego tepsija",
+      "headword_cyrillic": "Скупља пита него тепсија",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "овчинка выделки не стоит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Za tu popravku dođe skuplja pita nego tepsija — bolje kupi novo.",
+          "russian": "Такой ремонт — овчинка выделки не стоит, лучше купи новое."
+        }
+      ],
+      "analogs_ru": [
+        "овчинка выделки не стоит",
+        "игра не стоит свеч",
+        "дороже обойдётся, чем стоит"
+      ],
+      "literal_ru": "пирог дороже противня",
+      "register": "разг., боснийский по преимуществу, в Сербии понятен и употребим; о ремонте, лечении, тяжбе, которые обходятся дороже самой вещи",
+      "note": "Tepsija — турцизм, круглый противень для питы. Оборот ходит и как газетный заголовок: боснийские издания ставили его над заметкой о задержании за кражу футболки в 3,99 евро, за которой последовал куда более крупный штраф.",
+      "keyword": "pita",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.264Z"
+    },
+    {
+      "id": "msxrqv20snmv7",
+      "headword_latin": "Složna braća kuću grade, a nesložna i dvore razgrađuju",
+      "headword_cyrillic": "Сложна браћа кућу граде, а несложна и дворе разграђују",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "согласный дом строит, несогласный и двор разоряет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dogovorite se već jednom: složna braća kuću grade, a nesložna i dvore razgrađuju.",
+          "russian": "Договоритесь наконец: согласный дом строит, несогласный и двор разоряет."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "в согласии дом стоит",
+        "дружно — не грузно, а врозь — хоть брось",
+        "где лад, там и клад"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., назидат.; одна из самых цитируемых сербских пословиц о согласии, в том числе в политической риторике о единстве нации",
+      "note": "Из собрания Вука Караджича. Слово dvori здесь не «дворы», а «палаты, хоромы»: несогласные разрушают даже то, что уже стоит; русская калька «дворы» смазывает контраст.",
+      "keyword": "braća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.265Z"
     },
     {
       "id": "msxknp37toeua",
@@ -3347,6 +3445,84 @@
       "created_at": "2026-08-17T18:33:17.251Z"
     },
     {
+      "id": "msxrqv21vs2wn",
+      "headword_latin": "Smrt je jedina pravda na svetu",
+      "headword_cyrillic": "Смрт је једина правда на свету",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "смерть — единственная справедливость на свете",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ni njemu novac nije pomogao — smrt je jedina pravda na svetu.",
+          "russian": "И ему деньги не помогли: смерть — единственная справедливость на свете."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "смерть всех уравняет",
+        "перед смертью все равны"
+      ],
+      "literal_ru": "",
+      "register": "послов.-афор., мрачно-утешит.; о том, что богатых и бедных смерть не различает",
+      "note": "В записи была иекавская форма svijetu; сербский стандарт svetu.",
+      "keyword": "smrt",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.265Z"
+    },
+    {
+      "id": "msxrqv22v2f9h",
+      "headword_latin": "Snaga na usta ulazi",
+      "headword_cyrillic": "Снага на уста улази",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "сила через рот входит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Jedi još, snaga na usta ulazi.",
+          "russian": "Ешь ещё, сила через рот входит."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "как поешь, так и поработаешь",
+        "без каши брюхо не сыто"
+      ],
+      "literal_ru": "",
+      "register": "разг., нар.; классическое домашнее понукание за столом — детям и худым гостям",
+      "note": "",
+      "keyword": "snaga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
+      "id": "msxrqv22i4esn",
+      "headword_latin": "Sreću čine male stvari",
+      "headword_cyrillic": "Срећу чине мале ствари",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "счастье — в мелочах",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kafa na terasi ujutru — sreću čine male stvari.",
+          "russian": "Утренний кофе на террасе: счастье — в мелочах."
+        }
+      ],
+      "analogs_ru": [
+        "счастье в мелочах",
+        "не в деньгах счастье",
+        "из мелочей и складывается жизнь"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-сентимент., современное; типичная надпись-открытка",
+      "note": "В народных сборниках отсутствует.",
+      "keyword": "sreća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
       "id": "msxqn1oscjryq",
       "headword_latin": "Stani malo, od Doboja Mujo, i mi konja za trku imamo",
       "headword_cyrillic": "Стани мало, од Добоја Мујо, и ми коња за трку имамо",
@@ -3372,6 +3548,32 @@
       "keyword": "Doboj",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.621Z"
+    },
+    {
+      "id": "msxrqv222nzhh",
+      "headword_latin": "Sto ljudi, sto ćudi",
+      "headword_cyrillic": "Сто људи, сто ћуди",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "сколько людей, столько и характеров",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neko voli, neko ne — sto ljudi, sto ćudi.",
+          "russian": "Кому нравится, кому нет: сколько людей, столько и характеров."
+        }
+      ],
+      "analogs_ru": [
+        "сколько людей, столько и мнений",
+        "всяк молодец на свой образец",
+        "на вкус и цвет товарища нет"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; употребляется как примирительная формула при разногласиях",
+      "note": "Рифма ljudi — ćudi; ćud — «нрав, норов».",
+      "keyword": "ćud",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
       "id": "msxl6oyr8akiw",
@@ -3400,6 +3602,58 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "msxrqv22lkjc9",
+      "headword_latin": "Svaki Ciganin svoga konja hvali",
+      "headword_cyrillic": "Сваки Циганин свога коња хвали",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "всяк кулик своё болото хвалит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Naravno da hvali svoj proizvod — svaki Ciganin svoga konja hvali.",
+          "russian": "Конечно, он свой товар хвалит: всяк кулик своё болото хвалит."
+        }
+      ],
+      "analogs_ru": [
+        "всяк кулик своё болото хвалит",
+        "всякий купец свой товар хвалит",
+        "каждый кулик на своём болоте велик"
+      ],
+      "literal_ru": "каждый цыган своего коня хвалит",
+      "register": "послов., ирон.; о пристрастной похвале своему",
+      "note": "Слово Ciganin сегодня оскорбительно (нейтральное Rom), пословицу лучше знать пассивно; форма Cigo из записи пользователя фамильярно-уничижительная. Образ не случаен: конная торговля веками была цыганским промыслом на Балканах, отсюда и оборот ciganska trgovina «торг с божбой и уговорами».",
+      "keyword": "konj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
+      "id": "msxrqv229sd9r",
+      "headword_latin": "Sve su pite pitice, a burek je pitac",
+      "headword_cyrillic": "Све су пите питице, а бурек је питац",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "все питы — пирожочки, а бурек — всем пирогам пирог",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima sirnica, zeljanica, krompiruša — ali sve su pite pitice, a burek je pitac.",
+          "russian": "Есть и сырная, и со шпинатом, и с картошкой, но все питы — пирожочки, а бурек — всем пирогам пирог."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "все хороши, а этот всем на зависть",
+        "первый среди равных"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл., боснийский; pitac — окказионализм, «мужской род» от pita, отсюда вся соль",
+      "note": "Держится на балканском споре о терминах: в Боснии burek только мясной, прочие начинки называются отдельно (sirnica, zeljanica, krompiruša), тогда как в Сербии burek говорят о любой. Назвать в Сараеве сырную питу буреком — верный способ затеять спор; фраза настаивает на боснийской иерархии.",
+      "keyword": "burek",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
       "id": "msxl6oyszvk82",
       "headword_latin": "Svuda pođi, kući dođi",
       "headword_cyrillic": "Свуда пођи, кући дођи",
@@ -3424,6 +3678,31 @@
       "keyword": "kuća",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxrqv225zcgn",
+      "headword_latin": "Što možeš danas, ne ostavljaj za sutra",
+      "headword_cyrillic": "Што можеш данас, не остављај за сутра",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не откладывай на завтра то, что можешь сделать сегодня",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pošalji prijavu odmah, što možeš danas, ne ostavljaj za sutra.",
+          "russian": "Подай заявку сразу: не откладывай на завтра то, что можешь сделать сегодня."
+        }
+      ],
+      "analogs_ru": [
+        "не откладывай на завтра то, что можешь сделать сегодня",
+        "завтраками сыт не будешь"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр., назидат., интернациональная",
+      "note": "",
+      "keyword": "danas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
       "id": "msxl0hlirujo9",
@@ -3451,6 +3730,31 @@
       "keyword": "dlaka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxrqv219d8s1",
+      "headword_latin": "Um caruje, snaga klade valja",
+      "headword_cyrillic": "Ум царује, снага кладе ваља",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "ум царит, а сила брёвна ворочает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisu nas nadjačali, nadmudrili su nas — um caruje, snaga klade valja.",
+          "russian": "Не пересилили, а перехитрили: ум царит, а сила брёвна ворочает."
+        }
+      ],
+      "analogs_ru": [
+        "не силой, а умом",
+        "сила без ума — обуза"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., общеупотр.; устойчивый порядок — с um на первом месте",
+      "note": "Из собрания Вука Караджича. Запись пользователя с snaga впереди переворачивает логику фразы, где ум противопоставлен грубой работе. Пословица дала имя множеству викторин и школьных конкурсов в Сербии — «Um caruje» стало почти жанровым обозначением интеллектуальной игры.",
+      "keyword": "um",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:51:42.265Z"
     },
     {
       "id": "msxl6oysta66e",
