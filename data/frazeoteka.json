@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T20:37:10.244Z",
+  "updated": "2026-08-17T21:20:44.652Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -2950,6 +2950,57 @@
       "created_at": "2026-08-17T20:37:10.221Z"
     },
     {
+      "id": "msxqn1ooxwqi0",
+      "headword_latin": "Pravda je spora, ali dostižna",
+      "headword_cyrillic": "Правда је спора, али достижна",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "правда медленна, но достижима",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Presuda je stigla posle deset godina — pravda je spora, ali dostižna.",
+          "russian": "Приговор пришёл через десять лет: правда медленна, но достижима."
+        }
+      ],
+      "analogs_ru": [
+        "Бог правду видит, да не скоро скажет",
+        "мельницы Господни мелют медленно",
+        "правда своё возьмёт"
+      ],
+      "literal_ru": "",
+      "register": "послов., ободряющ.-фаталист.; очень частотна в судебной хронике и политических комментариях, нередко с горькой иронией",
+      "note": "",
+      "keyword": "pravda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.616Z"
+    },
+    {
+      "id": "msxqn1oosvmk8",
+      "headword_latin": "Prazne se puške dvojica boje",
+      "headword_cyrillic": "Празне се пушке двојица боје",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "пустого ружья двое боятся; блеф пугает сильнее реальной угрозы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On samo preti, ali prazne se puške dvojica boje.",
+          "russian": "Он только грозится, да пустого ружья двое боятся."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "пуганый и пустой угрозы боится"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; ходовые формы pune se puške boji jedan, a prazne dvojica; prazne puške plaše se dvojica",
+      "note": "Логика образа: один боится, что выстрелят, второй — что делать, если не выстрелят. Зафиксирована в сборнике Твртко Чубелича «Usmene narodne pitalice, poslovice i zagonetke» (Загреб, 1975), в рубрике об отношении к угрозам. Родственный живой оборот — pucati iz prazne puške «брать на понт».",
+      "keyword": "puška",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.617Z"
+    },
+    {
       "id": "msxp30elqvhc6",
       "headword_latin": "Pruži se koliko ti je jorgan dug",
       "headword_cyrillic": "Пружи се колико ти је јорган дуг",
@@ -2974,6 +3025,84 @@
       "keyword": "jorgan",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.222Z"
+    },
+    {
+      "id": "msxqn1olh9f5l",
+      "headword_latin": "Prva ljubav zaborava nema",
+      "headword_cyrillic": "Прва љубав заборава нема",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "первая любовь не забывается",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vidiš ga kako se izgubi kad je pomenu — prva ljubav zaborava nema.",
+          "russian": "Смотри, как он теряется, когда о ней заговорят: первая любовь не забывается."
+        }
+      ],
+      "analogs_ru": [
+        "первая любовь не ржавеет",
+        "старая любовь не ржавеет",
+        "первую любовь не забывают"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сентимент.; часто иронически — о том, кто до сих пор вздыхает по школьной подруге",
+      "note": "Безглагольная конструкция с родительным (zaborava nema), характерная для присказок.",
+      "keyword": "ljubav",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.615Z"
+    },
+    {
+      "id": "msxqn1ontlfdm",
+      "headword_latin": "Prvi se mačići u vodu bacaju",
+      "headword_cyrillic": "Први се мачићи у воду бацају",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "первый блин комом",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije uspelo iz prve, ali prvi se mačići u vodu bacaju.",
+          "russian": "С первого раза не вышло, так первый блин комом."
+        }
+      ],
+      "analogs_ru": [
+        "первый блин комом",
+        "лиха беда начало",
+        "первый опыт не в счёт"
+      ],
+      "literal_ru": "первых котят топят",
+      "register": "разг., утешит.; о неудачной первой попытке, которую не стоит принимать всерьёз",
+      "note": "Русский аналог кулинарный и безобидный, сербский — из деревенского обихода, где помёт действительно прореживали; образ жёсткий, но воспринимается как стёртый. Иногда говорят и о первом ребёнке или первом ученике, с грубоватой шуткой.",
+      "keyword": "mačić",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.616Z"
+    },
+    {
+      "id": "msxqn1oppd3nx",
+      "headword_latin": "Prvo skoči, pa reci hop",
+      "headword_cyrillic": "Прво скочи, па реци хоп",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не говори «гоп», пока не перепрыгнешь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Još nije potpisano — prvo skoči, pa reci hop.",
+          "russian": "Ещё не подписано: не говори «гоп», пока не перепрыгнешь."
+        }
+      ],
+      "analogs_ru": [
+        "не говори «гоп», пока не перепрыгнешь",
+        "цыплят по осени считают",
+        "не хвались, идучи на рать"
+      ],
+      "literal_ru": "",
+      "register": "разг., назидат.; ходовая форма чаще отрицательная — ne govori hop dok ne preskočiš",
+      "note": "",
+      "keyword": "hop",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.617Z"
     },
     {
       "id": "msxkiw6xpnjum",
@@ -3004,6 +3133,31 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "msxqn1op9erg6",
+      "headword_latin": "Rad je stvorio čoveka",
+      "headword_cyrillic": "Рад је створио човека",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "труд создал человека",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hajde, ustaj, rad je stvorio čoveka.",
+          "russian": "Давай вставай, труд создал человека."
+        }
+      ],
+      "analogs_ru": [
+        "труд создал человека",
+        "без труда нет плода"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-идеол.; сегодня почти всегда с иронической окраской",
+      "note": "Формула Энгельса, вошедшая в югославский школьный обиход. Русскоязычному источник знаком, но в Сербии фраза несёт дополнительный слой — привкус титовской эпохи, лозунгов и трудовых акций.",
+      "keyword": "rad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.617Z"
+    },
+    {
       "id": "msxknp37fbcp4",
       "headword_latin": "Raditi levom nogom",
       "headword_cyrillic": "Радити левом ногом",
@@ -3030,6 +3184,136 @@
       "keyword": "leva noga",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msxqn1oqwi4ex",
+      "headword_latin": "Ruka ruku mije",
+      "headword_cyrillic": "Рука руку мије",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "рука руку моет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Tako to ide u toj opštini: ruka ruku mije.",
+          "russian": "В той общине так и заведено: рука руку моет."
+        }
+      ],
+      "analogs_ru": [
+        "рука руку моет",
+        "ты мне — я тебе",
+        "свой своему поневоле брат"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр., чаще неодобр. — о круговой поруке и коррупции",
+      "note": "Полная форма ruka ruku mije, obraz obadvije «рука руку моет, а обе — лицо». См. также: DOĐI MI DA TI DOĐEM.",
+      "keyword": "ruka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.618Z"
+    },
+    {
+      "id": "msxqn1oqntui1",
+      "headword_latin": "Sila Boga ne moli",
+      "headword_cyrillic": "Сила Бога не моли",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "сила солому ломит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzeli su zemlju bez pitanja — sila Boga ne moli, ali silu Bog ubi.",
+          "russian": "Землю забрали не спросив: сила солому ломит, да и на силу управа найдётся."
+        }
+      ],
+      "analogs_ru": [
+        "сила солому ломит",
+        "у сильного всегда бессильный виноват",
+        "против лома нет приёма"
+      ],
+      "literal_ru": "сила Бога не молит",
+      "register": "послов., нар.",
+      "note": "Полная форма с продолжением …ali silu Bog ubi: насилие своё возьмёт, но и ему придёт конец. Без второй части звучит как констатация грубой силы, с ней — как обещание расплаты.",
+      "keyword": "sila",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.618Z"
+    },
+    {
+      "id": "msxqn1orkeve3",
+      "headword_latin": "Sirotinjo, i Bogu si teška",
+      "headword_cyrillic": "Сиротињо, и Богу си тешка",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "бедность и Богу в тягость",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kola se pokvarila baš sad — sirotinjo, i Bogu si teška.",
+          "russian": "Машина сломалась как раз сейчас: бедность и Богу в тягость."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "бедному везде бедно",
+        "на бедного Макара все шишки валятся",
+        "пришла беда — отворяй ворота"
+      ],
+      "literal_ru": "",
+      "register": "послов., горькая, с обращением (вокатив sirotinjo); произносится как сетование на себя, а не как осуждение бедных",
+      "note": "",
+      "keyword": "sirotinja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.619Z"
+    },
+    {
+      "id": "msxqn1oqb8nm5",
+      "headword_latin": "Sit gladnom ne veruje",
+      "headword_cyrillic": "Сит гладном не верује",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "сытый голодного не разумеет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Lako je njemu da priča o štednji — sit gladnom ne veruje.",
+          "russian": "Легко ему рассуждать об экономии: сытый голодного не разумеет."
+        }
+      ],
+      "analogs_ru": [
+        "сытый голодного не разумеет"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр., упрёк; частотно в разговорах о социальном неравенстве",
+      "note": "",
+      "keyword": "sit",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.619Z"
+    },
+    {
+      "id": "msxqn1orfbr1w",
+      "headword_latin": "Sjaši Kurta da uzjaši Murta",
+      "headword_cyrillic": "Сјаши Курта да узјаши Мурта",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "хрен редьки не слаще; поменяли шило на мыло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Promenili su direktora, a ništa bolje — sjaši Kurta da uzjaši Murta.",
+          "russian": "Директора сменили, а лучше не стало: хрен редьки не слаще."
+        }
+      ],
+      "analogs_ru": [
+        "хрен редьки не слаще",
+        "поменяли шило на мыло",
+        "тех же щей да пожиже влей",
+        "новая метла по-новому метёт, да сор тот же"
+      ],
+      "literal_ru": "слезай, Курта, чтобы сел верхом Мурта — оба на одном коне",
+      "register": "разг., ирон., политич.; о смене лиц во власти без перемены сути; крайне частотна в сербской и боснийской публицистике",
+      "note": "Курта и Мурта — не исторические лица, а условные османские имена, подобранные ради рифмы (как Jovo nanovo, Cile-Mile): Kurta от тур. kurt «волк», Murta от Murat/Murteza. Оборот кодифицирован в словаре САНУ; о нём писали лингвисты Эгон Фекете и Мато Пижурица, толкующие его как «проклятие неизменности» — сперва в буквальном рабстве, затем в любых формах бесправия. Строка «Peva Kurta, peva Murta» из песни «Рибля чорба» разнесла имена в массовый обиход; в 2025 году выражение снова пошло по прессе в связи со студенческими протестами. Запись пользователя (Šišo Kurta da uzjasi Murta) искажена: глагол sjaši «слезай с коня». См. также: KURTA I MURTA.",
+      "keyword": "Kurta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.620Z"
     },
     {
       "id": "msxknp37toeua",
@@ -3061,6 +3345,33 @@
       "keyword": "smilje",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msxqn1oscjryq",
+      "headword_latin": "Stani malo, od Doboja Mujo, i mi konja za trku imamo",
+      "headword_cyrillic": "Стани мало, од Добоја Мујо, и ми коња за трку имамо",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "не один ты тут чего-то стоишь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Polako s hvalisanjem — stani malo, od Doboja Mujo, i mi konja za trku imamo.",
+          "russian": "Полегче с хвастовством: мы тоже не лыком шиты."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "мы тоже не лыком шиты",
+        "и мы не пальцем деланы",
+        "не задирай нос"
+      ],
+      "literal_ru": "постой-ка, Муйо из Добоя, и у нас есть конь для скачки",
+      "register": "разг., шутл.-задирист., боснийский по происхождению, в Сербии редк.; осаживание того, кто хвастает и держится единственным умельцем",
+      "note": "Mujo — уменьшительное от Мухаммед, типовой персонаж боснийского анекдота. Формула ходит по боснийской публицистике как ироническая самохарактеристика — «и у нас есть чем ответить». В записи пользователя не было запятых, отчего читается, будто Муйо родом из Добоя; в исходном ритме это обращение с уточнением.",
+      "keyword": "Doboj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T21:20:44.621Z"
     },
     {
       "id": "msxl6oyr8akiw",
