@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T18:22:24.376Z",
+  "updated": "2026-08-17T18:25:53.030Z",
   "entries": [
     {
       "id": "msxk6lcj6s5ct",
@@ -62,6 +62,33 @@
       "keyword": "đene",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:21:24.352Z"
+    },
+    {
+      "id": "msxkbhps8zayd",
+      "headword_latin": "Kad-tad",
+      "headword_cyrillic": "Кад-тад",
+      "transcription": "",
+      "pos": "prilog",
+      "definition_ru": "рано или поздно; когда-нибудь да; всё равно когда-то",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kad-tad će se saznati ko je to uradio.",
+          "russian": "Рано или поздно станет известно, кто это сделал."
+        }
+      ],
+      "analogs_ru": [
+        "рано или поздно",
+        "не сегодня, так завтра",
+        "когда-нибудь да",
+        "всё равно придётся"
+      ],
+      "literal_ru": "когда — тогда",
+      "register": "нейтр., общеупотр.; неизменяемое наречие; чаще с футуром (će), с оттенком неотвратимости",
+      "note": "продуктивная модель парных наречий «вопросительное + указательное»: kako-tako, koliko-toliko, gde-gde",
+      "keyword": "kad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:23:47.824Z"
     },
     {
       "id": "msxk9pbqar0q3",
