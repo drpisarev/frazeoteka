@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T23:48:44.450Z",
+  "updated": "2026-08-17T23:51:43.728Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -894,6 +894,32 @@
       "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
+      "id": "msxw17ppsdp0o",
+      "headword_latin": "Bolan se pita, a zdravom se daje",
+      "headword_cyrillic": "Болан се пита, а здравом се даје",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "больного спрашивают, а здоровому дают что есть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Njemu spremam posebno — bolan se pita, a zdravom se daje.",
+          "russian": "Ему готовлю отдельно: больного спрашивают, а здоровому дают что есть."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "больному воля, здоровому — что дадут",
+        "больного уважь"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; оправдание того, что больному потакают в еде и прихотях",
+      "note": "Bolan — краткая форма «больной», в живой речи ещё и обращение (bolan, bona — «милый, милая», особенно в Боснии).",
+      "keyword": "bolan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.694Z"
+    },
+    {
       "id": "msxl6oysvawv5",
       "headword_latin": "Bolje ikad nego nikad",
       "headword_cyrillic": "Боље икад него никад",
@@ -942,6 +968,291 @@
       "keyword": "išta",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxw17pr12xas",
+      "headword_latin": "Bolje je dobroga služiti nego rđavu zapovedati",
+      "headword_cyrillic": "Боље је доброга служити него рђаву заповедати",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше служить хорошему, чем командовать негодным",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ostao je u toj firmi svesno — bolje je dobroga služiti nego rđavu zapovedati.",
+          "russian": "Он в той конторе остался сознательно: лучше служить хорошему, чем командовать негодным."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "лучше у доброго в слугах, чем у злого в господах",
+        "каков хозяин, такова и служба"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.",
+      "note": "О том, что качество окружения важнее собственного положения в иерархии. В записи была иекавская форма zapovijedati.",
+      "keyword": "služiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.695Z"
+    },
+    {
+      "id": "msxw17prtpguy",
+      "headword_latin": "Bolje je i malo s blagoslovom nego i dosta s prokletstvom",
+      "headword_cyrillic": "Боље је и мало с благословом него и доста с проклетством",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше мало да с благословением, чем много да с проклятием",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odbio je taj posao — bolje je i malo s blagoslovom nego i dosta s prokletstvom.",
+          "russian": "Отказался он от той работы: лучше мало да с благословением, чем много да с проклятием."
+        }
+      ],
+      "analogs_ru": [
+        "лучше мало, да с миром",
+        "худо нажитое впрок не идёт",
+        "не в деньгах счастье"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., религ. окраска; о нечестном достатке",
+      "note": "В записи ne'li — стяжение архаичного negoli «нежели», в современной норме nego. См. также: S VRAGOM DOŠLO, S VRAGOM I OTIŠLO.",
+      "keyword": "blagoslov",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.696Z"
+    },
+    {
+      "id": "msxw17psl2uqj",
+      "headword_latin": "Bolje je imati rđavu godinu nego rđava suseda",
+      "headword_cyrillic": "Боље је имати рђаву годину него рђава суседа",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше неурожайный год, чем дурной сосед",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Selimo se zbog njih — bolje je imati rđavu godinu nego rđava suseda.",
+          "russian": "Из-за них переезжаем: лучше неурожайный год, чем дурной сосед."
+        }
+      ],
+      "analogs_ru": [
+        "не купи дом, купи соседа",
+        "худой сосед хуже неурожая",
+        "сосед не выбирается"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.",
+      "note": "rđava godina — именно неурожайный год, а не «плохой» в общем смысле: год пройдёт, сосед останется, в этом вся мысль. В записи была иекавская форма susjeda.",
+      "keyword": "sused",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.696Z"
+    },
+    {
+      "id": "msxw17pt6rlht",
+      "headword_latin": "Bolje je ne početi nego ne dočeti",
+      "headword_cyrillic": "Боље је не почети него не дочети",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше не начинать, чем не докончить",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Razmisli dobro pre nego kreneš — bolje je ne početi nego ne dočeti.",
+          "russian": "Подумай, прежде чем браться: лучше не начинать, чем не докончить."
+        }
+      ],
+      "analogs_ru": [
+        "не берись, коли не докончишь",
+        "конец — делу венец",
+        "начатое доводи до конца"
+      ],
+      "literal_ru": "",
+      "register": "послов., устар.-нар.",
+      "note": "dočeti — архаичный глагол «довершить», вне этой пословицы почти не встречается, отсюда её книжное звучание.",
+      "keyword": "početi",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.697Z"
+    },
+    {
+      "id": "msxw17pt1431w",
+      "headword_latin": "Bolje je nemati nego otimati",
+      "headword_cyrillic": "Боље је немати него отимати",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше не иметь, чем отнимать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vratio je i ono što je mogao zadržati — bolje je nemati nego otimati.",
+          "russian": "Вернул даже то, что мог оставить себе: лучше не иметь, чем отнимать."
+        }
+      ],
+      "analogs_ru": [
+        "лучше по миру ходить, чем чужое брать",
+        "не в корысти счастье",
+        "чужое добро впрок не идёт"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., нравоучит.",
+      "note": "",
+      "keyword": "otimati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.697Z"
+    },
+    {
+      "id": "msxw17pth19gk",
+      "headword_latin": "Bolje je neznalica nego tvrdoglavica",
+      "headword_cyrillic": "Боље је незналица него тврдоглавица",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше невежда, чем упрямец",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "S njim se ne može ni razgovarati — bolje je neznalica nego tvrdoglavica.",
+          "russian": "С ним и говорить нельзя: лучше невежда, чем упрямец."
+        }
+      ],
+      "analogs_ru": [
+        "с дураком сладишь, с упрямым нет",
+        "упрямство хуже глупости",
+        "дурака научишь, упрямого нет"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.",
+      "note": "tvrdoglavica здесь не о женщине: суффикс -ica образует и общеродовые названия свойства, как и neznalica. Форма no вместо nego — архаично-разговорная.",
+      "keyword": "tvrdoglav",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.697Z"
+    },
+    {
+      "id": "msxw17ptxqsl7",
+      "headword_latin": "Bolje je pokliznuti nogom nego jezikom",
+      "headword_cyrillic": "Боље је поклизнути ногом него језиком",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше оступиться ногой, чем языком",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pazi šta pričaš na sastanku — bolje je pokliznuti nogom nego jezikom.",
+          "russian": "Следи, что говоришь на встрече: лучше оступиться ногой, чем языком."
+        }
+      ],
+      "analogs_ru": [
+        "слово не воробей, вылетит — не поймаешь",
+        "язык мой — враг мой",
+        "сказанного не воротишь"
+      ],
+      "literal_ru": "",
+      "register": "послов., назидат.; о том, что оговорка обходится дороже падения",
+      "note": "См. также: ISPECI PA RECI, BRŽI JEZIK OD PAMETI.",
+      "keyword": "jezik",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.697Z"
+    },
+    {
+      "id": "msxw17puazwmq",
+      "headword_latin": "Bolje je s mudrim plakati nego s ludim pevati",
+      "headword_cyrillic": "Боље је с мудрим плакати него с лудим певати",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше с умным потерять, чем с дураком найти",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Radije ću s njim u minus nego s ovima u dobit — bolje je s mudrim plakati nego s ludim pevati.",
+          "russian": "Лучше с ним в убыток, чем с этими в прибыль: лучше с умным потерять, чем с дураком найти."
+        }
+      ],
+      "analogs_ru": [
+        "лучше с умным потерять, чем с дураком найти",
+        "с умным горевать легче, чем с глупым пировать"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.",
+      "note": "Редкий случай, когда русский аналог совпадает и мыслью, и устройством — тот же контраст «дурное с умным лучше хорошего с дураком».",
+      "keyword": "mudar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.699Z"
+    },
+    {
+      "id": "msxw17pvb5c31",
+      "headword_latin": "Bolje je svoje jaje nego tuđa kokoš",
+      "headword_cyrillic": "Боље је своје јаје него туђа кокош",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "своё яйцо дороже чужой курицы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne bih menjao — bolje je svoje jaje nego tuđa kokoš.",
+          "russian": "Не поменял бы: своё яйцо дороже чужой курицы."
+        }
+      ],
+      "analogs_ru": [
+        "свой хлеб слаще чужого калача",
+        "своя рубашка ближе к телу",
+        "лучше своё малое, чем чужое большое"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; о ценности своего, пусть и малого",
+      "note": "Не путать с bolje vrabac u ruci nego golub na grani: там о синице в руках, здесь именно о своём против чужого.",
+      "keyword": "jaje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.699Z"
+    },
+    {
+      "id": "msxw17pvdqz27",
+      "headword_latin": "Bolje je u kolibi pevati nego u dvoru plakati",
+      "headword_cyrillic": "Боље је у колиби певати него у двору плакати",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше в хижине петь, чем в хоромах плакать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odbila je bogatog — bolje je u kolibi pevati nego u dvoru plakati.",
+          "russian": "Отказала богатому: лучше в хижине петь, чем в хоромах плакать."
+        }
+      ],
+      "analogs_ru": [
+        "лучше в шалаше с милым, чем в палатах с постылым",
+        "не в деньгах счастье",
+        "богатому не спится"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; часто о браке по расчёту",
+      "note": "dvor здесь «палаты, хоромы», а не «двор». См. также: AKO JE I KOLIBA, NAŠA JE.",
+      "keyword": "koliba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.699Z"
+    },
+    {
+      "id": "msxw17pw1hsj8",
+      "headword_latin": "Bolje mršav mir nego debela parnica",
+      "headword_cyrillic": "Боље мршав мир него дебела парница",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "худой мир лучше доброй ссоры",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj na sud, dogovorite se — bolje mršav mir nego debela parnica.",
+          "russian": "Не судись, договоритесь: худой мир лучше доброй ссоры."
+        }
+      ],
+      "analogs_ru": [
+        "худой мир лучше доброй ссоры",
+        "лучше уступить, чем судиться",
+        "с судом дружбы не бывает"
+      ],
+      "literal_ru": "лучше тощий мир, чем жирная тяжба",
+      "register": "послов.; частотна в разговорах о наследстве и разделе имущества",
+      "note": "parnica — судебная тяжба, речь буквально о суде, а не о ссоре вообще. Совпадение с русским почти зеркальное: там тоже противопоставлены «худой» и «добрый», то есть тощий и тучный. Сербская версия конкретнее — «жирной» тяжба становится от издержек.",
+      "keyword": "parnica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:51:43.700Z"
     },
     {
       "id": "msxl6oyrflwxb",
