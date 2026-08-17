@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T23:37:57.841Z",
+  "updated": "2026-08-17T23:39:38.187Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -2586,34 +2586,6 @@
       "keyword": "most",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:01:31.767Z"
-    },
-    {
-      "id": "msxvf5xrrphf0",
-      "headword_latin": "Na pišometar",
-      "headword_cyrillic": "На пишометар",
-      "transcription": "",
-      "pos": "izraz",
-      "definition_ru": "на глазок, наобум",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Nisu ništa merili, sve na pišometar.",
-          "russian": "Ничего не мерили, всё на глазок."
-        }
-      ],
-      "analogs_ru": [
-        "на глазок",
-        "на авось",
-        "от балды",
-        "пальцем в небо",
-        "методом тыка"
-      ],
-      "literal_ru": "по «писометру» — шутливый несуществующий прибор от pišati",
-      "register": "разг.-сленг., груб.-шутл.; редк./не подтверждено надёжно — словарями не фиксируется; о замере или оценке без инструмента и расчёта",
-      "note": "Образован по продуктивной модели шутливых псевдоприборов на -metar. Нейтральный и общеупотребительный синоним — odokativna metoda (от od oka «на глаз»), она же odoka; её и стоит использовать в приличном разговоре.",
-      "keyword": "pišometar",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T23:34:34.959Z"
     },
     {
       "id": "msxl0hlid7j90",
