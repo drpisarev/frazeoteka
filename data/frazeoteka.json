@@ -1,7 +1,263 @@
 {
   "v": 1,
-  "updated": "2026-08-17T18:55:49.604Z",
+  "updated": "2026-08-17T19:01:20.443Z",
   "entries": [
+    {
+      "id": "msxlnru7li7gr",
+      "headword_latin": "Ako je izgubljena jedna bitka, nije izgubljen i rat",
+      "headword_cyrillic": "Ако је изгубљена једна битка, није изгубљен и рат",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "проиграно сражение, а не война",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Izgubili smo prvo poluvreme, ali ako je izgubljena jedna bitka, nije izgubljen i rat.",
+          "russian": "Первый тайм проиграли, но проиграно сражение, а не война."
+        }
+      ],
+      "analogs_ru": [
+        "проиграна битва, но не война",
+        "ещё не всё потеряно",
+        "это ещё не конец"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., ободряющ.; частотно в спортивных репортажах и политической риторике",
+      "note": "",
+      "keyword": "bitka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.431Z"
+    },
+    {
+      "id": "msxlnru8phvsg",
+      "headword_latin": "Ako ne znaš kakav je ko, daj mu vlast",
+      "headword_cyrillic": "Ако не знаш какав је ко, дај му власт",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "хочешь узнать человека — дай ему власть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako ne znaš kakav je ko, daj mu vlast i saznaćeš.",
+          "russian": "Не знаешь, каков человек, — дай ему власть, и узнаешь."
+        }
+      ],
+      "analogs_ru": [
+        "власть развращает",
+        "хочешь узнать человека — дай ему власть",
+        "дай дураку власть, он и рад стараться"
+      ],
+      "literal_ru": "",
+      "register": "послов.-афор., неодобр.; расширенная форма …daj mu vlast i saznaćeš",
+      "note": "",
+      "keyword": "vlast",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru89572i",
+      "headword_latin": "Ako ne znaš šta je dobro, izaberi šta je skupo",
+      "headword_cyrillic": "Ако не знаш шта је добро, изабери шта је скупо",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не разбираешься — бери что подороже",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne razumem se u alat, a ako ne znaš šta je dobro, izaberi šta je skupo.",
+          "russian": "В инструментах не разбираюсь, а не разбираешься — бери что подороже."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "дёшево да гнило, дорого да мило",
+        "скупой платит дважды"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.-ирон.; торговая житейская мудрость, часто как самооправдание при покупке",
+      "note": "",
+      "keyword": "skupo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru7gfwfu",
+      "headword_latin": "Ako neće Muhamed brdu, hoće brdo Muhamedu",
+      "headword_cyrillic": "Ако неће Мухамед брду, хоће брдо Мухамеду",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "если гора не идёт к Магомету, Магомет идёт к горе",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neće da dođe u kancelariju? Ako neće Muhamed brdu, hoće brdo Muhamedu — idem ja kod njega.",
+          "russian": "Не хочет прийти в офис? Если гора не идёт к Магомету — поеду я к нему."
+        }
+      ],
+      "analogs_ru": [
+        "если гора не идёт к Магомету, то Магомет идёт к горе"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр., шутл.; след османского культурного слоя",
+      "note": "Роли зеркальны русской версии: по-сербски первым назван Мухаммед, который «не хочет», и уступает гора; по-русски наоборот. При переводе порядок надо разворачивать.",
+      "keyword": "Muhamed",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru8kngu1",
+      "headword_latin": "Ako neće Nećko, hoće Hoćko",
+      "headword_cyrillic": "Ако неће Нећко, хоће Хоћко",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не захочет один — захочет другой; охотники найдутся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neće da radi za te pare? Ako neće Nećko, hoće Hoćko.",
+          "russian": "Не хочет за такие деньги? Охотники найдутся."
+        }
+      ],
+      "analogs_ru": [
+        "свято место пусто не бывает",
+        "желающие найдутся",
+        "не хочешь — другие захотят"
+      ],
+      "literal_ru": "если не хочет Нехочка, захочет Хочка — прозвища-выдумки от neće и hoće",
+      "register": "разг., шутл.; чаще как ответ на чей-то отказ, с оттенком «незаменимых нет»",
+      "note": "",
+      "keyword": "Nećko",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru8hw2dk",
+      "headword_latin": "Ako nećeš ti, hoće druge tri",
+      "headword_cyrillic": "Ако нећеш ти, хоће друге три",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не ты, так другая; свет клином не сошёлся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne mora ona, ako nećeš ti, hoće druge tri.",
+          "russian": "Не хочет — не надо, не ты, так другая."
+        }
+      ],
+      "analogs_ru": [
+        "свет клином не сошёлся",
+        "не ты, так другая",
+        "незаменимых нет"
+      ],
+      "literal_ru": "если не хочешь ты, захотят другие три",
+      "register": "разг., шутл.-фамильярн.; держится на рифме ti — tri; чаще в любовном контексте, реже о деловом отказе; вариант ako neće ona, hoće druge tri",
+      "note": "",
+      "keyword": "tri",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru89pl1f",
+      "headword_latin": "Ako protivnika ne možeš pobediti, pridruži mu se",
+      "headword_cyrillic": "Ако противника не можеш победити, придружи му се",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не можешь победить — присоединяйся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Svi su prešli kod njih, pa ako protivnika ne možeš pobediti, pridruži mu se.",
+          "russian": "Все к ним перешли — не можешь победить, присоединяйся."
+        }
+      ],
+      "analogs_ru": [
+        "не можешь победить — возглавь",
+        "не можешь победить — присоединяйся"
+      ],
+      "literal_ru": "",
+      "register": "разг., ирон.",
+      "note": "Новое заимствование, калька с англ. if you can't beat them, join them, поэтому среди старых народных пословиц стоит особняком. В записи пользователя была иекавская форма pobjediti; сербский стандарт — pobediti.",
+      "keyword": "protivnik",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru8vqj6o",
+      "headword_latin": "Batina ima dva kraja",
+      "headword_cyrillic": "Батина има два краја",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "палка о двух концах",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Te sankcije su batina sa dva kraja.",
+          "russian": "Эти санкции — палка о двух концах."
+        }
+      ],
+      "analogs_ru": [
+        "палка о двух концах",
+        "меч обоюдоострый",
+        "обоюдоострое оружие"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., общеупотр.; о мере, которая может обернуться против того, кто её применил; частотно в публицистике",
+      "note": "",
+      "keyword": "batina",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru8xooly",
+      "headword_latin": "Batina je iz raja izašla",
+      "headword_cyrillic": "Батина је из раја изашла",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "розга ум острит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nekad se govorilo da je batina iz raja izašla, ali ta vremena su prošla.",
+          "russian": "Раньше говорили, что розга ум острит, но те времена прошли."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "розга ум острит, память возбуждает",
+        "бей — добро сделаешь"
+      ],
+      "literal_ru": "палка вышла из рая, то есть дана человеку от Бога",
+      "register": "послов., устар.; оправдание телесных наказаний в воспитании; сегодня почти всегда цитируется иронически или как объект спора",
+      "note": "",
+      "keyword": "batina",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru8oi42h",
+      "headword_latin": "Bez alata nema zanata",
+      "headword_cyrillic": "Без алата нема заната",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "без инструмента нет ремесла",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kupi prvo pristojnu bušilicu, bez alata nema zanata.",
+          "russian": "Купи сперва нормальную дрель — без инструмента нет ремесла."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "без топора не плотник, без иглы не портной"
+      ],
+      "literal_ru": "",
+      "register": "разг., нейтр.; держится на рифме alat — zanat",
+      "note": "Записанная пользователем форма halat — турцизм с придыханием, живой в боснийском узусе и в говорах; сербский стандарт alat.",
+      "keyword": "alat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
     {
       "id": "msxl0hli94wlx",
       "headword_latin": "Bez dlake na jeziku",
@@ -56,6 +312,57 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "msxlnru84k383",
+      "headword_latin": "Bez starca nema udarca",
+      "headword_cyrillic": "Без старца нема ударца",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "без старого не будет и толку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zovi i dedu na dogovor, bez starca nema udarca.",
+          "russian": "Зови и деда на совет: без старого не будет и толку."
+        }
+      ],
+      "analogs_ru": [
+        "старый конь борозды не портит",
+        "молодой на битву, а старый на думу",
+        "без старых не проживёшь"
+      ],
+      "literal_ru": "без старика нет удара",
+      "register": "послов., нар., одобр.; рифма starca — udarca; о необходимости старшего и опытного в серьёзном деле",
+      "note": "",
+      "keyword": "starac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru87dcn7",
+      "headword_latin": "Bez stare koke nema supe",
+      "headword_cyrillic": "Без старе коке нема супе",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "старая курица наваристей; опыт и возраст ценнее",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bez stare koke nema supe, iskustvo se ne kupuje.",
+          "russian": "Старая курица наваристей — опыт не купишь."
+        }
+      ],
+      "analogs_ru": [
+        "старый конь борозды не портит",
+        "старая кобыла борозды не испортит"
+      ],
+      "literal_ru": "без старой курицы нет супа",
+      "register": "разг., шутл.; часто с сальным подтекстом — о женщинах постарше, поэтому в приличном разговоре с осторожностью",
+      "note": "",
+      "keyword": "koka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
       "id": "msxkiw6xa0khe",
       "headword_latin": "Bilo i bitisalo",
       "headword_cyrillic": "Било и битисало",
@@ -81,6 +388,107 @@
       "keyword": "bitisati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "msxlnru8ydzo9",
+      "headword_latin": "Blago onom ko rano poludi",
+      "headword_cyrillic": "Благо оном ко рано полуди",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "счастлив тот, кто рано спятил",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Blago onom ko rano poludi, sva mu mladost u veselju prođe.",
+          "russian": "Счастлив тот, кто рано спятил: вся молодость в веселье пройдёт."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "дуракам жить легко"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; полная форма …sva mu mladost u veselju prođe",
+      "note": "Формула blago onom ko… «блажен тот, кто…» продуктивна и в серьёзных пословицах.",
+      "keyword": "poludeti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru8l86m9",
+      "headword_latin": "Bobu reci bob, a popu pop",
+      "headword_cyrillic": "Бобу реци боб, а попу поп",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "называть вещи своими именами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da uvijaš, bobu reci bob, a popu pop.",
+          "russian": "Не юли, называй вещи своими именами."
+        }
+      ],
+      "analogs_ru": [
+        "называть вещи своими именами",
+        "называть хлеб хлебом, а вино вином",
+        "говорить прямо"
+      ],
+      "literal_ru": "бобу скажи «боб», а попу — «поп»",
+      "register": "разг., одобр.; часто как призыв прекратить обиняки",
+      "note": "См. также: BEZ DLAKE NA JEZIKU.",
+      "keyword": "bob",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru8wei3o",
+      "headword_latin": "Bog je prvo sebi bradu stvorio",
+      "headword_cyrillic": "Бог је прво себи браду створио",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "всякий сперва о себе",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prvo sam sebi uzeo, pa šta — bog je prvo sebi bradu stvorio.",
+          "russian": "Сперва себе взял, и что с того — своя рубашка ближе к телу."
+        }
+      ],
+      "analogs_ru": [
+        "своя рубашка ближе к телу",
+        "всяк себе норовит"
+      ],
+      "literal_ru": "Бог сначала себе бороду сотворил",
+      "register": "разг., шутл.-оправдат.; чаще как самооправдание того, кто позаботился о себе прежде других",
+      "note": "",
+      "keyword": "brada",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxlnru8w50g9",
+      "headword_latin": "Bog je rekao: čuvaj se, čuvaću te",
+      "headword_cyrillic": "Бог је рекао: чувај се, чуваћу те",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "на Бога надейся, а сам не плошай",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Stavi kacigu, bog je rekao: čuvaj se, čuvaću te.",
+          "russian": "Надень шлем: береженого Бог бережёт."
+        }
+      ],
+      "analogs_ru": [
+        "на Бога надейся, а сам не плошай",
+        "береженого Бог бережёт"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; помощь свыше обусловлена собственной осторожностью",
+      "note": "",
+      "keyword": "bog",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
       "id": "msxlgokcij8mt",
@@ -198,6 +606,32 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "msxlnru8ts0sk",
+      "headword_latin": "Boj ne bije sablja ubojita, već srce u junaka",
+      "headword_cyrillic": "Бој не бије сабља убојита, већ срце у јунака",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не оружие решает бой, а сердце героя",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemamo najbolji tim, ali boj ne bije sablja ubojita, već srce u junaka.",
+          "russian": "Команда у нас не лучшая, но бой решает не оружие, а сердце."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "не числом, а уменьем",
+        "дух побеждает силу"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-цитат., торжеств.; в прессе и спортивных комментариях употребляется всерьёз, без иронии",
+      "note": "Ходит в нескольких вариантах; у Негоша в «Горском венце» вместо сабли — svijetlo oružje.",
+      "keyword": "boj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
       "id": "msxl6oysvawv5",
       "headword_latin": "Bolje ikad nego nikad",
       "headword_cyrillic": "Боље икад него никад",
@@ -220,6 +654,32 @@
       "keyword": "ikad",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxlnru8k6qz8",
+      "headword_latin": "Bolje išta nego ništa",
+      "headword_cyrillic": "Боље ишта него ништа",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше хоть что-то, чем ничего",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dali su mi pola honorara, ali bolje išta nego ništa.",
+          "russian": "Дали половину гонорара, но лучше хоть что-то, чем ничего."
+        }
+      ],
+      "analogs_ru": [
+        "лучше хоть что-то, чем ничего",
+        "на безрыбье и рак рыба",
+        "лучше мало, чем совсем ничего"
+      ],
+      "literal_ru": "",
+      "register": "разг., общеупотр.",
+      "note": "Форма išta «хоть что-нибудь» живая почти только в этом обороте и в вопросах.",
+      "keyword": "išta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
       "id": "msxl6oyrflwxb",
@@ -295,6 +755,32 @@
       "keyword": "brat",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxlnru8v9e2j",
+      "headword_latin": "Brži jezik od pameti",
+      "headword_cyrillic": "Бржи језик од памети",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "язык впереди ума бежит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Njemu je brži jezik od pameti, uvek nešto lupi.",
+          "russian": "У него язык впереди ума бежит, вечно ляпнет что-нибудь."
+        }
+      ],
+      "analogs_ru": [
+        "язык впереди ума бежит",
+        "сперва скажет, потом подумает",
+        "язык мой — враг мой"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; безглагольная формула, обычно как характеристика человека: njemu je brži jezik od pameti",
+      "note": "См. также: ISPECI PA RECI.",
+      "keyword": "jezik",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
       "id": "msxkvbpsguqok",
