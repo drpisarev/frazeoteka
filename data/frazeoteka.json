@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T23:42:49.540Z",
+  "updated": "2026-08-17T23:43:00.348Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -4251,6 +4251,34 @@
       "keyword": "šala",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "msxvpzvhzof4h",
+      "headword_latin": "U šupku svemira",
+      "headword_cyrillic": "У шупку свемира",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "в жопе мира; у чёрта на куличках",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dali su mu stan negde u šupku svemira, dva sata do centra.",
+          "russian": "Дали ему квартиру в какой-то дыре, два часа до центра."
+        }
+      ],
+      "analogs_ru": [
+        "в жопе мира",
+        "у чёрта на куличках",
+        "в глухой дыре",
+        "в тьмутаракани",
+        "на краю света"
+      ],
+      "literal_ru": "в заднем проходе вселенной",
+      "register": "вульг., экспресс., шутл.; сильнее и грубее нейтрального bogu iza nogu; локатив u šupku при родительном svemira, вариант с sveta; чаще с živeti, stanovati, nalaziti se и в конструкции negde u šupku svemira",
+      "note": "Заменяет ошибочную запись U šipku svemira: там были выдуманы и этимология с гранатом, и связь с idi u šipak. Šupak значит и «мудак, козёл» о человеке, так что слово при живом собеседнике опасно вдвойне. Гнездо синонимов по нарастанию грубости: bogu iza nogu (почти цензурно) → u vukojebini (грубо, самое ходовое в Сербии; от vuk + jebati) → u šupku svemira, u tri lepe pizde materine (совсем вульгарно). Космический размах работает как гипербола на грубом слове — приём того же типа, что и в русском. См. также: BOGU IZA NOGU, VUKOJEBINA.",
+      "keyword": "šupak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:43:00.318Z"
     },
     {
       "id": "msxrqv219d8s1",
