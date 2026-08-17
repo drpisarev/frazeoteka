@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T20:01:54.079Z",
+  "updated": "2026-08-17T20:02:22.727Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -1638,6 +1638,32 @@
       "keyword": "reći",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "msxnu9nqixzy1",
+      "headword_latin": "Ispod mire sto đavola vire",
+      "headword_cyrillic": "Испод мире сто ђавола вире",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "в тихом омуте черти водятся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne daj se prevariti time što ćuti — ispod mire sto đavola vire.",
+          "russian": "Не обманывайся её молчанием: в тихом омуте черти водятся."
+        }
+      ],
+      "analogs_ru": [
+        "в тихом омуте черти водятся",
+        "тихая вода берега подмывает",
+        "не бойся крикливого, бойся молчаливого"
+      ],
+      "literal_ru": "из-под тихони сто чертей выглядывает — mira здесь «тихоня, смирница», от miran",
+      "register": "послов., нар., шутл.-неодобр., общеупотр.; чаще о женщине",
+      "note": "Форма vire удерживается рифмой mire — vire вопреки норме: при числительном sto ожидалось бы viri. У Стевана Сремца в «Поп Ћира и поп Спира» старший вариант с tri đavola, современные сборники дают sto. В сегодняшних публикациях Mire часто пишут с прописной, переосмысляя как женское имя Мира, — народная этимология; исходно слово нарицательное. Заменяет ошибочную запись Iz mira sto đavola viri. См. также: TIHA VODA BREG RONI.",
+      "keyword": "mira",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T20:02:22.695Z"
     },
     {
       "id": "msxmobcymqhpe",
