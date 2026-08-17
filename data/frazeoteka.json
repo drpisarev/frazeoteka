@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T23:43:00.348Z",
+  "updated": "2026-08-17T23:46:00.730Z",
   "entries": [
     {
       "id": "msxlnru7li7gr",
@@ -933,6 +933,32 @@
       "keyword": "čovek",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
+      "id": "msxvtv1w59jm5",
+      "headword_latin": "Čovek se uči dok je živ, pa opet lud umre",
+      "headword_cyrillic": "Човек се учи док је жив, па опет луд умре",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "век живи, век учись — дураком помрёшь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet sam pogrešio isto — čovek se uči dok je živ, pa opet lud umre.",
+          "russian": "Опять на том же споткнулся: век живи, век учись — дураком помрёшь."
+        }
+      ],
+      "analogs_ru": [
+        "век живи, век учись — дураком помрёшь",
+        "всего не переучишь",
+        "сколько ни учись, а всего не узнаешь"
+      ],
+      "literal_ru": "",
+      "register": "послов., шутл.-горькая",
+      "note": "Расширение серьёзного čovek se uči dok je živ с ироническим переворотом во второй части. Русский аналог совпадает устройством: та же назидательная формула, вывернутая наизнанку. См. также: ČOVEK SE UČI DOK JE ŽIV.",
+      "keyword": "učiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:46:00.693Z"
     },
     {
       "id": "msxkvbpsguqok",
@@ -3004,6 +3030,33 @@
       "created_at": "2026-08-17T20:37:10.221Z"
     },
     {
+      "id": "msxvtv1ugynz0",
+      "headword_latin": "Posviraj, pa i za pojas zadeni",
+      "headword_cyrillic": "Посвирај, па и за појас задени",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "пошутил — и хватит; знай меру",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dosta je bilo šale — posviraj, pa i za pojas zadeni.",
+          "russian": "Хватит уже шуток: пошутил — и будет."
+        }
+      ],
+      "analogs_ru": [
+        "хорошенького понемножку",
+        "пошутил — и будет",
+        "всякой шутке своё место",
+        "уймись уже"
+      ],
+      "literal_ru": "поиграй [на дудке], да и заткни её за пояс",
+      "register": "послов., нар., одёргивающ.; варианты глагола posviraj, zasviraj, sviraj, zapevaj; часто с удвоением sviraj, sviraj, pa za pojas zadeni; речь старшего поколения, особенно юг Сербии",
+      "note": "Образ из быта музыканта: свирель носили заткнутой за пояс, доиграл — убрал. В сборниках пословиц стоит в разделе «скромность — нескромность», с пояснением, что говорится тому, кто перебрал в шутке или игре. Живёт и в публицистике: в «Времени» оборот приводили в письме о навязчивой рекламе.",
+      "keyword": "pojas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:46:00.690Z"
+    },
+    {
       "id": "msxqn1ooxwqi0",
       "headword_latin": "Pravda je spora, ali dostižna",
       "headword_cyrillic": "Правда је спора, али достижна",
@@ -4436,6 +4489,57 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "msxvtv1rhnvhe",
+      "headword_latin": "Za dobrim konjem prašina se diže",
+      "headword_cyrillic": "За добрим коњем прашина се диже",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "за хорошим конём и пыль столбом — вокруг заметного человека неизбежны пересуды",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neka pričaju, za dobrim konjem prašina se diže.",
+          "russian": "Пусть говорят: собаки лают, а караван идёт."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "собаки лают, а караван идёт",
+        "чем выше дерево, тем сильнее ветер",
+        "о ком говорят, тот чего-то стоит"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., утешит.-одобр.; говорится тому, кого обсуждают за спиной",
+      "note": "Пересуды и зависть подаются как признак достоинств, а не изъянов.",
+      "keyword": "konj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:46:00.689Z"
+    },
+    {
+      "id": "msxvtv1vamvzn",
+      "headword_latin": "Zavadi pa vladaj",
+      "headword_cyrillic": "Завади па владај",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "разделяй и властвуй",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Klasična taktika: zavadi pa vladaj.",
+          "russian": "Классическая тактика: разделяй и властвуй."
+        }
+      ],
+      "analogs_ru": [
+        "разделяй и властвуй"
+      ],
+      "literal_ru": "поссорь, а потом правь",
+      "register": "книжн.-публиц., неодобр.; крайне частотна в политических комментариях",
+      "note": "Калька латинского divide et impera. Глагол не «раздели», а zavaditi «рассорить, стравить» — сербская формула прямее латинской.",
+      "keyword": "vladati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:46:00.691Z"
+    },
+    {
       "id": "msxknp378iezv",
       "headword_latin": "Zbrda-zdola",
       "headword_cyrillic": "Збрда-здола",
@@ -4464,6 +4568,33 @@
       "created_at": "2026-08-17T18:33:17.251Z"
     },
     {
+      "id": "msxvtv1wok6xx",
+      "headword_latin": "Znam te, puško, dok si pištolj bila",
+      "headword_cyrillic": "Знам те, пушко, док си пиштољ била",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "знаем мы вас; я тебя ещё вот таким помню",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj meni da glumiš direktora — znam te, puško, dok si pištolj bila.",
+          "russian": "Не строй передо мной директора: я тебя ещё вот таким помню."
+        }
+      ],
+      "analogs_ru": [
+        "знаем мы вас",
+        "я тебя знал, когда ты пешком под стол ходил",
+        "не задавайся, помню тебя другим",
+        "меня не проведёшь"
+      ],
+      "literal_ru": "знаю тебя, ружьё, ещё когда ты пистолетом было",
+      "register": "разг., ирон.-осаживающ.; тому, кто возвысился и заважничал, забыв, с чего начинал",
+      "note": "Заодно предупреждение: меня твоей нынешней важностью не впечатлить.",
+      "keyword": "puška",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:46:00.692Z"
+    },
+    {
       "id": "msxknp37gg2ck",
       "headword_latin": "Znati sve staze i bogaze",
       "headword_cyrillic": "Знати све стазе и богазе",
@@ -4489,6 +4620,32 @@
       "keyword": "staze i bogaze",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msxvtv1v8rjqj",
+      "headword_latin": "Životna škola skupo se plaća",
+      "headword_cyrillic": "Животна школа скупо се плаћа",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "за науку жизни платят дорого",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Izgubio je pare, ali naučio lekciju — životna škola skupo se plaća.",
+          "russian": "Деньги потерял, зато урок усвоил: за науку жизни платят дорого."
+        }
+      ],
+      "analogs_ru": [
+        "за одного битого двух небитых дают",
+        "опыт — дорогая школа",
+        "за науку приходится платить"
+      ],
+      "literal_ru": "",
+      "register": "разг.-афор.; чаще как утешение после дорого обошедшейся ошибки",
+      "note": "Синонимичное живое — najskuplja škola je škola života.",
+      "keyword": "škola",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:46:00.691Z"
     }
   ]
 }
