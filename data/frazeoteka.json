@@ -1,34 +1,7 @@
 {
   "v": 1,
-  "updated": "2026-08-17T18:25:53.030Z",
+  "updated": "2026-08-17T18:27:14.986Z",
   "entries": [
-    {
-      "id": "msxk6lcj6s5ct",
-      "headword_latin": "Bilo i bitisalo",
-      "headword_cyrillic": "Било и битисало",
-      "transcription": "",
-      "pos": "izraz",
-      "definition_ru": "было и быльём поросло; что было, то прошло; дело прошлое",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Pusti sad to, bilo i bitisalo.",
-          "russian": "Да брось ты, было и быльём поросло."
-        }
-      ],
-      "analogs_ru": [
-        "было и быльём поросло",
-        "что было, то прошло",
-        "дело прошлое",
-        "кто старое помянет, тому глаз вон"
-      ],
-      "literal_ru": "было и сгинуло (bitisati — «пропасть, кончиться», тур. bitmek)",
-      "register": "разг., устар.-фольк., редк.; живой синоним bilo pa prošlo; как реплика-отмашка, часто с ne vredi, pusti, šta je tu je",
-      "note": "ложный друг: современное bitisati = «жить, существовать»; исходное значение «пропасть, миновать» сохранилось только в этом обороте (Клајн, Rečnik jezičkih nedoumica)",
-      "keyword": "bitisati",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T18:19:59.251Z"
-    },
     {
       "id": "msxk8f0g4jao9",
       "headword_latin": "Đene-đene",
