@@ -1,7 +1,34 @@
 {
   "v": 1,
-  "updated": "2026-08-17T18:40:26.463Z",
+  "updated": "2026-08-17T18:43:14.074Z",
   "entries": [
+    {
+      "id": "msxl0hli94wlx",
+      "headword_latin": "Bez dlake na jeziku",
+      "headword_cyrillic": "Без длаке на језику",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "резать правду в глаза; говорить без обиняков; называть вещи своими именами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On je čovek bez dlake na jeziku.",
+          "russian": "Он режет правду в глаза."
+        }
+      ],
+      "analogs_ru": [
+        "резать правду-матку",
+        "говорить без обиняков",
+        "называть вещи своими именами",
+        "не стесняться в выражениях"
+      ],
+      "literal_ru": "без волоска на языке",
+      "register": "разг., чаще одобр.; неизменяемый оборот при существительном или глаголе: čovek bez dlake na jeziku, govoriti bez dlake na jeziku",
+      "note": "Поправка: «слишком прямолинейный» смещает акцент — в сербском это чаще похвала смелости, а не упрёк в бестактности. Не путать с «за словом в карман не лезет» (находчивость): здесь речь о готовности сказать неприятное вслух. См. также: DLAKA.",
+      "keyword": "dlaka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
+    },
     {
       "id": "msxkiw6xa0khe",
       "headword_latin": "Bilo i bitisalo",
@@ -30,6 +57,61 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "msxl0hliohjb4",
+      "headword_latin": "Bogat je ko nije dužan, a mlad ko je zdrav",
+      "headword_cyrillic": "Богат је ко није дужан, а млад ко је здрав",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "богат тот, кто не должен, а молод тот, кто здоров",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kaže moj deda: bogat je ko nije dužan, a mlad ko je zdrav.",
+          "russian": "Дед мой говорит: богат тот, кто не должен, а молод тот, кто здоров."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "здоровье дороже богатства",
+        "не тот богат, у кого много, а тот, кому хватает",
+        "долг не ревёт, а спать не даёт"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; чаще как назидание старшего, целиком, без усечения",
+      "note": "Обе части построены на переопределении понятия через отрицание помехи — приём, характерный для сербских пословиц. По-русски передавать лучше буквально: узнаваемого готового эквивалента нет, а склеенные аналоги вроде «здоровье дороже денег» теряют вторую половину.",
+      "keyword": "bogat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxl0hliizb8s",
+      "headword_latin": "Bogu iza nogu",
+      "headword_cyrillic": "Богу иза ногу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у чёрта на куличках; за тридевять земель; в глуши, в тмутаракани",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Stanuje bogu iza nogu, dva sata vožnje.",
+          "russian": "Живёт у чёрта на куличках, два часа езды."
+        }
+      ],
+      "analogs_ru": [
+        "у чёрта на куличках",
+        "за тридевять земель",
+        "на краю света",
+        "в тмутаракани",
+        "куда Макар телят не гонял"
+      ],
+      "literal_ru": "у Бога за ногами",
+      "register": "разг., неодобр.; неизменяемое; чаще с глаголами stanovati, živeti, biti",
+      "note": "",
+      "keyword": "bog",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
       "id": "msxkvbpsguqok",
       "headword_latin": "Čuvati kao malo vode na dlanu",
       "headword_cyrillic": "Чувати као мало воде на длану",
@@ -56,6 +138,32 @@
       "keyword": "dlan",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:39:13.168Z"
+    },
+    {
+      "id": "msxl0hliw7m4n",
+      "headword_latin": "Da znam gde ću pasti, seo bih",
+      "headword_cyrillic": "Да знам где ћу пасти, сео бих",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "знал бы, где упасть, — соломки бы подстелил",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Da znam gde ću pasti, seo bih — ko je ovo mogao da predvidi?",
+          "russian": "Знал бы, где упасть, соломки бы подстелил — кто мог такое предвидеть?"
+        }
+      ],
+      "analogs_ru": [
+        "знал бы, где упасть, соломки бы подстелил",
+        "кабы знать",
+        "задним умом все крепки"
+      ],
+      "literal_ru": "знал бы, где упаду, — сел бы",
+      "register": "послов., разг.; варианты da čovek zna gde će pasti, tu bi seo/legao; говорится задним числом как оправдание непредвиденного",
+      "note": "Перевод пользователя верен. Сербский образ скупее русского: там просто сесть заранее, здесь — заботливо подстелить солому.",
+      "keyword": "pasti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
       "id": "msxknp37i528f",
@@ -118,6 +226,33 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "msxl0hlit6syc",
+      "headword_latin": "Imati u malom prstu",
+      "headword_cyrillic": "Имати у малом прсту",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "знать назубок; разбираться как никто; собаку съесть на чём-л.",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "To ti on ima u malom prstu, pitaj ga slobodno.",
+          "russian": "Он на этом собаку съел, спрашивай смело."
+        }
+      ],
+      "analogs_ru": [
+        "знать назубок",
+        "знать как свои пять пальцев",
+        "собаку съел",
+        "знать вдоль и поперёк"
+      ],
+      "literal_ru": "иметь в мизинце",
+      "register": "разг., одобр.; управление imati šta u malom prstu; частотна сравнительная модель u malom prstu ima više pameti nego ti u celoj glavi; синоним znati u prste",
+      "note": "Поправка: форма ima znanje u malom prstu избыточна и почти не встречается; говорят ima u malom prstu без слова znanje. См. также: MALI PRST, ZNATI U PRSTE.",
+      "keyword": "mali prst",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
       "id": "msxkt02iv7wbf",
       "headword_latin": "Kad bandera olista",
       "headword_cyrillic": "Кад бандера олиста",
@@ -172,6 +307,33 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "msxl0hliu6xd7",
+      "headword_latin": "Kao da je pao s kruške",
+      "headword_cyrillic": "Као да је пао с крушке",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как с луны свалился; как с дуба рухнул; будто вчера родился",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Gde ti živiš, bre, kao da si pao s kruške!",
+          "russian": "Ты где живёшь вообще? Как с луны свалился!"
+        }
+      ],
+      "analogs_ru": [
+        "как с луны свалился",
+        "как с дуба рухнул",
+        "не с неба же ты свалился",
+        "будто вчера на свет родился"
+      ],
+      "literal_ru": "как будто с груши упал",
+      "register": "разг., неодобр.-шутл.; чаще во втором лице как упрёк: kao da si pao s kruške; вариант pao s Marsa — новее",
+      "note": "Поправка к переводу пользователя: значение не «странно себя ведёт», а «не понимает очевидного, не в курсе элементарного» — упрёк в наивности или оторванности от происходящего. Разговорное k’o в словарной форме разворачивается в kao.",
+      "keyword": "kruška",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
       "id": "msxkww9ootqi5",
       "headword_latin": "Možeš na hleb da ga namažeš",
       "headword_cyrillic": "Можеш на хлеб да га намажеш",
@@ -203,6 +365,60 @@
       "keyword": "hleb",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:40:26.460Z"
+    },
+    {
+      "id": "msxl0hlid7j90",
+      "headword_latin": "Na vrh mi je jezika",
+      "headword_cyrillic": "На врх ми је језика",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вертится на языке",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Na vrh mi je jezika, a ne mogu da se setim.",
+          "russian": "Вертится на языке, а вспомнить не могу."
+        }
+      ],
+      "analogs_ru": [
+        "вертится на языке",
+        "на языке крутится",
+        "вот-вот вспомню"
+      ],
+      "literal_ru": "на кончике языка у меня",
+      "register": "разг., общеупотр.; дательный меняется по лицам: na vrh mi je / ti je / mu je jezika; порядок слов устойчив, клитика вклинивается перед jezika",
+      "note": "Русская калька «на кончике языка» употребима, но живой оборот — «вертится на языке».",
+      "keyword": "jezik",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxl0hliu8deq",
+      "headword_latin": "Ničija nije gorela do zore",
+      "headword_cyrillic": "Ничија није горела до зоре",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "ничто не длится вечно; и это пройдёт; не всё коту масленица",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pusti, ničija nije gorela do zore, pa neće ni njihova.",
+          "russian": "Брось, ничто не вечно — и их время кончится."
+        }
+      ],
+      "analogs_ru": [
+        "ничто не вечно",
+        "и это пройдёт",
+        "не всё коту масленица",
+        "всякому терпению приходит конец",
+        "и на его улице праздник кончится"
+      ],
+      "literal_ru": "ничья [свеча] не горела до зари — ни у кого лучина не догорела до рассвета",
+      "register": "послов., разг.; расширенная форма ničija nije gorela do zore, pa neće ni tvoja/njihova; употребляется и как утешение в беде, и как предупреждение тому, кто наверху",
+      "note": "Поправка: gorjela — иекавская форма, сербский стандарт (экавица) gorela. Русское «и это пройдёт» книжно и утешительно, тогда как сербская пословица чаще звучит с угрозой в адрес власть имущих — «недолго вам осталось».",
+      "keyword": "zora",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
       "id": "msxkiw6xpnjum",
@@ -290,6 +506,33 @@
       "keyword": "smilje",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msxl0hlirujo9",
+      "headword_latin": "Tražiti dlaku u jajetu",
+      "headword_cyrillic": "Тражити длаку у јајету",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "искать блох; придираться к мелочам; докапываться на пустом месте",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne traži dlaku u jajetu, sve je urađeno kako treba.",
+          "russian": "Не придирайся, всё сделано как надо."
+        }
+      ],
+      "analogs_ru": [
+        "искать блох",
+        "придираться к мелочам",
+        "цепляться к каждой запятой",
+        "ищет, к чему прицепиться"
+      ],
+      "literal_ru": "искать волос в яйце",
+      "register": "разг., неодобр.; управление tražiti dlaku u jajetu (kome)",
+      "note": "Производное — dlakocepac «буквоед, придира». См. также: DLAKA, BEZ DLAKE NA JEZIKU.",
+      "keyword": "dlaka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
       "id": "msxknp378iezv",
