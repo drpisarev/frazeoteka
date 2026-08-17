@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Srpska frazeoteka</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --paper:#E9EAE3; --paper-2:#DFE2D8; --field:#F4F5EF;
+  --ink:#1C2321; --soft:#5C645F; --teal:#10514C; --gold:#9A6B08;
+  --rule:#C4C7BA; --bad:#8C2F22;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);
+  font-family:'IBM Plex Sans',system-ui,-apple-system,sans-serif;
+  padding:20px 16px 80px;line-height:1.5}
+.wrap{max-width:820px;margin:0 auto}
+.mono{font-family:'IBM Plex Mono',ui-monospace,monospace;text-transform:uppercase;
+  letter-spacing:.12em;font-size:10px;color:var(--soft)}
+h1{font-family:'Literata',Georgia,serif;font-weight:600;font-size:26px;letter-spacing:-.01em;margin:0}
+header{display:flex;align-items:baseline;justify-content:space-between;gap:12px;flex-wrap:wrap;
+  border-bottom:2px solid var(--ink);padding-bottom:10px;margin-bottom:16px}
+.tools{display:flex;gap:6px;align-items:center;flex-wrap:wrap}
+button{font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:11px;text-transform:uppercase;
+  letter-spacing:.08em;background:none;border:1px solid var(--rule);color:var(--soft);
+  padding:6px 10px;cursor:pointer;border-radius:2px}
+button:hover{border-color:var(--teal);color:var(--teal)}
+button:focus-visible{outline:2px solid var(--teal);outline-offset:2px}
+button.primary{background:var(--teal);color:var(--paper);border-color:var(--teal);font-weight:500}
+button.primary:hover{background:#0B3D39;color:var(--paper)}
+button:disabled{opacity:.45;cursor:default}
+textarea,input[type=text],input[type=password]{width:100%;background:var(--field);
+  border:1px solid var(--rule);border-radius:2px;padding:10px 12px;color:var(--ink);
+  font-family:'Literata',Georgia,serif;font-size:15px;resize:vertical}
+textarea:focus,input:focus{outline:none;border-color:var(--teal);box-shadow:0 0 0 2px rgba(16,81,76,.15)}
+.code{font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:12px;line-height:1.55}
+.status{font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:11px;letter-spacing:.05em}
+.dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;vertical-align:middle}
+.d-ok{background:var(--teal)} .d-off{background:var(--rule)} .d-bad{background:var(--bad)}
+.msg{padding:8px 11px;font-size:13px;margin-top:10px;border-radius:2px;
+  background:#F6EEDC;border-left:3px solid var(--gold)}
+.msg.err{background:#F3E4E1;border-left-color:var(--bad)}
+.rail{display:flex;flex-wrap:wrap;gap:3px;margin:16px 0 6px}
+.rail button{min-width:24px;height:24px;padding:0 4px;border-color:transparent;font-size:11px}
+.rail button.on{color:var(--teal);border-color:var(--rule);background:var(--field);font-weight:500}
+.rail button:disabled{opacity:.28}
+.sec{font-family:'Literata',Georgia,serif;font-size:13px;font-weight:600;color:var(--teal);
+  border-bottom:1px solid var(--rule);padding:14px 0 4px;margin-bottom:10px;letter-spacing:.04em}
+.card{padding:12px 0 16px;border-bottom:1px solid var(--rule)}
+.row{display:flex;align-items:baseline;justify-content:space-between;gap:10px}
+.hw{font-family:'Literata',Georgia,serif;font-size:18px;font-weight:600;color:var(--teal)}
+.def{font-family:'Literata',Georgia,serif;font-size:17px}
+.meta{font-size:13px;color:var(--soft);margin-top:5px}
+.meta b{color:var(--gold);font-weight:500}
+.box{background:var(--paper-2);border-left:3px solid var(--teal);border-radius:2px;padding:9px 12px;margin-top:9px}
+.box .sr{font-family:'Literata',Georgia,serif;font-weight:600;font-size:15px}
+.box .ru{font-family:'Literata',Georgia,serif;font-size:15px;color:#3A423E;margin-top:2px}
+.note{font-size:13px;color:var(--soft);margin-top:7px;font-style:italic}
+.tag{font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:9px;text-transform:uppercase;
+  letter-spacing:.1em;border:1px solid var(--rule);padding:1px 5px;border-radius:2px;color:var(--soft);white-space:nowrap}
+.acts{display:flex;gap:8px}
+.mini{font-size:10px;border:none;padding:0;background:none}
+.empty{font-family:'Literata',Georgia,serif;font-size:16px;color:var(--soft);
+  padding:40px 0;text-align:center;line-height:1.7}
+dialog{border:1px solid var(--ink);border-radius:3px;background:var(--paper);color:var(--ink);
+  max-width:720px;width:calc(100% - 32px);padding:16px}
+dialog::backdrop{background:rgba(28,35,33,.55)}
+.field{margin-top:10px}
+.hint{font-size:12px;color:var(--soft);margin-top:4px}
+a{color:var(--teal)}
+@media (max-width:520px){h1{font-size:22px}.def,.hw{font-size:16px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <div class="mono">Srpska</div>
+      <h1>Frazeoteka</h1>
+    </div>
+    <div class="tools">
+      <span class="status" id="sync"><span class="dot d-off"></span>не подключено</span>
+      <span class="mono" id="count">0 zapisa</span>
+      <button id="btn-add">Добавить</button>
+      <button id="btn-json">JSON</button>
+      <button id="btn-md">MD</button>
+      <button id="btn-cfg">GitHub</button>
+    </div>
+  </header>
+
+  <input type="text" id="search" placeholder="Поиск по фразам, переводам и примерам" style="font-size:14px">
+
+  <div class="rail" id="rail"></div>
+  <div id="msg"></div>
+  <div id="list"></div>
+</div>
+
+<!-- Вставка статьи -->
+<dialog id="dlg-add">
+  <div class="mono">Вставь блок JSON из чата Claude</div>
+  <div class="field">
+    <textarea id="paste" rows="10" class="code" placeholder='Можно с ограждениями ```json — они срежутся сами.'></textarea>
+    <div class="hint">Принимается и одна статья, и несколько, и весь файл базы целиком.</div>
+  </div>
+  <div class="field" style="display:flex;gap:8px">
+    <button class="primary" id="paste-ok">Добавить в базу</button>
+    <button data-close="dlg-add">Отмена</button>
+  </div>
+</dialog>
+
+<!-- Настройки GitHub -->
+<dialog id="dlg-cfg">
+  <div class="mono">Хранилище</div>
+  <div class="field">
+    <div class="mono">Владелец (твой логин на GitHub)</div>
+    <input type="text" id="cfg-owner" class="code" placeholder="mpisarev">
+  </div>
+  <div class="field">
+    <div class="mono">Репозиторий</div>
+    <input type="text" id="cfg-repo" class="code" placeholder="frazeoteka">
+  </div>
+  <div class="field">
+    <div class="mono">Файл базы</div>
+    <input type="text" id="cfg-path" class="code" placeholder="data/frazeoteka.json">
+  </div>
+  <div class="field">
+    <div class="mono">Токен</div>
+    <input type="password" id="cfg-token" class="code" placeholder="github_pat_…">
+    <div class="hint">Токен хранится только в этом браузере и никуда больше не уходит.
+      Права нужны одни: Contents — Read and write для этого репозитория.</div>
+  </div>
+  <div class="field" style="display:flex;gap:8px;flex-wrap:wrap">
+    <button class="primary" id="cfg-save">Сохранить и подключиться</button>
+    <button id="cfg-pull">Загрузить из GitHub</button>
+    <button id="cfg-push">Отправить в GitHub</button>
+    <button data-close="dlg-cfg">Закрыть</button>
+  </div>
+</dialog>
+
+<!-- Вывод текста -->
+<dialog id="dlg-out">
+  <div class="mono" id="out-title"></div>
+  <div class="field"><textarea id="out-text" rows="16" class="code" readonly></textarea></div>
+  <div class="field" style="display:flex;gap:8px;flex-wrap:wrap">
+    <button class="primary" id="out-copy">Копировать всё</button>
+    <button id="out-save">Скачать файлом</button>
+    <button data-close="dlg-out">Закрыть</button>
+  </div>
+</dialog>
+
+<!-- Правка -->
+<dialog id="dlg-edit">
+  <div class="mono">Правка статьи</div>
+  <div class="field"><div class="mono">Фраза (латиница)</div><input type="text" id="e-hw"></div>
+  <div class="field"><div class="mono">Русский перевод</div><input type="text" id="e-def"></div>
+  <div class="field"><div class="mono">Аналоги через •</div><input type="text" id="e-an"></div>
+  <div class="field"><div class="mono">Помета</div><input type="text" id="e-reg"></div>
+  <div class="field"><div class="mono">Примеры — по одному в строке: сербский | русский</div>
+    <textarea id="e-ex" rows="3"></textarea></div>
+  <div class="field"><div class="mono">Заметка</div><input type="text" id="e-note"></div>
+  <div class="field" style="display:flex;gap:8px">
+    <button class="primary" id="e-save">Сохранить</button>
+    <button data-close="dlg-edit">Отмена</button>
+  </div>
+</dialog>
+
+<script>
+/* ---------- сербская латиница: сортировка ---------- */
+const ALPHABET=["a","b","c","č","ć","d","dž","đ","e","f","g","h","i","j","k","l","lj",
+  "m","n","nj","o","p","r","s","š","t","u","v","z","ž"];
+const RANK={};ALPHABET.forEach((l,i)=>RANK[l]=i);
+const DI=new Set(["dž","lj","nj"]);
+function tokenize(s){s=(s||"").toLowerCase();const o=[];
+  for(let i=0;i<s.length;i++){const two=s.slice(i,i+2);
+    if(DI.has(two)){o.push(two);i++;}else o.push(s[i]);}return o;}
+function rankOf(t){if(t in RANK)return RANK[t];if(t===" "||t==="-")return -1;return 100+t.charCodeAt(0);}
+function srCompare(a,b){const A=tokenize(a),B=tokenize(b),n=Math.min(A.length,B.length);
+  for(let i=0;i<n;i++){const d=rankOf(A[i])-rankOf(B[i]);if(d)return d;}return A.length-B.length;}
+function firstLetter(s){const t=tokenize(s).find(x=>x in RANK);if(!t)return "#";
+  return t.length===2?t[0].toUpperCase()+t[1]:t.toUpperCase();}
+
+const L2C=[["dž","џ"],["lj","љ"],["nj","њ"],["Dž","Џ"],["Lj","Љ"],["Nj","Њ"],["DŽ","Џ"],["LJ","Љ"],["NJ","Њ"],
+["a","а"],["b","б"],["c","ц"],["č","ч"],["ć","ћ"],["d","д"],["đ","ђ"],["e","е"],["f","ф"],["g","г"],["h","х"],
+["i","и"],["j","ј"],["k","к"],["l","л"],["m","м"],["n","н"],["o","о"],["p","п"],["r","р"],["s","с"],["š","ш"],
+["t","т"],["u","у"],["v","в"],["z","з"],["ž","ж"],["A","А"],["B","Б"],["C","Ц"],["Č","Ч"],["Ć","Ћ"],["D","Д"],
+["Đ","Ђ"],["E","Е"],["F","Ф"],["G","Г"],["H","Х"],["I","И"],["J","Ј"],["K","К"],["L","Л"],["M","М"],["N","Н"],
+["O","О"],["P","П"],["R","Р"],["S","С"],["Š","Ш"],["T","Т"],["U","У"],["V","В"],["Z","З"],["Ž","Ж"]];
+function toCyr(s){let o="",i=0;while(i<s.length){let hit=null;
+  for(const p of L2C){if(s.startsWith(p[0],i)){hit=p;break;}}
+  if(hit){o+=hit[1];i+=hit[0].length;}else{o+=s[i];i++;}}return o;}
+
+/* ---------- состояние ---------- */
+let entries=[], sha=null, editingId=null;
+const CFG_KEY="frazeoteka.cfg", CACHE_KEY="frazeoteka.cache";
+const cfg=Object.assign({owner:"",repo:"",path:"data/frazeoteka.json",token:""},
+  JSON.parse(localStorage.getItem(CFG_KEY)||"{}"));
+
+const $=id=>document.getElementById(id);
+function say(text,bad){$("msg").innerHTML=text?`<div class="msg${bad?" err":""}">${text}</div>`:"";}
+function setSync(cls,text){$("sync").innerHTML=`<span class="dot ${cls}"></span>${text}`;}
+
+/* ---------- нормализация: схема, совместимая со Slovar ---------- */
+function normalize(r){
+  const latin=(r.headword_latin||r.headword||"").trim();
+  return{
+    id:r.id||Date.now().toString(36)+Math.random().toString(36).slice(2,7),
+    headword_latin:latin,
+    headword_cyrillic:r.headword_cyrillic||toCyr(latin),
+    transcription:r.transcription||"",
+    pos:r.pos||r.type||"izraz",
+    definition_ru:r.definition_ru||"",
+    paradigm:r.paradigm||null,
+    examples:(r.examples||[]).map(e=>({serbian_latin:e.serbian_latin||e.serbian||"",russian:e.russian||e.ru||""})),
+    analogs_ru:r.analogs_ru||[],
+    literal_ru:r.literal_ru||"",
+    register:r.register||"",
+    note:r.note||"",
+    keyword:r.keyword||"",
+    source:r.source||"frazeoteka",
+    created_at:r.created_at||new Date().toISOString()
+  };
+}
+
+/* ---------- GitHub ---------- */
+const b64encode=s=>{const b=new TextEncoder().encode(s);let x="";
+  b.forEach(c=>x+=String.fromCharCode(c));return btoa(x);};
+const b64decode=s=>{const bin=atob(s.replace(/\n/g,""));const u=new Uint8Array(bin.length);
+  for(let i=0;i<bin.length;i++)u[i]=bin.charCodeAt(i);return new TextDecoder().decode(u);};
+
+const ghReady=()=>cfg.owner&&cfg.repo&&cfg.path&&cfg.token;
+const ghUrl=()=>`https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${cfg.path}`;
+const ghHeaders=()=>({Authorization:"Bearer "+cfg.token,Accept:"application/vnd.github+json"});
+
+async function pull(quiet){
+  if(!ghReady()){setSync("d-off","не подключено");return;}
+  setSync("d-off","читаю…");
+  try{
+    const r=await fetch(ghUrl()+"?ref=HEAD&t="+Date.now(),{headers:ghHeaders()});
+    if(r.status===404){sha=null;setSync("d-ok","новый файл");if(!quiet)say("Файла ещё нет — он создастся при первой отправке.");return;}
+    if(!r.ok){const d=await r.json().catch(()=>({}));throw new Error(d.message||("ответ "+r.status));}
+    const d=await r.json();
+    sha=d.sha;
+    const parsed=JSON.parse(b64decode(d.content));
+    entries=(Array.isArray(parsed)?parsed:parsed.entries||[]).map(normalize);
+    cacheLocal();render();
+    setSync("d-ok","синхронизировано");
+    if(!quiet)say(`Загружено записей: ${entries.length}`);
+  }catch(e){setSync("d-bad","ошибка чтения");say("GitHub не отдал файл: "+e.message,true);}
+}
+
+async function push(){
+  if(!ghReady()){say("Сначала заполни настройки GitHub.",true);return;}
+  setSync("d-off","пишу…");
+  const sorted=[...entries].sort((a,b)=>srCompare(a.headword_latin,b.headword_latin));
+  const body={
+    message:`frazeoteka: ${sorted.length} zapisa`,
+    content:b64encode(JSON.stringify({v:1,updated:new Date().toISOString(),entries:sorted},null,2))
+  };
+  if(sha)body.sha=sha;
+  try{
+    let r=await fetch(ghUrl(),{method:"PUT",headers:{...ghHeaders(),"Content-Type":"application/json"},body:JSON.stringify(body)});
+    if(r.status===409||r.status===422){
+      const cur=await fetch(ghUrl()+"?t="+Date.now(),{headers:ghHeaders()});
+      if(cur.ok){const d=await cur.json();body.sha=d.sha;
+        r=await fetch(ghUrl(),{method:"PUT",headers:{...ghHeaders(),"Content-Type":"application/json"},body:JSON.stringify(body)});}
+    }
+    if(!r.ok){const d=await r.json().catch(()=>({}));throw new Error(d.message||("ответ "+r.status));}
+    const d=await r.json();sha=d.content.sha;
+    setSync("d-ok","синхронизировано");
+  }catch(e){setSync("d-bad","не сохранено");say("GitHub не принял запись: "+e.message+" — база пока лежит в браузере, попробуй ещё раз.",true);}
+}
+
+function cacheLocal(){
+  try{localStorage.setItem(CACHE_KEY,JSON.stringify({entries,sha,at:Date.now()}));}catch(e){}
+}
+function loadCache(){
+  try{const c=JSON.parse(localStorage.getItem(CACHE_KEY)||"null");
+    if(c&&c.entries){entries=c.entries.map(normalize);sha=c.sha||null;}}catch(e){}
+}
+
+async function commit(){cacheLocal();render();await push();}
+
+/* ---------- разбор вставленного ---------- */
+function extractEntries(text){
+  let t=text.trim().replace(/```json/gi,"").replace(/```/g,"").trim();
+  const s=t.indexOf("{"),a=t.indexOf("[");
+  const start=(a!==-1&&(a<s||s===-1))?a:s;
+  if(start===-1)throw new Error("В тексте нет JSON.");
+  const openCh=t[start], closeCh=openCh==="{"?"}":"]";
+  const end=t.lastIndexOf(closeCh);
+  const data=JSON.parse(t.slice(start,end+1));
+  if(Array.isArray(data))return data;
+  if(data.entries)return data.entries;
+  return [data];
+}
+
+function addRaw(list){
+  const added=[],dupes=[];
+  for(const raw of list){
+    const e=normalize(raw);
+    if(!e.headword_latin)continue;
+    if(entries.some(x=>x.headword_latin.toLowerCase()===e.headword_latin.toLowerCase())){dupes.push(e.headword_latin);continue;}
+    entries.push(e);added.push(e.headword_latin);
+  }
+  return{added,dupes};
+}
+
+/* ---------- вывод ---------- */
+function toMarkdown(list){
+  const out=["# Srpska frazeoteka",""];let letter=null;
+  for(const e of list){
+    const L=firstLetter(e.headword_latin);
+    if(L!==letter){letter=L;out.push("","## "+L,"");}
+    out.push(`**${e.headword_latin}** — ${e.definition_ru}`);
+    if(e.analogs_ru&&e.analogs_ru.length)out.push(`*Аналоги:* ${e.analogs_ru.join(" • ")}`);
+    if(e.literal_ru)out.push(`*Букв.:* ${e.literal_ru}`);
+    if(e.register)out.push(`*Помета:* ${e.register}`);
+    (e.examples||[]).forEach(x=>out.push("",`> **${x.serbian_latin}**`,`> — ${x.russian}`));
+    if(e.note)out.push("",`*Заметка:* ${e.note}`);
+    out.push("");
+  }
+  return out.join("\n");
+}
+const esc=s=>String(s||"").replace(/[&<>]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+
+function render(){
+  const q=$("search").value.trim().toLowerCase();
+  const sorted=[...entries].sort((a,b)=>srCompare(a.headword_latin,b.headword_latin));
+  const shown=q?sorted.filter(e=>[e.headword_latin,e.headword_cyrillic,e.definition_ru,e.keyword,
+    (e.analogs_ru||[]).join(" "),(e.examples||[]).map(x=>x.serbian_latin+" "+x.russian).join(" ")]
+    .join(" ").toLowerCase().includes(q)):sorted;
+
+  $("count").textContent=entries.length+" zapisa";
+
+  const have=new Set(shown.map(e=>firstLetter(e.headword_latin)));
+  $("rail").innerHTML=ALPHABET.map(l=>{
+    const L=l.length===2?l[0].toUpperCase()+l[1]:l.toUpperCase();
+    return `<button ${have.has(L)?'class="on" data-jump="'+L+'"':"disabled"}>${L}</button>`;}).join("");
+
+  if(!shown.length){
+    $("list").innerHTML=`<div class="empty">${entries.length?
+      "Ничего не нашлось. Попробуй другое слово.":
+      "Картотека пуста.<br>Сделай статью в проекте Claude и вставь сюда блок JSON."}</div>`;
+    return;
+  }
+
+  let letter=null,html="";
+  for(const e of shown){
+    const L=firstLetter(e.headword_latin);
+    if(L!==letter){letter=L;html+=`<div class="sec" id="sec-${L}">${L}</div>`;}
+    html+=`<div class="card">
+      <div class="row">
+        <div style="flex:1"><span class="hw">${esc(e.headword_latin)}</span><span class="def"> — ${esc(e.definition_ru)}</span></div>
+        <div style="display:flex;gap:8px;align-items:center">
+          <span class="tag">${esc(e.pos)}</span>
+          <div class="acts">
+            <button class="mini" data-edit="${e.id}">правка</button>
+            <button class="mini" data-del="${e.id}">удалить</button>
+          </div>
+        </div>
+      </div>
+      ${e.analogs_ru&&e.analogs_ru.length?`<div class="meta"><b>Аналоги:</b> ${esc(e.analogs_ru.join(" • "))}</div>`:""}
+      ${e.literal_ru?`<div class="meta"><b>Букв.:</b> ${esc(e.literal_ru)}</div>`:""}
+      ${e.register?`<div class="meta"><b>Помета:</b> ${esc(e.register)}</div>`:""}
+      ${(e.examples||[]).map(x=>`<div class="box"><div class="sr">${esc(x.serbian_latin)}</div><div class="ru">— ${esc(x.russian)}</div></div>`).join("")}
+      ${e.note?`<div class="note">${esc(e.note)}</div>`:""}
+    </div>`;
+  }
+  $("list").innerHTML=html;
+}
+
+/* ---------- окна ---------- */
+function showOut(title,text){
+  $("out-title").textContent=title;$("out-text").value=text;
+  $("dlg-out").showModal();
+}
+document.addEventListener("click",async ev=>{
+  const t=ev.target;
+  if(t.dataset.close){$(t.dataset.close).close();return;}
+  if(t.dataset.jump){const el=$("sec-"+t.dataset.jump);if(el)el.scrollIntoView({behavior:"smooth",block:"start"});return;}
+  if(t.dataset.del){
+    const e=entries.find(x=>x.id===t.dataset.del);
+    if(e&&confirm(`Удалить «${e.headword_latin}»?`)){entries=entries.filter(x=>x.id!==t.dataset.del);await commit();}
+    return;
+  }
+  if(t.dataset.edit){
+    const e=entries.find(x=>x.id===t.dataset.edit);if(!e)return;
+    editingId=e.id;
+    $("e-hw").value=e.headword_latin;$("e-def").value=e.definition_ru;
+    $("e-an").value=(e.analogs_ru||[]).join(" • ");$("e-reg").value=e.register||"";
+    $("e-ex").value=(e.examples||[]).map(x=>x.serbian_latin+" | "+x.russian).join("\n");
+    $("e-note").value=e.note||"";
+    $("dlg-edit").showModal();
+  }
+});
+
+$("btn-add").onclick=()=>{$("paste").value="";$("dlg-add").showModal();$("paste").focus();};
+$("btn-cfg").onclick=()=>{
+  $("cfg-owner").value=cfg.owner;$("cfg-repo").value=cfg.repo;
+  $("cfg-path").value=cfg.path;$("cfg-token").value=cfg.token;
+  $("dlg-cfg").showModal();
+};
+$("btn-json").onclick=()=>{
+  const sorted=[...entries].sort((a,b)=>srCompare(a.headword_latin,b.headword_latin));
+  showOut("JSON — резервная копия и материал для слияния со Slovar",
+    JSON.stringify({v:1,entries:sorted},null,2));
+};
+$("btn-md").onclick=()=>{
+  const sorted=[...entries].sort((a,b)=>srCompare(a.headword_latin,b.headword_latin));
+  showOut("Markdown — свод статей по алфавиту",toMarkdown(sorted));
+};
+
+$("paste-ok").onclick=async()=>{
+  try{
+    const list=extractEntries($("paste").value);
+    const {added,dupes}=addRaw(list);
+    $("dlg-add").close();
+    await commit();
+    say([added.length?"Добавлено: "+added.join(", "):"",dupes.length?"Уже есть: "+dupes.join(", "):""]
+      .filter(Boolean).join(" · ")||"Ничего не добавилось — в блоке нет заголовочных фраз.");
+  }catch(e){alert("Не разобрал вставленное: "+e.message+"\nНужен блок JSON из чата целиком.");}
+};
+
+$("e-save").onclick=async()=>{
+  const e=entries.find(x=>x.id===editingId);if(!e)return;
+  e.headword_latin=$("e-hw").value.trim();
+  e.headword_cyrillic=toCyr(e.headword_latin);
+  e.definition_ru=$("e-def").value.trim();
+  e.analogs_ru=$("e-an").value.split("•").map(s=>s.trim()).filter(Boolean);
+  e.register=$("e-reg").value.trim();
+  e.note=$("e-note").value.trim();
+  e.examples=$("e-ex").value.split("\n").map(line=>{
+    const [s,r]=line.split("|");return{serbian_latin:(s||"").trim(),russian:(r||"").trim()};
+  }).filter(x=>x.serbian_latin);
+  $("dlg-edit").close();
+  await commit();
+};
+
+$("cfg-save").onclick=async()=>{
+  cfg.owner=$("cfg-owner").value.trim();
+  cfg.repo=$("cfg-repo").value.trim();
+  cfg.path=$("cfg-path").value.trim()||"data/frazeoteka.json";
+  cfg.token=$("cfg-token").value.trim();
+  localStorage.setItem(CFG_KEY,JSON.stringify(cfg));
+  $("dlg-cfg").close();
+  await pull();
+};
+$("cfg-pull").onclick=()=>{$("dlg-cfg").close();pull();};
+$("cfg-push").onclick=async()=>{$("dlg-cfg").close();await push();say("Отправлено в GitHub.");};
+
+$("out-copy").onclick=async()=>{
+  const text=$("out-text").value;
+  try{await navigator.clipboard.writeText(text);$("out-copy").textContent="Скопировано";}
+  catch(e){$("out-text").select();document.execCommand("copy");$("out-copy").textContent="Скопировано";}
+  setTimeout(()=>$("out-copy").textContent="Копировать всё",1500);
+};
+$("out-save").onclick=()=>{
+  const isJson=$("out-title").textContent.startsWith("JSON");
+  const blob=new Blob([$("out-text").value],{type:(isJson?"application/json":"text/markdown")+";charset=utf-8"});
+  const a=document.createElement("a");
+  a.href=URL.createObjectURL(blob);a.download=isJson?"frazeoteka.json":"frazeoteka.md";a.click();
+  setTimeout(()=>URL.revokeObjectURL(a.href),1000);
+};
+
+$("search").oninput=render;
+
+/* ---------- старт ---------- */
+loadCache();render();
+if(ghReady())pull(true);else setSync("d-off","не подключено");
+</script>
+</body>
+</html>
