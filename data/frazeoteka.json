@@ -1,7 +1,61 @@
 {
   "v": 1,
-  "updated": "2026-08-17T23:46:00.730Z",
+  "updated": "2026-08-17T23:48:44.450Z",
   "entries": [
+    {
+      "id": "msxvxddr3b6od",
+      "headword_latin": "Ako je go, ali je soko",
+      "headword_cyrillic": "Ако је го, али је соко",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "гол, да удал",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nema ni dinara, ali drži se — ako je go, ali je soko.",
+          "russian": "Ни динара за душой, а держится: гол, да удал."
+        }
+      ],
+      "analogs_ru": [
+        "гол, да удал",
+        "беден, да честен",
+        "нищ, да горд",
+        "не богат, да славен"
+      ],
+      "literal_ru": "пусть гол, зато сокол",
+      "register": "послов., нар., одобр.; о бедняке, который берёт достоинством, храбростью или статью",
+      "note": "Ловушка для русскоязычного: русское «гол как сокол» значит просто «нищий», и «сокол» там не птица, а стенобитное орудие. Сербская формула птицу имеет в виду буквально и строится на противопоставлении: беден — но орёл. Переводить через «гол как сокол» нельзя, смысл переворачивается. Go здесь «голый» в смысле «нищий», soko — высшая народная похвала мужчине.",
+      "keyword": "soko",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.416Z"
+    },
+    {
+      "id": "msxvxddv97kj8",
+      "headword_latin": "Ako je i koliba, naša je",
+      "headword_cyrillic": "Ако је и колиба, наша је",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "хоть и хижина, да своя",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije velika, ali je naša — ako je i koliba, naša je.",
+          "russian": "Невелика, зато своя: хоть и хижина, да своя."
+        }
+      ],
+      "analogs_ru": [
+        "хоть худ дом, да свой",
+        "своя хатка — родная матка",
+        "всякому мила своя сторона",
+        "дома и стены помогают"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., тепло-одобр.; о доме, крае, семье — обо всём своём, чего не меняют на чужое лучшее",
+      "note": "См. также: SVUDA POĐI, KUĆI DOĐI.",
+      "keyword": "koliba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.419Z"
+    },
     {
       "id": "msxlnru7li7gr",
       "headword_latin": "Ako je izgubljena jedna bitka, nije izgubljen i rat",
@@ -27,6 +81,58 @@
       "keyword": "bitka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.431Z"
+    },
+    {
+      "id": "msxvxddwtisey",
+      "headword_latin": "Ako je neko lud, ne budi mu drug",
+      "headword_cyrillic": "Ако је неко луд, не буди му друг",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "с дураком не связывайся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne idi s njima u to — ako je neko lud, ne budi mu drug.",
+          "russian": "Не лезь ты с ними в это: с дураком не связывайся."
+        }
+      ],
+      "analogs_ru": [
+        "с дураком связаться — самому в дураках остаться",
+        "свяжись с дураком, сам дураком станешь",
+        "с кем поведёшься, от того и наберёшься"
+      ],
+      "literal_ru": "",
+      "register": "послов., назидат.; варианты зачина ako je ko lud, ako je neko lud",
+      "note": "Держится на рифме lud — drug. См. также: BUDALU NI JEBI NI KUĆI VODI — то же, но грубо.",
+      "keyword": "lud",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.420Z"
+    },
+    {
+      "id": "msxvxddwbburv",
+      "headword_latin": "Ako mi ne možeš pomoći, nemoj mi odmagati",
+      "headword_cyrillic": "Ако ми не можеш помоћи, немој ми одмагати",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "не помогаешь — так не мешай",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da komentarišeš — ako mi ne možeš pomoći, nemoj mi odmagati.",
+          "russian": "Не комментируй: не помогаешь — так не мешай."
+        }
+      ],
+      "analogs_ru": [
+        "не помогаешь — не мешай",
+        "без тебя тошно",
+        "спасибо, я сам"
+      ],
+      "literal_ru": "",
+      "register": "разг., резк.-просительн.; ходовая живая реплика, не только пословица",
+      "note": "Держится на паре pomoći — odmagati, где второй глагол существует ровно как антоним первому: «мешать, вредить помощью наоборот».",
+      "keyword": "pomoći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.420Z"
     },
     {
       "id": "msxlnru8phvsg",
@@ -131,6 +237,32 @@
       "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
+      "id": "msxvxddw02sem",
+      "headword_latin": "Ako neće zlo od tebe, beži ti od zla",
+      "headword_cyrillic": "Ако неће зло од тебе, бежи ти од зла",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "от греха подальше",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne moraš da dokazuješ ništa — ako neće zlo od tebe, beži ti od zla.",
+          "russian": "Ничего ты не обязан доказывать: от греха подальше."
+        }
+      ],
+      "analogs_ru": [
+        "от греха подальше",
+        "не тронь лихо, пока спит тихо",
+        "подальше от беды"
+      ],
+      "literal_ru": "если зло не уходит от тебя, уходи ты от зла",
+      "register": "послов., нар.; совет отступить, а не ввязываться — без укора в трусости",
+      "note": "",
+      "keyword": "zlo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.420Z"
+    },
+    {
       "id": "msxlnru8hw2dk",
       "headword_latin": "Ako nećeš ti, hoće druge tri",
       "headword_cyrillic": "Ако нећеш ти, хоће друге три",
@@ -180,6 +312,84 @@
       "keyword": "protivnik",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxvxddx1mqzh",
+      "headword_latin": "Ako ti mogu kupiti kapu, pamet ne mogu",
+      "headword_cyrillic": "Ако ти могу купити капу, памет не могу",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "шапку купить можно, ума не купишь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Diplomu je platio, ali ako ti mogu kupiti kapu, pamet ne mogu.",
+          "russian": "Диплом-то купил, да ума не купишь."
+        }
+      ],
+      "analogs_ru": [
+        "ума не купишь",
+        "дураку и золото не впрок",
+        "не в шапке дело"
+      ],
+      "literal_ru": "",
+      "register": "послов., ирон.; часто в адрес того, кто взялся не за своё дело или щеголяет положением без соответствующей головы",
+      "note": "",
+      "keyword": "pamet",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.421Z"
+    },
+    {
+      "id": "msxvxddxbnyvp",
+      "headword_latin": "Ako znaš šta ti je bilo, ne znaš šta će ti biti",
+      "headword_cyrillic": "Ако знаш шта ти је било, не знаш шта ће ти бити",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "что было — знаешь, что будет — нет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne kuni sudbinu — ako znaš šta ti je bilo, ne znaš šta će ti biti.",
+          "russian": "Не кляни судьбу: что было — знаешь, что будет — нет."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "никто не знает, что его ждёт",
+        "человек предполагает, а Бог располагает",
+        "не загадывай наперёд"
+      ],
+      "literal_ru": "",
+      "register": "послов., фаталист.",
+      "note": "Предостережение самонадеянным и утешение отчаявшимся одновременно.",
+      "keyword": "biti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.421Z"
+    },
+    {
+      "id": "msxvxddxc3bju",
+      "headword_latin": "Ako ženu tučeš, svoju sreću tučeš",
+      "headword_cyrillic": "Ако жену тучеш, своју срећу тучеш",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "бьёшь жену — бьёшь своё счастье",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kod nas se oduvek govorilo: ako ženu tučeš, svoju sreću tučeš.",
+          "russian": "У нас испокон говорили: бьёшь жену — бьёшь своё счастье."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "где жену бьют, там счастья нет"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., осуждающ.; входит в основные своды сербских народных пословиц (Викицитат, Викикњиге и др.)",
+      "note": "Редкий в фольклоре случай прямого осуждения домашнего насилия — рядом с ним в тех же сборниках стоят формулы противоположного духа, вроде batina je iz raja izašla. В одном ряду идёт и u kojoj kući muž ženu bije, tu sreće nije.",
+      "keyword": "žena",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.421Z"
     },
     {
       "id": "msxlnru8vqj6o",
@@ -363,6 +573,32 @@
       "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
+      "id": "msxvxddyr8mlo",
+      "headword_latin": "Beži kud ti je volja, od sebe ne utečeš",
+      "headword_cyrillic": "Бежи куд ти је воља, од себе не утечеш",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "от себя не убежишь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Preselio se u treću zemlju, a isto mu je — beži kud ti je volja, od sebe ne utečeš.",
+          "russian": "Переехал в третью страну, и всё то же: от себя не убежишь."
+        }
+      ],
+      "analogs_ru": [
+        "от себя не убежишь",
+        "куда ни поедешь, себя увезёшь с собой",
+        "от своей тени не уйдёшь"
+      ],
+      "literal_ru": "",
+      "register": "послов.; чаще о переезде и о попытке начать с чистого листа",
+      "note": "В записи была иекавская форма bježi… ne utječe; сербский стандарт beži… ne utečeš.",
+      "keyword": "bežati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.422Z"
+    },
+    {
       "id": "msxkiw6xa0khe",
       "headword_latin": "Bilo i bitisalo",
       "headword_cyrillic": "Било и битисало",
@@ -413,6 +649,32 @@
       "keyword": "poludeti",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxvxddy2mtgf",
+      "headword_latin": "Blago onome ko zna da ne zna, a hoće da zna",
+      "headword_cyrillic": "Благо ономе ко зна да не зна, а хоће да зна",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "блажен, кто знает, чего не знает, и хочет узнать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pitaj slobodno — blago onome ko zna da ne zna, a hoće da zna.",
+          "russian": "Спрашивай смело: не стыдно не знать, стыдно не учиться."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "я знаю, что ничего не знаю",
+        "не стыдно не знать, стыдно не учиться"
+      ],
+      "literal_ru": "",
+      "register": "послов.-афор., одобр.",
+      "note": "Сербская народная параллель сократовской формулы. Модель blago onome ko… та же, что в шутливом blago onom ko rano poludi, но здесь всерьёз. См. также: BLAGO ONOM KO RANO POLUDI.",
+      "keyword": "znati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:48:44.422Z"
     },
     {
       "id": "msxlnru8l86m9",
