@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T23:51:43.728Z",
+  "updated": "2026-08-17T23:54:46.006Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -1255,6 +1255,59 @@
       "created_at": "2026-08-17T23:51:43.700Z"
     },
     {
+      "id": "msxw54d07htdb",
+      "headword_latin": "Bolje se s junakom biti nego s rđom ljubiti",
+      "headword_cyrillic": "Боље се с јунаком бити него с рђом љубити",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше с храбрым драться, чем с трусом целоваться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Radije bih se sukobio s njim nego bio u savezu s ovima — bolje se s junakom biti nego s rđom ljubiti.",
+          "russian": "Уж лучше с ним схлестнуться, чем с этими в союзе: лучше с храбрым драться, чем с трусом целоваться."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "лучше с умным потерять, чем с дураком найти",
+        "с подлецом и дружба в тягость",
+        "лучше честный враг, чем ненадёжный друг"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.",
+      "note": "biti se здесь «биться, драться»; rđa — не «ржавчина», а «дрянь, ничтожество, трус». Оба слова в этих значениях вне пословиц почти не живут.",
+      "keyword": "junak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.973Z"
+    },
+    {
+      "id": "msxw54d2x51dy",
+      "headword_latin": "Bolje slep očima nego slep pameću",
+      "headword_cyrillic": "Боље слеп очима него слеп памећу",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше слепой глазами, чем слепой умом",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve mu je pred nosom, a ne vidi — bolje slep očima nego slep pameću.",
+          "russian": "Всё у него под носом, а не видит: лучше слепой глазами, чем слепой умом."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "не тот слеп, кто не видит, а тот, кто видеть не хочет",
+        "глупость хуже слепоты"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; о добровольной слепоте — нежелании понимать очевидное",
+      "note": "",
+      "keyword": "slep",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.974Z"
+    },
+    {
       "id": "msxl6oyrflwxb",
       "headword_latin": "Bolje vrabac u ruci nego golub na grani",
       "headword_cyrillic": "Боље врабац у руци него голуб на грани",
@@ -1305,6 +1358,85 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "msxw54d2crr2a",
+      "headword_latin": "Bolji je dobar glas nego zlatan pas",
+      "headword_cyrillic": "Бољи је добар глас него златан пас",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "добрая слава дороже золотого пояса",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije se prodao ni za šta — bolji je dobar glas nego zlatan pas.",
+          "russian": "Ни за что не продался: добрая слава дороже золотого пояса."
+        }
+      ],
+      "analogs_ru": [
+        "добрая слава дороже богатства",
+        "доброе имя лучше богатства",
+        "честь дороже денег"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; держится на рифме glas — pas",
+      "note": "Ловушка: pas здесь не «собака», а устаревшее «пояс» (ср. pojas, opasati). Золотой пояс — старинный знак богатства и чина, так что пословица противопоставляет репутацию имуществу. Русскоязычные регулярно переводят её как «лучше добрая слава, чем золотая собака» — бессмыслица, которой в оригинале нет. См. также: DOBAR GLAS DALEKO SE ČUJE.",
+      "keyword": "glas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.974Z"
+    },
+    {
+      "id": "msxw54d3s1v52",
+      "headword_latin": "Bolji je i crn komad nego prazna torba",
+      "headword_cyrillic": "Бољи је и црн комад него празна торба",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше чёрствый кусок, чем пустая сума",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzmi taj posao za sada — bolji je i crn komad nego prazna torba.",
+          "russian": "Возьми пока эту работу: лучше чёрствый кусок, чем пустая сума."
+        }
+      ],
+      "analogs_ru": [
+        "лучше хоть что-то, чем ничего",
+        "чёрный хлеб лучше пустого стола",
+        "на безрыбье и рак рыба"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; crn komad — краюха чёрного хлеба, еда бедняка",
+      "note": "В записи было kolac «кол» — очевидная описка вместо komad: в сборниках устойчиво стоит именно кусок хлеба, что и даёт смысл в паре с сумой. Рядом в тех же сводах идёт torba je najteža kada je prazna «тяжелее всего сума, когда пуста». См. также: BOLJE IŠTA NEGO NIŠTA.",
+      "keyword": "torba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.975Z"
+    },
+    {
+      "id": "msxw54d30n7aw",
+      "headword_latin": "Brat brata nad jamu vodi, ali ga u jamu ne meće",
+      "headword_cyrillic": "Брат брата над јаму води, али га у јаму не меће",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "брат брата до края доведёт, но не столкнёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Posvađali su se oko imanja, ali će se pomiriti — brat brata nad jamu vodi, ali ga u jamu ne meće.",
+          "russian": "Из-за наследства разругались, но помирятся: брат брата до края доведёт, да не столкнёт."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "свои собаки грызутся, чужая не приставай",
+        "кровь не вода",
+        "брат брату не враг до конца"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; о пределе родственной вражды",
+      "note": "Свои могут довести до беды, но последнего шага не сделают. См. также: SVOJE SE MESO NE JEDE.",
+      "keyword": "brat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.975Z"
+    },
+    {
       "id": "msxl6oyscdom7",
       "headword_latin": "Brat je mio ma koje vere bio",
       "headword_cyrillic": "Брат је мио ма које вере био",
@@ -1328,6 +1460,30 @@
       "keyword": "brat",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxw54d4tv3gm",
+      "headword_latin": "Brdo se s brdom ne može sastati, a živi se ljudi sastanu",
+      "headword_cyrillic": "Брдо се с брдом не може састати, а живи се људи састану",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "гора с горой не сходится, а человек с человеком сойдётся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisam te video deset godina! Brdo se s brdom ne može sastati, a živi se ljudi sastanu.",
+          "russian": "Десять лет тебя не видел! Гора с горой не сходится, а человек с человеком сойдётся."
+        }
+      ],
+      "analogs_ru": [
+        "гора с горой не сходится, а человек с человеком сойдётся"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; при неожиданной встрече и как обещание «ещё увидимся», иногда с угрозой",
+      "note": "Совпадение с русским полное, включая структуру — редкий подарок при переводе.",
+      "keyword": "brdo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.976Z"
     },
     {
       "id": "msxlnru8v9e2j",
@@ -1354,6 +1510,32 @@
       "keyword": "jezik",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "msxw54d4tt1ca",
+      "headword_latin": "Buči više ko manje razloga ima",
+      "headword_cyrillic": "Бучи више ко мање разлога има",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "пустая бочка громче гремит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Najglasniji je onaj koji ništa ne zna — buči više ko manje razloga ima.",
+          "russian": "Громче всех тот, кто ничего не знает: пустая бочка громче гремит."
+        }
+      ],
+      "analogs_ru": [
+        "пустая бочка пуще гремит",
+        "в пустой бочке звону много",
+        "кто громче кричит, тот меньше знает"
+      ],
+      "literal_ru": "шумит больше тот, у кого меньше оснований",
+      "register": "послов., неодобр.",
+      "note": "Запись buči većma tko — хорватская: većma «более» устарело и в Сербии не употребляется, tko — хорватская форма при сербском ko.",
+      "keyword": "bučiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.976Z"
     },
     {
       "id": "msxmobcr7ljnv",
@@ -1432,6 +1614,32 @@
       "created_at": "2026-08-17T19:29:45.341Z"
     },
     {
+      "id": "msxw54d4y5rqe",
+      "headword_latin": "Čija sila, toga i pravda",
+      "headword_cyrillic": "Чија сила, тога и правда",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "чья сила, того и правда",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sud je presudio kako su hteli — čija sila, toga i pravda.",
+          "russian": "Суд решил как им было нужно: чья сила, того и правда."
+        }
+      ],
+      "analogs_ru": [
+        "кто сильнее, тот и прав",
+        "у сильного всегда бессильный виноват",
+        "закон что дышло"
+      ],
+      "literal_ru": "",
+      "register": "послов., горькая, констатирующ.; частотна в политических комментариях",
+      "note": "См. также: SILA BOGA NE MOLI.",
+      "keyword": "sila",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.976Z"
+    },
+    {
       "id": "msxmobct5kuvu",
       "headword_latin": "Čist račun, duga ljubav",
       "headword_cyrillic": "Чист рачун, дуга љубав",
@@ -1483,6 +1691,33 @@
       "created_at": "2026-08-17T19:29:45.342Z"
     },
     {
+      "id": "msxw54d5xk0ma",
+      "headword_latin": "Čovek je tvrđi od kamena, a slabiji od jajeta",
+      "headword_cyrillic": "Човек је тврђи од камена, а слабији од јајета",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "человек твёрже камня и слабее яйца",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Preživeo je sve, a slomio ga je jedan telefonski poziv — čovek je tvrđi od kamena, a slabiji od jajeta.",
+          "russian": "Пережил всё, а сломал его один телефонный звонок: человек твёрже камня и слабее яйца."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "человек не камень, да покрепче камня",
+        "ко всему привыкает",
+        "и крепок, и хрупок разом"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; одна из самых цитируемых сербских формул о человеческой природе",
+      "note": "О том, что человек выносит невыносимое, но ломается от пустяка.",
+      "keyword": "kamen",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.977Z"
+    },
+    {
       "id": "msxmobcugleg1",
       "headword_latin": "Čovek se uči dok je živ",
       "headword_cyrillic": "Човек се учи док је жив",
@@ -1532,6 +1767,32 @@
       "keyword": "učiti",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:46:00.693Z"
+    },
+    {
+      "id": "msxw54d5hf2kq",
+      "headword_latin": "Čovek želi da je od svakoga bolji, a od sina da je gori",
+      "headword_cyrillic": "Човек жели да је од свакога бољи, а од сина да је гори",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "всякий хочет быть лучше всех, а сына — чтобы тот был лучше его",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne ljuti se što ga je prestigao — čovek želi da je od svakoga bolji, a od sina da je gori.",
+          "russian": "Он не в обиде, что сын его обошёл: всякий хочет быть лучше всех, а сына — чтобы тот был лучше его."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "всякий отец хочет, чтобы сын его перерос",
+        "дети должны жить лучше нас"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., тепло-ирон.",
+      "note": "Единственное исключение из общечеловеческого тщеславия — собственный сын.",
+      "keyword": "sin",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T23:54:45.978Z"
     },
     {
       "id": "msxkvbpsguqok",
