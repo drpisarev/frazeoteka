@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T18:43:14.074Z",
+  "updated": "2026-08-17T18:48:03.563Z",
   "entries": [
     {
       "id": "msxl0hli94wlx",
@@ -28,6 +28,32 @@
       "keyword": "dlaka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxl6oysz72l3",
+      "headword_latin": "Bez muke nema nauke",
+      "headword_cyrillic": "Без муке нема науке",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "без труда не вытащишь и рыбку из пруда",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uči, sine, bez muke nema nauke.",
+          "russian": "Учись, сынок, без труда не вытащишь и рыбку из пруда."
+        }
+      ],
+      "analogs_ru": [
+        "без труда не вытащишь и рыбку из пруда",
+        "без муки нет науки",
+        "терпение и труд всё перетрут"
+      ],
+      "literal_ru": "без мучения нет учения",
+      "register": "послов., общеупотр.; часто как назидание ученику",
+      "note": "Русское «без муки нет науки» существует, но малоупотребительно — в переводе лучше брать «рыбку из пруда».",
+      "keyword": "muka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
       "id": "msxkiw6xa0khe",
@@ -110,6 +136,105 @@
       "keyword": "bog",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxl6oysvawv5",
+      "headword_latin": "Bolje ikad nego nikad",
+      "headword_cyrillic": "Боље икад него никад",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше поздно, чем никогда",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Stigao si posle svih, ali bolje ikad nego nikad.",
+          "russian": "Пришёл последним, но лучше поздно, чем никогда."
+        }
+      ],
+      "analogs_ru": [
+        "лучше поздно, чем никогда"
+      ],
+      "literal_ru": "лучше когда-нибудь, чем никогда",
+      "register": "послов., общеупотр.; часто с лёгким упрёком в адрес опоздавшего",
+      "note": "Не смешивать с kad-tad: там о неотвратимом, здесь о запоздалом. См. также: KAD-TAD.",
+      "keyword": "ikad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxl6oyrflwxb",
+      "headword_latin": "Bolje vrabac u ruci nego golub na grani",
+      "headword_cyrillic": "Боље врабац у руци него голуб на грани",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше синица в руках, чем журавль в небе",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzmi tu ponudu, bolje vrabac u ruci.",
+          "russian": "Соглашайся, лучше синица в руках."
+        }
+      ],
+      "analogs_ru": [
+        "лучше синица в руках, чем журавль в небе",
+        "не сули журавля в небе, дай синицу в руки"
+      ],
+      "literal_ru": "лучше воробей в руке, чем голубь на ветке",
+      "register": "послов., общеупотр.; часто усечённо, вторая часть подразумевается",
+      "note": "В русском аналоге птицы другие: синица и журавль вместо воробья и голубя.",
+      "keyword": "vrabac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.555Z"
+    },
+    {
+      "id": "msxl6oysa54za",
+      "headword_latin": "Bolje živa kukavica nego mrtav heroj",
+      "headword_cyrillic": "Боље жива кукавица него мртав херој",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лучше живой трус, чем мёртвый герой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neću ja tamo, bolje živa kukavica nego mrtav heroj.",
+          "russian": "Я туда не полезу: лучше живой трус, чем мёртвый герой."
+        }
+      ],
+      "analogs_ru": [
+        "лучше живой трус, чем мёртвый герой",
+        "героем быть хорошо, да живым лучше"
+      ],
+      "literal_ru": "",
+      "register": "послов.-разг., шутл.-цинич.; чаще как самооправдание при отказе рисковать",
+      "note": "Поправка: перевод «кукушка» ошибочен. Kukavica омонимично: 1. кукушка; 2. трус, малодушный человек — здесь только второе. Форма živa женского рода потому, что само слово kukavica женского рода, независимо от пола того, о ком речь; в норме mrtav heroj, не mrtvi.",
+      "keyword": "kukavica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxl6oyscdom7",
+      "headword_latin": "Brat je mio ma koje vere bio",
+      "headword_cyrillic": "Брат је мио ма које вере био",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "брат мил, какой бы веры ни был",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kod nas se oduvek govorilo: brat je mio ma koje vere bio.",
+          "russian": "У нас испокон говорили: брат мил, какой бы веры ни был."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "не спрашивай веры, спрашивай человека"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; призыв к веротерпимости; в новейшее время частотно в публицистике и политической риторике",
+      "note": "Восходит к многоконфессиональному прошлому Балкан. Переводить лучше буквально: подстановка «все люди братья» стирает конкретный конфессиональный смысл.",
+      "keyword": "brat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
       "id": "msxkvbpsguqok",
@@ -280,6 +405,32 @@
       "created_at": "2026-08-17T18:37:24.762Z"
     },
     {
+      "id": "msxl6oyratm5p",
+      "headword_latin": "Kad na vrbi rodi grožđe",
+      "headword_cyrillic": "Кад на врби роди грожђе",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "когда рак на горе свистнет; после дождичка в четверг",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Oženiće se on kad na vrbi rodi grožđe.",
+          "russian": "Женится он, когда рак на горе свистнет."
+        }
+      ],
+      "analogs_ru": [
+        "когда рак на горе свистнет",
+        "после дождичка в четверг",
+        "до второго пришествия"
+      ],
+      "literal_ru": "когда на иве уродится виноград",
+      "register": "послов.-разг., шутл.-ирон.; классический общесербский вариант",
+      "note": "См. также: KAD BANDERA OLISTA — городской новый вариант того же образа невозможного события.",
+      "keyword": "vrba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.555Z"
+    },
+    {
       "id": "msxkiw6xe5rip",
       "headword_latin": "Kad-tad",
       "headword_cyrillic": "Кад-тад",
@@ -332,6 +483,159 @@
       "keyword": "kruška",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxl6oysywa89",
+      "headword_latin": "Ko čeka, dočeka",
+      "headword_cyrillic": "Ко чека, дочека",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кто ждёт, тот дождётся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Strpi se, ko čeka, dočeka.",
+          "russian": "Потерпи, кто ждёт, тот дождётся."
+        }
+      ],
+      "analogs_ru": [
+        "кто ждёт, тот дождётся",
+        "терпение вознаграждается",
+        "всякому овощу своё время"
+      ],
+      "literal_ru": "",
+      "register": "послов., ободряющ.; краткая формула-утешение, часто как ответ нетерпеливому",
+      "note": "Поправка: «Терпение и труд всё перетрут» смещает акцент на усилие, которого в сербской пословице нет — здесь только ожидание.",
+      "keyword": "čekati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxl6oys8u7zv",
+      "headword_latin": "Ko peva, zlo ne misli",
+      "headword_cyrillic": "Ко пева, зло не мисли",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кто поёт, тот зла не держит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pusti ga da peva, ko peva, zlo ne misli.",
+          "russian": "Пусть поёт, кто поёт, тот зла не держит."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "злой человек песен не поёт"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.",
+      "note": "Известна и как название фильма Шияна (1970), что закрепило её в культурном обиходе. В русском такого концепта нет — пение как доказательство чистоты помыслов связано с кафанской традицией.",
+      "keyword": "pevati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxl6oyrj2ukb",
+      "headword_latin": "Ko rano rani, dve sreće grabi",
+      "headword_cyrillic": "Ко рано рани, две среће граби",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кто рано встаёт, тому Бог подаёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ko rano rani, dve sreće grabi — zato ustaj.",
+          "russian": "Кто рано встаёт, тому Бог подаёт — так что подъём."
+        }
+      ],
+      "analogs_ru": [
+        "кто рано встаёт, тому Бог подаёт",
+        "ранняя пташка носок прочищает"
+      ],
+      "literal_ru": "кто рано встаёт, две удачи хватает",
+      "register": "послов., общеупотр.",
+      "note": "Шутливое народное продолжение: …a ko kasno rani, tri — как отговорка сони.",
+      "keyword": "raniti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.555Z"
+    },
+    {
+      "id": "msxl6oysdneor",
+      "headword_latin": "Ko sa đavolom tikve sadi, o glavu mu se razbijaju",
+      "headword_cyrillic": "Ко са ђаволом тикве сади, о главу му се разбијају",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "связался с чёртом — пеняй на себя",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ušao je u posao s njima, a ko sa đavolom tikve sadi…",
+          "russian": "Связался с ними, а связался с чёртом — пеняй на себя."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "связался с чёртом, пеняй на себя",
+        "не клади чёрту палец в рот",
+        "с кем поведёшься, от того и наберёшься"
+      ],
+      "literal_ru": "кто с дьяволом тыквы сажает, о голову ему разбиваются",
+      "register": "послов., неодобр.-предостерег.; часто усечённо: ko sa đavolom tikve sadi…",
+      "note": "Поправка: «С волками жить — по-волчьи выть» не подходит. Русская пословица о вынужденном приспособлении к среде, сербская — о неминуемой расплате за союз с дурным человеком: смысл не в том, что ты станешь как он, а в том, что достанется тебе же.",
+      "keyword": "đavo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxl6oyrkm1aw",
+      "headword_latin": "Ko se zadnji smeje, najslađe se smeje",
+      "headword_cyrillic": "Ко се задњи смеје, најслађе се смеје",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "хорошо смеётся тот, кто смеётся последним",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne likuj još, ko se zadnji smeje, najslađe se smeje.",
+          "russian": "Рано радуешься: хорошо смеётся тот, кто смеётся последним."
+        }
+      ],
+      "analogs_ru": [
+        "хорошо смеётся тот, кто смеётся последним"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.",
+      "note": "В пословице закрепилось zadnji, хотя в строгой норме при указании порядка предпочтительнее poslednji.",
+      "keyword": "smejati se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.555Z"
+    },
+    {
+      "id": "msxl6oyss4m60",
+      "headword_latin": "Mi o vuku, a vuk na vrata",
+      "headword_cyrillic": "Ми о вуку, а вук на врата",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "лёгок на помине; про волка речь, а он навстречь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mi o vuku, a vuk na vrata — evo ga baš on.",
+          "russian": "Лёгок на помине — вот и он."
+        }
+      ],
+      "analogs_ru": [
+        "лёгок на помине",
+        "про волка речь, а он навстречь",
+        "про серого речь, а серый навстречь"
+      ],
+      "literal_ru": "мы о волке, а волк у дверей",
+      "register": "послов.-разг., шутл.; произносится в момент появления того, о ком говорили",
+      "note": "Поправка: русский эквивалент есть, причём с тем же волком — «про волка речь, а он навстречь»; в обиходе чаще «лёгок на помине».",
+      "keyword": "vuk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
       "id": "msxkww9ootqi5",
@@ -508,6 +812,58 @@
       "created_at": "2026-08-17T18:33:17.251Z"
     },
     {
+      "id": "msxl6oyr8akiw",
+      "headword_latin": "Svaka ptica svome jatu leti",
+      "headword_cyrillic": "Свака птица своме јату лети",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "рыбак рыбака видит издалека; свой своему поневоле брат",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Svaka ptica svome jatu leti, pa se i oni našli.",
+          "russian": "Рыбак рыбака видит издалека — вот и сошлись."
+        }
+      ],
+      "analogs_ru": [
+        "рыбак рыбака видит издалека",
+        "свой своему поневоле брат",
+        "масть к масти подбирается"
+      ],
+      "literal_ru": "каждая птица к своей стае летит",
+      "register": "послов., нейтр.; иногда с оттенком неодобрения — о нежелательной компании",
+      "note": "",
+      "keyword": "ptica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxl6oyszvk82",
+      "headword_latin": "Svuda pođi, kući dođi",
+      "headword_cyrillic": "Свуда пођи, кући дођи",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "в гостях хорошо, а дома лучше",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Obišao pola sveta, ali svuda pođi, kući dođi.",
+          "russian": "Полмира объездил, а в гостях хорошо, а дома лучше."
+        }
+      ],
+      "analogs_ru": [
+        "в гостях хорошо, а дома лучше",
+        "всякому мила своя сторона",
+        "где родился, там и пригодился"
+      ],
+      "literal_ru": "всюду сходи, домой приди",
+      "register": "послов., нар.; две формы императива в рифму, порядок частей неизменен",
+      "note": "",
+      "keyword": "kuća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
       "id": "msxl0hlirujo9",
       "headword_latin": "Tražiti dlaku u jajetu",
       "headword_cyrillic": "Тражити длаку у јајету",
@@ -533,6 +889,58 @@
       "keyword": "dlaka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxl6oysta66e",
+      "headword_latin": "Veselo srce pola zdravlja",
+      "headword_cyrillic": "Весело срце пола здравља",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "весёлое сердце — половина здоровья",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nasmej se malo, veselo srce pola zdravlja.",
+          "russian": "Улыбнись, весёлое сердце — половина здоровья."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "весёлому жить хочется, помирать не хочется",
+        "смех — лучшее лекарство"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., одобр.; безглагольная формула, связка je опускается",
+      "note": "",
+      "keyword": "srce",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "msxl6oysbytjq",
+      "headword_latin": "Vuk dlaku menja, ali ćud nikada",
+      "headword_cyrillic": "Вук длаку мења, али ћуд никада",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "волк линяет, да нрава не меняет; горбатого могила исправит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Obećava da će se promeniti, ali vuk dlaku menja, a ćud nikada.",
+          "russian": "Обещает измениться, да горбатого могила исправит."
+        }
+      ],
+      "analogs_ru": [
+        "волк линяет, а нрав не меняет",
+        "горбатого могила исправит",
+        "сколько волка ни корми, он всё в лес смотрит"
+      ],
+      "literal_ru": "",
+      "register": "послов., неодобр.; часто как приговор человеку, обещавшему исправиться",
+      "note": "",
+      "keyword": "vuk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
       "id": "msxknp378iezv",
