@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T16:02:46.293Z",
+  "updated": "2026-08-18T16:05:51.404Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -2394,32 +2394,6 @@
       "register": "послов., общеупотр.",
       "note": "",
       "keyword": "gvožđe",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T19:29:45.346Z"
-    },
-    {
-      "id": "msxmobcyxddx1",
-      "headword_latin": "Hodže i popovi, najgori lopovi",
-      "headword_cyrillic": "Хоџе и попови, најгори лопови",
-      "transcription": "",
-      "pos": "poslovica",
-      "definition_ru": "попы да муллы — первые воры",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Deda je govorio: hodže i popovi, najgori lopovi.",
-          "russian": "Дед говорил: попы да муллы — первые воры."
-        }
-      ],
-      "analogs_ru": [
-        "точного русского фразеологизма нет",
-        "поп да петух и не евши поют",
-        "у попа глаза завидущие, руки загребущие"
-      ],
-      "literal_ru": "",
-      "register": "груб., антиклерик., рифмов.; в приличном разговоре и при верующих не произносится",
-      "note": "",
-      "keyword": "pop",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
     },
