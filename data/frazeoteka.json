@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T15:46:20.181Z",
+  "updated": "2026-08-18T15:46:30.838Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -994,32 +994,6 @@
       "keyword": "išta",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
-    },
-    {
-      "id": "msxw17psl2uqj",
-      "headword_latin": "Bolje je imati rđavu godinu nego rđava suseda",
-      "headword_cyrillic": "Боље је имати рђаву годину него рђава суседа",
-      "transcription": "",
-      "pos": "poslovica",
-      "definition_ru": "лучше неурожайный год, чем дурной сосед",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Selimo se zbog njih — bolje je imati rđavu godinu nego rđava suseda.",
-          "russian": "Из-за них переезжаем: лучше неурожайный год, чем дурной сосед."
-        }
-      ],
-      "analogs_ru": [
-        "не купи дом, купи соседа",
-        "худой сосед хуже неурожая",
-        "сосед не выбирается"
-      ],
-      "literal_ru": "",
-      "register": "послов., нар.",
-      "note": "rđava godina — именно неурожайный год, а не «плохой» в общем смысле: год пройдёт, сосед останется, в этом вся мысль. В записи была иекавская форма susjeda.",
-      "keyword": "sused",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T23:51:43.696Z"
     },
     {
       "id": "msxw17pt6rlht",
