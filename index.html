@@ -85,10 +85,10 @@ a{color:var(--teal)}
     <div class="tools">
       <span class="status" id="sync"><span class="dot d-off"></span>не подключено</span>
       <span class="mono" id="count">0 zapisa</span>
-      <button id="btn-add">Добавить</button>
+      <button id="btn-add" class="editor-only">Добавить</button>
       <button id="btn-json">JSON</button>
       <button id="btn-md">MD</button>
-      <button id="btn-cfg">GitHub</button>
+      <button id="btn-cfg" class="editor-only">GitHub</button>
     </div>
   </header>
 
@@ -235,6 +235,22 @@ const ghReady=()=>cfg.owner&&cfg.repo&&cfg.path&&cfg.token;
 const ghUrl=()=>`https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${cfg.path}`;
 const ghHeaders=()=>({Authorization:"Bearer "+cfg.token,Accept:"application/vnd.github+json"});
 
+/* ---------- анонимное чтение: для всех, без токена ---------- */
+const PUBLIC_PATH=cfg.path||"data/frazeoteka.json";
+async function pullPublic(){
+  try{
+    const r=await fetch("./"+PUBLIC_PATH+"?t="+Date.now(),{cache:"no-store"});
+    if(!r.ok)return false;
+    const parsed=await r.json();
+    const list=Array.isArray(parsed)?parsed:(parsed.entries||[]);
+    if(!list.length)return false;
+    entries=list.map(normalize);
+    render();
+    setSync("d-ok","только чтение");
+    return true;
+  }catch(e){return false;}
+}
+
 async function pull(quiet){
   if(!ghReady()){setSync("d-off","не подключено");return;}
   setSync("d-off","читаю…");
@@ -344,7 +360,7 @@ function render(){
   if(!shown.length){
     $("list").innerHTML=`<div class="empty">${entries.length?
       "Ничего не нашлось. Попробуй другое слово.":
-      "Картотека пуста.<br>Сделай статью в проекте Claude и вставь сюда блок JSON."}</div>`;
+      (canEdit?"Картотека пуста.<br>Сделай статью в проекте Claude и вставь сюда блок JSON.":"База загружается…")}</div>`;
     return;
   }
 
@@ -357,10 +373,10 @@ function render(){
         <div style="flex:1"><span class="hw">${esc(e.headword_latin)}</span><span class="def"> — ${esc(e.definition_ru)}</span></div>
         <div style="display:flex;gap:8px;align-items:center">
           <span class="tag">${esc(e.pos)}</span>
-          <div class="acts">
+          ${canEdit?`<div class="acts">
             <button class="mini" data-edit="${e.id}">правка</button>
             <button class="mini" data-del="${e.id}">удалить</button>
-          </div>
+          </div>`:""}
         </div>
       </div>
       ${e.analogs_ru&&e.analogs_ru.length?`<div class="meta"><b>Аналоги:</b> ${esc(e.analogs_ru.join(" • "))}</div>`:""}
@@ -398,8 +414,8 @@ document.addEventListener("click",async ev=>{
   }
 });
 
-$("btn-add").onclick=()=>{$("paste").value="";$("dlg-add").showModal();$("paste").focus();};
-$("btn-cfg").onclick=()=>{
+if($("btn-add"))$("btn-add").onclick=()=>{$("paste").value="";$("dlg-add").showModal();$("paste").focus();};
+if($("btn-cfg"))$("btn-cfg").onclick=()=>{
   $("cfg-owner").value=cfg.owner;$("cfg-repo").value=cfg.repo;
   $("cfg-path").value=cfg.path;$("cfg-token").value=cfg.token;
   $("dlg-cfg").showModal();
@@ -469,8 +485,22 @@ $("out-save").onclick=()=>{
 $("search").oninput=render;
 
 /* ---------- старт ---------- */
-loadCache();render();
-if(ghReady())pull(true);else setSync("d-off","не подключено");
+const canEdit=ghReady()||location.hash==="#admin";
+if(!canEdit)document.querySelectorAll(".editor-only").forEach(el=>el.remove());
+
+if(canEdit){
+  loadCache();render();
+  if(ghReady())pull(true);
+  else setSync("d-off","не подключено");
+}else{
+  render();
+  pullPublic().then(ok=>{
+    if(!ok){
+      loadCache();render();
+      setSync("d-off",entries.length?"локальная копия":"база не найдена");
+    }
+  });
+}
 </script>
 </body>
 </html>
