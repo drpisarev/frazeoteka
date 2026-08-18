@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T15:46:05.755Z",
+  "updated": "2026-08-18T15:46:20.181Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -994,32 +994,6 @@
       "keyword": "išta",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
-    },
-    {
-      "id": "msxw17prtpguy",
-      "headword_latin": "Bolje je i malo s blagoslovom nego i dosta s prokletstvom",
-      "headword_cyrillic": "Боље је и мало с благословом него и доста с проклетством",
-      "transcription": "",
-      "pos": "poslovica",
-      "definition_ru": "лучше мало да с благословением, чем много да с проклятием",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Odbio je taj posao — bolje je i malo s blagoslovom nego i dosta s prokletstvom.",
-          "russian": "Отказался он от той работы: лучше мало да с благословением, чем много да с проклятием."
-        }
-      ],
-      "analogs_ru": [
-        "лучше мало, да с миром",
-        "худо нажитое впрок не идёт",
-        "не в деньгах счастье"
-      ],
-      "literal_ru": "",
-      "register": "послов., нар., религ. окраска; о нечестном достатке",
-      "note": "В записи ne'li — стяжение архаичного negoli «нежели», в современной норме nego. См. также: S VRAGOM DOŠLO, S VRAGOM I OTIŠLO.",
-      "keyword": "blagoslov",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T23:51:43.696Z"
     },
     {
       "id": "msxw17psl2uqj",
