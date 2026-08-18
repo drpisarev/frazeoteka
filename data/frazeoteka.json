@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T16:06:35.610Z",
+  "updated": "2026-08-18T16:06:41.201Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -2659,32 +2659,6 @@
       "keyword": "iver",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
-    },
-    {
-      "id": "msxmobcy1b9o9",
-      "headword_latin": "Izdajica svog naroda izdajnik je celog sveta",
-      "headword_cyrillic": "Издајица свог народа издајник је целог света",
-      "transcription": "",
-      "pos": "izreka",
-      "definition_ru": "предавший свой народ предаст любого",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Kod nas se često čuje da je izdajica svog naroda izdajnik celog sveta.",
-          "russian": "У нас часто говорят, что предавший свой народ предаст любого."
-        }
-      ],
-      "analogs_ru": [
-        "точного русского фразеологизма нет",
-        "предавший раз предаст и дважды",
-        "кто изменил однажды, изменит и вновь"
-      ],
-      "literal_ru": "",
-      "register": "публиц.-афор., редк./не подтверждено надёжно как народная пословица",
-      "note": "Звучит как политический лозунг, а не как фольклорная формула; в устойчивых сборниках сербских пословиц не встречается.",
-      "keyword": "izdajica",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T19:29:45.347Z"
     },
     {
       "id": "msyrhihkkw6kf",
