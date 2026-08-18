@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T16:06:41.201Z",
+  "updated": "2026-08-18T16:09:03.111Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -3176,32 +3176,6 @@
       "keyword": "đavo",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
-    },
-    {
-      "id": "msxnt6d24a4il",
-      "headword_latin": "Ko se hvali, taj se kvari",
-      "headword_cyrillic": "Ко се хвали, тај се квари",
-      "transcription": "",
-      "pos": "poslovica",
-      "definition_ru": "хвастовство до добра не доводит",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Ne pričaj unapred, ko se hvali, taj se kvari.",
-          "russian": "Не говори наперёд: хвастовство до добра не доводит."
-        }
-      ],
-      "analogs_ru": [
-        "хвастовство до добра не доводит",
-        "не хвались, идучи на рать",
-        "всякая сорока от своего языка погибает"
-      ],
-      "literal_ru": "кто хвалится, тот портится",
-      "register": "разг., назидат.; рифма hvali — kvari, чаще детям",
-      "note": "Форма fali — говорная (утрата h), стандарт hvali.",
-      "keyword": "hvaliti se",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
       "id": "msxl6oyrkm1aw",
