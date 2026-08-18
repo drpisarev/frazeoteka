@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T15:46:30.838Z",
+  "updated": "2026-08-18T15:47:02.973Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -1121,32 +1121,6 @@
       "register": "послов., нар.",
       "note": "Редкий случай, когда русский аналог совпадает и мыслью, и устройством — тот же контраст «дурное с умным лучше хорошего с дураком».",
       "keyword": "mudar",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T23:51:43.699Z"
-    },
-    {
-      "id": "msxw17pvb5c31",
-      "headword_latin": "Bolje je svoje jaje nego tuđa kokoš",
-      "headword_cyrillic": "Боље је своје јаје него туђа кокош",
-      "transcription": "",
-      "pos": "poslovica",
-      "definition_ru": "своё яйцо дороже чужой курицы",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Ne bih menjao — bolje je svoje jaje nego tuđa kokoš.",
-          "russian": "Не поменял бы: своё яйцо дороже чужой курицы."
-        }
-      ],
-      "analogs_ru": [
-        "свой хлеб слаще чужого калача",
-        "своя рубашка ближе к телу",
-        "лучше своё малое, чем чужое большое"
-      ],
-      "literal_ru": "",
-      "register": "послов., нар.; о ценности своего, пусть и малого",
-      "note": "Не путать с bolje vrabac u ruci nego golub na grani: там о синице в руках, здесь именно о своём против чужого.",
-      "keyword": "jaje",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:51:43.699Z"
     },
