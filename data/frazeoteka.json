@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T12:19:39.502Z",
+  "updated": "2026-08-18T14:32:12.281Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -2082,6 +2082,31 @@
       "created_at": "2026-08-17T19:29:45.343Z"
     },
     {
+      "id": "msyrhihmu8lay",
+      "headword_latin": "Dok jednom ne smrkne, drugom ne svane",
+      "headword_cyrillic": "Док једном не смркне, другом не сване",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кому война, а кому мать родна",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otpustili su njega, a mene primili — dok jednom ne smrkne, drugom ne svane.",
+          "russian": "Его уволили, меня взяли: кому война, а кому мать родна."
+        }
+      ],
+      "analogs_ru": [
+        "кому война, а кому мать родна",
+        "кому горе, кому радость"
+      ],
+      "literal_ru": "пока у одного не стемнеет, у другого не рассветёт",
+      "register": "послов.; о том, что чужая беда открывает кому-то дорогу; часто с оттенком фатализма, а не осуждения",
+      "note": "См. также: DOK SE DVOJE TUKU, TREĆI IZVLAČI KORIST.",
+      "keyword": "smrknuti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.250Z"
+    },
+    {
       "id": "msxmobcwioxyv",
       "headword_latin": "Dok se dvoje tuku, treći izvlači korist",
       "headword_cyrillic": "Док се двоје туку, трећи извлачи корист",
@@ -2321,6 +2346,60 @@
       "keyword": "đene",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "msyrhihlwpbyb",
+      "headword_latin": "Fali mu daska u glavi",
+      "headword_cyrillic": "Фали му даска у глави",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у него не все дома; винтика не хватает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sam je krenuo peške po mraku — fali mu daska u glavi.",
+          "russian": "Пешком в темноте пошёл: у него не все дома."
+        }
+      ],
+      "analogs_ru": [
+        "у него не все дома",
+        "винтика не хватает",
+        "крыша поехала",
+        "с приветом"
+      ],
+      "literal_ru": "у него в голове доски не хватает",
+      "register": "разг., неодобр.-шутл.; дательный по лицам: fali mu / joj / ti daska u glavi; вариант nedostaje mu daska",
+      "note": "",
+      "keyword": "daska",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.249Z"
+    },
+    {
+      "id": "msyrhihkwqea6",
+      "headword_latin": "Farbati nekoga",
+      "headword_cyrillic": "Фарбати некога",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вешать лапшу на уши; пудрить мозги",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj mene da farbaš, znam kako je bilo.",
+          "russian": "Мне-то не заливай, я знаю, как было."
+        }
+      ],
+      "analogs_ru": [
+        "вешать лапшу на уши",
+        "пудрить мозги",
+        "заливать",
+        "водить за нос"
+      ],
+      "literal_ru": "красить кого-л. — от farba «краска» (нем. Farbe)",
+      "register": "разг., неодобр.; управление farbati koga; существительное farbanje; часто в ответной реплике nemoj mene da farbaš",
+      "note": "",
+      "keyword": "farbati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
       "id": "msxmobcxtwg5x",
@@ -2579,6 +2658,33 @@
       "created_at": "2026-08-18T12:04:17.006Z"
     },
     {
+      "id": "msyrhihj7529d",
+      "headword_latin": "Ima nas raznih",
+      "headword_cyrillic": "Има нас разних",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "все мы разные; люди всякие бывают",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne razumem kako to voli, ali dobro — ima nas raznih.",
+          "russian": "Не понимаю, как такое можно любить, ну да ладно: люди всякие бывают."
+        }
+      ],
+      "analogs_ru": [
+        "люди всякие бывают",
+        "все мы разные",
+        "на вкус и цвет товарища нет",
+        "кто во что горазд"
+      ],
+      "literal_ru": "",
+      "register": "разг., общеупотр.; чаще как мягкое оправдание чужой или собственной странности, реже с лёгкой иронией; ходовое расширение ima nas raznih, hvala Bogu",
+      "note": "",
+      "keyword": "razni",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.247Z"
+    },
+    {
       "id": "msxl0hlit6syc",
       "headword_latin": "Imati u malom prstu",
       "headword_cyrillic": "Имати у малом прсту",
@@ -2735,6 +2841,32 @@
       "keyword": "izdajica",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.347Z"
+    },
+    {
+      "id": "msyrhihkkw6kf",
+      "headword_latin": "Izigravati žrtvu",
+      "headword_cyrillic": "Изигравати жртву",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "строить из себя жертву",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prestani da izigravaš žrtvu, sam si to tražio.",
+          "russian": "Хватит строить из себя жертву, сам напросился."
+        }
+      ],
+      "analogs_ru": [
+        "строить из себя жертву",
+        "прикидываться пострадавшим",
+        "давить на жалость"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; управление izigravati koga/šta + аккузатив",
+      "note": "Модель продуктивна: izigravati budalu «валять дурака», izigravati heroja «строить из себя героя», izigravati važnog «важничать». Не путать с igrati: приставка iz- даёт «изображать, прикидываться», а «играть роль» на сцене — igrati ulogu.",
+      "keyword": "izigravati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
       "id": "msxp30ekxiy9z",
@@ -3100,6 +3232,30 @@
       "keyword": "tražiti",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
+      "id": "msyrhihmjt04y",
+      "headword_latin": "Ko nema u glavi, ima u nogama",
+      "headword_cyrillic": "Ко нема у глави, има у ногама",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "дурная голова ногам покоя не даёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zaboravio sam ključeve, moram nazad — ko nema u glavi, ima u nogama.",
+          "russian": "Ключи забыл, придётся возвращаться: дурная голова ногам покоя не даёт."
+        }
+      ],
+      "analogs_ru": [
+        "дурная голова ногам покоя не даёт"
+      ],
+      "literal_ru": "",
+      "register": "послов., шутл.-назидат.; говорится тому, кто забыл вещь и возвращается за ней",
+      "note": "",
+      "keyword": "glava",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.250Z"
     },
     {
       "id": "msxl6oys8u7zv",
@@ -3713,6 +3869,32 @@
       "created_at": "2026-08-17T23:39:52.608Z"
     },
     {
+      "id": "msyrhihkjynt8",
+      "headword_latin": "Na ravnoj nozi",
+      "headword_cyrillic": "На равној нози",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на равных; как равный с равным",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Razgovarali smo o svemu na ravnoj nozi.",
+          "russian": "Мы обо всём говорили на равных."
+        }
+      ],
+      "analogs_ru": [
+        "на равных",
+        "как равный с равным",
+        "без чинов"
+      ],
+      "literal_ru": "на ровной ноге",
+      "register": "нейтр.; чаще с biti, razgovarati, ophoditi se: biti s nekim na ravnoj nozi",
+      "note": "",
+      "keyword": "noga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.248Z"
+    },
+    {
       "id": "msxl0hlid7j90",
       "headword_latin": "Na vrh mi je jezika",
       "headword_cyrillic": "На врх ми је језика",
@@ -3869,6 +4051,32 @@
       "created_at": "2026-08-18T00:00:07.126Z"
     },
     {
+      "id": "msyrhihlclbac",
+      "headword_latin": "Neće ti faliti ni dlaka s glave",
+      "headword_cyrillic": "Неће ти фалити ни длака с главе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни один волос с головы не упадёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne brini, neće ti faliti ni dlaka s glave dok sam ja uz tebe.",
+          "russian": "Не бойся, пока я рядом, с твоей головы и волос не упадёт."
+        }
+      ],
+      "analogs_ru": [
+        "ни один волос с головы не упадёт",
+        "тебя пальцем никто не тронет",
+        "волоска не тронут"
+      ],
+      "literal_ru": "",
+      "register": "разг., успокаивающ.-обещающ.",
+      "note": "Тот же глагол faliti, но в исходном значении «недоставать, пропасть». Восходит к библейской формуле (Лк. 21:18).",
+      "keyword": "dlaka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.249Z"
+    },
+    {
       "id": "msxp30ehsubt1",
       "headword_latin": "Nema brata dok ne rodi majka",
       "headword_cyrillic": "Нема брата док не роди мајка",
@@ -3894,6 +4102,32 @@
       "keyword": "brat",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.218Z"
+    },
+    {
+      "id": "msyrhihka5tze",
+      "headword_latin": "Nema mu ravna",
+      "headword_cyrillic": "Нема му равна",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ему нет равных",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kao lekaru nema mu ravna.",
+          "russian": "Как врачу ему нет равных."
+        }
+      ],
+      "analogs_ru": [
+        "ему нет равных",
+        "равного не сыщешь",
+        "лучший из лучших"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-одобр.; безличная конструкция с родительным: nema mu ravna, ж. р. nema joj ravne; часто с уточнением сферы через kao",
+      "note": "",
+      "keyword": "ravan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
       "id": "msxl0hliu8deq",
@@ -3972,6 +4206,33 @@
       "keyword": "nikad",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "msyrhihms6fyq",
+      "headword_latin": "Nit' riba, nit' devojka",
+      "headword_cyrillic": "Нит' риба, нит' девојка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни рыба ни мясо",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Taj predlog je nit' riba, nit' devojka.",
+          "russian": "Это предложение ни рыба ни мясо."
+        }
+      ],
+      "analogs_ru": [
+        "ни рыба ни мясо",
+        "ни то ни сё",
+        "ни богу свечка, ни чёрту кочерга",
+        "серединка на половинку"
+      ],
+      "literal_ru": "ни рыба, ни девушка",
+      "register": "разг., неодобр.; о человеке или деле без определённости и характера; есть и калька ni riba ni meso, но народный вариант именно с devojka",
+      "note": "Образ — русалка: существо, которое ни то и ни другое. По-русски совпадения нет, «ни рыба ни мясо» построено на кухонной паре, так что дословный перевод отдал бы загадкой. См. также: ĐENE-ĐENE.",
+      "keyword": "riba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.250Z"
     },
     {
       "id": "msym7ab1zuzyi",
@@ -4230,6 +4491,32 @@
       "keyword": "pravda",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.616Z"
+    },
+    {
+      "id": "msyrhihjyr8v6",
+      "headword_latin": "Pravi Pera Ždera",
+      "headword_cyrillic": "Прави Пера Ждера",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "Робин-Бобин Барабек; обжора, прорва",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pojeo je tri porcije, pravi Pera Ždera.",
+          "russian": "Три порции умял, настоящий Робин-Бобин."
+        }
+      ],
+      "analogs_ru": [
+        "Робин-Бобин Барабек",
+        "обжора",
+        "ест за троих"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; чаще о ребёнке или о том, кто ест много и с аппетитом, без осуждения",
+      "note": "Пера Ждера — сербское имя Уимпи из мультфильмов про Попая: круглый любитель гамбургеров, невозмутимый и вечно голодный. Сербские дублировщики повадились звать всех героев Перами, отсюда же Pera Detlić (Вуди Вудпекер) и Pera Kojot. Имя ушло в народ настолько, что «Pera Ždera» — самое частое название закусочных с гриля по всей Сербии.",
+      "keyword": "ždera",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.247Z"
     },
     {
       "id": "msxqn1oosvmk8",
@@ -4600,6 +4887,32 @@
       "created_at": "2026-08-17T21:20:44.618Z"
     },
     {
+      "id": "msyrhihmq31v7",
+      "headword_latin": "Siromašan kao crkveni miš",
+      "headword_cyrillic": "Сиромашан као црквени миш",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "беден как церковная мышь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bio je tada siromašan kao crkveni miš, a sad ima tri firme.",
+          "russian": "Был беден как церковная мышь, а теперь три фирмы."
+        }
+      ],
+      "analogs_ru": [
+        "беден как церковная мышь",
+        "гол как сокол",
+        "ни кола ни двора"
+      ],
+      "literal_ru": "",
+      "register": "разг., общеупотр.; вариант go kao crkveni miš",
+      "note": "Интернациональное сравнение, совпадает с русским дословно.",
+      "keyword": "miš",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.250Z"
+    },
+    {
       "id": "msxqn1orkeve3",
       "headword_latin": "Sirotinjo, i Bogu si teška",
       "headword_cyrillic": "Сиротињо, и Богу си тешка",
@@ -4964,6 +5277,33 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "msyrhihk43g9x",
+      "headword_latin": "Sve mi je ravno do Kosova",
+      "headword_cyrillic": "Све ми је равно до Косова",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "мне всё равно; хоть трава не расти",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uradi kako ti je drago, meni je sve ravno do Kosova.",
+          "russian": "Делай как хочешь, мне совершенно всё равно."
+        }
+      ],
+      "analogs_ru": [
+        "мне всё равно",
+        "хоть трава не расти",
+        "по барабану",
+        "ни жарко ни холодно"
+      ],
+      "literal_ru": "у меня всё ровно до самого Косова",
+      "register": "разг., экспресс.; усиленный вариант простого svejedno mi je; полная форма чаще в шутку, укороченная sve mi je ravno нейтральнее; дательный меняется по лицам",
+      "note": "Оборот держится на двузначности ravno — «ровно, плоско» и «безразлично». Обиходное объяснение связывает его с Косовым полем как образом ровной шири, где взгляду не за что зацепиться до горизонта; объяснение народное, документально не подтверждённое, но именно оно делает фразу выразительной для носителя.",
+      "keyword": "ravno",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.249Z"
+    },
+    {
       "id": "msxrqv229sd9r",
       "headword_latin": "Sve su pite pitice, a burek je pitac",
       "headword_cyrillic": "Све су пите питице, а бурек је питац",
@@ -5068,6 +5408,32 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "msyrhihl1xfxe",
+      "headword_latin": "Šta fali?",
+      "headword_cyrillic": "Шта фали?",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "а что не так?; а чем плохо?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da piješ tu vodu! — Zašto, šta joj fali?",
+          "russian": "Не пей эту воду! — А что с ней не так?"
+        }
+      ],
+      "analogs_ru": [
+        "а что не так?",
+        "а чем плохо?",
+        "а в чём дело?"
+      ],
+      "literal_ru": "",
+      "register": "разг., очень частотно; дательный указывает на предмет: šta joj fali? «а что с ней не так?», šta ti fali? «тебе-то чего не хватает?»",
+      "note": "Глагол faliti (от нем. fehlen) объединяет два русских: «недоставать» (fali mi jedan dinar) и «быть не в порядке». Отсюда ловушка: šta ti fali? в зависимости от интонации значит и «чего тебе не хватает?», и «да что с тобой такое?», и упрёк «тебе что, плохо живётся?».",
+      "keyword": "faliti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.249Z"
+    },
+    {
       "id": "msxu2ocq6h4js",
       "headword_latin": "Što je džaba, i Bogu je drago",
       "headword_cyrillic": "Што је џаба, и Богу је драго",
@@ -5167,6 +5533,60 @@
       "keyword": "pijan",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.682Z"
+    },
+    {
+      "id": "msyrhihjsy4lb",
+      "headword_latin": "Tante za kukuriku",
+      "headword_cyrillic": "Танте за кукурику",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "шило на мыло; менять ерунду на ерунду",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dali su nam obećanje umesto para — tante za kukuriku.",
+          "russian": "Вместо денег дали обещание: шило на мыло."
+        }
+      ],
+      "analogs_ru": [
+        "менять шило на мыло",
+        "ни за что ни про что",
+        "пустое на порожнее",
+        "ничего за ничего"
+      ],
+      "literal_ru": "",
+      "register": "разг., ирон.; о неравноценном или бессмысленном обмене — отдал стоящее, получил пустышку; частое продолжение tante za kukuriku, sir za pare",
+      "note": "Два оборота с одинаковым началом значат разное, и сербы противопоставляют их сознательно: в 2020 году Вучич после переговоров с Гренеллом заявил, что не может быть tante za kukuriku, должно быть tante za tante. Само tante восходит к немецкому Tante «тётушка», kukuriku — «кукареку», петух; отсюда ощущение фарса. См. также: TANTE ZA TANTE.",
+      "keyword": "tante",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.247Z"
+    },
+    {
+      "id": "msyrhihjssb7f",
+      "headword_latin": "Tante za tante",
+      "headword_cyrillic": "Танте за танте",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "око за око; ты мне — я тебе; услуга за услугу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako oni povuku takse, i mi ćemo prestati — tante za tante.",
+          "russian": "Снимут пошлины — и мы прекратим: ты мне — я тебе."
+        }
+      ],
+      "analogs_ru": [
+        "ты мне — я тебе",
+        "око за око",
+        "услуга за услугу",
+        "как аукнется, так и откликнется"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о равноценном обмене или ответе; сербский синоним milo za drago",
+      "note": "Не смешивать с tante za kukuriku: там обмен неравноценный. См. также: TANTE ZA KUKURIKU.",
+      "keyword": "tante",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.247Z"
     },
     {
       "id": "msxu2ocr4wmq0",
@@ -5272,6 +5692,32 @@
       "keyword": "dlaka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msyrhihl8wvyw",
+      "headword_latin": "Tresla se gora, rodio se miš",
+      "headword_cyrillic": "Тресла се гора, родио се миш",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "гора родила мышь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Toliko najava, a na kraju ništa — tresla se gora, rodio se miš.",
+          "russian": "Столько анонсов, а в итоге ничего: гора родила мышь."
+        }
+      ],
+      "analogs_ru": [
+        "гора родила мышь",
+        "много шуму из ничего",
+        "пшик вместо дела"
+      ],
+      "literal_ru": "",
+      "register": "послов., ирон., общеупотр.; частотна в комментариях о громко анонсированных реформах",
+      "note": "Из басенной традиции (Эзоп, Гораций).",
+      "keyword": "gora",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T14:32:12.249Z"
     },
     {
       "id": "msxvf5xqgcmha",
