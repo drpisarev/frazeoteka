@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T15:43:57.980Z",
+  "updated": "2026-08-18T15:46:05.755Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -994,32 +994,6 @@
       "keyword": "išta",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
-    },
-    {
-      "id": "msxw17pr12xas",
-      "headword_latin": "Bolje je dobroga služiti nego rđavu zapovedati",
-      "headword_cyrillic": "Боље је доброга служити него рђаву заповедати",
-      "transcription": "",
-      "pos": "poslovica",
-      "definition_ru": "лучше служить хорошему, чем командовать негодным",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Ostao je u toj firmi svesno — bolje je dobroga služiti nego rđavu zapovedati.",
-          "russian": "Он в той конторе остался сознательно: лучше служить хорошему, чем командовать негодным."
-        }
-      ],
-      "analogs_ru": [
-        "точного русского фразеологизма нет",
-        "лучше у доброго в слугах, чем у злого в господах",
-        "каков хозяин, такова и служба"
-      ],
-      "literal_ru": "",
-      "register": "послов., нар.",
-      "note": "О том, что качество окружения важнее собственного положения в иерархии. В записи была иекавская форма zapovijedati.",
-      "keyword": "služiti",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T23:51:43.695Z"
     },
     {
       "id": "msxw17prtpguy",
