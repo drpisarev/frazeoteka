@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-17T23:54:46.006Z",
+  "updated": "2026-08-18T00:00:07.162Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -390,6 +390,32 @@
       "keyword": "žena",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:48:44.421Z"
+    },
+    {
+      "id": "msxwc0621mfe5",
+      "headword_latin": "Baba se češlja, a kuća gori",
+      "headword_cyrillic": "Баба се чешља, а кућа гори",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "дом горит, а бабка причёсывается",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Raspravljaju o logotipu dok firma propada — baba se češlja, a kuća gori.",
+          "russian": "Спорят о логотипе, пока фирма рушится: дом горит, а бабка причёсывается."
+        }
+      ],
+      "analogs_ru": [
+        "Рим горит, а Нерон играет",
+        "на пожаре зевать",
+        "не о том печётся"
+      ],
+      "literal_ru": "",
+      "register": "разг., ирон.; о неуместных заботах в момент, когда рушится главное; частотна в политических комментариях",
+      "note": "",
+      "keyword": "baba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.130Z"
     },
     {
       "id": "msxlnru8vqj6o",
@@ -1976,6 +2002,33 @@
       "created_at": "2026-08-17T19:29:45.343Z"
     },
     {
+      "id": "msxwc05zzz2fa",
+      "headword_latin": "Dobru čoveku sve dobro stoji",
+      "headword_cyrillic": "Добру човеку све добро стоји",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "хорошему человеку всё к лицу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta god obuče, dobru čoveku sve dobro stoji.",
+          "russian": "Что ни наденет — хорошему человеку всё к лицу."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "доброму человеку всё впору",
+        "не платье красит человека",
+        "красив тот, кто красиво поступает"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., одобр.",
+      "note": "И о внешности (всякая одежда идёт), и шире — доброму всё в жизни ладится.",
+      "keyword": "dobar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.127Z"
+    },
+    {
       "id": "msxmobcvxt345",
       "headword_latin": "Doći će maca na vratanca",
       "headword_cyrillic": "Доћи ће маца на вратанца",
@@ -2134,6 +2187,31 @@
       "created_at": "2026-08-17T19:29:45.345Z"
     },
     {
+      "id": "msxwc060l3noo",
+      "headword_latin": "Drž' se nova puta i stara prijatelja",
+      "headword_cyrillic": "Држ' се нова пута и стара пријатеља",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "держись новой дороги да старого друга",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj menjati ekipu zbog jednog nesporazuma — drž' se nova puta i stara prijatelja.",
+          "russian": "Не меняй компанию из-за одного недоразумения: старый друг лучше новых двух."
+        }
+      ],
+      "analogs_ru": [
+        "старый друг лучше новых двух",
+        "новых друзей наживай, а старых не теряй"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.",
+      "note": "Парное противопоставление нового и старого, где каждому отведено своё.",
+      "keyword": "prijatelj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.128Z"
+    },
+    {
       "id": "msxmobcxe6twe",
       "headword_latin": "Duga kosa, kratka pamet",
       "headword_cyrillic": "Дуга коса, кратка памет",
@@ -2182,6 +2260,33 @@
       "keyword": "dušman",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "msxwc0620pzcv",
+      "headword_latin": "Dva Srbina, tri partije",
+      "headword_cyrillic": "Два Србина, три партије",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "два серба — три партии",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisu se dogovorili ni oko čega — dva Srbina, tri partije.",
+          "russian": "Ни о чём не договорились: два серба — три партии."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "сколько людей, столько мнений",
+        "два юриста — три мнения",
+        "где двое, там и раскол"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.-горькая, современная; автоирония о хронической политической раздробленности",
+      "note": "Модель продуктивна и с другими словами: dva Srbina, tri mišljenja.",
+      "keyword": "partija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.130Z"
     },
     {
       "id": "msxkiw6xld5ov",
@@ -2472,6 +2577,33 @@
       "keyword": "mali prst",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "msxwc060f96yr",
+      "headword_latin": "Inat je nesrećan zanat",
+      "headword_cyrillic": "Инат је несрећан занат",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "упрямство до добра не доводит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odbio je i to samo iz inata — inat je nesrećan zanat.",
+          "russian": "Отказался, и только назло: упрямство до добра не доводит."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "назло бабушке отморожу уши",
+        "упрямство — плохой советчик",
+        "себе во вред"
+      ],
+      "literal_ru": "инат — несчастное ремесло",
+      "register": "послов., нар., неодобр.; держится на рифме inat — zanat",
+      "note": "Inat (тур. inat) — не просто упрямство, а действие назло, даже себе в убыток. Понятие, которое сербы считают чертой национального характера и обсуждают полушутя-полусерьёзно (inaćenje, iz inata, inadžija). Русское «упрямство» слабее. Пословица — редкий случай, когда культура отзывается об этой черте критически.",
+      "keyword": "inat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.128Z"
     },
     {
       "id": "msxmobcyt20a4",
@@ -3205,6 +3337,57 @@
       "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
+      "id": "msxwc061pepyv",
+      "headword_latin": "Krivac se i senke boji",
+      "headword_cyrillic": "Кривац се и сенке боји",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "на воре шапка горит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Skočio je čim su pomenuli reviziju — krivac se i senke boji.",
+          "russian": "Подскочил, едва упомянули проверку: на воре шапка горит."
+        }
+      ],
+      "analogs_ru": [
+        "на воре шапка горит",
+        "виноватому всё мерещится"
+      ],
+      "literal_ru": "виновный и тени боится",
+      "register": "послов.; о том, кто выдаёт себя собственным испугом",
+      "note": "",
+      "keyword": "krivac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.129Z"
+    },
+    {
+      "id": "msxwc0615zxaj",
+      "headword_latin": "Lasno je zdravome bolesnoga savetovati",
+      "headword_cyrillic": "Ласно је здравоме болеснога саветовати",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "чужую беду руками разведу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Lako je tebi da pričaš — lasno je zdravome bolesnoga savetovati.",
+          "russian": "Тебе легко рассуждать: чужую беду руками разведу."
+        }
+      ],
+      "analogs_ru": [
+        "чужую беду руками разведу, а к своей ума не приложу",
+        "сытый голодного не разумеет",
+        "легко советовать со стороны"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар.; об охотниках давать советы из безопасного положения",
+      "note": "lasno — устар. «легко», в живой речи сегодня lako. См. также: SIT GLADNOM NE VERUJE.",
+      "keyword": "savetovati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.129Z"
+    },
+    {
       "id": "msxnt6d3xgn7k",
       "headword_latin": "Lažni prijatelj je opasniji od sto otvorenih neprijatelja",
       "headword_cyrillic": "Лажни пријатељ је опаснији од сто отворених непријатеља",
@@ -3502,6 +3685,32 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "msxwc061omf8a",
+      "headword_latin": "Najpre ispred svoje kuće počisti",
+      "headword_cyrillic": "Најпре испред своје куће почисти",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "мети перед своим порогом",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pre nego što nas kritikuješ — najpre ispred svoje kuće počisti.",
+          "russian": "Прежде чем нас критиковать, мети перед своим порогом."
+        }
+      ],
+      "analogs_ru": [
+        "мети перед своим порогом",
+        "в чужом глазу соринку видишь",
+        "не суди других, на себя посмотри"
+      ],
+      "literal_ru": "",
+      "register": "послов., резк.-одёргивающ.; чаще как ответ на упрёк",
+      "note": "Сербская параллель — u tuđem oku vidi slamku, a u svome grede ne vidi.",
+      "keyword": "kuća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.129Z"
+    },
+    {
       "id": "msxu2ocorja8b",
       "headword_latin": "Našla vreća zakrpu",
       "headword_cyrillic": "Нашла врећа закрпу",
@@ -3579,6 +3788,31 @@
       "keyword": "ruda",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.219Z"
+    },
+    {
+      "id": "msxwc05xn2u4q",
+      "headword_latin": "Ne valja biser pred svinje prosipati",
+      "headword_cyrillic": "Не ваља бисер пред свиње просипати",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не мечите бисер перед свиньями",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne objašnjavaj im, ne valja biser pred svinje prosipati.",
+          "russian": "Не объясняй ты им: не мечите бисер перед свиньями."
+        }
+      ],
+      "analogs_ru": [
+        "не мечите бисер перед свиньями",
+        "не для свиней родятся апельсины"
+      ],
+      "literal_ru": "",
+      "register": "послов., книжн.-библ.; о напрасных стараниях перед тем, кто не оценит",
+      "note": "Из Мф. 7:6, интернациональная.",
+      "keyword": "biser",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.126Z"
     },
     {
       "id": "msxp30ehsubt1",
@@ -3940,6 +4174,32 @@
       "keyword": "puška",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.617Z"
+    },
+    {
+      "id": "msxwc0627r8ff",
+      "headword_latin": "Prodati veru za večeru",
+      "headword_cyrillic": "Продати веру за вечеру",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "продать веру за ужин; продаться за миску похлёбки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prešao je u drugu stranku čim su mu ponudili mesto — prodao veru za večeru.",
+          "russian": "Перешёл в другую партию, едва предложили место: продал веру за ужин."
+        }
+      ],
+      "analogs_ru": [
+        "продаться за чечевичную похлёбку",
+        "за тридцать сребреников",
+        "продать душу"
+      ],
+      "literal_ru": "",
+      "register": "разг.-публиц., резко неодобр.; держится на рифме veru — večeru; исторически о переходе в другую веру ради выгоды, сегодня чаще о смене партии, лагеря, убеждений за должность",
+      "note": "Исторический пласт — о балканских христианах, принявших ислам ради податных и имущественных льгот (poturice); в средневековом изводе так попрекают и Вукана Неманича за союз с Римом против брата. В сегодняшних газетах и комментариях живёт почти исключительно как политический упрёк и звучит жёстко: это обвинение в предательстве, а не ирония. Русская «чечевичная похлёбка» ближе всего по смыслу, но у сербской формулы рифма и потому вид готового ярлыка.",
+      "keyword": "vera",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T00:00:07.130Z"
     },
     {
       "id": "msxp30elqvhc6",
