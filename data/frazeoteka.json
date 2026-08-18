@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T15:47:02.973Z",
+  "updated": "2026-08-18T15:47:34.817Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -1202,32 +1202,6 @@
       "keyword": "junak",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:54:45.973Z"
-    },
-    {
-      "id": "msxw54d2x51dy",
-      "headword_latin": "Bolje slep očima nego slep pameću",
-      "headword_cyrillic": "Боље слеп очима него слеп памећу",
-      "transcription": "",
-      "pos": "poslovica",
-      "definition_ru": "лучше слепой глазами, чем слепой умом",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Sve mu je pred nosom, a ne vidi — bolje slep očima nego slep pameću.",
-          "russian": "Всё у него под носом, а не видит: лучше слепой глазами, чем слепой умом."
-        }
-      ],
-      "analogs_ru": [
-        "точного русского фразеологизма нет",
-        "не тот слеп, кто не видит, а тот, кто видеть не хочет",
-        "глупость хуже слепоты"
-      ],
-      "literal_ru": "",
-      "register": "послов., нар.; о добровольной слепоте — нежелании понимать очевидное",
-      "note": "",
-      "keyword": "slep",
-      "source": "frazeoteka",
-      "created_at": "2026-08-17T23:54:45.974Z"
     },
     {
       "id": "msxl6oyrflwxb",
