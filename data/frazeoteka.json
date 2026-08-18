@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T00:00:07.162Z",
+  "updated": "2026-08-18T12:04:17.037Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -2552,6 +2552,33 @@
       "created_at": "2026-08-17T19:29:45.346Z"
     },
     {
+      "id": "msym7ab239clz",
+      "headword_latin": "Ima dana za megdana",
+      "headword_cyrillic": "Има дана за мегдана",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ещё сочтёмся; успеется",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nismo završili ovo — ima dana za megdana.",
+          "russian": "Мы ещё не закончили: ещё сочтёмся."
+        }
+      ],
+      "analogs_ru": [
+        "ещё сочтёмся",
+        "будет ещё время",
+        "поживём — увидим",
+        "это от нас не уйдёт"
+      ],
+      "literal_ru": "есть ещё дни для поединка",
+      "register": "разг., чаще с оттенком угрозы или обещания реванша, реже просто «не к спеху»",
+      "note": "Megdan (тур. meydan «площадь») — здесь поединок один на один, из эпической традиции: deliti megdan «биться в поединке», izaći na megdan «выйти на бой», megdandžija «боец-единоборец». Путь значения от «площади» к «поединку» — через место, где поединок происходил. То же турецкое слово дало топонимы: белградский Калемегдан буквально «крепостная площадь» (kale + meydan).",
+      "keyword": "megdan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T12:04:17.006Z"
+    },
+    {
       "id": "msxl0hlit6syc",
       "headword_latin": "Imati u malom prstu",
       "headword_cyrillic": "Имати у малом прсту",
@@ -2785,6 +2812,33 @@
       "keyword": "lasta",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:01:31.765Z"
+    },
+    {
+      "id": "msym7ab0oenam",
+      "headword_latin": "Jeftina roba kesu prazni",
+      "headword_cyrillic": "Јефтина роба кесу празни",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "скупой платит дважды",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj to da kupuješ — jeftina roba kesu prazni.",
+          "russian": "Не бери ты это: скупой платит дважды."
+        }
+      ],
+      "analogs_ru": [
+        "скупой платит дважды",
+        "дёшево да гнило",
+        "дешёвая рыбка — плохая юшка",
+        "за дешевизной погонишься, вдвое потеряешь"
+      ],
+      "literal_ru": "дешёвый товар кошелёк опустошает",
+      "register": "послов., боснийский по преимуществу",
+      "note": "В записи пользователя jeftina raba kasu prazni — искажение: устойчиво roba «товар» и kesu «кошелёк» (тур. kese), не kasu «кассу». Зафиксирована в сборнике Антуна Кнежевича (XIX в.) под № 831, держится в боснийских сводах до сих пор. Родственная оттуда же: ko kupuje što mu ne treba, prodavaće što mu treba.",
+      "keyword": "roba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T12:04:17.005Z"
     },
     {
       "id": "msxnt6d1fu5hb",
@@ -3918,6 +3972,33 @@
       "keyword": "nikad",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "msym7ab1zuzyi",
+      "headword_latin": "Od samoće ništa gore nema",
+      "headword_cyrillic": "Од самоће ништа горе нема",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "нет ничего хуже одиночества",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vrati se među ljude — od samoće ništa gore nema.",
+          "russian": "Возвращайся к людям: нет ничего хуже одиночества."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "одному и у каши неспоро",
+        "горе одному",
+        "одиночество хуже нужды"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., сочувств.",
+      "note": "Безглагольная конструкция с родительным (od samoće… nema), обычная в народных формулах сравнения.",
+      "keyword": "samoća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T12:04:17.005Z"
     },
     {
       "id": "msxp30ek8nqhq",
@@ -5453,6 +5534,33 @@
       "created_at": "2026-08-17T21:51:42.265Z"
     },
     {
+      "id": "msym7ab1wtx4c",
+      "headword_latin": "Vesela mladost najveća je radost",
+      "headword_cyrillic": "Весела младост највећа је радост",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "весёлая молодость — самая большая радость",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neka se izduvaju, vesela mladost najveća je radost.",
+          "russian": "Пусть погуляют: молодо-зелено, погулять велено."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "молодость — золотая пора",
+        "молодо-зелено, погулять велено",
+        "пока молод, гуляй"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., тепло-одобр.; часто как оправдание молодёжного шума и гулянок из уст старших",
+      "note": "Держится на рифме mladost — radost.",
+      "keyword": "mladost",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T12:04:17.005Z"
+    },
+    {
       "id": "msxl6oysta66e",
       "headword_latin": "Veselo srce pola zdravlja",
       "headword_cyrillic": "Весело срце пола здравља",
@@ -5634,6 +5742,33 @@
       "created_at": "2026-08-17T23:46:00.691Z"
     },
     {
+      "id": "msym7ab12fv4c",
+      "headword_latin": "Zbog sirota sunce grije",
+      "headword_cyrillic": "Због сирота сунце грије",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "солнце и ради сирых светит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne gubi nadu — zbog sirota sunce grije.",
+          "russian": "Не теряй надежды: солнце и ради сирых светит."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "Бог и о нищем печётся",
+        "солнце всем одинаково светит",
+        "и бедному есть Божья милость"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., утешит.",
+      "note": "Толкование прямо в сборниках не даётся, но образ прозрачен: свет и тепло достаются не только богатым, сама природа устроена в пользу обездоленных. Приводится и как хрестоматийный грамматический пример предложной конструкции причины. Форма grije иекавская, экавский вариант greje.",
+      "keyword": "sirota",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T12:04:17.005Z"
+    },
+    {
       "id": "msxknp378iezv",
       "headword_latin": "Zbrda-zdola",
       "headword_cyrillic": "Збрда-здола",
@@ -5660,6 +5795,32 @@
       "keyword": "zbrda",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "msym7ab1o2b90",
+      "headword_latin": "Zlato je čisto i u prljavoj kesi",
+      "headword_cyrillic": "Злато је чисто и у прљавој кеси",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "золото и в грязном кошельке золото",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne gledaj odakle je — zlato je čisto i u prljavoj kesi.",
+          "russian": "Не смотри, откуда он: золото и в грязном кошельке золото."
+        }
+      ],
+      "analogs_ru": [
+        "золото и в грязи блестит",
+        "не всё то грязно, что в грязи лежит",
+        "достоинство от места не зависит"
+      ],
+      "literal_ru": "",
+      "register": "послов., нар., одобр.; о человеке достойном при неказистом виде, бедном происхождении или дурном окружении",
+      "note": "Обратная по смыслу — magarac ostaje magarac i pod zlatnim sedlom «осёл и под золотым седлом осёл».",
+      "keyword": "zlato",
+      "source": "frazeoteka",
+      "created_at": "2026-08-18T12:04:17.006Z"
     },
     {
       "id": "msxvtv1wok6xx",
