@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-19T16:21:52.176Z",
+  "updated": "2026-08-19T16:27:34.598Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -599,6 +599,33 @@
       "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
+      "id": "mt0b1qfynne6x",
+      "headword_latin": "Bez zamerke",
+      "headword_cyrillic": "Без замерке",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "безупречно; не подкопаешься",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve je urađeno bez zamerke.",
+          "russian": "Всё сделано безупречно."
+        }
+      ],
+      "analogs_ru": [
+        "безупречно",
+        "комар носа не подточит",
+        "не подкопаешься",
+        "без нареканий"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-одобр.; также в вежливой формуле bez zamerke «без обид, не в упрёк»",
+      "note": "Zamerka — «замечание, придирка».",
+      "keyword": "zamerka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
       "id": "msxvxddyr8mlo",
       "headword_latin": "Beži kud ti je volja, od sebe ne utečeš",
       "headword_cyrillic": "Бежи куд ти је воља, од себе не утечеш",
@@ -650,6 +677,32 @@
       "keyword": "bitisati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "mt0b1qfzul7t4",
+      "headword_latin": "Biti dirnut",
+      "headword_cyrillic": "Бити дирнут",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть тронутым, растроганным",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mnogo sam dirnuta vašom pažnjom i ljubavlju.",
+          "russian": "Я очень тронута вашим вниманием и любовью."
+        }
+      ],
+      "analogs_ru": [
+        "быть тронутым",
+        "растрогаться",
+        "до глубины души"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн.; управление dirnut čime + творительный; согласуется в роде: dirnut / dirnuta",
+      "note": "Глагол dirnuti «тронуть», в прямом смысле «дотронуться».",
+      "keyword": "dirnuti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.559Z"
     },
     {
       "id": "mt0aue88dt5qk",
@@ -778,6 +831,32 @@
       "keyword": "znati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:48:44.422Z"
+    },
+    {
+      "id": "mt0b1qg0wg7kq",
+      "headword_latin": "Blenuti kao tele u šarena vrata",
+      "headword_cyrillic": "Бленути као теле у шарена врата",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "смотреть как баран на новые ворота",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Blene kao tele u šarena vrata, ne razume ni reč.",
+          "russian": "Смотрит как баран на новые ворота, ни слова не понимает."
+        }
+      ],
+      "analogs_ru": [
+        "смотреть как баран на новые ворота",
+        "уставиться, ничего не понимая",
+        "глаза вылупить"
+      ],
+      "literal_ru": "пялиться как телёнок на расписные ворота",
+      "register": "разг., насмешл.; ходовые формы blene, gleda, bulji kao tele u šarena vrata",
+      "note": "Совпадение с русским почти полное, только животное другое и ворота не новые, а расписные — деревенские, украшенные росписью.",
+      "keyword": "tele",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.560Z"
     },
     {
       "id": "msxlnru8l86m9",
@@ -1872,6 +1951,33 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "mt0b1qfyjqknf",
+      "headword_latin": "Daleko mu lepa kuća",
+      "headword_cyrillic": "Далеко му лепа кућа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "скатертью дорожка; и чёрт с ним",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otišao je iz firme? Daleko mu lepa kuća.",
+          "russian": "Ушёл из фирмы? Скатертью дорожка."
+        }
+      ],
+      "analogs_ru": [
+        "скатертью дорожка",
+        "баба с возу",
+        "и чёрт с ним",
+        "не велика потеря"
+      ],
+      "literal_ru": "далеко его красивый дом",
+      "register": "разг.; отмашка вслед ушедшему или отвергнутому; дательный по лицам: daleko joj / im lepa kuća",
+      "note": "Формула изначально была не насмешкой, а оберегом — пожеланием, чтобы беда обошла дом стороной, отсюда «далеко». В современной речи оттенок доброго пожелания почти стёрся, осталось пренебрежение.",
+      "keyword": "kuća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
       "id": "msxmobcu5qy3x",
       "headword_latin": "Danas jesi, sutra nisi",
       "headword_cyrillic": "Данас јеси, сутра ниси",
@@ -2791,6 +2897,33 @@
       "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
+      "id": "mt0b1qfz42o5s",
+      "headword_latin": "Izvući deblji kraj",
+      "headword_cyrillic": "Извући дебљи крај",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "оказаться в проигрыше; пострадать больше всех",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ko će izvući deblji kraj u ekonomskom sukobu?",
+          "russian": "Кто пострадает в экономическом противостоянии?"
+        }
+      ],
+      "analogs_ru": [
+        "остаться в накладе",
+        "ему досталось больше всех",
+        "оказаться крайним",
+        "отдуваться за всех"
+      ],
+      "literal_ru": "вытянуть толстый конец",
+      "register": "разг., частотно в публицистике; управление izvući deblji kraj u čemu",
+      "note": "Образ из жеребьёвки палочками, где толстый конец проигрышный. Не путать с русским «палка о двух концах» (batina ima dva kraja): здесь речь не о двойственности, а о том, кому досталось хуже.",
+      "keyword": "kraj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
       "id": "msxp30ekxiy9z",
       "headword_latin": "Jazuk baciti, a od jazuka se deblja",
       "headword_cyrillic": "Јазук бацити, а од јазука се дебља",
@@ -3078,6 +3211,34 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "mt0b1qg0rrtw3",
+      "headword_latin": "Kao kec na deset",
+      "headword_cyrillic": "Као кец на десет",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как нельзя кстати; в самую точку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta ponuda je došla kao kec na deset.",
+          "russian": "Это предложение подвернулось как нельзя кстати."
+        }
+      ],
+      "analogs_ru": [
+        "как нельзя кстати",
+        "в самую точку",
+        "как по заказу",
+        "тютелька в тютельку",
+        "пришлось в масть"
+      ],
+      "literal_ru": "как туз к десятке",
+      "register": "разг., одобр.; о том, что подвернулось вовремя и сложилось идеально",
+      "note": "Образ из карточной игры, где туз к десятке даёт лучшую комбинацию — как в «двадцати одном». Русский аналог «в масть» тоже карточный, совпадение удачное.",
+      "keyword": "kec",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.560Z"
+    },
+    {
       "id": "mt0aue86th1fa",
       "headword_latin": "Kap koja je prelila čašu",
       "headword_cyrillic": "Кап која је прелила чашу",
@@ -3101,6 +3262,32 @@
       "keyword": "kap",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.134Z"
+    },
+    {
+      "id": "mt0b1qfzyco37",
+      "headword_latin": "Knedla u grlu",
+      "headword_cyrillic": "Кнедла у грлу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ком в горле",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Stoji mi knedla u grlu kad se toga setim.",
+          "russian": "У меня ком в горле, когда я об этом вспоминаю."
+        }
+      ],
+      "analogs_ru": [
+        "ком в горле",
+        "комок подступил",
+        "перехватило горло"
+      ],
+      "literal_ru": "кнедля в горле (knedla, нем. Knödel — варёная клёцка)",
+      "register": "разг.-нейтр.; ходовые формы staje mi knedla u grlu, imam knedlu u grlu; и об эмоции, и о физическом ощущении при болезни",
+      "note": "",
+      "keyword": "knedla",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.559Z"
     },
     {
       "id": "msxl6oysywa89",
@@ -4051,6 +4238,32 @@
       "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
+      "id": "mt0b1qfy6l2yv",
+      "headword_latin": "Ni traga ni glasa",
+      "headword_cyrillic": "Ни трага ни гласа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни слуху ни духу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nema ga ni traga ni glasa već mesec dana.",
+          "russian": "О нём ни слуху ни духу уже месяц."
+        }
+      ],
+      "analogs_ru": [
+        "ни слуху ни духу",
+        "как в воду канул",
+        "пропал без вести"
+      ],
+      "literal_ru": "ни следа ни голоса",
+      "register": "нейтр., общеупотр.; управление nema ga ni traga ni glasa",
+      "note": "Заведено вместо записи ni od korova, которая в доступных источниках не подтверждается и, вероятно, представляет собой обрывок более длинной фразы; форма nema ga ni od korova встречается в говорах, но требует проверки по живому контексту.",
+      "keyword": "trag",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
       "id": "msxl0hliu8deq",
       "headword_latin": "Ničija nije gorela do zore",
       "headword_cyrillic": "Ничија није горела до зоре",
@@ -4235,6 +4448,36 @@
       "created_at": "2026-08-17T20:37:10.220Z"
     },
     {
+      "id": "mt0b1qg06zmik",
+      "headword_latin": "Osvetiti nekoga / osvetiti se nekome",
+      "headword_cyrillic": "Осветити некога / осветити се некоме",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "отомстить за кого-л. (без se, аккузатив) / отомстить кому-л. (с se, дательный)",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Osvetiću te, brate.",
+          "russian": "Я за тебя отомщу, брат."
+        },
+        {
+          "serbian_latin": "Osvetiću ti se za ovo.",
+          "russian": "Я тебе за это отомщу."
+        }
+      ],
+      "analogs_ru": [
+        "отомстить за кого-л.",
+        "отомстить кому-л.",
+        "свести счёты"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; различие держится только на возвратной частице и падеже",
+      "note": "Коварная пара: по-русски различие несут предлоги («за тебя» / «тебе»), по-сербски одна частица, и ошибка переворачивает смысл на противоположный — вместо клятвы отомстить за друга получается угроза ему же. Существительное osveta; krvna osveta «кровная месть» — балканская реалия с отдельной историей.",
+      "keyword": "osveta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.560Z"
+    },
+    {
       "id": "msxp30el5z8ib",
       "headword_latin": "Otac ko kolac",
       "headword_cyrillic": "Отац ко колац",
@@ -4261,6 +4504,33 @@
       "created_at": "2026-08-17T20:37:10.221Z"
     },
     {
+      "id": "mt0b1qfzvkdsh",
+      "headword_latin": "Oteto — prokleto",
+      "headword_cyrillic": "Отето — проклето",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "краденое впрок не идёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vratiće se to njima — oteto, prokleto.",
+          "russian": "Ещё вернётся им это: краденое впрок не идёт."
+        }
+      ],
+      "analogs_ru": [
+        "краденое впрок не идёт",
+        "чужое добро боком выйдет",
+        "на чужом несчастье счастья не построишь",
+        "неправедно нажитое прахом пойдёт"
+      ],
+      "literal_ru": "отнятое — проклятое",
+      "register": "послов., частотна в политических комментариях об отнятом имуществе и территориях",
+      "note": "Смысл не «что упало, то пропало» — та формула о случайной потере и о праве нашедшего (по-сербски скорее što je palo, palo je). Здесь наоборот: отнятое силой не принесёт добра отнявшему.",
+      "keyword": "oteto",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.560Z"
+    },
+    {
       "id": "msxp30el18e1l",
       "headword_latin": "Otrov se drži u malim bočicama",
       "headword_cyrillic": "Отров се држи у малим бочицама",
@@ -4284,6 +4554,33 @@
       "keyword": "otrov",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "mt0b1qfx8r30p",
+      "headword_latin": "Pa mirna Bosna",
+      "headword_cyrillic": "Па мирна Босна",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "и все дела; и делу конец; и никаких вопросов",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Podelićemo pare jednako i mirna Bosna.",
+          "russian": "Поделим деньги поровну — и все дела."
+        }
+      ],
+      "analogs_ru": [
+        "и все дела",
+        "и делу конец",
+        "и никаких проблем",
+        "и всё, разошлись"
+      ],
+      "literal_ru": "и Босния спокойна",
+      "register": "разг., очень частотно; всегда в конце фразы, как формула-закрытие после предложенного решения",
+      "note": "Оборот старше югославских войн и к ним прямого отношения не имеет: Босния тут — образ края беспокойного, где спокойствие означает, что вопрос закрыт окончательно.",
+      "keyword": "Bosna",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.557Z"
     },
     {
       "id": "msxp30eldl7wp",
@@ -4359,6 +4656,32 @@
       "keyword": "poklon",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "mt0b1qfzx958b",
+      "headword_latin": "Pomeriti",
+      "headword_cyrillic": "Померити",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "перенести (встречу, срок)",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Možemo li da pomerimo sastanak za sredu?",
+          "russian": "Можем перенести встречу на среду?"
+        }
+      ],
+      "analogs_ru": [
+        "перенести",
+        "сдвинуть",
+        "передвинуть"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; сов., управление pomeriti šta za + время (za sutra, za pola sata), pomeriti šta na + дата; несов. pomerati",
+      "note": "Не путать с odložiti «отложить на неопределённый срок» и otkazati «отменить»: pomeriti предполагает новое время, а не отмену. Отдельное разговорное значение — pomerio je «он тронулся умом».",
+      "keyword": "pomeriti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.559Z"
     },
     {
       "id": "msxvtv1ugynz0",
@@ -4780,6 +5103,33 @@
       "created_at": "2026-08-17T21:20:44.617Z"
     },
     {
+      "id": "mt0b1qfxca248",
+      "headword_latin": "Radio Mileva",
+      "headword_cyrillic": "Радио Милева",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сарафанное радио; главная сплетница",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otkud znaš? — Radio Mileva javila.",
+          "russian": "Откуда знаешь? — Сарафанное радио донесло."
+        }
+      ],
+      "analogs_ru": [
+        "сарафанное радио",
+        "ОБС (одна баба сказала)",
+        "деревенский телеграф",
+        "первая сплетница на селе"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.-ирон.; и о конкретной женщине, разносящей новости, и о слухах вообще; варианты Radio Milojka, Radio Mileva javlja…",
+      "note": "Милева — типовое старомодное женское имя, выбрано как «всякая тётка».",
+      "keyword": "radio",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
       "id": "msxknp37fbcp4",
       "headword_latin": "Raditi levom nogom",
       "headword_cyrillic": "Радити левом ногом",
@@ -4806,6 +5156,33 @@
       "keyword": "leva noga",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "mt0b1qfyakh8v",
+      "headword_latin": "Raspremiti",
+      "headword_cyrillic": "Распремити",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "убрать, прибрать (со стола, в комнате); разобрать (постель)",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Raspremi sto, molim te.",
+          "russian": "Убери со стола, пожалуйста."
+        }
+      ],
+      "analogs_ru": [
+        "убрать",
+        "прибрать",
+        "навести порядок",
+        "разобрать постель"
+      ],
+      "literal_ru": "",
+      "register": "разг.-нейтр.; сов., управление raspremiti šta + аккузатив; несов. raspremati",
+      "note": "Ловушка для русскоязычного: raspremiti krevet значит разобрать постель на ночь, а не убрать её утром — утром это namestiti krevet. Приставка ras- тут «привести из собранного состояния в рабочее», отсюда расхождение с русским «убрать постель».",
+      "keyword": "raspremiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.558Z"
     },
     {
       "id": "msxqn1oqwi4ex",
@@ -4885,6 +5262,32 @@
       "keyword": "vrag",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.681Z"
+    },
+    {
+      "id": "mt0b1qfzplbx8",
+      "headword_latin": "Sastavljati kraj s krajem",
+      "headword_cyrillic": "Састављати крај с крајем",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сводить концы с концами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Jedva sastavljam kraj s krajem.",
+          "russian": "Я едва свожу концы с концами."
+        }
+      ],
+      "analogs_ru": [
+        "сводить концы с концами",
+        "еле сводить концы с концами",
+        "жить впритык"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., частотно в прессе о социальных темах; варианты предлога s krajem и sa krajem, оба нормативны; сов. sastaviti kraj s krajem",
+      "note": "",
+      "keyword": "kraj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.559Z"
     },
     {
       "id": "msxqn1oqntui1",
@@ -5170,6 +5573,61 @@
       "keyword": "snaga",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
+      "id": "mt0b1qg09mdht",
+      "headword_latin": "Soliti pamet",
+      "headword_cyrillic": "Солити памет",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "учить жить; читать нотации",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj mi soliti pamet, znam šta radim.",
+          "russian": "Не учи меня жить, я знаю, что делаю."
+        }
+      ],
+      "analogs_ru": [
+        "учить жить",
+        "читать нотации",
+        "компостировать мозги",
+        "умничать",
+        "лезть с советами"
+      ],
+      "literal_ru": "солить ум",
+      "register": "разг., неодобр.; управление soliti pamet kome + дательный; частая отповедь nemoj mi soliti pamet",
+      "note": "",
+      "keyword": "pamet",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.560Z"
+    },
+    {
+      "id": "mt0b1qfystgjd",
+      "headword_latin": "Spavati kao klada",
+      "headword_cyrillic": "Спавати као клада",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "спать как убитый; спать без задних ног",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne brini, spavao sam kao klada.",
+          "russian": "Не волнуйся, спал как убитый."
+        }
+      ],
+      "analogs_ru": [
+        "спать как убитый",
+        "спать без задних ног",
+        "спать как сурок",
+        "дрыхнуть без просыпу"
+      ],
+      "literal_ru": "спать как колода",
+      "register": "разг., частотно; синонимы spavati kao top, spavati kao beba",
+      "note": "По-русски образ звериный (сурок), по-сербски деревянный — бревно, которое не сдвинешь; отсюда оттенок: не сладко спал, а тяжело и неподвижно.",
+      "keyword": "klada",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.558Z"
     },
     {
       "id": "mt0aue88frskt",
@@ -6063,6 +6521,34 @@
       "created_at": "2026-08-17T23:43:00.318Z"
     },
     {
+      "id": "mt0b1qfysmz0e",
+      "headword_latin": "Ući u štos",
+      "headword_cyrillic": "Ући у штос",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "въехать, освоиться, поймать суть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prvih nedelju dana je bilo teško, a onda sam ušao u štos.",
+          "russian": "Первую неделю было тяжело, а потом я въехал."
+        }
+      ],
+      "analogs_ru": [
+        "войти в курс",
+        "въехать",
+        "поймать суть",
+        "набить руку",
+        "освоиться"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг.; родственное uhvatiti štos",
+      "note": "Štos (нем. Stoß) — «фокус, приём, соль дела». Нейтральный синоним ući u ritam «войти в ритм» — о темпе работы, а не о понимании сути.",
+      "keyword": "štos",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
       "id": "msxrqv219d8s1",
       "headword_latin": "Um caruje, snaga klade valja",
       "headword_cyrillic": "Ум царује, снага кладе ваља",
@@ -6299,6 +6785,32 @@
       "created_at": "2026-08-17T23:46:00.689Z"
     },
     {
+      "id": "mt0b1qfzkfj4n",
+      "headword_latin": "Zaglaviti se u saobraćaju",
+      "headword_cyrillic": "Заглавити се у саобраћају",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "застрять в пробке",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kasnim, zaglavio sam se u saobraćaju.",
+          "russian": "Опаздываю, застрял в пробке."
+        }
+      ],
+      "analogs_ru": [
+        "застрять в пробке",
+        "попасть в пробку",
+        "встать намертво"
+      ],
+      "literal_ru": "",
+      "register": "разг., частотно; причастная форма zaglavljen u saobraćaju; сама пробка — gužva или zastoj",
+      "note": "Сербское saobraćaj — «движение, транспорт» вообще, а не «пробка». Zaglaviti se добавляет и разговорное «влипнуть, застрять в неприятности».",
+      "keyword": "saobraćaj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
       "id": "msxvtv1vamvzn",
       "headword_latin": "Zavadi pa vladaj",
       "headword_cyrillic": "Завади па владај",
@@ -6321,6 +6833,33 @@
       "keyword": "vladati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:46:00.691Z"
+    },
+    {
+      "id": "mt0b1qg094yt0",
+      "headword_latin": "Zbog sira i vojne muzike",
+      "headword_cyrillic": "Због сира и војне музике",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "по кочану; потому что",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zašto si ugazio u baru? — Zbog sira i vojne muzike.",
+          "russian": "Ты чего в лужу влез? — По кочану."
+        }
+      ],
+      "analogs_ru": [
+        "по кочану",
+        "потому что кончается на «у»",
+        "просто так",
+        "а вот потому"
+      ],
+      "literal_ru": "из-за сыра и военного оркестра",
+      "register": "разг., шутл.-отмахивающ.; ответ на бессмысленный вопрос или на такой, где ответ очевиден; вариант zbog sira i masnih kolača",
+      "note": "Фраза стала интернет-мемом: словарь сленга Vukajlija ставит её на страницу ошибки вместо «страница не найдена», что раздражает авторов удалённых статей до сих пор. Ходит и в публицистике — «Пешчаник» вынес её в заголовок колонки об уклончивых ответах власти. Из той же серии школьных отговорок — zbog jotovanja.",
+      "keyword": "sir",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:27:34.560Z"
     },
     {
       "id": "msym7ab12fv4c",
