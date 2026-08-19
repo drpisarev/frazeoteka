@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-18T16:09:03.111Z",
+  "updated": "2026-08-19T16:21:52.176Z",
   "entries": [
     {
       "id": "msxvxddr3b6od",
@@ -650,6 +650,83 @@
       "keyword": "bitisati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "mt0aue88dt5qk",
+      "headword_latin": "Biti mirođija u svakoj čorbi",
+      "headword_cyrillic": "Бити мирођија у свакој чорби",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть в каждой бочке затычкой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On mora da bude mirođija u svakoj čorbi.",
+          "russian": "Ему надо быть в каждой бочке затычкой."
+        }
+      ],
+      "analogs_ru": [
+        "в каждой бочке затычка",
+        "всюду свой нос сунет",
+        "без него ни одна свадьба не обходится"
+      ],
+      "literal_ru": "быть укропом в каждом супе",
+      "register": "разг., ирон.-неодобр.; самый ходовой из трёх синонимичных оборотов",
+      "note": "Mirođija — укроп, но и вообще приправа. Синонимы: biti svakoj vreći zakrpa, biti svakom loncu poklopac.",
+      "keyword": "mirođija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
+      "id": "mt0aue88j65er",
+      "headword_latin": "Biti svakoj vreći zakrpa",
+      "headword_cyrillic": "Бити свакој врећи закрпа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть в каждой бочке затычкой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne moraš svakoj vreći biti zakrpa.",
+          "russian": "Не обязательно быть затычкой в каждой бочке."
+        }
+      ],
+      "analogs_ru": [
+        "в каждой бочке затычка",
+        "на все руки затычка",
+        "всюду поспеет"
+      ],
+      "literal_ru": "быть заплатой всякому мешку",
+      "register": "разг., ирон.-неодобр.; синоним biti mirođija u svakoj čorbi, но реже",
+      "note": "Не смешивать с našla vreća zakrpu «два сапога пара» — тот же реквизит, совсем другой смысл: там сошлись двое подстать друг другу, здесь один лезет во все дела. См. также: NAŠLA VREĆA ZAKRPU.",
+      "keyword": "vreća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
+      "id": "mt0aue88uemvn",
+      "headword_latin": "Biti svakom loncu poklopac",
+      "headword_cyrillic": "Бити сваком лонцу поклопац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть в каждой бочке затычкой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uvek se ubaci — svakom loncu poklopac.",
+          "russian": "Вечно влезет: в каждой бочке затычка."
+        }
+      ],
+      "analogs_ru": [
+        "в каждой бочке затычка",
+        "без него нигде не обходится"
+      ],
+      "literal_ru": "быть крышкой всякой кастрюле",
+      "register": "разг., ирон.-неодобр.; третий вариант того же образа",
+      "note": "Не путать с svaki lonac nađe svoj poklopac «всякая кастрюля найдёт свою крышку» — это о том, что каждому найдётся пара. Различие держится на конструкции: biti svakom loncu poklopac (о навязчивом человеке) против nađe svoj poklopac (о паре).",
+      "keyword": "lonac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.136Z"
     },
     {
       "id": "msxlnru8ydzo9",
@@ -2529,6 +2606,33 @@
       "created_at": "2026-08-18T14:32:12.247Z"
     },
     {
+      "id": "mt0aue87flck2",
+      "headword_latin": "Imati trip da",
+      "headword_cyrillic": "Имати трип да",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "иметь бзик; заклиниться на чём-л.",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Martin ima trip da priča o recikliranju.",
+          "russian": "У Мартина бзик — вечно говорит про переработку."
+        }
+      ],
+      "analogs_ru": [
+        "иметь бзик",
+        "пунктик на чём-л.",
+        "заклинить на чём-л.",
+        "сесть на любимого конька"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг., молодёжн.; англицизм (trip), в словари не входит; конструкция imati trip da + презент",
+      "note": "Родственные: biti na tripu, tripovati «зацикливаться, накручивать себя».",
+      "keyword": "trip",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.135Z"
+    },
+    {
       "id": "msxl0hlit6syc",
       "headword_latin": "Imati u malom prstu",
       "headword_cyrillic": "Имати у малом прсту",
@@ -2972,6 +3076,31 @@
       "keyword": "kruška",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "mt0aue86th1fa",
+      "headword_latin": "Kap koja je prelila čašu",
+      "headword_cyrillic": "Кап која је прелила чашу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "последняя капля",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta poruka je bila kap koja je prelila čašu.",
+          "russian": "Это сообщение стало последней каплей."
+        }
+      ],
+      "analogs_ru": [
+        "последняя капля",
+        "капля, переполнившая чашу"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., общеупотр.; ходовые формы to je bila kap koja je prelila čašu, глагольно prelilo se «переполнилось»",
+      "note": "Интернациональный образ, совпадает с русским.",
+      "keyword": "kap",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.134Z"
     },
     {
       "id": "msxl6oysywa89",
@@ -4311,6 +4440,32 @@
       "created_at": "2026-08-18T14:32:12.247Z"
     },
     {
+      "id": "mt0aue88yqev3",
+      "headword_latin": "Praviti od komarca magarca",
+      "headword_cyrillic": "Правити од комарца магарца",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "делать из мухи слона",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne pravi od komarca magarca, nije to ništa strašno.",
+          "russian": "Не делай из мухи слона, ничего страшного."
+        }
+      ],
+      "analogs_ru": [
+        "делать из мухи слона",
+        "раздувать из ничего",
+        "буря в стакане воды"
+      ],
+      "literal_ru": "делать из комара осла",
+      "register": "разг., неодобр.; держится на рифме komarca — magarca, отсюда живучесть",
+      "note": "Вариант od muve praviti slona — калька, звучит бледнее.",
+      "keyword": "komarac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.137Z"
+    },
+    {
       "id": "msxqn1oosvmk8",
       "headword_latin": "Prazne se puške dvojica boje",
       "headword_cyrillic": "Празне се пушке двојица боје",
@@ -4360,6 +4515,85 @@
       "keyword": "vera",
       "source": "frazeoteka",
       "created_at": "2026-08-18T00:00:07.130Z"
+    },
+    {
+      "id": "mt0aue896kead",
+      "headword_latin": "Prosto ko pasulj",
+      "headword_cyrillic": "Просто ко пасуљ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "проще пареной репы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne brini, to je prosto ko pasulj.",
+          "russian": "Не переживай, это проще пареной репы."
+        }
+      ],
+      "analogs_ru": [
+        "проще пареной репы",
+        "проще простого",
+        "как дважды два",
+        "элементарно"
+      ],
+      "literal_ru": "просто как фасоль",
+      "register": "разг., частотно; ko — разговорное стяжение kao, в письменной норме prosto kao pasulj",
+      "note": "Фасоль — базовая, дешёвая, всем понятная еда сербского стола (prebranac, pasulj s rebrima), отсюда образ обыденности. Русская «пареная репа» устроена так же — еда бедняка как мера простоты.",
+      "keyword": "pasulj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.137Z"
+    },
+    {
+      "id": "mt0aue89earfc",
+      "headword_latin": "Prošao je voz",
+      "headword_cyrillic": "Прошао је воз",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "поезд ушёл",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Za tu poziciju mu je voz prošao.",
+          "russian": "На эту должность его поезд ушёл."
+        }
+      ],
+      "analogs_ru": [
+        "поезд ушёл",
+        "момент упущен",
+        "шанс упущен"
+      ],
+      "literal_ru": "",
+      "register": "разг., нейтральнее и новее оборота prošla baba s kolačima; часто о возрасте и карьере, иногда сочувственно; дательный указывает лицо: prošao mu je voz",
+      "note": "",
+      "keyword": "voz",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.137Z"
+    },
+    {
+      "id": "mt0aue891js96",
+      "headword_latin": "Prošla baba s kolačima",
+      "headword_cyrillic": "Прошла баба с колачима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "поезд ушёл; поздно пить боржоми",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sad se javljaš? Prošla baba s kolačima.",
+          "russian": "Теперь объявился? Поезд ушёл."
+        }
+      ],
+      "analogs_ru": [
+        "поезд ушёл",
+        "поздно пить боржоми",
+        "после драки кулаками не машут"
+      ],
+      "literal_ru": "прошла бабка с пирогами",
+      "register": "разг., ирон.; о безвозвратно упущенном случае; часто как отповедь тому, кто опомнился слишком поздно",
+      "note": "Образ — разносчица сластей, прошедшая мимо: не окликнул вовремя, второй раз не пойдёт.",
+      "keyword": "baba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.137Z"
     },
     {
       "id": "msxp30elqvhc6",
@@ -4938,6 +5172,34 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "mt0aue88frskt",
+      "headword_latin": "Spiskati",
+      "headword_cyrillic": "Спискати",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "промотать, спустить, просадить",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Spiskao je celu platu za tri dana.",
+          "russian": "Всю зарплату за три дня просадил."
+        }
+      ],
+      "analogs_ru": [
+        "промотать",
+        "спустить",
+        "просадить",
+        "профукать",
+        "пустить по ветру"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; сов. вид, управление spiskati šta + аккузатив (деньги, наследство, время); несов. spiskavati редк.; часто с na: spiskati sve na kladionicu",
+      "note": "",
+      "keyword": "spiskati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
       "id": "msxrqv22i4esn",
       "headword_latin": "Sreću čine male stvari",
       "headword_cyrillic": "Срећу чине мале ствари",
@@ -5096,6 +5358,33 @@
       "created_at": "2026-08-18T14:32:12.249Z"
     },
     {
+      "id": "mt0aue87f7zil",
+      "headword_latin": "Sve se vraća, sve se plaća",
+      "headword_cyrillic": "Све се враћа, све се плаћа",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "как аукнется, так и откликнется; всё возвращается",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da brineš, sve se vraća, sve se plaća.",
+          "russian": "Не переживай: как аукнется, так и откликнется."
+        }
+      ],
+      "analogs_ru": [
+        "как аукнется, так и откликнется",
+        "всё возвращается",
+        "за всё приходится платить",
+        "что посеешь, то и пожнёшь"
+      ],
+      "literal_ru": "",
+      "register": "разг., частотно; и как утешение обиженному, и как предостережение обидчику",
+      "note": "Известно и по одноимённой песне, что закрепило формулу в обиходе. «Не рой другому яму» ближе к ko pod drugim jamu kopa — там конкретный умысел и расплата за него; здесь шире, возвращается любое, и доброе тоже. См. также: KO POD DRUGIM JAMU KOPA.",
+      "keyword": "vraćati se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.135Z"
+    },
+    {
       "id": "msxrqv229sd9r",
       "headword_latin": "Sve su pite pitice, a burek je pitac",
       "headword_cyrillic": "Све су пите питице, а бурек је питац",
@@ -5224,6 +5513,33 @@
       "keyword": "faliti",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.249Z"
+    },
+    {
+      "id": "mt0aue8619ai4",
+      "headword_latin": "Što je brzo, to je i kuso",
+      "headword_cyrillic": "Што је брзо, то је и кусо",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "поспешишь — людей насмешишь; сделанное наспех выходит недоделанным",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vladu treba formirati brzo, ali ne brzopleto — što je brzo, to je i kuso.",
+          "russian": "Правительство надо формировать быстро, но не наспех: поспешишь — людей насмешишь."
+        }
+      ],
+      "analogs_ru": [
+        "поспешишь — людей насмешишь",
+        "скоро, да не споро",
+        "быстро хорошо не бывает",
+        "тише едешь — дальше будешь"
+      ],
+      "literal_ru": "что быстро, то и куцо",
+      "register": "послов.; ходовые варианты brzo pa kuso, brzo i kuso; частая формула в прессе о спешно принятых решениях",
+      "note": "Kus — «куцый, обрубленный, неполный», сегодня вне этой пословицы почти не живёт. Смысл не «быстро выучил — быстро забыл», а о качестве результата, а не о памяти.",
+      "keyword": "kuso",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.134Z"
     },
     {
       "id": "msxu2ocq6h4js",
@@ -5770,6 +6086,33 @@
       "keyword": "um",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.265Z"
+    },
+    {
+      "id": "mt0aue87s4zm3",
+      "headword_latin": "Uzeti s rezervom",
+      "headword_cyrillic": "Узети с резервом",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "принимать с оговорками; относиться скептически",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Te brojke treba uzeti s rezervom.",
+          "russian": "Эти цифры стоит принимать с оговорками."
+        }
+      ],
+      "analogs_ru": [
+        "принимать с оговорками",
+        "верить с оглядкой",
+        "относиться скептически",
+        "делить надвое"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн.; управление uzeti šta s rezervom; синоним primiti sa zadrškom",
+      "note": "Русское «с солью» (cum grano salis) в сербском не прижилось, работает именно rezerva.",
+      "keyword": "rezerva",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:21:52.135Z"
     },
     {
       "id": "msym7ab1wtx4c",
