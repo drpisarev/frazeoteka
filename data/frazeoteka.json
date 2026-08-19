@@ -1,7 +1,32 @@
 {
   "v": 1,
-  "updated": "2026-08-19T16:27:49.747Z",
+  "updated": "2026-08-19T16:33:49.537Z",
   "entries": [
+    {
+      "id": "mt0b9rqtalctg",
+      "headword_latin": "Ako hoćeš da nasmeješ Boga, ispričaj mu svoje planove",
+      "headword_cyrillic": "Ако хоћеш да насмејеш Бога, испричај му своје планове",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "хочешь рассмешить Бога — расскажи ему о своих планах",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve sam isplanirao za jul — ako hoćeš da nasmeješ Boga, ispričaj mu svoje planove.",
+          "russian": "Всё расписал на июль: хочешь рассмешить Бога — расскажи ему о своих планах."
+        }
+      ],
+      "analogs_ru": [
+        "человек предполагает, а Бог располагает",
+        "хочешь рассмешить Бога — расскажи о своих планах"
+      ],
+      "literal_ru": "",
+      "register": "разг.-афор.; интернациональная формула, ходит и в свёрнутом виде pravi planove da se Bog smeje",
+      "note": "Строгое соответствие русскому «человек предполагает, а Бог располагает» — čovek snuje, a Bog određuje.",
+      "keyword": "planovi",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.493Z"
+    },
     {
       "id": "msxvxddr3b6od",
       "headword_latin": "Ako je go, ali je soko",
@@ -1666,6 +1691,32 @@
       "created_at": "2026-08-17T19:29:45.341Z"
     },
     {
+      "id": "mt0b9rqtcvto2",
+      "headword_latin": "Čiča miča, i gotova priča",
+      "headword_cyrillic": "Чича мича, и готова прича",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вот и сказке конец, а кто слушал — молодец",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Potpisali smo i čiča miča, i gotova priča.",
+          "russian": "Подписали — и на том сказочке конец."
+        }
+      ],
+      "analogs_ru": [
+        "вот и сказке конец, а кто слушал — молодец",
+        "тут и сказочке конец",
+        "и делу конец"
+      ],
+      "literal_ru": "",
+      "register": "разг.; концовка сказки, отсюда переносное «на том и закончим»",
+      "note": "Čiča miča — присказка без самостоятельного значения, чистая рифма к priča.",
+      "keyword": "priča",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.493Z"
+    },
+    {
       "id": "msxw54d4y5rqe",
       "headword_latin": "Čija sila, toga i pravda",
       "headword_cyrillic": "Чија сила, тога и правда",
@@ -1873,6 +1924,33 @@
       "keyword": "dlan",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:39:13.168Z"
+    },
+    {
+      "id": "mt0b9rqujuldo",
+      "headword_latin": "Ćorav posao",
+      "headword_cyrillic": "Ћорав посао",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "гиблое дело; дохлый номер",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "To je ćorav posao, ne troši vreme.",
+          "russian": "Это гиблое дело, не трать время."
+        }
+      ],
+      "analogs_ru": [
+        "гиблое дело",
+        "дохлый номер",
+        "пустая затея",
+        "мартышкин труд"
+      ],
+      "literal_ru": "слепое дело",
+      "register": "разг.",
+      "note": "Ćorav (тур. kör) — «слепой», в переносном «безнадёжный, бестолковый».",
+      "keyword": "ćorav",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
       "id": "msxmobcunx20e",
@@ -2455,6 +2533,34 @@
       "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
+      "id": "mt0b9rqw54iki",
+      "headword_latin": "Floskula",
+      "headword_cyrillic": "Флоскула",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "избитая фраза; пустая формулировка",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U govoru nije bilo ničeg konkretnog, same floskule.",
+          "russian": "В выступлении не было ничего конкретного, одни общие слова."
+        }
+      ],
+      "analogs_ru": [
+        "избитая фраза",
+        "штамп",
+        "общие слова",
+        "дежурная фраза",
+        "пустословие"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-публиц., неодобр.; частотно в политических комментариях: prazne floskule, floskule bez pokrića",
+      "note": "Лат. flosculus «цветочек» (риторическое украшение). Соседние по смыслу: poštapalica — слово-паразит в устной речи, floskula — пустая формула в публичной, klišé — затасканный оборот в письменной.",
+      "keyword": "floskula",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
       "id": "msxmobcxtwg5x",
       "headword_latin": "Gde čeljad nisu besna, ni kuća nije tesna",
       "headword_cyrillic": "Где чељад нису бесна, ни кућа није тесна",
@@ -2710,6 +2816,60 @@
       "keyword": "razni",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.247Z"
+    },
+    {
+      "id": "mt0b9rqufhxcf",
+      "headword_latin": "Imati posla preko glave",
+      "headword_cyrillic": "Имати посла преко главе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "работы выше крыши; дел по горло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu danas, imam posla preko glave.",
+          "russian": "Сегодня не могу, работы выше крыши."
+        }
+      ],
+      "analogs_ru": [
+        "работы выше крыши",
+        "дел по горло",
+        "завален работой",
+        "дел невпроворот"
+      ],
+      "literal_ru": "иметь работы выше головы",
+      "register": "разг., частотно; posla — родительный от posao; синоним biti zatrpan poslom",
+      "note": "Русский меряет по горлу, сербский — выше головы; при переводе лучше брать русскую меру, а не калькировать.",
+      "keyword": "posao",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
+      "id": "mt0b9rqvtognb",
+      "headword_latin": "Imati tremu",
+      "headword_cyrillic": "Имати трему",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "волноваться перед выступлением; мандражировать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Imam tremu pred ispit.",
+          "russian": "Я волнуюсь перед экзаменом."
+        }
+      ],
+      "analogs_ru": [
+        "волноваться",
+        "мандраж",
+        "сценический страх",
+        "поджилки трясутся"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; управление imati tremu od čega, pred čim",
+      "note": "Trema — специальное слово для волнения перед выступлением, экзаменом, публикой. В русском отдельного слова нет: «волнение» шире, «мандраж» разговорнее, точное соответствие есть только в театральном жаргоне.",
+      "keyword": "trema",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
       "id": "mt0aue87flck2",
@@ -3237,6 +3397,32 @@
       "keyword": "kec",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.560Z"
+    },
+    {
+      "id": "mt0b9rqvzosf1",
+      "headword_latin": "Kao klinac",
+      "headword_cyrillic": "Као клинац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "в детстве; когда был пацаном",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kao klinac sam leta provodio kod bake.",
+          "russian": "Пацаном я проводил лето у бабушки."
+        }
+      ],
+      "analogs_ru": [
+        "в детстве",
+        "пацаном",
+        "когда был мальчишкой"
+      ],
+      "literal_ru": "",
+      "register": "разг., фамильярн.; согласуется с полом говорящего: kao klinac / kao klinka",
+      "note": "Klinac «пацан, малец», буквально «гвоздик».",
+      "keyword": "klinac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
       "id": "mt0aue86th1fa",
@@ -3838,6 +4024,61 @@
       "created_at": "2026-08-17T18:55:49.596Z"
     },
     {
+      "id": "mt0b9rquethj3",
+      "headword_latin": "Malo sutra",
+      "headword_cyrillic": "Мало сутра",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как же; держи карман шире; ага, сейчас",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vratiće ti pare? Malo sutra.",
+          "russian": "Отдаст он тебе деньги? Держи карман шире."
+        }
+      ],
+      "analogs_ru": [
+        "держи карман шире",
+        "как же",
+        "ага, разбежался",
+        "ищи дурака",
+        "дожидайся"
+      ],
+      "literal_ru": "немного завтра",
+      "register": "разг., ирон.-отрицающ.; всегда как самостоятельная реплика-опровержение",
+      "note": "Отрицание категорическое, «никогда», но подаётся через издевательское обещание.",
+      "keyword": "sutra",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
+      "id": "mt0b9rqvxacmj",
+      "headword_latin": "Mani se ćorava posla",
+      "headword_cyrillic": "Мани се ћорава посла",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "брось ты это гиблое дело",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mani se ćorava posla, nećeš ništa dobiti.",
+          "russian": "Брось ты это гиблое дело, ничего не добьёшься."
+        }
+      ],
+      "analogs_ru": [
+        "брось ты это",
+        "не связывайся",
+        "не майся дурью",
+        "оставь эту затею"
+      ],
+      "literal_ru": "",
+      "register": "разг., отговаривающ.; maniti se čega + родительный «отстать от чего-л., бросить»",
+      "note": "Императив mani se живёт и отдельно: mani se toga, mani me se «отстань от меня».",
+      "keyword": "posao",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.495Z"
+    },
+    {
       "id": "msxl6oyss4m60",
       "headword_latin": "Mi o vuku, a vuk na vrata",
       "headword_cyrillic": "Ми о вуку, а вук на врата",
@@ -4055,6 +4296,33 @@
       "created_at": "2026-08-18T00:00:07.129Z"
     },
     {
+      "id": "mt0b9rqwkrmcf",
+      "headword_latin": "Napaćena duša",
+      "headword_cyrillic": "Напаћена душа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "исстрадавшаяся душа",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Toliko je prošla, napaćena duša.",
+          "russian": "Столько пережила, исстрадавшаяся душа."
+        }
+      ],
+      "analogs_ru": [
+        "исстрадавшаяся душа",
+        "многострадальный",
+        "намыкавшийся",
+        "горемыка"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сентимент.; может быть искренним сочувствием, а может и лёгкой насмешкой над тем, кто драматизирует",
+      "note": "Napaćen — причастие от napatiti se «настрадаться».",
+      "keyword": "duša",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
       "id": "msxu2ocorja8b",
       "headword_latin": "Našla vreća zakrpu",
       "headword_cyrillic": "Нашла врећа закрпу",
@@ -4079,6 +4347,32 @@
       "keyword": "vreća",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.680Z"
+    },
+    {
+      "id": "mt0b9rqwi35zg",
+      "headword_latin": "Ne mogu sebi da priuštim",
+      "headword_cyrillic": "Не могу себи да приуштим",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не могу себе позволить",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu sebi da priuštim takav odmor.",
+          "russian": "Не могу себе позволить такой отпуск."
+        }
+      ],
+      "analogs_ru": [
+        "не могу себе позволить",
+        "не по карману",
+        "не по средствам"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; управление priuštiti sebi šta + аккузатив",
+      "note": "Не только о деньгах, но и о времени и о поступке: ne mogu sebi da priuštim grešku «не могу позволить себе ошибку».",
+      "keyword": "priuštiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.496Z"
     },
     {
       "id": "msxp30ejzffeq",
@@ -4238,6 +4532,33 @@
       "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
+      "id": "mt0b9rquisedq",
+      "headword_latin": "Nema svrhe",
+      "headword_cyrillic": "Нема сврхе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "нет смысла; бесполезно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nema svrhe da pričamo o tome.",
+          "russian": "Нет смысла об этом говорить."
+        }
+      ],
+      "analogs_ru": [
+        "нет смысла",
+        "бесполезно",
+        "что толку",
+        "ни к чему"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; конструкции nema svrhe da + презент или nema svrhe + инфинитив, обе нормативны, первая разговорнее; синоним nema smisla",
+      "note": "",
+      "keyword": "svrha",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
       "id": "mt0b224tzgtjh",
       "headword_latin": "Ni od korova",
       "headword_cyrillic": "Ни од корова",
@@ -4317,6 +4638,33 @@
       "keyword": "zora",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "mt0b9rqumd6cl",
+      "headword_latin": "Nije ni ona cvećka",
+      "headword_cyrillic": "Није ни она цвећка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "она тоже не подарок",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Žali se na muža, a nije ni ona cvećka.",
+          "russian": "Жалуется на мужа, а сама тоже не подарок."
+        }
+      ],
+      "analogs_ru": [
+        "тоже не подарок",
+        "сама хороша",
+        "тот ещё цветочек",
+        "не ангел"
+      ],
+      "literal_ru": "и она не цветочек",
+      "register": "разг., ирон.; всегда с отрицанием и всегда о человеке",
+      "note": "Cvećka — уменьшительное от cvet, употребляется почти исключительно в этом обороте.",
+      "keyword": "cvećka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
       "id": "msxp30ej3e1l4",
@@ -4447,6 +4795,33 @@
       "keyword": "višak",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "mt0b9rqwh1lnj",
+      "headword_latin": "Omaklo mi se",
+      "headword_cyrillic": "Омакло ми се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у меня вырвалось; сорвалось",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Izvini, omaklo mi se, nisam tako mislio.",
+          "russian": "Извини, вырвалось, я не это имел в виду."
+        }
+      ],
+      "analogs_ru": [
+        "у меня вырвалось",
+        "сорвалось с языка",
+        "нечаянно вышло",
+        "не удержался"
+      ],
+      "literal_ru": "",
+      "register": "разг.; безличный возвратный оборот с дательным: omaklo mi se, omaklo mu se",
+      "note": "О сказанном сгоряча, но и о выпущенном из рук: omakla mi se čaša «стакан выскользнул». Конструкция снимает с говорящего ответственность — не «я сказал», а «оно само сказалось»; тот же приём в zaboravilo mi se, slomilo mi se, и по-русски он есть: «мне не спалось», «у меня разбилось».",
+      "keyword": "omaći se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.496Z"
     },
     {
       "id": "msxp30ekhmnxb",
@@ -4610,6 +4985,33 @@
       "created_at": "2026-08-19T16:27:34.557Z"
     },
     {
+      "id": "mt0b9rqszjw2w",
+      "headword_latin": "Parati uši",
+      "headword_cyrillic": "Парати уши",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "резать слух",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Glas te voditeljke mi para uši.",
+          "russian": "Голос этой ведущей мне режет слух."
+        }
+      ],
+      "analogs_ru": [
+        "резать слух",
+        "резать ухо",
+        "ухо режет",
+        "слушать невозможно"
+      ],
+      "literal_ru": "пороть, распарывать уши",
+      "register": "разг., неодобр.; управление parati uši kome + дательный",
+      "note": "Глагол parati в прямом смысле — «пороть, распарывать шов».",
+      "keyword": "uši",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.492Z"
+    },
+    {
       "id": "msxp30eldl7wp",
       "headword_latin": "Pas koji laje ne ujeda",
       "headword_cyrillic": "Пас који лаје не уједа",
@@ -4659,6 +5061,33 @@
       "keyword": "jutro",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "mt0b9rqvrqrgl",
+      "headword_latin": "Po svoj prilici",
+      "headword_cyrillic": "По свој прилици",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "судя по всему; по всей видимости",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Po svoj prilici, sastanak će biti odložen.",
+          "russian": "Судя по всему, встречу перенесут."
+        }
+      ],
+      "analogs_ru": [
+        "судя по всему",
+        "по всей видимости",
+        "скорее всего",
+        "вероятнее всего"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн., частотно в прессе; застывшая форма",
+      "note": "Svoj здесь архаичное «весь», а не притяжательное «свой» — именно это сбивает русскоязычных. Разговорные синонимы: najverovatnije, izgleda da.",
+      "keyword": "prilika",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
       "id": "msxp30elejba0",
@@ -4736,6 +5165,31 @@
       "keyword": "pojas",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:46:00.690Z"
+    },
+    {
+      "id": "mt0b9rqwc8519",
+      "headword_latin": "Poštapalica",
+      "headword_cyrillic": "Поштапалица",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "слово-паразит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima poštapalicu „znači“ u svakoj rečenici.",
+          "russian": "У него в каждом предложении слово-паразит «значит»."
+        }
+      ],
+      "analogs_ru": [
+        "слово-паразит",
+        "словцо для связки"
+      ],
+      "literal_ru": "подпорочка — от štap «палка, посох»",
+      "register": "нейтр.-лингв.; о пустом слове, которым говорящий подпирает речь: znači, ovaj, kao, u stvari, bukvalno",
+      "note": "Это не «крылатая фраза» — та будет krilatica или izreka. Образ прозрачный: говорящий опирается на словечко, как хромой на палку.",
+      "keyword": "poštapalica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.496Z"
     },
     {
       "id": "msxqn1ooxwqi0",
@@ -4839,6 +5293,32 @@
       "keyword": "puška",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.617Z"
+    },
+    {
+      "id": "mt0b9rqv57t3c",
+      "headword_latin": "Prljava posla",
+      "headword_cyrillic": "Прљава посла",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "грязные дела; тёмные делишки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neću da prodajem drogu. To su prljava posla.",
+          "russian": "Не буду торговать наркотиками. Это грязные дела."
+        }
+      ],
+      "analogs_ru": [
+        "грязные дела",
+        "тёмные делишки",
+        "грязная работа"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.",
+      "note": "Ловушка формы: posla здесь не родительный падеж единственного числа, а именительный множественного среднего рода — старый остаток, сохранившийся в оценочных сочетаниях (prljava posla, mutna posla, čudna posla); отсюда согласование prljava, а не prljavi.",
+      "keyword": "posao",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
       "id": "msxwc0627r8ff",
@@ -5212,6 +5692,33 @@
       "created_at": "2026-08-19T16:27:34.558Z"
     },
     {
+      "id": "mt0b9rqurgar2",
+      "headword_latin": "Rasturati se od posla",
+      "headword_cyrillic": "Растурати се од посла",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вкалывать; работать как вол",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Rasturam se od posla ovih dana.",
+          "russian": "Я эти дни вкалываю без продыху."
+        }
+      ],
+      "analogs_ru": [
+        "работать как вол",
+        "вкалывать",
+        "пахать",
+        "разрываться на части"
+      ],
+      "literal_ru": "разваливаться от работы",
+      "register": "разг., экспресс.; возвратный, чаще в презенсе о себе: rasturam se od posla",
+      "note": "Глагол rasturati сам по себе — «разносить, разваливать»; в сленге rasturiti значит и «разнести, порвать всех» (о выступлении, экзамене).",
+      "keyword": "posao",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
       "id": "msxqn1oqwi4ex",
       "headword_latin": "Ruka ruku mije",
       "headword_cyrillic": "Рука руку мије",
@@ -5464,6 +5971,37 @@
       "keyword": "Kurta",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.620Z"
+    },
+    {
+      "id": "mt0b9rqtky9g7",
+      "headword_latin": "Sklopiti / zaklopiti / preklopiti",
+      "headword_cyrillic": "Склопити / заклопити / преклопити",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "сложить (сдвинув части) / закрыть, накрыв / сложить, перегнув пополам",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Preklopi kolica i stavi ih u gepek.",
+          "russian": "Сложи коляску и убери в багажник."
+        },
+        {
+          "serbian_latin": "Zaklopio je knjigu i zaklopio oči.",
+          "russian": "Он закрыл книгу и закрыл глаза."
+        }
+      ],
+      "analogs_ru": [
+        "сложить",
+        "закрыть",
+        "свернуть",
+        "перегнуть"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; три приставки при одном корне, различие в результате действия",
+      "note": "Sklopiti — сложить, сдвинув части вместе (sklopiti ruke, sklopiti stolicu); zaklopiti — закрыть, накрыв (zaklopiti oči, knjigu, lonac); preklopiti — сложить, перегнув пополам (preklopiti kolica, papir). Русский обходится одним «сложить/закрыть» плюс контекст, сербский различает способ: zaklopiti kolica прозвучит так, будто коляску чем-то накрыли.",
+      "keyword": "klopiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
       "id": "msxrqv204fhqh",
@@ -5764,6 +6302,33 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "mt0b9rqwfbjsn",
+      "headword_latin": "Stvari poput toga",
+      "headword_cyrillic": "Ствари попут тога",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вещи в этом роде; и тому подобное",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pričali smo o poslu, planovima i stvarima poput toga.",
+          "russian": "Говорили о работе, планах и вещах в этом роде."
+        }
+      ],
+      "analogs_ru": [
+        "вещи в этом роде",
+        "и тому подобное",
+        "что-нибудь такое",
+        "всё в таком духе"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; poput + родительный «наподобие, вроде»; разговорнее i tako te stvari, i slično",
+      "note": "",
+      "keyword": "stvar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
       "id": "msxl6oyr8akiw",
       "headword_latin": "Svaka ptica svome jatu leti",
       "headword_cyrillic": "Свака птица своме јату лети",
@@ -5974,6 +6539,32 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "mt0b9rqt12j0p",
+      "headword_latin": "Špansko selo",
+      "headword_cyrillic": "Шпанско село",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "китайская грамота; тёмный лес",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta dokumentacija je za mene špansko selo.",
+          "russian": "Эта документация для меня китайская грамота."
+        }
+      ],
+      "analogs_ru": [
+        "китайская грамота",
+        "тёмный лес",
+        "ни бельмеса не понимаю"
+      ],
+      "literal_ru": "испанская деревня",
+      "register": "разг.; ходовая конструкция to je za mene špansko selo",
+      "note": "Калька немецкого das kommt mir spanisch vor. Каждый язык выбирает для непонятного свою дальнюю страну: русский — Китай, сербский через немецкий — Испанию, англичанин скажет it's all Greek to me.",
+      "keyword": "selo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.493Z"
+    },
+    {
       "id": "msyrhihl1xfxe",
       "headword_latin": "Šta fali?",
       "headword_cyrillic": "Шта фали?",
@@ -6076,6 +6667,33 @@
       "keyword": "danas",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
+      "id": "mt0b9rqt8vm3s",
+      "headword_latin": "Što na um, to na drum",
+      "headword_cyrillic": "Што на ум, то на друм",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "что на уме, то и на языке",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kod nje je uvek što na um, to na drum.",
+          "russian": "У неё всегда что на уме, то и на языке."
+        }
+      ],
+      "analogs_ru": [
+        "что на уме, то и на языке",
+        "без обиняков",
+        "рубит с плеча",
+        "язык мой — враг мой"
+      ],
+      "literal_ru": "что на ум, то на дорогу",
+      "register": "разг.; держится на рифме um — drum; drum — «большак, проезжая дорога»",
+      "note": "Может звучать и одобрительно (прямота), и с упрёком (несдержанность), в отличие от однозначно похвального bez dlake na jeziku. См. также: BEZ DLAKE NA JEZIKU, BRŽI JEZIK OD PAMETI.",
+      "keyword": "drum",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.493Z"
     },
     {
       "id": "msxu2ocq2a9y7",
@@ -6417,6 +7035,33 @@
       "created_at": "2026-08-17T22:56:52.684Z"
     },
     {
+      "id": "mt0b9rqwpvnph",
+      "headword_latin": "U naponu snage",
+      "headword_cyrillic": "У напону снаге",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "в расцвете сил",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otišao je iz sporta u naponu snage.",
+          "russian": "Он ушёл из спорта в расцвете сил."
+        }
+      ],
+      "analogs_ru": [
+        "в расцвете сил",
+        "в лучшие годы",
+        "в самом соку",
+        "на пике формы"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн.; синонимы u cvetu mladosti (о молодости), u najboljim godinama (о возрасте)",
+      "note": "Запись u zaletu svog života в источниках не подтверждается; u zaletu само по себе значит «с разбега, на разгоне» — о движении, а не о возрасте.",
+      "keyword": "snaga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
       "id": "msxu2ocs69sgg",
       "headword_latin": "U se, na se i poda se",
       "headword_cyrillic": "У се, на се и пода се",
@@ -6574,6 +7219,32 @@
       "keyword": "štos",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
+      "id": "mt0b9rqvula83",
+      "headword_latin": "Uljudne fraze",
+      "headword_cyrillic": "Уљудне фразе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вежливые формулы; любезности",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Razmenili smo uljudne fraze i razišli se.",
+          "russian": "Обменялись любезностями и разошлись."
+        }
+      ],
+      "analogs_ru": [
+        "вежливые формулы",
+        "дежурные любезности",
+        "формулы вежливости"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; часто с оттенком пустой обязательности: samo uljudne fraze i ništa konkretno",
+      "note": "Uljudan — «вежливый, учтивый».",
+      "keyword": "fraza",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
       "id": "msxrqv219d8s1",
@@ -6812,6 +7483,34 @@
       "created_at": "2026-08-17T23:46:00.689Z"
     },
     {
+      "id": "mt0b9rqujuteq",
+      "headword_latin": "Za džabe",
+      "headword_cyrillic": "За џабе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "даром, бесплатно; впустую",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dobio sam kartu za džabe.",
+          "russian": "Билет достался мне бесплатно."
+        }
+      ],
+      "analogs_ru": [
+        "даром",
+        "бесплатно",
+        "на халяву",
+        "задаром",
+        "зря, впустую"
+      ],
+      "literal_ru": "",
+      "register": "разг.; варианты za džabe, džabe, сокращение в переписке za dž",
+      "note": "Džaba (тур. caba). Второе значение — «напрасно»: sve za džabe «всё впустую». См. также: ŠTO JE DŽABA, I BOGU JE DRAGO.",
+      "keyword": "džabe",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
       "id": "mt0b1qfzkfj4n",
       "headword_latin": "Zaglaviti se u saobraćaju",
       "headword_cyrillic": "Заглавити се у саобраћају",
@@ -6836,6 +7535,34 @@
       "keyword": "saobraćaj",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt0b9rqv5nqgw",
+      "headword_latin": "Zatucan čovek",
+      "headword_cyrillic": "Затуцан човек",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "узколобый, косный человек",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "S njim ne vredi raspravljati, zatucan je čovek.",
+          "russian": "С ним спорить бесполезно, узколобый человек."
+        }
+      ],
+      "analogs_ru": [
+        "узколобый",
+        "косный",
+        "дремучий",
+        "твердолобый",
+        "зашоренный"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; о непробиваемой ограниченности взглядов — чаще про предрассудки, чем про недостаток образования",
+      "note": "Существительное — zatucanost.",
+      "keyword": "zatucan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
       "id": "msxvtv1vamvzn",
