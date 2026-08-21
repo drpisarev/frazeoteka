@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-19T16:33:49.537Z",
+  "updated": "2026-08-21T17:45:17.233Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -2056,6 +2056,32 @@
       "created_at": "2026-08-19T16:27:34.558Z"
     },
     {
+      "id": "mt38pdhh09e9v",
+      "headword_latin": "Dan D",
+      "headword_cyrillic": "Дан Д",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "день Икс; час Икс",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sutra je dan D, glasanje je u podne.",
+          "russian": "Завтра день Икс, голосование в полдень."
+        }
+      ],
+      "analogs_ru": [
+        "день Икс",
+        "час Икс",
+        "решающий день"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публиц.; параллельно čas H",
+      "note": "Из военной терминологии (D-Day, высадка в Нормандии), в сербском прижилось как обозначение решающей даты.",
+      "keyword": "dan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.189Z"
+    },
+    {
       "id": "msxmobcu5qy3x",
       "headword_latin": "Danas jesi, sutra nisi",
       "headword_cyrillic": "Данас јеси, сутра ниси",
@@ -2791,6 +2817,33 @@
       "created_at": "2026-08-18T12:04:17.006Z"
     },
     {
+      "id": "mt38pdhgs97n5",
+      "headword_latin": "Ima jedna caka",
+      "headword_cyrillic": "Има једна цака",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "есть одна хитрость; есть загвоздка",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima jedna caka: mora da se prijaviš pre ponoći.",
+          "russian": "Тут есть одна хитрость: надо подать заявку до полуночи."
+        }
+      ],
+      "analogs_ru": [
+        "есть один нюанс",
+        "есть загвоздка",
+        "тут есть хитрость",
+        "есть подвох"
+      ],
+      "literal_ru": "",
+      "register": "разг.",
+      "note": "Caka — «фокус, приём, хитрость», двузначно: и полезная уловка (znam ja caku), и скрытый подвох. Родственное cakum-pakum «всё чётко».",
+      "keyword": "caka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.188Z"
+    },
+    {
       "id": "msyrhihj7529d",
       "headword_latin": "Ima nas raznih",
       "headword_cyrillic": "Има нас разних",
@@ -3161,6 +3214,33 @@
       "created_at": "2026-08-17T20:01:31.765Z"
     },
     {
+      "id": "mt38pdhh57ync",
+      "headword_latin": "Jedva gledam od umora",
+      "headword_cyrillic": "Једва гледам од умора",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "еле на ногах стою от усталости",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Idem da legnem, jedva gledam od umora.",
+          "russian": "Пойду лягу, глаза уже слипаются."
+        }
+      ],
+      "analogs_ru": [
+        "еле на ногах стою",
+        "глаза слипаются",
+        "с ног валюсь",
+        "еле жив"
+      ],
+      "literal_ru": "еле смотрю от усталости",
+      "register": "разг.",
+      "note": "Конструкция jedva + глагол + od + родительный продуктивна: jedva stojim od umora, jedva dišem od vrućine.",
+      "keyword": "umor",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.189Z"
+    },
+    {
       "id": "msym7ab0oenam",
       "headword_latin": "Jeftina roba kesu prazni",
       "headword_cyrillic": "Јефтина роба кесу празни",
@@ -3448,6 +3528,33 @@
       "keyword": "kap",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.134Z"
+    },
+    {
+      "id": "mt38pdhhd5g4h",
+      "headword_latin": "Kaži dragička",
+      "headword_cyrillic": "Кажи драгичка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "а знаешь что?; сейчас расскажу — зачин перед хорошей новостью",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kaži dragička! — Dragička. — Dobio sam posao!",
+          "russian": "Скажи «драгичка»! — Драгичка. — Меня взяли на работу!"
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "а знаешь что?",
+        "садись, расскажу",
+        "угадай, что случилось"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; требует ответной реплики: собеседник должен произнести dragička, и только тогда новость сообщают — маленький обязательный ритуал",
+      "note": "Происхождение объясняют городской легендой, которую сербская пресса пересказывает регулярно и сама же называет неправдоподобной: госпожа Драгич из белградского высшего общества 1950-х собирала светские истории, основала «клуб сплетен», где паролем было её имя, а иностранец, не выговаривавший ć, произнёс Dragička вместо Dragićka. Документально ничего не подтверждено. Достоверно то, что сегодня оборот предваряет приятную весть, а не сплетню, и знаком каждому с детства.",
+      "keyword": "dragička",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.189Z"
     },
     {
       "id": "mt0b1qfzyco37",
@@ -3944,6 +4051,32 @@
       "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
+      "id": "mt38pdhipb214",
+      "headword_latin": "Liti krokodilske suze",
+      "headword_cyrillic": "Лити крокодилске сузе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "лить крокодиловы слёзы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sad lije krokodilske suze, a sam je sve to izazvao.",
+          "russian": "Теперь льёт крокодиловы слёзы, а сам всё это и устроил."
+        }
+      ],
+      "analogs_ru": [
+        "лить крокодиловы слёзы",
+        "притворно горевать",
+        "плакать напоказ"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публиц., неодобр.; глагол варьирует: liti, prolivati, roniti krokodilske suze",
+      "note": "Интернациональный оборот, совпадает с русским.",
+      "keyword": "suze",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
       "id": "msxnt6d3rqexs",
       "headword_latin": "Ljudi se vezuju za reč, a volovi za rogove",
       "headword_cyrillic": "Људи се везују за реч, а волови за рогове",
@@ -4138,6 +4271,33 @@
       "created_at": "2026-08-17T18:40:26.460Z"
     },
     {
+      "id": "mt38pdhgkalzq",
+      "headword_latin": "Mrtav umoran",
+      "headword_cyrillic": "Мртав уморан",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "устал как собака",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Došao sam kući mrtav umoran.",
+          "russian": "Пришёл домой уставший как собака."
+        }
+      ],
+      "analogs_ru": [
+        "устал как собака",
+        "без задних ног",
+        "вымотался вконец",
+        "устал до смерти"
+      ],
+      "literal_ru": "мёртво усталый",
+      "register": "разг., экспресс.; согласуется в роде и числе: mrtva umorna, mrtvi umorni",
+      "note": "Mrtav здесь усилитель, как в mrtav pijan, mrtav ozbiljan «серьёзен до жути».",
+      "keyword": "umoran",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.188Z"
+    },
+    {
       "id": "msxnt6d3jh52b",
       "headword_latin": "Na mlađima svet ostaje",
       "headword_cyrillic": "На млађима свет остаје",
@@ -4268,6 +4428,33 @@
       "keyword": "jezik",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "mt38pdhjzog52",
+      "headword_latin": "Nagon",
+      "headword_cyrillic": "Нагон",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "инстинкт; позыв; влечение",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Osetio je nagon da pobegne.",
+          "russian": "Он почувствовал позыв бежать."
+        }
+      ],
+      "analogs_ru": [
+        "инстинкт",
+        "позыв",
+        "влечение",
+        "побуждение"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; nagon za mokrenjem «позыв к мочеиспусканию», polni nagon «половое влечение», materinski nagon, nagon za preživljavanjem; наречно nagonski «инстинктивно»",
+      "note": "Слово покрывает и биологический инстинкт, и сиюминутный позыв, и глубинное влечение — русский разводит три слова, сербский обходится одним. Instinkt тоже существует, но звучит более книжно и научно.",
+      "keyword": "nagon",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.191Z"
     },
     {
       "id": "msxwc061omf8a",
@@ -4797,6 +4984,33 @@
       "created_at": "2026-08-17T20:37:10.220Z"
     },
     {
+      "id": "mt38pdhg6s4iz",
+      "headword_latin": "Odgovara mi",
+      "headword_cyrillic": "Одговара ми",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "мне подходит; меня устраивает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odgovara mi to sada.",
+          "russian": "Мне это сейчас подходит."
+        }
+      ],
+      "analogs_ru": [
+        "мне подходит",
+        "меня устраивает",
+        "годится",
+        "мне удобно"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; дательный лица: odgovara mi, ne odgovara mu; о времени, условиях, размере, погоде",
+      "note": "Тот же глагол значит и «отвечать» (odgovarati na pitanje), и «соответствовать» (ne odgovara opisu). В значении «подходить» всегда с дательным и без предлога.",
+      "keyword": "odgovarati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.188Z"
+    },
+    {
       "id": "mt0b9rqwh1lnj",
       "headword_latin": "Omaklo mi se",
       "headword_cyrillic": "Омакло ми се",
@@ -5038,6 +5252,145 @@
       "created_at": "2026-08-17T20:37:10.221Z"
     },
     {
+      "id": "mt38pdhiit6om",
+      "headword_latin": "Pasja vrućina",
+      "headword_cyrillic": "Пасја врућина",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "собачья жара; пекло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Napolju je pasja vrućina, ne izlazi.",
+          "russian": "На улице собачья жара, не выходи."
+        }
+      ],
+      "analogs_ru": [
+        "собачья жара",
+        "адское пекло",
+        "жарища"
+      ],
+      "literal_ru": "",
+      "register": "разг.; синонимы žega, sparina (о духоте)",
+      "note": "Pasji как усилитель отрицательного встречается и в pasji život «собачья жизнь», pasja hladnoća «собачий холод».",
+      "keyword": "vrućina",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt38pdhj7hjte",
+      "headword_latin": "Pasti s kruške",
+      "headword_cyrillic": "Пасти с крушке",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. быть не в курсе очевидного, как с луны свалиться; 2. спятить, тронуться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Gde ti živiš, bre, kao da si pao s kruške!",
+          "russian": "[знач. 1] Ты где живёшь вообще? Как с луны свалился!"
+        },
+        {
+          "serbian_latin": "Jesi li ti pao s kruške? Toliko para za to?",
+          "russian": "[знач. 2] Ты что, с дуба рухнул? Столько денег за это?"
+        }
+      ],
+      "analogs_ru": [
+        "как с луны свалился",
+        "как с дуба рухнул",
+        "будто вчера родился",
+        "спятить",
+        "тронуться умом"
+      ],
+      "literal_ru": "упасть с груши",
+      "register": "разг., неодобр.-шутл.; знач. 1 чаще в сравнительной форме kao da si pao s kruške и как упрёк собеседнику; знач. 2 о том, кто несёт или творит несуразицу, часто в вопросе jesi li ti pao s kruške?; вариант pao s Marsa — новее",
+      "note": "Заменяет прежнюю запись Kao da je pao s kruške: добавлено второе значение «спятить», которого там не было. Разговорное k’o в словарной форме разворачивается в kao.",
+      "keyword": "kruška",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.191Z"
+    },
+    {
+      "id": "mt38pdhhh4piv",
+      "headword_latin": "Peri-deri",
+      "headword_cyrillic": "Пери-дери",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "немаркий и ноский; сноса нет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzmi tu majicu, to ti je peri-deri.",
+          "russian": "Бери эту футболку, ей сноса нет."
+        }
+      ],
+      "analogs_ru": [
+        "сноса нет",
+        "носится и носится",
+        "неубиваемая вещь",
+        "стирай да носи"
+      ],
+      "literal_ru": "стирай-рви — два императива подряд",
+      "register": "разг., одобр.; о вещи практичной, которую можно стирать без конца; чаще об одежде, особенно детской",
+      "note": "Модель из двух императивов та же, что в hoću-neću, idi-mi-dođi-mi.",
+      "keyword": "peri-deri",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.189Z"
+    },
+    {
+      "id": "mt38pdhhdkncf",
+      "headword_latin": "Pijan kao majka",
+      "headword_cyrillic": "Пијан као мајка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пьян в стельку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pogledaj kako hoda, pijan je kao majka.",
+          "russian": "Посмотри, как идёт, — пьян в стельку."
+        }
+      ],
+      "analogs_ru": [
+        "пьян в стельку",
+        "пьяный в дым",
+        "в зюзю",
+        "лыка не вяжет"
+      ],
+      "literal_ru": "пьян как мать",
+      "register": "разг.; ряд синонимов по нарастанию грубости: pijan kao letva «как доска», kao čep «как пробка», kao majka, грубо kao dupe, kao svinja",
+      "note": "Сравнение с матерью объясняют по-разному, надёжного толкования нет; вероятнее всего это стёршийся эвфемизм, где исходное слово заменено безобидным. Логики в образе искать не стоит — она утрачена.",
+      "keyword": "pijan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt38pdhiz8tg7",
+      "headword_latin": "Pije kao smuk",
+      "headword_cyrillic": "Пије као смук",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пьёт как лошадь; хлещет без остановки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Daj mu još vode, pije kao smuk.",
+          "russian": "Дай ему ещё воды, пьёт как лошадь."
+        }
+      ],
+      "analogs_ru": [
+        "пьёт как лошадь",
+        "пьёт как сапожник",
+        "хлещет вовсю",
+        "пьёт не просыхая"
+      ],
+      "literal_ru": "пьёт как полоз",
+      "register": "разг.; и об алкоголе, и о воде — в отличие от русского «пьёт как рыба», годного только для алкоголя",
+      "note": "Smuk — крупный неядовитый уж, в народных поверьях пьющий молоко.",
+      "keyword": "smuk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
       "id": "msxp30elpij8p",
       "headword_latin": "Po jutru se dan poznaje",
       "headword_cyrillic": "По јутру се дан познаје",
@@ -5090,6 +5443,33 @@
       "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
+      "id": "mt38pdhjgai8s",
+      "headword_latin": "Podmetnuti kukavičje jaje",
+      "headword_cyrillic": "Подметнути кукавичје јаје",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "подложить свинью; переложить свою обузу на другого",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Podmetnuli su nam kukavičje jaje: sad mi rešavamo njihov problem.",
+          "russian": "Нам подложили свинью: теперь мы разгребаем их проблему."
+        }
+      ],
+      "analogs_ru": [
+        "подложить свинью",
+        "навязать чужого ребёнка",
+        "сплавить свою проблему",
+        "подсунуть кота в мешке"
+      ],
+      "literal_ru": "подложить кукушкино яйцо",
+      "register": "разг.-публиц., неодобр.; управление podmetnuti kome kukavičje jaje",
+      "note": "Образ точный: кукушка подкладывает яйцо в чужое гнездо, и чужие птицы растят её птенца. Русское «подложить свинью» шире и говорит просто о подлости; здесь именно о переложенной на другого обузе, часто под видом подарка или доверия.",
+      "keyword": "jaje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.191Z"
+    },
+    {
       "id": "msxp30elejba0",
       "headword_latin": "Poklonu se u zube ne gleda",
       "headword_cyrillic": "Поклону се у зубе не гледа",
@@ -5138,6 +5518,32 @@
       "keyword": "pomeriti",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt38pdhipq9jm",
+      "headword_latin": "Poslednji Mohikanac",
+      "headword_cyrillic": "Последњи Мохиканац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "последний из могикан",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On je poslednji Mohikanac te škole novinarstva.",
+          "russian": "Он последний из могикан той школы журналистики."
+        }
+      ],
+      "analogs_ru": [
+        "последний из могикан",
+        "последний представитель",
+        "уходящая натура"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн.; о последнем носителе уходящего ремесла, поколения, уклада",
+      "note": "Из романа Купера.",
+      "keyword": "Mohikanac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.190Z"
     },
     {
       "id": "msxvtv1ugynz0",
@@ -6166,6 +6572,31 @@
       "keyword": "pamet",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.560Z"
+    },
+    {
+      "id": "mt38pdhju178h",
+      "headword_latin": "Solomonsko rešenje",
+      "headword_cyrillic": "Соломонско решење",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "соломоново решение",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Našli su solomonsko rešenje: podelili su troškove.",
+          "russian": "Нашли соломоново решение: разделили расходы."
+        }
+      ],
+      "analogs_ru": [
+        "соломоново решение",
+        "мудрый компромисс"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-публиц.; о решении, устраивающем обе стороны",
+      "note": "Совпадает с русским, включая библейский источник (3 Цар. 3).",
+      "keyword": "rešenje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.191Z"
     },
     {
       "id": "mt0b1qfystgjd",
@@ -7272,6 +7703,58 @@
       "created_at": "2026-08-17T21:51:42.265Z"
     },
     {
+      "id": "mt38pdhig0lfx",
+      "headword_latin": "Upala mu sekira u med",
+      "headword_cyrillic": "Упала му секира у мед",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "привалило счастье; крупно повезло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dobio je stan i posao odjednom — upala mu sekira u med.",
+          "russian": "Разом и квартира, и работа: вот привалило счастье."
+        }
+      ],
+      "analogs_ru": [
+        "привалило счастье",
+        "попал в яблочко",
+        "подфартило"
+      ],
+      "literal_ru": "топор упал ему в мёд",
+      "register": "разг., чаще с оттенком зависти — «повезло не по заслугам»; дательный лица: upala mu / joj / im sekira u med",
+      "note": "Образ — случайность, обернувшаяся выгодой: уронил топор, а он угодил в мёд. Отсюда оттенок незаслуженности, которого в нейтральном «повезло» нет.",
+      "keyword": "sekira",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt38pdhj4v26z",
+      "headword_latin": "Ustati na levu nogu",
+      "headword_cyrillic": "Устати на леву ногу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "встать не с той ноги",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta ti je jutros, ustao si na levu nogu?",
+          "russian": "Что с тобой сегодня, не с той ноги встал?"
+        }
+      ],
+      "analogs_ru": [
+        "встать не с той ноги",
+        "встать с левой ноги",
+        "не в духе с утра"
+      ],
+      "literal_ru": "",
+      "register": "разг.; ходовые формы ustao je na levu nogu, danas sam na levoj nozi",
+      "note": "Сербский называет ногу прямо — левую, русский обходится намёком «не с той».",
+      "keyword": "noga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.191Z"
+    },
+    {
       "id": "mt0aue87s4zm3",
       "headword_latin": "Uzeti s rezervom",
       "headword_cyrillic": "Узети с резервом",
@@ -7535,6 +8018,59 @@
       "keyword": "saobraćaj",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt38pdhfqmgrz",
+      "headword_latin": "Zakazati termin",
+      "headword_cyrillic": "Заказати термин",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "записаться на приём; забронировать время",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zakazao sam termin kod zubara za sredu.",
+          "russian": "Записался к зубному на среду."
+        }
+      ],
+      "analogs_ru": [
+        "записаться на приём",
+        "взять талон",
+        "договориться о времени"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., очень частотно; управление zakazati termin kod koga (kod frizera, kod lekara), zakazati termin za šta (za masažu, za pregled); отменить — otkazati termin",
+      "note": "Termin в сербском — не «термин», а «назначенное время, слот»; в языковом контексте (stručni termin) слово работает и в русском смысле, но в быту почти всегда о записи.",
+      "keyword": "termin",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.188Z"
+    },
+    {
+      "id": "mt38pdhgl5n72",
+      "headword_latin": "Zamoriti nekoga",
+      "headword_cyrillic": "Заморити некога",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "утомить, надоесть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zamorili su me političari.",
+          "russian": "Меня утомили политики."
+        }
+      ],
+      "analogs_ru": [
+        "утомить",
+        "вымотать",
+        "надоесть",
+        "достать"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; управление zamoriti koga + аккузатив; возвратное zamoriti se «устать самому»",
+      "note": "По-русски естественнее вывернуть конструкцию: не «политики утомили меня», а «я устал от политиков». Сербский предпочитает активную форму с одушевлённым подлежащим там, где русский уходит в «от + родительный».",
+      "keyword": "zamoriti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:17.189Z"
     },
     {
       "id": "mt0b9rqv5nqgw",
