@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-21T17:45:44.538Z",
+  "updated": "2026-08-21T17:51:09.278Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -2185,6 +2185,33 @@
       "created_at": "2026-08-17T19:29:45.343Z"
     },
     {
+      "id": "mt38wx4l3qkef",
+      "headword_latin": "Dobro jutro, Kolumbo",
+      "headword_cyrillic": "Добро јутро, Колумбо",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "доброе утро, наконец-то дошло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Znači, lagao si me? — Dobro jutro, Kolumbo!",
+          "russian": "Значит, ты мне врал? — Доброе утро, наконец-то дошло!"
+        }
+      ],
+      "analogs_ru": [
+        "доброе утро!",
+        "ну наконец-то дошло",
+        "Америку открыл",
+        "долго же до тебя доходило"
+      ],
+      "literal_ru": "",
+      "register": "разг., насмешл.; тому, кто с большим опозданием понял очевидное; ходит и в усечённом виде — просто Dobro jutro! с той же интонацией",
+      "note": "Это Колумб, а не сыщик Коломбо: насмешка держится на том, что он всю жизнь считал, будто открыл Индию. «Недељник» ставит оборот в заголовки колонок, белградская пивоварня «Црна овца» назвала так свой эль, а в Черногории появился местный вариант dobro jutro, Ljubo — в адрес телевизионного аналитика.",
+      "keyword": "Kolumbo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.237Z"
+    },
+    {
       "id": "msxwc05zzz2fa",
       "headword_latin": "Dobru čoveku sve dobro stoji",
       "headword_cyrillic": "Добру човеку све добро стоји",
@@ -2397,6 +2424,33 @@
       "created_at": "2026-08-17T19:29:45.345Z"
     },
     {
+      "id": "mt38wx4j15fng",
+      "headword_latin": "Drugim rečima",
+      "headword_cyrillic": "Другим речима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "другими словами; иначе говоря",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Drugim rečima, projekat je propao.",
+          "russian": "Другими словами, проект провалился."
+        }
+      ],
+      "analogs_ru": [
+        "другими словами",
+        "иначе говоря",
+        "то есть",
+        "попросту говоря"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., связующий оборот; синонимы drugačije rečeno, to jest, odnosno",
+      "note": "",
+      "keyword": "reč",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.235Z"
+    },
+    {
       "id": "msxmobcx9eih9",
       "headword_latin": "Drži vodu dok majstori odu",
       "headword_cyrillic": "Држи воду док мајстори оду",
@@ -2421,6 +2475,32 @@
       "keyword": "majstor",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "mt38wx4kfu9mw",
+      "headword_latin": "Držim te za reč",
+      "headword_cyrillic": "Држим те за реч",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ловлю тебя на слове",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Rekao si da častiš — držim te za reč.",
+          "russian": "Сказал, что угощаешь, — ловлю на слове."
+        }
+      ],
+      "analogs_ru": [
+        "ловлю на слове",
+        "держу на слове",
+        "запомню, что обещал"
+      ],
+      "literal_ru": "",
+      "register": "разг.; управление držati koga za reč; полушутливое закрепление чужого обещания",
+      "note": "",
+      "keyword": "reč",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.236Z"
     },
     {
       "id": "msxwc060l3noo",
@@ -3692,6 +3772,33 @@
       "created_at": "2026-08-21T17:45:17.189Z"
     },
     {
+      "id": "mt38wx4lbc9rw",
+      "headword_latin": "Kliknuti s nekim",
+      "headword_cyrillic": "Кликнути с неким",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сразу сойтись, совпасть с кем-л.",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odmah smo kliknuli, kao da se znamo godinama.",
+          "russian": "Мы сразу сошлись, будто знакомы годами."
+        }
+      ],
+      "analogs_ru": [
+        "сразу сойтись",
+        "совпасть",
+        "сразу поладить",
+        "быть на одной волне"
+      ],
+      "literal_ru": "",
+      "register": "разг., англицизм (to click); о мгновенной взаимной симпатии — дружеской или романтической; управление kliknuti s kim",
+      "note": "Второе значение того же глагола — буквальное «щёлкнуть мышью»: klikni na link. Контекст различает без труда.",
+      "keyword": "kliknuti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.237Z"
+    },
+    {
       "id": "mt0b1qfzyco37",
       "headword_latin": "Knedla u grlu",
       "headword_cyrillic": "Кнедла у грлу",
@@ -4264,6 +4371,60 @@
       "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
+      "id": "mt38wx4ltxnpz",
+      "headword_latin": "Ma nemoj",
+      "headword_cyrillic": "Ма немој",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "да ну; да что ты говоришь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dobio je unapređenje. — Ma nemoj!",
+          "russian": "Его повысили. — Да ну!"
+        }
+      ],
+      "analogs_ru": [
+        "да ну",
+        "да что ты говоришь",
+        "неужели",
+        "надо же"
+      ],
+      "literal_ru": "да не надо",
+      "register": "разг.; от искреннего удивления до едкой иронии — по интонации; усиленно ma nemoj mi reći",
+      "note": "",
+      "keyword": "nemoj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.237Z"
+    },
+    {
+      "id": "mt38wx4lq0e8j",
+      "headword_latin": "Ma važi",
+      "headword_cyrillic": "Ма важи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ага, конечно; да ладно (недоверие)",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vratiću ti sutra. — Ma važi.",
+          "russian": "Завтра верну. — Ага, конечно."
+        }
+      ],
+      "analogs_ru": [
+        "ага, конечно",
+        "ну да, как же",
+        "да ладно",
+        "верю-верю"
+      ],
+      "literal_ru": "",
+      "register": "разг.; интонация решает всё",
+      "note": "Без ma слово važi значит просто «договорились, идёт» — согласие. С ma и соответствующей интонацией переворачивается в недоверие.",
+      "keyword": "važi",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.237Z"
+    },
+    {
       "id": "msxlgokc2gisz",
       "headword_latin": "Majke mi",
       "headword_cyrillic": "Мајке ми",
@@ -4618,6 +4779,33 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "mt38wx4k258yg",
+      "headword_latin": "Naći zajednički jezik",
+      "headword_cyrillic": "Наћи заједнички језик",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "найти общий язык",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nismo uspeli da nađemo zajednički jezik.",
+          "russian": "Мы не смогли найти общий язык."
+        }
+      ],
+      "analogs_ru": [
+        "найти общий язык",
+        "договориться",
+        "поладить",
+        "сойтись"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; управление naći zajednički jezik s kim",
+      "note": "Совпадает с русским полностью.",
+      "keyword": "jezik",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
       "id": "mt38pdhjzog52",
       "headword_latin": "Nagon",
       "headword_cyrillic": "Нагон",
@@ -4722,6 +4910,33 @@
       "keyword": "vreća",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.680Z"
+    },
+    {
+      "id": "mt38wx4jpavcj",
+      "headword_latin": "Ne dolazi u obzir",
+      "headword_cyrillic": "Не долази у обзир",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "об этом не может быть и речи",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Da idem sam? Ne dolazi u obzir.",
+          "russian": "Чтобы я пошёл один? Об этом не может быть и речи."
+        }
+      ],
+      "analogs_ru": [
+        "об этом не может быть и речи",
+        "ни в коем случае",
+        "исключено",
+        "даже не обсуждается"
+      ],
+      "literal_ru": "не приходит в рассмотрение",
+      "register": "нейтр., категоричн.; ходовая формула отказа",
+      "note": "Положительный вариант dolazi u obzir «это возможно, рассматривается».",
+      "keyword": "obzir",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.235Z"
     },
     {
       "id": "mt38pyjw70fo0",
@@ -4987,6 +5202,32 @@
       "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
+      "id": "mt38wx4kuuh3r",
+      "headword_latin": "Nemam reči",
+      "headword_cyrillic": "Немам речи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у меня нет слов",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemam reči, ovo je nečuveno.",
+          "russian": "У меня нет слов, это неслыханно."
+        }
+      ],
+      "analogs_ru": [
+        "у меня нет слов",
+        "слов нет",
+        "не нахожу слов"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспресс.; и от возмущения, и от восхищения — интонация решает; усиленно ostao sam bez reči",
+      "note": "",
+      "keyword": "reč",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
       "id": "mt0b224tzgtjh",
       "headword_latin": "Ni od korova",
       "headword_cyrillic": "Ни од корова",
@@ -5121,6 +5362,32 @@
       "created_at": "2026-08-21T17:45:44.495Z"
     },
     {
+      "id": "mt38wx4li2h42",
+      "headword_latin": "Nije ti tata staklorezac",
+      "headword_cyrillic": "Није ти тата стаклорезац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ты не стеклянный, подвинься",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Skloni se, nije ti tata staklorezac!",
+          "russian": "Отойди, ты же не стеклянный!"
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "ты не стеклянный",
+        "отойди, не заслоняй"
+      ],
+      "literal_ru": "твой отец не стекольщик",
+      "register": "разг., шутл.-ворчлив.; тому, кто заслонил телевизор, экран или свет; классическая семейная реплика",
+      "note": "Логика: раз отец не стекольщик, то и ты не из стекла — сквозь тебя не видно. Русское «ты не стеклянный» устроено так же, только без отца.",
+      "keyword": "staklorezac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.237Z"
+    },
+    {
       "id": "msxp30ej3e1l4",
       "headword_latin": "Nije zlato sve što sija",
       "headword_cyrillic": "Није злато све што сија",
@@ -5196,6 +5463,33 @@
       "keyword": "riba",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.250Z"
+    },
+    {
+      "id": "mt38wx4kyim3a",
+      "headword_latin": "O čemu se radi",
+      "headword_cyrillic": "О чему се ради",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "в чём дело; о чём речь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Objasni mi o čemu se radi.",
+          "russian": "Объясни мне, в чём дело."
+        }
+      ],
+      "analogs_ru": [
+        "в чём дело",
+        "о чём речь",
+        "что происходит",
+        "в чём суть"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., частотно; безличный оборот raditi se o + предложный; утвердительно radi se o tome da…",
+      "note": "Ловушка: raditi se o не имеет отношения к «работать». Конструкция всегда безличная — сказать ja se radim o невозможно.",
+      "keyword": "raditi se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.236Z"
     },
     {
       "id": "mt38pyk051rja",
@@ -5356,6 +5650,32 @@
       "keyword": "odrediti",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:44.494Z"
+    },
+    {
+      "id": "mt38wx4k4caay",
+      "headword_latin": "Okrenuti naglavačke",
+      "headword_cyrillic": "Окренути наглавачке",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "перевернуть вверх дном",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta vest nam je okrenula planove naglavačke.",
+          "russian": "Эта новость перевернула наши планы вверх дном."
+        }
+      ],
+      "analogs_ru": [
+        "перевернуть вверх дном",
+        "поставить с ног на голову",
+        "перевернуть с ног на голову"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; и буквально о предмете, и переносно о порядке вещей: okrenuo mi je život naglavačke",
+      "note": "Naglavačke — «вверх ногами, кувырком».",
+      "keyword": "naglavačke",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.236Z"
     },
     {
       "id": "mt0b9rqwh1lnj",
@@ -5521,6 +5841,32 @@
       "created_at": "2026-08-21T17:45:44.496Z"
     },
     {
+      "id": "mt38wx4karior",
+      "headword_latin": "Otkriti toplu vodu",
+      "headword_cyrillic": "Открити топлу воду",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "открыть Америку; изобрести велосипед",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije otkrio toplu vodu, to svi znaju.",
+          "russian": "Америку он не открыл, это все знают."
+        }
+      ],
+      "analogs_ru": [
+        "открыть Америку",
+        "изобрести велосипед",
+        "открыть очевидное"
+      ],
+      "literal_ru": "открыть тёплую воду",
+      "register": "разг., ирон.; варианты глагола otkriti, izmisliti; очень частотно в политических комментариях",
+      "note": "Сербский нередко ставит рядом всё сразу: otkrio je Ameriku, toplu vodu i naizmeničnu struju. Русская «Америка» в сербском тоже работает (otkrio Ameriku), но своя, домашняя формула — именно тёплая вода: то, что существует само по себе и открытия не требует.",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
       "id": "msxp30el18e1l",
       "headword_latin": "Otrov se drži u malim bočicama",
       "headword_cyrillic": "Отров се држи у малим бочицама",
@@ -5571,6 +5917,32 @@
       "keyword": "Bosna",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.557Z"
+    },
+    {
+      "id": "mt38wx4jae3od",
+      "headword_latin": "Palo mi je na pamet",
+      "headword_cyrillic": "Пало ми је на памет",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "мне пришло в голову",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Palo mi je na pamet da ga pozovemo.",
+          "russian": "Мне пришло в голову его позвать."
+        }
+      ],
+      "analogs_ru": [
+        "мне пришло в голову",
+        "меня осенило",
+        "взбрело в голову"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; дательный лица: palo mi / mu / joj je na pamet",
+      "note": "С отрицанием даёт категорическое отрицание намерения: nije mi palo na pamet — и «мне и в голову не приходило», и «и не подумаю».",
+      "keyword": "pamet",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.235Z"
     },
     {
       "id": "mt0b9rqszjw2w",
@@ -6364,6 +6736,33 @@
       "created_at": "2026-08-17T21:20:44.617Z"
     },
     {
+      "id": "mt38wx4j5zjqt",
+      "headword_latin": "Pukim slučajem",
+      "headword_cyrillic": "Пуким случајем",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "по чистой случайности",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pukim slučajem sam ga sreo u gradu.",
+          "russian": "По чистой случайности встретил его в городе."
+        }
+      ],
+      "analogs_ru": [
+        "по чистой случайности",
+        "чисто случайно",
+        "волей случая",
+        "по счастливой случайности"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; синонимы sasvim slučajno, pukom srećom (когда повезло)",
+      "note": "Puk — «чистый, сущий» в усилительном значении, живёт почти только в этом обороте.",
+      "keyword": "slučaj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.235Z"
+    },
+    {
       "id": "msxkiw6xpnjum",
       "headword_latin": "Pun-puncat",
       "headword_cyrillic": "Пун-пунцат",
@@ -6948,6 +7347,34 @@
       "created_at": "2026-08-17T18:33:17.251Z"
     },
     {
+      "id": "mt38wx4mj94z3",
+      "headword_latin": "Smoren sam",
+      "headword_cyrillic": "Сморен сам",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "я вымотан; мне тошно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Smoren sam, ne mogu danas nigde.",
+          "russian": "Я вымотан, сегодня никуда не могу."
+        }
+      ],
+      "analogs_ru": [
+        "вымотан",
+        "выжат",
+        "мне тошно",
+        "нет сил ни на что",
+        "достало всё"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг.; не физическая усталость, а моральная измотанность и уныние",
+      "note": "Глагол smoriti «утомить, извести»; smara me «меня это выматывает, бесит», smarač «зануда». Smara — одно из ключевых слов молодёжной речи: годится и про скучного человека, и про нудное дело, и про собственное состояние; русское «занудство» покрывает только часть.",
+      "keyword": "smoren",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.238Z"
+    },
+    {
       "id": "msxrqv21vs2wn",
       "headword_latin": "Smrt je jedina pravda na svetu",
       "headword_cyrillic": "Смрт је једина правда на свету",
@@ -7106,6 +7533,32 @@
       "keyword": "spiskati",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
+      "id": "mt38wx4kyj93i",
+      "headword_latin": "Spolja gledano",
+      "headword_cyrillic": "Споља гледано",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на первый взгляд; со стороны",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Spolja gledano, sve je u redu.",
+          "russian": "На первый взгляд всё в порядке."
+        }
+      ],
+      "analogs_ru": [
+        "на первый взгляд",
+        "со стороны",
+        "внешне"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; деепричастный оборот, застывший как вводный; синонимы na prvi pogled, sa strane",
+      "note": "",
+      "keyword": "spolja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.236Z"
     },
     {
       "id": "msxrqv22i4esn",
@@ -7761,6 +8214,32 @@
       "keyword": "voda",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.683Z"
+    },
+    {
+      "id": "mt38wx4lz5wj6",
+      "headword_latin": "To je skup sport",
+      "headword_cyrillic": "То је скуп спорт",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "это дорогое удовольствие",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Da menjam auto svake godine? To je skup sport.",
+          "russian": "Менять машину каждый год? Это дорогое удовольствие."
+        }
+      ],
+      "analogs_ru": [
+        "дорогое удовольствие",
+        "это не по моему карману",
+        "такое хобби не потянуть"
+      ],
+      "literal_ru": "это дорогой спорт",
+      "register": "разг., шутл.; о занятии или покупке, которые не по средствам — необязательно о спорте",
+      "note": "",
+      "keyword": "sport",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.238Z"
     },
     {
       "id": "msxl0hlirujo9",
@@ -8608,6 +9087,33 @@
       "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
+      "id": "mt38wx4lpqsum",
+      "headword_latin": "Zatvori vrata, nisi rođen u čamcu",
+      "headword_cyrillic": "Затвори врата, ниси рођен у чамцу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "закрой дверь, ты не в поле родился",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zatvori vrata, nisi rođen u čamcu!",
+          "russian": "Дверь закрой, ты не в поле родился!"
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "закрой дверь, ты не в поле родился",
+        "дверь за собой закрывай",
+        "ты что, в сарае вырос?"
+      ],
+      "literal_ru": "закрой дверь, ты не в лодке родился",
+      "register": "разг., шутл.-ворчлив.; вариант nisi rođen u štali",
+      "note": "Образ: в лодке двери нет, потому и закрывать привычки не выработалось. По-русски укоряют местом рождения без крыши — «в поле», «в сарае», «в трамвае».",
+      "keyword": "čamac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.237Z"
+    },
+    {
       "id": "msxvtv1vamvzn",
       "headword_latin": "Zavadi pa vladaj",
       "headword_cyrillic": "Завади па владај",
@@ -8792,6 +9298,32 @@
       "keyword": "staze i bogaze",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "mt38wx4lipdze",
+      "headword_latin": "Život na visokoj nozi",
+      "headword_cyrillic": "Живот на високој нози",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "жизнь на широкую ногу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Živi na visokoj nozi, a niko ne zna od čega.",
+          "russian": "Живёт на широкую ногу, а на что — никто не знает."
+        }
+      ],
+      "analogs_ru": [
+        "жить на широкую ногу",
+        "ни в чём себе не отказывать",
+        "роскошная жизнь"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; ходовое глагольно — živeti na visokoj nozi",
+      "note": "Не путать с na ravnoj nozi «на равных»: там нога ровная, здесь высокая. Русский меряет ногу шириной, сербский высотой — при переводе идиому берут целиком, не по частям. См. также: NA RAVNOJ NOZI.",
+      "keyword": "noga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:51:09.237Z"
     },
     {
       "id": "msxvtv1v8rjqj",
