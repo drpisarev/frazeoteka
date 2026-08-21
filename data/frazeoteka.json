@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-21T17:51:09.278Z",
+  "updated": "2026-08-21T17:54:35.367Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -2822,6 +2822,33 @@
       "created_at": "2026-08-17T19:29:45.345Z"
     },
     {
+      "id": "mt391c505k3gd",
+      "headword_latin": "Glineni golub",
+      "headword_cyrillic": "Глинени голуб",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "лёгкая мишень; подставная фигура",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On je samo glineni golub, prava odgovornost je gore.",
+          "russian": "Он просто мишень, настоящая ответственность выше."
+        }
+      ],
+      "analogs_ru": [
+        "лёгкая мишень",
+        "живая мишень",
+        "мальчик для битья",
+        "подставная фигура"
+      ],
+      "literal_ru": "глиняный голубь — тарелочка для стендовой стрельбы",
+      "register": "разг.-публиц.; о том, кого выставили под удар — в критике, в суде, в политике",
+      "note": "",
+      "keyword": "golub",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.316Z"
+    },
+    {
       "id": "mt38pyjxpkcqs",
       "headword_latin": "Gurati đubre pod tepih",
       "headword_cyrillic": "Гурати ђубре под тепих",
@@ -3030,6 +3057,33 @@
       "keyword": "razni",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.247Z"
+    },
+    {
+      "id": "mt391c51c09sq",
+      "headword_latin": "Ima zmiju u džepu",
+      "headword_cyrillic": "Има змију у џепу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "жмот, каких мало; у него зимой снега не выпросишь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj od njega da tražiš, ima zmiju u džepu.",
+          "russian": "У него не проси, у него зимой снега не выпросишь."
+        }
+      ],
+      "analogs_ru": [
+        "у него зимой снега не выпросишь",
+        "жмот",
+        "трясётся над каждой копейкой",
+        "скупой рыцарь"
+      ],
+      "literal_ru": "держит змею в кармане",
+      "register": "разг., неодобр.-шутл.; о крайне скупом",
+      "note": "Образ буквальный: в карман не лезет, потому что там змея — укусит. Русские аналоги строятся иначе, через невозможность выпросить, так что дословный перевод останется загадкой.",
+      "keyword": "zmija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.317Z"
     },
     {
       "id": "mt0b9rqufhxcf",
@@ -3273,6 +3327,31 @@
       "created_at": "2026-08-17T19:29:45.346Z"
     },
     {
+      "id": "mt391c52e3u5n",
+      "headword_latin": "Izbirač naiđe na otirač",
+      "headword_cyrillic": "Избирач наиђе на отирач",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "привередливому достанется половая тряпка",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Godinama bira, a izbirač naiđe na otirač.",
+          "russian": "Годами выбирает — а привередливому достанется половая тряпка."
+        }
+      ],
+      "analogs_ru": [
+        "кто долго выбирает, тому достанется худшее",
+        "не будь разборчив — останешься ни с чем"
+      ],
+      "literal_ru": "привереда наткнётся на половик",
+      "register": "послов., ирон.; чаще о браке — о том, кто перебирал женихов и невест; рифма izbirač — otirač",
+      "note": "",
+      "keyword": "izbirač",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.318Z"
+    },
+    {
       "id": "mt38pyjykx9wz",
       "headword_latin": "Izbočine i nabori",
       "headword_cyrillic": "Избочине и набори",
@@ -3376,6 +3455,33 @@
       "keyword": "jazuk",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "mt391c52ptq6s",
+      "headword_latin": "Je l' igra bela mečka?",
+      "headword_cyrillic": "Је л' игра бела мечка?",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "цирк приехал?; чего уставились?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta gledate, je l' igra bela mečka?",
+          "russian": "Что уставились, цирк приехал?"
+        }
+      ],
+      "analogs_ru": [
+        "что, цирк приехал?",
+        "чего уставился?",
+        "на что смотрим?",
+        "представление, что ли?"
+      ],
+      "literal_ru": "что, белая медведица пляшет?",
+      "register": "разг., резк.-насмешл.; тому, кто глазеет, или собравшейся поглазеть толпе; варианты с bela и без",
+      "note": "Образ из балканского уличного быта: mečkari водили по сёлам дрессированного медведя, и вокруг мгновенно собиралась толпа — единственное бесплатное зрелище. Отсюда упрёк: раз глазеешь, значит, медведя увидел. Mečka — «медведица», от неё же mečkar «поводырь медведя».",
+      "keyword": "mečka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.318Z"
     },
     {
       "id": "msxnt6d1yu3cl",
@@ -3851,6 +3957,32 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "mt391c51bwvpd",
+      "headword_latin": "Ko hoće veće, izgubi iz vreće",
+      "headword_cyrillic": "Ко хоће веће, изгуби из вреће",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "за большим погонишься — последнее потеряешь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da rizikuješ sve — ko hoće veće, izgubi iz vreće.",
+          "russian": "Не рискуй всем: за большим погонишься — последнее потеряешь."
+        }
+      ],
+      "analogs_ru": [
+        "за двумя зайцами погонишься — ни одного не поймаешь",
+        "много желать — добра не видать",
+        "за большим погонишься, малое потеряешь"
+      ],
+      "literal_ru": "кто хочет большего, теряет из мешка",
+      "register": "послов.; держится на рифме veće — vreće",
+      "note": "Русская «двух зайцев» — про распыление между целями, сербская — про жадность: не поделил внимание, а захотел сверх меры и лишился имеющегося. Ближе по мысли «много желать — добра не видать».",
+      "keyword": "vreća",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.317Z"
+    },
+    {
       "id": "msxnt6d20rlfl",
       "headword_latin": "Ko laže, taj i krade",
       "headword_cyrillic": "Ко лаже, тај и краде",
@@ -3950,6 +4082,32 @@
       "keyword": "pevati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "mt391c51clixt",
+      "headword_latin": "Ko pita, ne skita",
+      "headword_cyrillic": "Ко пита, не скита",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "язык до Киева доведёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pitaj slobodno, ko pita, ne skita.",
+          "russian": "Спрашивай смело, язык до Киева доведёт."
+        }
+      ],
+      "analogs_ru": [
+        "язык до Киева доведёт",
+        "за спрос денег не берут",
+        "спросишь — не заблудишься"
+      ],
+      "literal_ru": "кто спрашивает, тот не плутает",
+      "register": "послов., ободряющ.; рифма pita — skita; поощрение не стесняться спрашивать — и о дороге, и вообще",
+      "note": "",
+      "keyword": "pitati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.317Z"
     },
     {
       "id": "msxnt6d2i4860",
@@ -4534,6 +4692,32 @@
       "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
+      "id": "mt391c50aenhf",
+      "headword_latin": "Metar i žilet",
+      "headword_cyrillic": "Метар и жилет",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "метр с кепкой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Koliko si visok? — Pa vidiš da sam metar i žilet, nisam košarkaš.",
+          "russian": "Какого ты роста? — Да видишь же, метр с кепкой, не баскетболист."
+        }
+      ],
+      "analogs_ru": [
+        "метр с кепкой",
+        "от горшка два вершка",
+        "от земли не видать"
+      ],
+      "literal_ru": "метр и лезвие",
+      "register": "разг., шутл.; о низкорослом; вариант metar i šumska jagoda — ещё насмешливее",
+      "note": "Игра на мере: метр плюс толщина бритвенного лезвия, то есть почти ничего. О себе — самоирония, о другом — насмешка. Модель «мера + смехотворная добавка» продуктивна, концовки легко изобретаются.",
+      "keyword": "metar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.316Z"
+    },
+    {
       "id": "msxl6oyss4m60",
       "headword_latin": "Mi o vuku, a vuk na vrata",
       "headword_cyrillic": "Ми о вуку, а вук на врата",
@@ -4912,6 +5096,59 @@
       "created_at": "2026-08-17T22:56:52.680Z"
     },
     {
+      "id": "mt391c51e5zt7",
+      "headword_latin": "Navaliti kao smrt na babu",
+      "headword_cyrillic": "Навалити као смрт на бабу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пристать как банный лист",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta si navalio kao smrt na babu, rekao sam ne!",
+          "russian": "Что ты пристал как банный лист, я сказал нет!"
+        }
+      ],
+      "analogs_ru": [
+        "пристать как банный лист",
+        "пристать с ножом к горлу",
+        "не отцепиться",
+        "взять измором"
+      ],
+      "literal_ru": "навалиться как смерть на старуху",
+      "register": "разг., неодобр.; о навязчивом, который добивается своего нытьём; ходовые формы šta si navalio kao smrt na babu, navalila je kao smrt na babu",
+      "note": "Устойчив именно глагол navaliti и слово baba; форма с skočio и baka передаёт смысл, но так не говорят. Образ мрачноватый — смерть, которая старуху уж точно не выпустит, — но в речи он полностью стёрся и звучит бытово.",
+      "keyword": "smrt",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.317Z"
+    },
+    {
+      "id": "mt391c519q7u9",
+      "headword_latin": "Ne diraj lava dok spava",
+      "headword_cyrillic": "Не дирај лава док спава",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "не буди лихо, пока оно тихо",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne pominji tu temu, ne diraj lava dok spava.",
+          "russian": "Не поднимай эту тему: не буди лихо, пока оно тихо."
+        }
+      ],
+      "analogs_ru": [
+        "не буди лихо, пока оно тихо",
+        "не дразни гусей",
+        "спящую собаку не буди"
+      ],
+      "literal_ru": "не трогай льва, пока он спит",
+      "register": "разг., предостерег.; держится на рифме lava — spava",
+      "note": "",
+      "keyword": "lav",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.317Z"
+    },
+    {
       "id": "mt38wx4jpavcj",
       "headword_latin": "Ne dolazi u obzir",
       "headword_cyrillic": "Не долази у обзир",
@@ -5149,6 +5386,32 @@
       "created_at": "2026-08-17T20:37:10.218Z"
     },
     {
+      "id": "mt391c51ycc2z",
+      "headword_latin": "Nema hleba bez motike",
+      "headword_cyrillic": "Нема хлеба без мотике",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "без труда не вытащишь и рыбку из пруда",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nema hleba bez motike, sine.",
+          "russian": "Без труда не вытащишь и рыбку из пруда, сынок."
+        }
+      ],
+      "analogs_ru": [
+        "без труда не вытащишь и рыбку из пруда",
+        "хочешь есть калачи — не сиди на печи",
+        "под лежачий камень вода не течёт"
+      ],
+      "literal_ru": "нет хлеба без мотыги",
+      "register": "послов., назидат.",
+      "note": "Motika — мотыга, символ крестьянского труда. См. также: BEZ MUKE NEMA NAUKE.",
+      "keyword": "motika",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.317Z"
+    },
+    {
       "id": "msyrhihka5tze",
       "headword_latin": "Nema mu ravna",
       "headword_cyrillic": "Нема му равна",
@@ -5200,6 +5463,33 @@
       "keyword": "svrha",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
+      "id": "mt391c52qp8nj",
+      "headword_latin": "Nema za Marka kape",
+      "headword_cyrillic": "Нема за Марка капе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на него не угодишь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve smo probali, ali nema za Marka kape.",
+          "russian": "Всё перепробовали, а на него не угодишь."
+        }
+      ],
+      "analogs_ru": [
+        "на него не угодишь",
+        "ему всё не так",
+        "ничем не угодишь",
+        "всё ему не по нраву"
+      ],
+      "literal_ru": "нет для Марко шапки",
+      "register": "разг., ирон.; редк./происхождение не подтверждено надёжно — толкования в доступных источниках не найдено, значение выведено из образа",
+      "note": "Марко здесь, скорее всего, условное имя, а не Королевич Марко. Возможно, за оборотом стоит анекдот или сказка, где Марко перемеряет шапки и ни одна не подходит; до подтверждения живым контекстом помету не снимать.",
+      "keyword": "kapa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.318Z"
     },
     {
       "id": "mt38wx4kuuh3r",
@@ -5890,6 +6180,33 @@
       "keyword": "otrov",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "mt391c500im1a",
+      "headword_latin": "Otvoriti četvore oči",
+      "headword_cyrillic": "Отворити четворе очи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "смотреть в оба; глядеть во все глаза",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otvori četvore oči kad potpisuješ.",
+          "russian": "Смотри в оба, когда подписываешь."
+        }
+      ],
+      "analogs_ru": [
+        "смотреть в оба",
+        "глядеть в оба глаза",
+        "держать ухо востро",
+        "глаз да глаз нужен"
+      ],
+      "literal_ru": "открыть четыре пары глаз",
+      "register": "разг., предостерег.; ходовые формы otvori četvore oči, tu treba četvoro očiju",
+      "note": "Četvore — собирательное числительное при парном существительном. Не смешивать с u četiri oka: там двое наедине, здесь один человек удваивает внимание; разница в форме числительного.",
+      "keyword": "oko",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.316Z"
     },
     {
       "id": "mt0b1qfx8r30p",
@@ -6791,6 +7108,33 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "mt391c50sjiu5",
+      "headword_latin": "Puna mi je kapa",
+      "headword_cyrillic": "Пуна ми је капа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "я сыт по горло; достало",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Puna mi je kapa tih obećanja.",
+          "russian": "Сыт я по горло этими обещаниями."
+        }
+      ],
+      "analogs_ru": [
+        "сыт по горло",
+        "достало",
+        "выше крыши",
+        "по горло уже"
+      ],
+      "literal_ru": "шапка у меня полна",
+      "register": "разг., раздражённо; управление с дательным: puna mi je kapa čega/koga; форма puna kapa без дательного — просто «выше крыши, полно»",
+      "note": "",
+      "keyword": "kapa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.316Z"
+    },
+    {
       "id": "msxqn1op9erg6",
       "headword_latin": "Rad je stvorio čoveka",
       "headword_cyrillic": "Рад је створио човека",
@@ -7287,6 +7631,32 @@
       "keyword": "pita",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.264Z"
+    },
+    {
+      "id": "mt391c4znc3ga",
+      "headword_latin": "Slepi putnik",
+      "headword_cyrillic": "Слепи путник",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "безбилетник; заяц",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uhvatili su slepog putnika u teretnom brodu.",
+          "russian": "На грузовом судне поймали безбилетника."
+        }
+      ],
+      "analogs_ru": [
+        "заяц (в транспорте)",
+        "безбилетник",
+        "нелегальный пассажир"
+      ],
+      "literal_ru": "слепой пассажир",
+      "register": "нейтр.; и о едущем без билета, и о спрятавшемся на судне или в самолёте",
+      "note": "Калька немецкого blinder Passagier. Русский «заяц» и сербский «слепой пассажир» — разные образы одного явления; в газетном тексте про судно лучше «нелегальный пассажир», «заяц» звучит слишком по-трамвайному.",
+      "keyword": "putnik",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.315Z"
     },
     {
       "id": "msxrqv20snmv7",
@@ -8398,6 +8768,33 @@
       "keyword": "nafaka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "mt391c50soskf",
+      "headword_latin": "U četiri oka",
+      "headword_cyrillic": "У четири ока",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "с глазу на глаз",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hajde da to rešimo u četiri oka.",
+          "russian": "Давай решим это с глазу на глаз."
+        }
+      ],
+      "analogs_ru": [
+        "с глазу на глаз",
+        "наедине",
+        "тет-а-тет",
+        "один на один"
+      ],
+      "literal_ru": "в четыре глаза — двое, у каждого по паре",
+      "register": "нейтр.; управление razgovarati s kim u četiri oka",
+      "note": "Русский считает по одному глазу с каждой стороны, сербский — все четыре. Ловушка при обратном переводе: «с глазу на глаз» нельзя передать как s oka na oko — такого оборота нет.",
+      "keyword": "oko",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:54:35.316Z"
     },
     {
       "id": "msxu2ocse4xvv",
