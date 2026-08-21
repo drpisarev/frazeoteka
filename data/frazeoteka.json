@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-21T18:32:56.701Z",
+  "updated": "2026-08-21T18:35:16.731Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -729,6 +729,33 @@
       "keyword": "zamerka",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
+      "id": "mt3ahnw8a74fr",
+      "headword_latin": "Bežati glavom bez obzira",
+      "headword_cyrillic": "Бежати главом без обзира",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "бежать без оглядки; уносить ноги",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pobegao je od nas glavom bez obzira.",
+          "russian": "Убежал от нас без оглядки."
+        }
+      ],
+      "analogs_ru": [
+        "бежать без оглядки",
+        "уносить ноги",
+        "бежать сломя голову",
+        "только пятки сверкали"
+      ],
+      "literal_ru": "бежать головой без оглядки",
+      "register": "разг., экспресс.; застывший оборот, порядок слов не меняется",
+      "note": "Ловушка: сегодняшнее bez obzira na to значит «невзирая на», и буквальное прочтение сбивает. Здесь сохранился старый смысл — obzir от obazreti se «оглянуться».",
+      "keyword": "obzir",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.664Z"
     },
     {
       "id": "msxvxddyr8mlo",
@@ -1747,6 +1774,34 @@
       "keyword": "brdo",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:54:45.976Z"
+    },
+    {
+      "id": "mt3ahnwap31kp",
+      "headword_latin": "Brže-bolje",
+      "headword_cyrillic": "Брже-боље",
+      "transcription": "",
+      "pos": "prilog",
+      "definition_ru": "второпях; тут же, не мешкая",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Brže-bolje je zgrabio torbu i izašao.",
+          "russian": "Он тут же схватил сумку и вышел."
+        }
+      ],
+      "analogs_ru": [
+        "второпях",
+        "поскорее",
+        "не мешкая",
+        "тут же",
+        "сломя голову"
+      ],
+      "literal_ru": "быстрее-лучше",
+      "register": "разг.; наречие, пишется через дефис; двузначно по оттенку — и просто «поскорее», и с осуждением «наспех, не подумав»",
+      "note": "Оттенок спешки почти всегда есть, поэтому нейтральная просьба «как можно скорее» точнее передаётся через što pre: dođi što pre.",
+      "keyword": "brzo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.666Z"
     },
     {
       "id": "msxlnru8v9e2j",
@@ -3013,6 +3068,32 @@
       "created_at": "2026-08-18T00:00:07.130Z"
     },
     {
+      "id": "mt3ahnw9t3uul",
+      "headword_latin": "Dvostruki aršin",
+      "headword_cyrillic": "Двоструки аршин",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "двойные стандарты",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet mere dvostrukim aršinom.",
+          "russian": "Опять мерят двойной меркой."
+        }
+      ],
+      "analogs_ru": [
+        "двойные стандарты",
+        "двойная мерка",
+        "мерить разной меркой"
+      ],
+      "literal_ru": "двойной аршин",
+      "register": "публиц., неодобр.; ходовое глагольно — meriti dvostrukim aršinom",
+      "note": "Aršin (тур.) — старая мера длины около 68 см. Русский «аршин» из того же турецкого источника и живёт в «мерить на свой аршин», но «двойных стандартов» через аршин русский не строит — калькировать нельзя.",
+      "keyword": "aršin",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.665Z"
+    },
+    {
       "id": "mt3a4b4fla9rh",
       "headword_latin": "Dža ili bu",
       "headword_cyrillic": "Џа или бу",
@@ -3260,6 +3341,33 @@
       "created_at": "2026-08-17T19:29:45.345Z"
     },
     {
+      "id": "mt3ahnw7se438",
+      "headword_latin": "Gde je Bog rekao laku noć",
+      "headword_cyrillic": "Где је Бог рекао лаку ноћ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у чёрта на куличках; куда Макар телят не гонял",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Živi negde gde je Bog rekao laku noć.",
+          "russian": "Живёт где-то у чёрта на куличках."
+        }
+      ],
+      "analogs_ru": [
+        "у чёрта на куличках",
+        "куда Макар телят не гонял",
+        "на краю света",
+        "в глухомани"
+      ],
+      "literal_ru": "где Бог сказал «спокойной ночи» — то есть где он закончил обход и лёг спать",
+      "register": "разг., шутл.; мягче вульгарных синонимов",
+      "note": "Ряд по нарастанию грубости: bogu iza nogu ≈ gde je Bog rekao laku noć → u vukojebini → u šupku svemira. См. также: BOGU IZA NOGU, U ŠUPKU SVEMIRA.",
+      "keyword": "Bog",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.663Z"
+    },
+    {
       "id": "msxmobcxv2zgo",
       "headword_latin": "Gde je puno baba, kilava su deca",
       "headword_cyrillic": "Где је пуно баба, килава су деца",
@@ -3469,6 +3577,33 @@
       "keyword": "koka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "mt3ahnw9a16wy",
+      "headword_latin": "I kusur",
+      "headword_cyrillic": "И кусур",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "с лишним; с хвостиком",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Čekali smo dva sata i kusur.",
+          "russian": "Мы прождали два часа с лишним."
+        }
+      ],
+      "analogs_ru": [
+        "с лишним",
+        "с хвостиком",
+        "с гаком",
+        "с копейками"
+      ],
+      "literal_ru": "",
+      "register": "разг.; после числа: dva sata i kusur, sto evra i kusur",
+      "note": "Kusur (тур. kusur) в первую очередь «сдача»: zadrži kusur «сдачи не надо», nemam kusur «у меня нет сдачи». Слово стоит выучить именно в этом значении — оно нужно в магазине каждый день, а «с лишним» из него выводится: остаток сверх круглой суммы.",
+      "keyword": "kusur",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.665Z"
     },
     {
       "id": "msxmobcyr67km",
@@ -6483,6 +6618,33 @@
       "created_at": "2026-08-21T17:45:44.495Z"
     },
     {
+      "id": "mt3ahnw89t6oy",
+      "headword_latin": "Nije šija nego vrat",
+      "headword_cyrillic": "Није шија него врат",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что в лоб, что по лбу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sto puta sam ti rekla, a ti — nije šija nego vrat!",
+          "russian": "Сто раз тебе говорила, а тебе что в лоб, что по лбу!"
+        }
+      ],
+      "analogs_ru": [
+        "что в лоб, что по лбу",
+        "те же яйца, только в профиль",
+        "хрен редьки не слаще",
+        "одно и то же"
+      ],
+      "literal_ru": "не шея, а горло — два названия одного места",
+      "register": "разг.; о мнимом различии, которым пытаются что-то прикрыть",
+      "note": "Šija — задняя сторона шеи, vrat — шея целиком; в обиходе взаимозаменяемы. См. также: SJAŠI KURTA DA UZJAŠI MURTA, NA MOSTU DOBIO, NA ĆUPRIJI IZGUBIO.",
+      "keyword": "šija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.664Z"
+    },
+    {
       "id": "mt38wx4li2h42",
       "headword_latin": "Nije ti tata staklorezac",
       "headword_cyrillic": "Није ти тата стаклорезац",
@@ -7175,6 +7337,33 @@
       "created_at": "2026-08-21T17:54:35.316Z"
     },
     {
+      "id": "mt3ahnw9zwvx6",
+      "headword_latin": "Ovih dana",
+      "headword_cyrillic": "Ових дана",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на днях",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Svratiću kod tebe ovih dana.",
+          "russian": "Загляну к тебе на днях."
+        }
+      ],
+      "analogs_ru": [
+        "на днях",
+        "в ближайшие дни",
+        "недавно",
+        "этими днями"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; смотрит в обе стороны — назад и вперёд, время глагола решает",
+      "note": "Редкий случай, когда двусмысленность совпадает в обоих языках полностью: ovih dana su bili u Beču «на днях они были в Вене» и svratiću ovih dana «загляну на днях». Переводить можно механически.",
+      "keyword": "dan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.665Z"
+    },
+    {
       "id": "mt0b1qfx8r30p",
       "headword_latin": "Pa mirna Bosna",
       "headword_cyrillic": "Па мирна Босна",
@@ -7497,6 +7686,37 @@
       "keyword": "jutro",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "mt3ahnw7sb6z5",
+      "headword_latin": "Po meni",
+      "headword_cyrillic": "По мени",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. по-моему, на мой взгляд; 2. через меня, с моей оказией",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Po meni, on nije u pravu.",
+          "russian": "[знач. 1] По-моему, он не прав."
+        },
+        {
+          "serbian_latin": "Možeš da pošalješ pismo po meni.",
+          "russian": "[знач. 2] Можешь передать письмо со мной."
+        }
+      ],
+      "analogs_ru": [
+        "по-моему",
+        "на мой взгляд",
+        "по моему мнению",
+        "с оказией"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; знач. 1 вводное, синоним po mom mišljenju; знач. 2 о передаче вещи с человеком: pošalji to po meni, stiglo je po komšiji",
+      "note": "Конструкция poslati šta po kome «отправить что-л. с кем-л.» русскому даётся плохо, тянет сказать sa mnom. Правильно именно po: предлог указывает на посыльного, а не на попутчика.",
+      "keyword": "po",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.663Z"
     },
     {
       "id": "mt0b9rqvrqrgl",
@@ -8740,6 +8960,33 @@
       "created_at": "2026-08-17T21:20:44.619Z"
     },
     {
+      "id": "mt3ahnwafrh99",
+      "headword_latin": "Sirova sila",
+      "headword_cyrillic": "Сирова сила",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "грубая сила",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Rešili su to sirovom silom.",
+          "russian": "Решили это грубой силой."
+        }
+      ],
+      "analogs_ru": [
+        "грубая сила",
+        "голая сила",
+        "напролом",
+        "силой, а не умом"
+      ],
+      "literal_ru": "сырая сила",
+      "register": "нейтр.",
+      "note": "Sirov — «сырой, необработанный», отсюда и sirovina «сырьё», и о человеке sirov «грубый, неотёсанный». См. также: UM CARUJE, SNAGA KLADE VALJA.",
+      "keyword": "sila",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.666Z"
+    },
+    {
       "id": "msxqn1oqb8nm5",
       "headword_latin": "Sit gladnom ne veruje",
       "headword_cyrillic": "Сит гладном не верује",
@@ -9164,6 +9411,32 @@
       "keyword": "spiskati",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
+      "id": "mt3ahnw9x7onu",
+      "headword_latin": "Splet okolnosti",
+      "headword_cyrillic": "Сплет околности",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "стечение обстоятельств",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve se desilo zbog nesrećnog spleta okolnosti.",
+          "russian": "Всё случилось из-за несчастливого стечения обстоятельств."
+        }
+      ],
+      "analogs_ru": [
+        "стечение обстоятельств",
+        "по воле случая",
+        "так сложилось"
+      ],
+      "literal_ru": "сплетение обстоятельств",
+      "register": "нейтр.-книжн.; ходовое nesrećan splet okolnosti, частотно в судебной и новостной хронике",
+      "note": "",
+      "keyword": "okolnost",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.665Z"
     },
     {
       "id": "mt38wx4kyj93i",
@@ -10084,6 +10357,33 @@
       "created_at": "2026-08-17T22:56:52.683Z"
     },
     {
+      "id": "mt3ahnw784eph",
+      "headword_latin": "Trnu mi zubi",
+      "headword_cyrillic": "Трну ми зуби",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "оскомину набило; зубы сводит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Trnu mi zubi od tih reklama.",
+          "russian": "От этой рекламы у меня оскомина."
+        }
+      ],
+      "analogs_ru": [
+        "оскомину набило",
+        "зубы сводит",
+        "передёргивает",
+        "мороз по коже"
+      ],
+      "literal_ru": "у меня зубы немеют",
+      "register": "разг.; буквально от кислого (trnu mi zubi od limuna), переносно от неприятного звука, зрелища или повторяющейся пошлости; дательный лица: trnu mi / mu zubi od čega",
+      "note": "Русское «набить оскомину» ушло почти целиком в переносное, сербское держит оба слоя одинаково живо. Библейская параллель: očevi jedoše kiselo grožđe, a sinovima zubi trnu (Иез. 18:2).",
+      "keyword": "zubi",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.663Z"
+    },
+    {
       "id": "mt3a4b4jlgrfw",
       "headword_latin": "Tu i tamo",
       "headword_cyrillic": "Ту и тамо",
@@ -10243,6 +10543,33 @@
       "keyword": "snaga",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
+      "id": "mt3ahnw84ylzn",
+      "headword_latin": "U paramparčad",
+      "headword_cyrillic": "У парампарчад",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вдребезги; на мелкие кусочки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Razbiću te u paramparčad!",
+          "russian": "Я тебя в клочья разнесу!"
+        }
+      ],
+      "analogs_ru": [
+        "вдребезги",
+        "в щепки",
+        "на мелкие кусочки",
+        "в пух и прах"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспресс.; собирательное существительное, только во множественном",
+      "note": "Paramparčad — усиленное удвоение от parče «кусок» (тур. parça). Удвоение как способ усиления в сербском продуктивно и в других турцизмах: dar-mar «кавардак». Русский добивается того же приставками: «вдребезги», «расколошматить».",
+      "keyword": "parče",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.664Z"
     },
     {
       "id": "msxu2ocs69sgg",
@@ -10743,6 +11070,32 @@
       "keyword": "vrana",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.685Z"
+    },
+    {
+      "id": "mt3ahnwa03c04",
+      "headword_latin": "Vrh ledenog brega",
+      "headword_cyrillic": "Врх леденог брега",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "верхушка айсберга",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "To je samo vrh ledenog brega.",
+          "russian": "Это только верхушка айсберга."
+        }
+      ],
+      "analogs_ru": [
+        "верхушка айсберга",
+        "лишь малая часть",
+        "это только начало"
+      ],
+      "literal_ru": "вершина ледяной горы",
+      "register": "публиц.",
+      "note": "Ledeni breg — айсберг; слово ajsberg тоже употребимо, но в обороте всегда своё.",
+      "keyword": "breg",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:35:16.666Z"
     },
     {
       "id": "mt39f3st9650z",
