@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-21T17:45:17.233Z",
+  "updated": "2026-08-21T17:45:44.538Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -1125,6 +1125,32 @@
       "keyword": "bolan",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:51:43.694Z"
+    },
+    {
+      "id": "mt38pyjztq3ef",
+      "headword_latin": "Bolovi u krstima",
+      "headword_cyrillic": "Болови у крстима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "боли в пояснице",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bole me krsta već nedelju dana.",
+          "russian": "Уже неделю болит поясница."
+        }
+      ],
+      "analogs_ru": [
+        "боли в пояснице",
+        "прострел",
+        "радикулит"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-мед.; krsta — только множественное число, «поясница, крестцовая область»; ходовые bole me krsta, ukočila su mi se krsta",
+      "note": "Ложный друг: krsta «поясница» и krst «крест» — разные слова, хотя и однокоренные (по крестцовой кости). Bole me krsta никакого отношения к кресту не имеет.",
+      "keyword": "krsta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.495Z"
     },
     {
       "id": "msxl6oysvawv5",
@@ -2316,6 +2342,34 @@
       "created_at": "2026-08-17T18:33:17.251Z"
     },
     {
+      "id": "mt38pyjv4wriy",
+      "headword_latin": "Došla mu žuta minuta",
+      "headword_cyrillic": "Дошла му жута минута",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "накатило; сорвался",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne znam šta mu je bilo, došla mu žuta minuta i otišao je.",
+          "russian": "Не знаю, что на него нашло: накатило — и ушёл."
+        }
+      ],
+      "analogs_ru": [
+        "накатило",
+        "сорвался с цепи",
+        "нашло на него",
+        "вожжа под хвост попала",
+        "переклинило"
+      ],
+      "literal_ru": "пришла ему жёлтая минута",
+      "register": "разг.; о внезапной вспышке гнева или дури, обычно скоротечной; дательный лица: došla mu / joj žuta minuta",
+      "note": "Жёлтый в сербском связан с болезненностью и раздражением (žuč «жёлчь», žučna rasprava «жёлчный спор»). Русское «вожжа под хвост» ближе всего по внезапности и необъяснимости.",
+      "keyword": "minuta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.492Z"
+    },
+    {
       "id": "msxmobcxtjclq",
       "headword_latin": "Došli divlji da isteraju (=da oteraju) pitome",
       "headword_cyrillic": "Дошли дивљи да истерају (=да отерају) питоме",
@@ -2688,6 +2742,33 @@
       "created_at": "2026-08-17T19:29:45.345Z"
     },
     {
+      "id": "mt38pyjxpkcqs",
+      "headword_latin": "Gurati đubre pod tepih",
+      "headword_cyrillic": "Гурати ђубре под тепих",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "заметать сор под ковёр",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Godinama guraju taj problem pod tepih.",
+          "russian": "Годами заметают эту проблему под ковёр."
+        }
+      ],
+      "analogs_ru": [
+        "заметать сор под ковёр",
+        "прятать концы в воду",
+        "делать вид, что проблемы нет",
+        "замять дело"
+      ],
+      "literal_ru": "",
+      "register": "разг.-публиц., неодобр.; частотно в комментариях о замалчивании проблем; варианты глагола gurati, sakrivati, mesti",
+      "note": "",
+      "keyword": "tepih",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.494Z"
+    },
+    {
       "id": "msxmobcy37sfj",
       "headword_latin": "Gvožđe se kuje dok je vruće",
       "headword_cyrillic": "Гвожђе се кује док је вруће",
@@ -3058,6 +3139,34 @@
       "created_at": "2026-08-17T20:02:22.695Z"
     },
     {
+      "id": "mt38pyjztemzy",
+      "headword_latin": "Istaknut",
+      "headword_cyrillic": "Истакнут",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "видный, выдающийся, известный",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Govorio je istaknuti stručnjak za tu oblast.",
+          "russian": "Выступал видный специалист в этой области."
+        }
+      ],
+      "analogs_ru": [
+        "видный",
+        "выдающийся",
+        "известный",
+        "заметный",
+        "маститый"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн.; частотно в прессе: istaknuti naučnik, istaknuta ličnost, istaknuti član partije",
+      "note": "Глагол istaći — «выделить, подчеркнуть». По-русски правильно «выдающийся», а не «выдающий».",
+      "keyword": "istaknut",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.495Z"
+    },
+    {
       "id": "msxmobcymqhpe",
       "headword_latin": "Iver ne pada daleko od klade",
       "headword_cyrillic": "Ивер не пада далеко од кладе",
@@ -3082,6 +3191,32 @@
       "keyword": "iver",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "mt38pyjykx9wz",
+      "headword_latin": "Izbočine i nabori",
+      "headword_cyrillic": "Избочине и набори",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "выпуклости и складки; бугорки и морщинки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Krema popunjava sitne nabore.",
+          "russian": "Крем заполняет мелкие морщинки."
+        }
+      ],
+      "analogs_ru": [
+        "выпуклости и складки",
+        "бугорки и морщинки",
+        "неровности"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; о рельефе местности, ткани, коже",
+      "note": "Izbočina «выступ, выпуклость» (от bok), nabor «складка, сборка». Антоним к izbočina — udubljenje «углубление, впадина».",
+      "keyword": "nabor",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.494Z"
     },
     {
       "id": "msyrhihkkw6kf",
@@ -3948,6 +4083,32 @@
       "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
+      "id": "mt38pyjvy99p3",
+      "headword_latin": "Košta kao svetog Petra kajgana",
+      "headword_cyrillic": "Кошта као светог Петра кајгана",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "влетело в копеечку; обошлось в целое состояние",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta popravka me je koštala kao svetog Petra kajgana.",
+          "russian": "Этот ремонт влетел мне в копеечку."
+        }
+      ],
+      "analogs_ru": [
+        "влетело в копеечку",
+        "стоит бешеных денег",
+        "обошлось в целое состояние"
+      ],
+      "literal_ru": "стоит как святому Петру яичница",
+      "register": "разг., частотно; конструкция koštalo me je kao svetog Petra kajgana; kajgana — яичница-болтунья",
+      "note": "Милан Шипка в книге «Zašto se kaže» считает оборот заимствованием из греческого, где говорят «Дорога же яичница святого Георгия»: мальчик из Пафлагонии принёс святому яичницу в церковь, четверо купцов её съели, и святой не выпускал их, пока каждый не положил по золотому; при переходе к сербам имя заменилось на более знакомое. Параллельно ходит своя легенда, впервые записанная Йованом Йовановичем Змаем: Христос и Пётр ночевали у вдовы Райки, та подала яичницу, Христос запретил Петру трогать еду, приготовленную детям, Пётр не послушался — и яичница окаменела; в наказание он ходил по домам и просил на прокорм её детям. Заканчивается стихом «Al' kajgana skupo me je stala».",
+      "keyword": "kajgana",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.491Z"
+    },
+    {
       "id": "msxwc061pepyv",
       "headword_latin": "Krivac se i senke boji",
       "headword_cyrillic": "Кривац се и сенке боји",
@@ -4236,6 +4397,33 @@
       "keyword": "vuk",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "mt38pyjvwkz8d",
+      "headword_latin": "Mlatiti praznu slamu",
+      "headword_cyrillic": "Млатити празну сламу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "толочь воду в ступе; переливать из пустого в порожнее",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sat vremena mlatimo praznu slamu, hajde na stvar.",
+          "russian": "Час толчём воду в ступе, давайте к делу."
+        }
+      ],
+      "analogs_ru": [
+        "толочь воду в ступе",
+        "переливать из пустого в порожнее",
+        "пустое молоть",
+        "заниматься ерундой"
+      ],
+      "literal_ru": "молотить пустую солому",
+      "register": "разг., неодобр.; чаще о пустых разговорах и заседаниях без результата",
+      "note": "Образ из молотьбы: колотить солому, из которой зерно уже выбито. Русская «вода в ступе» устроена так же — работа без результата, заложенная в самом действии.",
+      "keyword": "slama",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.491Z"
     },
     {
       "id": "msxkww9ootqi5",
@@ -4536,6 +4724,33 @@
       "created_at": "2026-08-17T22:56:52.680Z"
     },
     {
+      "id": "mt38pyjw70fo0",
+      "headword_latin": "Ne mešaj babe i žabe",
+      "headword_cyrillic": "Не мешај бабе и жабе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не путай божий дар с яичницей",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Jedno je porez, drugo je kazna — ne mešaj babe i žabe.",
+          "russian": "Одно дело налог, другое штраф: не путай божий дар с яичницей."
+        }
+      ],
+      "analogs_ru": [
+        "не путай божий дар с яичницей",
+        "отделяй мух от котлет",
+        "это разные вещи",
+        "не смешивай тёплое с мягким"
+      ],
+      "literal_ru": "не мешай бабок и лягушек",
+      "register": "разг.; держится на рифме babe — žabe; ходовые формы ne mešaj babe i žabe, to je kao mešati babe i žabe",
+      "note": "",
+      "keyword": "baba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.493Z"
+    },
+    {
       "id": "mt0b9rqwi35zg",
       "headword_latin": "Ne mogu sebi da priuštim",
       "headword_cyrillic": "Не могу себи да приуштим",
@@ -4560,6 +4775,32 @@
       "keyword": "priuštiti",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
+      "id": "mt38pyjw6si8q",
+      "headword_latin": "Ne može i jare i pare",
+      "headword_cyrillic": "Не може и јаре и паре",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "нельзя усидеть на двух стульях; всего сразу не бывает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moraš da biraš: ne može i jare i pare.",
+          "russian": "Придётся выбирать: и рыбку съесть, и косточкой не подавиться не выйдет."
+        }
+      ],
+      "analogs_ru": [
+        "нельзя усидеть на двух стульях",
+        "за двумя зайцами погонишься",
+        "всего сразу не бывает"
+      ],
+      "literal_ru": "нельзя и козлёнка, и денег",
+      "register": "послов., частотно; держится на рифме jare — pare; расширенная форма ne može i jare i pare i na sred sela ćorav da si",
+      "note": "Образ с рынка: либо продал козлёнка и взял деньги, либо оставил козлёнка. Русское «и рыбку съесть…» существует в приличном и в грубом варианте, в переводе безопаснее «усидеть на двух стульях».",
+      "keyword": "jare",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.492Z"
     },
     {
       "id": "msxp30ejzffeq",
@@ -4854,6 +5095,32 @@
       "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
+      "id": "mt38pyjztvh61",
+      "headword_latin": "Nije skupo, nego ste se loše udali",
+      "headword_cyrillic": "Није скупо, него сте се лоше удали",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "дело не в цене, а в вашем муже — дерзкий ответ продавца на жалобу о дороговизне",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije, gospođo, ništa skupo — samo ste se vi loše udali.",
+          "russian": "Не дорого это, сударыня, просто вы неудачно замуж вышли."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "дорого не для всех",
+        "не по карману — не по мужу"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.-дерзкая реплика; устойчивой формулой не является, формулировка плавает; в реальном разговоре звучит хамски",
+      "note": "По механике — грубоватая подмена темы: жалоба на цену переводится в упрёк собеседнице. Держать как языковой курьёз, а не как фразеологизм.",
+      "keyword": "skupo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.495Z"
+    },
+    {
       "id": "msxp30ej3e1l4",
       "headword_latin": "Nije zlato sve što sija",
       "headword_cyrillic": "Није злато све што сија",
@@ -4931,6 +5198,33 @@
       "created_at": "2026-08-18T14:32:12.250Z"
     },
     {
+      "id": "mt38pyk051rja",
+      "headword_latin": "Oće kaki, neće kaki",
+      "headword_cyrillic": "Оће каки, неће каки",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни да ни нет; мнётся и не решается",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odluči se već jednom — oće kaki, neće kaki.",
+          "russian": "Определись уже наконец: ни да ни нет."
+        }
+      ],
+      "analogs_ru": [
+        "ни да ни нет",
+        "семь пятниц на неделе",
+        "то так, то этак",
+        "мнётся, не решается"
+      ],
+      "literal_ru": "хочет какать, не хочет какать",
+      "register": "разг., груб.-шутл.; в приличном разговоре не употребляется; нейтрально neodlučan je, koleba se",
+      "note": "Oće — просторечное стяжение hoće, kaki — детское слово.",
+      "keyword": "kaki",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.496Z"
+    },
+    {
       "id": "msym7ab1zuzyi",
       "headword_latin": "Od samoće ništa gore nema",
       "headword_cyrillic": "Од самоће ништа горе нема",
@@ -4956,6 +5250,32 @@
       "keyword": "samoća",
       "source": "frazeoteka",
       "created_at": "2026-08-18T12:04:17.005Z"
+    },
+    {
+      "id": "mt38pyjxvfmfa",
+      "headword_latin": "Od Silvane do Nirvane",
+      "headword_cyrillic": "Од Силване до Нирване",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "всеядность во вкусах; слушает всё подряд",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta sluša? Sve, od Silvane do Nirvane.",
+          "russian": "Что слушает? Всё подряд, от народной эстрады до гранжа."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "слушает всё подряд",
+        "всеядный вкус"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл., современное; обычно с симпатией, а не с осуждением; строится на созвучии Silvana — Nirvana",
+      "note": "Сильвана Арменулич — легендарная исполнительница севдалинок и народной эстрады, погибшая в 1976 году; «Нирвана» — американская гранж-группа. Полюса выбраны предельно далёкие: домашнее сербское против западного рока, старое против нового. Русский аналог пришлось бы строить самому — например, «от Зыкиной до Rammstein».",
+      "keyword": "Silvana",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.493Z"
     },
     {
       "id": "msxp30ek8nqhq",
@@ -5009,6 +5329,33 @@
       "keyword": "odgovarati",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.188Z"
+    },
+    {
+      "id": "mt38pyjykrgmm",
+      "headword_latin": "Odrediti / određen",
+      "headword_cyrillic": "Одредити / одређен",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "установить, определить / определённый, установленный",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odredili su rok za petnaesti.",
+          "russian": "Установили срок на пятнадцатое."
+        }
+      ],
+      "analogs_ru": [
+        "установить",
+        "определить",
+        "назначить",
+        "определённый, конкретный"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; odrediti — сов., управление с аккузативом; određen — причастие, ставшее прилагательным: određeno pitanje, određeno vreme, u određenoj meri; несов. određivati",
+      "note": "У određen два русских соответствия: «установленный, назначенный» (кем-то заданный) и «определённый, некоторый» (неуточнённый) — как и в русском «в определённых кругах». Контекст различает.",
+      "keyword": "odrediti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.494Z"
     },
     {
       "id": "mt0b9rqwh1lnj",
@@ -5145,6 +5492,33 @@
       "keyword": "oteto",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.560Z"
+    },
+    {
+      "id": "mt38pyk0kavpl",
+      "headword_latin": "Otkad je sveta i veka",
+      "headword_cyrillic": "Откад је света и века",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "испокон веков; отродясь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Tako je kod nas otkad je sveta i veka.",
+          "russian": "Так у нас испокон веков."
+        }
+      ],
+      "analogs_ru": [
+        "испокон веков",
+        "спокон веку",
+        "отродясь",
+        "от сотворения мира"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн.-нар.; синонимично oduvek; часто с отрицанием: otkad je sveta i veka nije se to desilo",
+      "note": "",
+      "keyword": "vek",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.496Z"
     },
     {
       "id": "msxp30el18e1l",
@@ -5468,6 +5842,33 @@
       "keyword": "jaje",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.191Z"
+    },
+    {
+      "id": "mt38pyjxu2dxa",
+      "headword_latin": "Pogurati se",
+      "headword_cyrillic": "Погурати се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "поднажать; поднатужиться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moramo da se poguramo, ostalo je još malo.",
+          "russian": "Надо поднажать, осталось немного."
+        }
+      ],
+      "analogs_ru": [
+        "поднажать",
+        "поднатужиться",
+        "подтолкнуть себя",
+        "собраться с силами"
+      ],
+      "literal_ru": "",
+      "register": "разг.; возвратный, чаще в 1-м лице мн. как призыв: moramo da se poguramo",
+      "note": "Невозвратное pogurati koga — «подтолкнуть, помочь продвинуться», в том числе по знакомству: pogurao ga je stric «его дядя пропихнул».",
+      "keyword": "gurati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.493Z"
     },
     {
       "id": "msxp30elejba0",
@@ -6071,6 +6472,32 @@
       "created_at": "2026-08-17T18:33:17.251Z"
     },
     {
+      "id": "mt38pyjziykzk",
+      "headword_latin": "Raf",
+      "headword_cyrillic": "Раф",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "полка, стеллаж",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nema ga na rafu, pitaj prodavca.",
+          "russian": "На полке его нет, спроси у продавца."
+        }
+      ],
+      "analogs_ru": [
+        "полка",
+        "стеллаж",
+        "полка в магазине"
+      ],
+      "literal_ru": "",
+      "register": "разг.; турцизм, в Сербии живёт наравне с нейтральным polica; ходовое в торговле: proizvod na rafu, puni rafovi",
+      "note": "Это именно полка, а не прилавок — прилавок будет pult или tezga.",
+      "keyword": "raf",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.495Z"
+    },
+    {
       "id": "mt0b1qfyakh8v",
       "headword_latin": "Raspremiti",
       "headword_cyrillic": "Распремити",
@@ -6228,6 +6655,33 @@
       "keyword": "kraj",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt38pyk0cc0a7",
+      "headword_latin": "Seo kao dečja guza na nošu",
+      "headword_cyrillic": "Сео као дечја гуза на ношу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пришлось как влитое; село идеально",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Taj deo je seo kao dečja guza na nošu.",
+          "russian": "Эта деталь села как влитая."
+        }
+      ],
+      "analogs_ru": [
+        "как влитое",
+        "тютелька в тютельку",
+        "как по мерке",
+        "легло идеально"
+      ],
+      "literal_ru": "сел как детская попа на горшок",
+      "register": "разг., груб.-шутл.; о вещи, детали или решении, подошедших идеально; в приличном разговоре лучше kao saliveno или kao kec na deset",
+      "note": "См. также: KAO KEC NA DESET.",
+      "keyword": "guza",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.496Z"
     },
     {
       "id": "msxqn1oqntui1",
@@ -7336,6 +7790,33 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "mt38pyk0h4zt3",
+      "headword_latin": "Tražiti hlad",
+      "headword_cyrillic": "Тражити хлад",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "отлынивать; искать, где полегче",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Svi rade, a on traži hlad.",
+          "russian": "Все работают, а он прохлаждается."
+        }
+      ],
+      "analogs_ru": [
+        "отлынивать",
+        "сачковать",
+        "искать, где полегче",
+        "прохлаждаться"
+      ],
+      "literal_ru": "искать тень",
+      "register": "разг., неодобр.; о работнике, который уклоняется от тяжёлой работы; синонимы zabušavati, muvati se",
+      "note": "Русское «прохлаждаться» устроено на том же образе прохлады — редкое совпадение внутренней формы.",
+      "keyword": "hlad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.496Z"
+    },
+    {
       "id": "msyrhihl8wvyw",
       "headword_latin": "Tresla se gora, rodio se miš",
       "headword_cyrillic": "Тресла се гора, родио се миш",
@@ -7650,6 +8131,32 @@
       "keyword": "štos",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
+      "id": "mt38pyjzvypyf",
+      "headword_latin": "Ukucati u pretraživač",
+      "headword_cyrillic": "Укуцати у претраживач",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вбить в поисковик",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ukucaj to u pretraživač, naći ćeš odmah.",
+          "russian": "Вбей это в поисковик, сразу найдёшь."
+        }
+      ],
+      "analogs_ru": [
+        "вбить в поисковик",
+        "загуглить",
+        "ввести в поиске"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; разговорно proguglaj to",
+      "note": "Ukucati «набрать, впечатать», от kucati «стучать».",
+      "keyword": "pretraživač",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.495Z"
     },
     {
       "id": "mt0b9rqvula83",
@@ -8311,6 +8818,33 @@
       "keyword": "škola",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:46:00.691Z"
+    },
+    {
+      "id": "mt38pyjvqqv88",
+      "headword_latin": "Žuditi za",
+      "headword_cyrillic": "Жудити за",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "жаждать, страстно желать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Žudim za odmorom.",
+          "russian": "Я жажду отпуска."
+        }
+      ],
+      "analogs_ru": [
+        "жаждать",
+        "страстно желать",
+        "тосковать по",
+        "изнывать от желания"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-поэт.; управление žuditi za čim + творительный; существительное žudnja",
+      "note": "В обиходной речи высоковато; разговорно — umirem za picom, ludo mi se jede.",
+      "keyword": "žudeti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T17:45:44.491Z"
     }
   ]
 }
