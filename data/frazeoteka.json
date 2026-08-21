@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-21T18:25:38.496Z",
+  "updated": "2026-08-21T18:32:36.789Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -314,6 +314,33 @@
       "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
+      "id": "mt3ae8hjehmhh",
+      "headword_latin": "Ako prođe, prođe",
+      "headword_cyrillic": "Ако прође, прође",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "авось прокатит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Poslao sam prijavu bez svih papira — ako prođe, prođe.",
+          "russian": "Отправил заявку без всех бумаг: авось прокатит."
+        }
+      ],
+      "analogs_ru": [
+        "авось прокатит",
+        "попытка не пытка",
+        "вдруг прокатит",
+        "на авось"
+      ],
+      "literal_ru": "пройдёт — значит пройдёт",
+      "register": "разг., шутл.; о действии наудачу, без расчёта на успех; сокращение APP живёт в переписке",
+      "note": "",
+      "keyword": "proći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.727Z"
+    },
+    {
       "id": "msxlnru89pl1f",
       "headword_latin": "Ako protivnika ne možeš pobediti, pridruži mu se",
       "headword_cyrillic": "Ако противника не можеш победити, придружи му се",
@@ -520,6 +547,32 @@
       "keyword": "batina",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "mt3ae8hngnqux",
+      "headword_latin": "Bela kuga",
+      "headword_cyrillic": "Бела куга",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "депопуляция; вымирание нации",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bela kuga je najveći problem srpskih sela.",
+          "russian": "Вымирание — главная беда сербских сёл."
+        }
+      ],
+      "analogs_ru": [
+        "демографический кризис",
+        "вымирание",
+        "депопуляция"
+      ],
+      "literal_ru": "белая чума",
+      "register": "публиц.-термин.; о превышении смертности над рождаемостью; постоянная тема сербской прессы и политической риторики, звучит и в официальных документах",
+      "note": "Название по контрасту с «чёрной чумой»: та убивает быстро и явно, эта незаметно и без смертей как таковых.",
+      "keyword": "kuga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.731Z"
     },
     {
       "id": "msxlnru8oi42h",
@@ -1594,6 +1647,32 @@
       "created_at": "2026-08-17T23:54:45.975Z"
     },
     {
+      "id": "mt3ae8hlienu2",
+      "headword_latin": "Božić i Badnji dan",
+      "headword_cyrillic": "Божић и Бадњи дан",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не разлей вода",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Oni su Božić i Badnji dan.",
+          "russian": "Они не разлей вода."
+        }
+      ],
+      "analogs_ru": [
+        "не разлей вода",
+        "водой не разольёшь",
+        "неразлучны"
+      ],
+      "literal_ru": "Рождество и сочельник — два дня, идущие подряд и немыслимые порознь",
+      "register": "разг., тепло-шутл.; о неразлучной паре",
+      "note": "Badnji dan — сербский сочельник, 6 января: жгут бадняк (дубовую ветвь), готовят постный стол, а назавтра Рождество. Порядок в обороте неизменен, хотя хронологически сочельник первый — рифма и привычка сильнее календаря.",
+      "keyword": "Božić",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.729Z"
+    },
+    {
       "id": "msxw54d30n7aw",
       "headword_latin": "Brat brata nad jamu vodi, ali ga u jamu ne meće",
       "headword_cyrillic": "Брат брата над јаму води, али га у јаму не меће",
@@ -1850,6 +1929,33 @@
       "keyword": "budala",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.341Z"
+    },
+    {
+      "id": "mt3ae8hkaouf9",
+      "headword_latin": "Čekati kao ozebao sunce",
+      "headword_cyrillic": "Чекати као озебао сунце",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ждать как манны небесной",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Čekam te kao ozebao sunce.",
+          "russian": "Жду тебя не дождусь."
+        }
+      ],
+      "analogs_ru": [
+        "ждать как манны небесной",
+        "ждать не дождаться",
+        "ждать как праздника",
+        "изждаться"
+      ],
+      "literal_ru": "ждать как озябший солнца",
+      "register": "разг., экспресс.; о долгом и нетерпеливом ожидании",
+      "note": "Ozebao — причастие от ozepsti «озябнуть».",
+      "keyword": "sunce",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.728Z"
     },
     {
       "id": "mt0b9rqtcvto2",
@@ -2166,6 +2272,33 @@
       "created_at": "2026-08-21T18:05:17.697Z"
     },
     {
+      "id": "mt3ae8hkqi6cx",
+      "headword_latin": "Ćutati kao zaliven",
+      "headword_cyrillic": "Ћутати као заливен",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "молчать как воды в рот набрал",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Govori! Dosta je da ćutiš kao zaliven.",
+          "russian": "Говори! Хватит играть в молчанку."
+        }
+      ],
+      "analogs_ru": [
+        "как воды в рот набрал",
+        "играть в молчанку",
+        "слова не вытянешь",
+        "молчит как рыба"
+      ],
+      "literal_ru": "молчать как залитый — будто рот залили",
+      "register": "разг.; о том, кто упорно не отвечает",
+      "note": "Не путать с ćutati kao grob — там о хранении чужой тайны, здесь об упрямом молчании.",
+      "keyword": "ćutati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.728Z"
+    },
+    {
       "id": "msxmobcucukpw",
       "headword_latin": "Da su babi muda, bila bi deda",
       "headword_cyrillic": "Да су баби муда, била би деда",
@@ -2321,6 +2454,38 @@
       "keyword": "koža",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:24:53.584Z"
+    },
+    {
+      "id": "mt3ae8hmpqmf2",
+      "headword_latin": "Dlanom o dlan",
+      "headword_cyrillic": "Дланом о длан",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. запросто, без труда; 2. (с отрицанием) палец о палец не ударить",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On će to uraditi dlanom o dlan.",
+          "russian": "[знач. 1] Он это сделает играючи."
+        },
+        {
+          "serbian_latin": "Nije udario dlanom o dlan da nam pomogne.",
+          "russian": "[знач. 2] Он палец о палец не ударил, чтобы нам помочь."
+        }
+      ],
+      "analogs_ru": [
+        "запросто",
+        "одной левой",
+        "раз плюнуть",
+        "палец о палец не ударил",
+        "пальцем не пошевелил"
+      ],
+      "literal_ru": "ладонью о ладонь",
+      "register": "разг.; ключ — отрицание: без него uradiće to dlanom o dlan «сделает играючи», с ним nije udario dlanom o dlan «палец о палец не ударил»",
+      "note": "",
+      "keyword": "dlan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.730Z"
     },
     {
       "id": "msxmobcvchf62",
@@ -2479,6 +2644,33 @@
       "keyword": "doći",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.343Z"
+    },
+    {
+      "id": "mt3ae8hlxcw41",
+      "headword_latin": "Dogorelo je do nokata",
+      "headword_cyrillic": "Догорело је до ноката",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "припекло; дошло до ручки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Krenuo je da uči tek kad mu je dogorelo do nokata.",
+          "russian": "Взялся за учёбу, только когда припекло."
+        }
+      ],
+      "analogs_ru": [
+        "припекло",
+        "приспичило",
+        "дошло до ручки",
+        "жареный петух клюнул"
+      ],
+      "literal_ru": "догорело до ногтей — как свеча, догоревшая до пальцев",
+      "register": "разг.; о моменте, когда откладывать больше нельзя; дательный лица: dogorelo mu je do nokata",
+      "note": "Не о накопившемся раздражении, а о наступившем крайнем сроке. Для «надоело, терпеть нет сил» точнее puna mi je kapa или preko glave mi je.",
+      "keyword": "nokat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.729Z"
     },
     {
       "id": "msyrhihmu8lay",
@@ -3327,6 +3519,32 @@
       "keyword": "vuk",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "mt3ae8hkgebat",
+      "headword_latin": "Ide kao alva",
+      "headword_cyrillic": "Иде као алва",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "расходится нарасхват",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ova knjiga se prodaje kao alva.",
+          "russian": "Эта книга идёт нарасхват."
+        }
+      ],
+      "analogs_ru": [
+        "идёт нарасхват",
+        "разлетается как горячие пирожки",
+        "сметают с прилавка"
+      ],
+      "literal_ru": "идёт как халва",
+      "register": "разг.; о ходком товаре; ходовые формы ide kao alva, prodaje se kao alva",
+      "note": "Alva (тур. helva) — восточная сладость, в османские времена лакомство ходовое и дешёвое. Русский меряет спрос горячими пирожками, серб — халвой: образ один, реалия своя.",
+      "keyword": "alva",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.728Z"
     },
     {
       "id": "msym7ab239clz",
@@ -5364,6 +5582,33 @@
       "created_at": "2026-08-17T18:40:26.460Z"
     },
     {
+      "id": "mt3ae8hkgcia2",
+      "headword_latin": "Mršav kao kostur",
+      "headword_cyrillic": "Мршав као костур",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "худой как скелет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vratio se s puta mršav kao kostur.",
+          "russian": "Вернулся из поездки худой как скелет."
+        }
+      ],
+      "analogs_ru": [
+        "худой как скелет",
+        "кожа да кости",
+        "одни мощи",
+        "худой как щепка"
+      ],
+      "literal_ru": "",
+      "register": "разг.; синонимы mršav kao grana, sama kost i koža",
+      "note": "",
+      "keyword": "kostur",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.728Z"
+    },
+    {
       "id": "mt38pdhgkalzq",
       "headword_latin": "Mrtav umoran",
       "headword_cyrillic": "Мртав уморан",
@@ -5891,6 +6136,32 @@
       "keyword": "biser",
       "source": "frazeoteka",
       "created_at": "2026-08-18T00:00:07.126Z"
+    },
+    {
+      "id": "mt3ae8hlc23pq",
+      "headword_latin": "Ne vredi ni pišljiva boba",
+      "headword_cyrillic": "Не вреди ни пишљива боба",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "гроша ломаного не стоит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta garancija ne vredi ni pišljiva boba.",
+          "russian": "Эта гарантия гроша ломаного не стоит."
+        }
+      ],
+      "analogs_ru": [
+        "гроша ломаного не стоит",
+        "выеденного яйца не стоит",
+        "ноль без палочки"
+      ],
+      "literal_ru": "не стоит и червивого боба",
+      "register": "разг., пренебр.; ходовое и в укороченном виде: pišljiva boba «ерунда, мелочь»",
+      "note": "Pišljiv — «порченый, червивый».",
+      "keyword": "boba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.729Z"
     },
     {
       "id": "msyrhihlclbac",
@@ -6957,6 +7228,33 @@
       "created_at": "2026-08-21T17:51:09.235Z"
     },
     {
+      "id": "mt3ae8hmmmgnt",
+      "headword_latin": "Paprena cena",
+      "headword_cyrillic": "Папрена цена",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "заоблачная цена; цена кусается",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Cene u tom restoranu su paprene.",
+          "russian": "Цены в этом ресторане кусаются."
+        }
+      ],
+      "analogs_ru": [
+        "цена кусается",
+        "заоблачная цена",
+        "втридорога",
+        "ломовая цена"
+      ],
+      "literal_ru": "перечная цена",
+      "register": "разг.-публиц.; ходовое и о взысканиях: paprena kazna «драконовский штраф», paprene kamate",
+      "note": "Papren от paprika/biber — «жгучий». Русский образ жгучести для цены не работает, переводить лучше через «кусается» или «втридорога». См. также: KOŠTA KAO SVETOG PETRA KAJGANA.",
+      "keyword": "cena",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.730Z"
+    },
+    {
       "id": "mt0b9rqszjw2w",
       "headword_latin": "Parati uši",
       "headword_cyrillic": "Парати уши",
@@ -7513,6 +7811,33 @@
       "created_at": "2026-08-21T18:05:17.696Z"
     },
     {
+      "id": "mt3ae8hmbkpx9",
+      "headword_latin": "Priča kao navijen",
+      "headword_cyrillic": "Прича као навијен",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "говорит как заведённый",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sat vremena priča kao navijen, ne mogu da ga prekinem.",
+          "russian": "Час говорит как заведённый, не могу перебить."
+        }
+      ],
+      "analogs_ru": [
+        "говорит как заведённый",
+        "трещит без умолку",
+        "завёлся и не остановишь",
+        "как пластинку заело"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; о том, кто говорит много и без остановки, перескакивая с темы на тему; синонимы melje, ne zatvara usta",
+      "note": "От naviti «завести пружину».",
+      "keyword": "navijen",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.730Z"
+    },
+    {
       "id": "mt0b9rqv57t3c",
       "headword_latin": "Prljava posla",
       "headword_cyrillic": "Прљава посла",
@@ -7590,6 +7915,33 @@
       "keyword": "prsti",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:24:53.585Z"
+    },
+    {
+      "id": "mt3ae8hnjmete",
+      "headword_latin": "Prolaziti kao pored turskog groblja",
+      "headword_cyrillic": "Пролазити као поред турског гробља",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пройти мимо как мимо пустого места",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zašto prolaziš pored mene kao pored turskog groblja?",
+          "russian": "Почему ты проходишь мимо меня как мимо пустого места?"
+        }
+      ],
+      "analogs_ru": [
+        "пройти мимо как мимо пустого места",
+        "не удостоить взглядом",
+        "сделать вид, что не заметил",
+        "пройти как мимо столба"
+      ],
+      "literal_ru": "проходить как мимо турецкого кладбища",
+      "register": "разг., упрёк; управление prolaziti pored koga kao pored turskog groblja; чаще всего как обида на демонстративное невнимание",
+      "note": "Хорватский языковой портал толкует оборот как «пройти без приветствия, не отреагировать». Обиходное объяснение образа этнографическое: мусульманские кладбища не огораживали и не украшали цветами, мимо них шли не задерживаясь, тогда как у христианского кладбища принято было остановиться и перекреститься. Есть и другое прочтение, встречающееся в боснийской и черногорской публицистике: заброшенные турецкие кладбища остались после ухода мусульманского населения из Сербии в начале XIX века. Какое объяснение первично, надёжно не установлено.",
+      "keyword": "groblje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.731Z"
     },
     {
       "id": "mt0aue896kead",
@@ -8624,6 +8976,33 @@
       "keyword": "smrt",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.265Z"
+    },
+    {
+      "id": "mt3ae8hj3yae3",
+      "headword_latin": "Snađi se",
+      "headword_cyrillic": "Снађи се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "выкручивайся сам; сообразишь на месте",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nema uputstva, nema podrške — sistem snađi se.",
+          "russian": "Ни инструкции, ни поддержки — выкручивайся как хочешь."
+        }
+      ],
+      "analogs_ru": [
+        "выкручивайся сам",
+        "спасение утопающих — дело рук самих утопающих",
+        "крутись как хочешь",
+        "сам разберёшься"
+      ],
+      "literal_ru": "",
+      "register": "разг.; императив от snaći se «сориентироваться, выкрутиться»; как формула — sistem snađi se, parola snađi se: об укладе, где никто ничего не обеспечивает и каждый устраивается сам",
+      "note": "Snalažljiv «находчивый, оборотистый» — одна из главных похвал в сербском обиходе, а snalaženje описывает целую жизненную стратегию: обойти правило, договориться, найти лазейку. Русское «находчивый» уже, там нет привкуса выживания вопреки системе.",
+      "keyword": "snaći se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.727Z"
     },
     {
       "id": "msxrqv22v2f9h",
@@ -9995,6 +10374,33 @@
       "keyword": "šupak",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:43:00.318Z"
+    },
+    {
+      "id": "mt3ae8hl9slzu",
+      "headword_latin": "U više navrata",
+      "headword_cyrillic": "У више наврата",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "неоднократно; не раз",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U više navrata sam to od tebe čula.",
+          "russian": "Я это от тебя слышала не раз."
+        }
+      ],
+      "analogs_ru": [
+        "неоднократно",
+        "не раз",
+        "многократно",
+        "несколько раз кряду"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн., частотно в прессе и документах; разговорнее više puta",
+      "note": "Navrat — «раз, приём».",
+      "keyword": "navrat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:32:36.729Z"
     },
     {
       "id": "mt0b1qfysmz0e",
