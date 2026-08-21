@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-21T18:05:17.742Z",
+  "updated": "2026-08-21T18:24:53.643Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -781,6 +781,33 @@
       "keyword": "mirođija",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
+      "id": "mt3a4b4g0fm0x",
+      "headword_latin": "Biti na tri ćoška",
+      "headword_cyrillic": "Бити на три ћошка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть под градусом; навеселе",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Došao je kući na tri ćoška.",
+          "russian": "Пришёл домой под градусом."
+        }
+      ],
+      "analogs_ru": [
+        "под градусом",
+        "навеселе",
+        "подшофе",
+        "тёпленький"
+      ],
+      "literal_ru": "быть на трёх углах — шатать из стороны в сторону, идти не по прямой",
+      "register": "разг., шутл.; лёгкая степень опьянения, слабее pijan kao majka",
+      "note": "Ćošak — турцизм, «угол».",
+      "keyword": "ćošak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.584Z"
     },
     {
       "id": "mt0aue88j65er",
@@ -1747,6 +1774,33 @@
       "created_at": "2026-08-21T18:05:17.697Z"
     },
     {
+      "id": "mt3a4b4fvuf84",
+      "headword_latin": "Časna reč",
+      "headword_cyrillic": "Часна реч",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "честное слово",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Časna reč, nisam ništa dirao.",
+          "russian": "Честное слово, я ничего не трогал."
+        }
+      ],
+      "analogs_ru": [
+        "честное слово",
+        "слово чести",
+        "даю слово",
+        "клянусь"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; и как самостоятельное восклицание, и в составе: dajem ti časnu reč, časna reč da nisam znao",
+      "note": "Нейтральнее, чем majke mi, и приличнее в разговоре со старшими или на работе.",
+      "keyword": "reč",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.583Z"
+    },
+    {
       "id": "msxmobctm7d9s",
       "headword_latin": "Čast svakom, veresije nikom",
       "headword_cyrillic": "Част сваком, вересије ником",
@@ -2240,6 +2294,33 @@
       "keyword": "danas",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
+      "id": "mt3a4b4g2ti5y",
+      "headword_latin": "Derati kožu na šiljak",
+      "headword_cyrillic": "Дерати кожу на шиљак",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "драть три шкуры; обдирать как липку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta banka dere kožu na šiljak, kamate su nenormalne.",
+          "russian": "Этот банк дерёт три шкуры, проценты безумные."
+        }
+      ],
+      "analogs_ru": [
+        "драть три шкуры",
+        "обдирать как липку",
+        "сдирать шкуру",
+        "грабить средь бела дня"
+      ],
+      "literal_ru": "сдирать шкуру на кол — как со скотины, целиком, натягивая на кол",
+      "register": "разг., резк.-неодобр.; о непомерных ценах, поборах, эксплуатации; управление derati kome kožu",
+      "note": "",
+      "keyword": "koža",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.584Z"
     },
     {
       "id": "msxmobcvchf62",
@@ -2738,6 +2819,33 @@
       "keyword": "partija",
       "source": "frazeoteka",
       "created_at": "2026-08-18T00:00:07.130Z"
+    },
+    {
+      "id": "mt3a4b4fla9rh",
+      "headword_latin": "Dža ili bu",
+      "headword_cyrillic": "Џа или бу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "либо да, либо нет; или пан, или пропал",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hoćeš li da izađemo ili ostajemo kod kuće? Hajde, dža ili bu.",
+          "russian": "Идём гулять или остаёмся дома? Давай, одно из двух."
+        }
+      ],
+      "analogs_ru": [
+        "или пан, или пропал",
+        "либо да, либо нет",
+        "третьего не дано",
+        "одно из двух"
+      ],
+      "literal_ru": "",
+      "register": "разг.; требование выбрать одно из двух; ходовое hajde, dža ili bu",
+      "note": "Dža и bu — слова-пустышки без значения, взяты ради звучности.",
+      "keyword": "dža",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.583Z"
     },
     {
       "id": "mt39f3sue6ann",
@@ -3516,6 +3624,33 @@
       "created_at": "2026-08-17T20:02:22.695Z"
     },
     {
+      "id": "mt3a4b4frahzv",
+      "headword_latin": "Ista meta, isto odstojanje",
+      "headword_cyrillic": "Иста мета, исто одстојање",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "всё по-прежнему; ничего не изменилось",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Novi ministar, a ista meta, isto odstojanje.",
+          "russian": "Министр новый, а всё по-старому."
+        }
+      ],
+      "analogs_ru": [
+        "всё по-старому",
+        "ничего не изменилось",
+        "всё как было",
+        "всё те же на манеже"
+      ],
+      "literal_ru": "та же мишень, та же дистанция",
+      "register": "разг., ирон.; из команды на стрельбище; чаще о том, что после смены лиц или обещаний по существу не поменялось ничего",
+      "note": "См. также: SJAŠI KURTA DA UZJAŠI MURTA.",
+      "keyword": "meta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.583Z"
+    },
+    {
       "id": "mt38pyjztemzy",
       "headword_latin": "Istaknut",
       "headword_cyrillic": "Истакнут",
@@ -4124,6 +4259,33 @@
       "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
+      "id": "mt3a4b4hpe8t3",
+      "headword_latin": "Kao ludi Nasta",
+      "headword_cyrillic": "Као луди Наста",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как ненормальный; без толку и без смысла",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta trčiš kao ludi Nasta, stani malo.",
+          "russian": "Что ты носишься как угорелый, постой."
+        }
+      ],
+      "analogs_ru": [
+        "как ненормальный",
+        "как оглашенный",
+        "без толку метаться",
+        "как угорелый"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; о бессмысленном, бесцельном или чересчур бурном поведении; ходовые šta se smeješ kao ludi Nasta, tumaraš kao ludi Nasta",
+      "note": "По преданию Наста — реальное лицо: Анастас, серб цинцарского происхождения с Дорчола, из зажиточной купеческой семьи, помогавшей повстанцам. После краха Первого сербского восстания в 1813 году белградцы бежали от возвращавшихся османов, а он остался — то ли сам отказался уходить, то ли его забыли взять; турки застали его бродящим по пустому городу, смеющимся и поющим, и не тронули как безобидного. Форма должна быть мужской — ludi Nasta, — но народ перевёл имя в женский род по образцу Анастасии, и сегодня luda Nasta звучит чаще.",
+      "keyword": "Nasta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.585Z"
+    },
+    {
       "id": "mt0aue86th1fa",
       "headword_latin": "Kap koja je prelila čašu",
       "headword_cyrillic": "Кап која је прелила чашу",
@@ -4255,6 +4417,25 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "mt3a4b4j9856w",
+      "headword_latin": "Ko dete na trešnji",
+      "headword_cyrillic": "Ко дете на трешњи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "значение не установлено",
+      "paradigm": null,
+      "examples": [],
+      "analogs_ru": [
+        "не подтверждено"
+      ],
+      "literal_ru": "как ребёнок на черешне",
+      "register": "редк./не подтверждено надёжно; в доступных источниках оборот не зафиксирован",
+      "note": "По образу — ребёнок, забравшийся на черешню: скорее всего о безоблачной радости (raduje se kao dete) либо о том, кого застали врасплох на чужом добре. Требуется живой контекст употребления; догадка вместо записи здесь была бы хуже пропуска.",
+      "keyword": "trešnja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.587Z"
+    },
+    {
       "id": "mt391c51bwvpd",
       "headword_latin": "Ko hoće veće, izgubi iz vreće",
       "headword_cyrillic": "Ко хоће веће, изгуби из вреће",
@@ -4355,6 +4536,33 @@
       "keyword": "glava",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.250Z"
+    },
+    {
+      "id": "mt3a4b4gymywl",
+      "headword_latin": "Ko o čemu, baba o uštipcima",
+      "headword_cyrillic": "Ко о чему, баба о уштипцима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "кто о чём, а вшивый о бане",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet o kredibilitetu — ko o čemu, baba o uštipcima.",
+          "russian": "Опять о репутации: кто о чём, а вшивый о бане."
+        }
+      ],
+      "analogs_ru": [
+        "кто о чём, а вшивый о бане",
+        "заладил своё",
+        "опять о том же",
+        "сел на любимого конька"
+      ],
+      "literal_ru": "кто о чём, а бабка о пончиках",
+      "register": "разг., шутл.-неодобр.; о том, кто сводит любой разговор к своей теме",
+      "note": "Uštipci — жареные пончики, деревенская сласть.",
+      "keyword": "uštipci",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.584Z"
     },
     {
       "id": "msxl6oys8u7zv",
@@ -4697,6 +4905,33 @@
       "created_at": "2026-08-18T00:00:07.129Z"
     },
     {
+      "id": "mt3a4b4hbaph9",
+      "headword_latin": "Kružiti kao kiša oko Kragujevca",
+      "headword_cyrillic": "Кружити као киша око Крагујевца",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ходить вокруг да около",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Reci već jednom, ne kruži kao kiša oko Kragujevca.",
+          "russian": "Скажи наконец, не ходи вокруг да около."
+        }
+      ],
+      "analogs_ru": [
+        "ходить вокруг да около",
+        "кружить как кот вокруг сметаны",
+        "тянуть кота за хвост",
+        "не переходить к делу"
+      ],
+      "literal_ru": "кружить как дождь вокруг Крагуеваца",
+      "register": "разг., шутл.; о том, кто никак не подойдёт к сути",
+      "note": "Образ местный: тучи ходят вокруг города, а дождя всё нет — в Шумадии присказка о вечной засухе.",
+      "keyword": "Kragujevac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.585Z"
+    },
+    {
       "id": "msxwc0615zxaj",
       "headword_latin": "Lasno je zdravome bolesnoga savetovati",
       "headword_cyrillic": "Ласно је здравоме болеснога саветовати",
@@ -4799,6 +5034,33 @@
       "keyword": "suze",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt3a4b4hqeydo",
+      "headword_latin": "Luk i voda",
+      "headword_cyrillic": "Лук и вода",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пустышка; ерунда, ничего особенного",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kontrolni je bio luk i voda, sve sam uradio.",
+          "russian": "Контрольная оказалась ерундой, всё сделал."
+        }
+      ],
+      "analogs_ru": [
+        "пустое дело",
+        "ерунда",
+        "пшик",
+        "ничего особенного"
+      ],
+      "literal_ru": "лук да вода — самая бедная похлёбка",
+      "register": "разг., пренебр.; чаще о никчёмном, обесцененном: sve je to luk i voda",
+      "note": "Ядро значения — «пустое, не стоящее внимания», а не «лёгкое». Для «проще пареной репы» вернее prosto ko pasulj; здесь оттенок пренебрежения, которого в русском аналоге нет.",
+      "keyword": "luk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.585Z"
     },
     {
       "id": "msxnt6d3rqexs",
@@ -6053,6 +6315,33 @@
       "created_at": "2026-08-18T14:32:12.250Z"
     },
     {
+      "id": "mt3a4b4it9vgq",
+      "headword_latin": "Novinarska patka",
+      "headword_cyrillic": "Новинарска патка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "газетная утка",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ispostavilo se da je cela priča novinarska patka.",
+          "russian": "Выяснилось, что вся история — газетная утка."
+        }
+      ],
+      "analogs_ru": [
+        "газетная утка",
+        "фейк",
+        "вброс",
+        "дезинформация"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публиц.; современный синоним lažna vest, fejk njuz",
+      "note": "Совпадает с русским, обе формулы восходят к французскому и немецкому обиходу XIX века.",
+      "keyword": "patka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.586Z"
+    },
+    {
       "id": "mt39f3swhomty",
       "headword_latin": "Njakati kao magarac",
       "headword_cyrillic": "Њакати као магарац",
@@ -6295,6 +6584,32 @@
       "created_at": "2026-08-21T17:45:44.494Z"
     },
     {
+      "id": "mt3a4b4if9v38",
+      "headword_latin": "Okačiti mačku o rep",
+      "headword_cyrillic": "Окачити мачку о реп",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "можешь выбросить; никуда не годится",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Tu diplomu možeš da okačiš mačku o rep.",
+          "russian": "Этот диплом можешь выбросить."
+        }
+      ],
+      "analogs_ru": [
+        "можешь выбросить",
+        "на помойку",
+        "грош ему цена"
+      ],
+      "literal_ru": "повесить коту на хвост",
+      "register": "разг., пренебр.; о ненужной вещи, бесполезном документе, пустом обещании; ходовое to možeš mačku o rep",
+      "note": "",
+      "keyword": "mačka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.586Z"
+    },
+    {
       "id": "mt38wx4k4caay",
       "headword_latin": "Okrenuti naglavačke",
       "headword_cyrillic": "Окренути наглавачке",
@@ -6372,6 +6687,33 @@
       "keyword": "opreznost",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "mt3a4b4j0r0o0",
+      "headword_latin": "Ostaviti na cedilu",
+      "headword_cyrillic": "Оставити на цедилу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "бросить в беде; кинуть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Tvoji prijatelji će te ostaviti na cedilu.",
+          "russian": "Твои дружки тебя бросят в беде."
+        }
+      ],
+      "analogs_ru": [
+        "бросить в беде",
+        "оставить с носом",
+        "кинуть",
+        "оставить на произвол судьбы"
+      ],
+      "literal_ru": "оставить на цедилке — на ткани для процеживания молока, где остаётся одна гуща",
+      "register": "разг., неодобр.; управление ostaviti koga na cedilu",
+      "note": "Русское «оставить с носом» — про обманутое ожидание выгоды, сербское шире и жёстче: бросить того, кто на тебя рассчитывал. В переводе чаще подходит «бросить в беде».",
+      "keyword": "cedilo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.587Z"
     },
     {
       "id": "mt0b1qg06zmik",
@@ -7223,6 +7565,33 @@
       "created_at": "2026-08-18T00:00:07.130Z"
     },
     {
+      "id": "mt3a4b4h7eey6",
+      "headword_latin": "Progledati kroz prste",
+      "headword_cyrillic": "Прогледати кроз прсте",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "смотреть сквозь пальцы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Progledali su mu kroz prste zbog godina staža.",
+          "russian": "Ему закрыли на это глаза за выслугу лет."
+        }
+      ],
+      "analogs_ru": [
+        "смотреть сквозь пальцы",
+        "закрывать глаза на что-л.",
+        "спускать",
+        "попустительствовать"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; управление progledati kome kroz prste + дательный; сов. вид, несов. gledati kroz prste",
+      "note": "",
+      "keyword": "prsti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.585Z"
+    },
+    {
       "id": "mt0aue896kead",
       "headword_latin": "Prosto ko pasulj",
       "headword_cyrillic": "Просто ко пасуљ",
@@ -7460,6 +7829,33 @@
       "created_at": "2026-08-21T17:51:09.235Z"
     },
     {
+      "id": "mt3a4b4h8kv3q",
+      "headword_latin": "Pun kao brod",
+      "headword_cyrillic": "Пун као брод",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "денег куры не клюют",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otkud njemu takav auto? Pun je kao brod.",
+          "russian": "Откуда у него такая машина? Денег куры не клюют."
+        }
+      ],
+      "analogs_ru": [
+        "денег куры не клюют",
+        "при деньгах",
+        "богат как Крез",
+        "карман набит"
+      ],
+      "literal_ru": "полон как корабль — гружёный до отказа",
+      "register": "разг.; о человеке при больших деньгах",
+      "note": "Не путать с puno kao oko — там о помещении, здесь о кошельке.",
+      "keyword": "brod",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.585Z"
+    },
+    {
       "id": "msxkiw6xpnjum",
       "headword_latin": "Pun-puncat",
       "headword_cyrillic": "Пун-пунцат",
@@ -7513,6 +7909,33 @@
       "keyword": "kapa",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:54:35.316Z"
+    },
+    {
+      "id": "mt3a4b4he94ao",
+      "headword_latin": "Puno kao oko",
+      "headword_cyrillic": "Пуно као око",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "полным-полно; битком",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U kafiću je bilo puno kao oko.",
+          "russian": "В кафе было битком."
+        }
+      ],
+      "analogs_ru": [
+        "полным-полно",
+        "битком",
+        "яблоку негде упасть",
+        "не протолкнуться"
+      ],
+      "literal_ru": "",
+      "register": "разг.; синонимы pun-puncat, puno kao u kokošinjcu",
+      "note": "Сравнение с глазом как с чем-то наполненным до краёв. См. также: PUN-PUNCAT.",
+      "keyword": "oko",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.585Z"
     },
     {
       "id": "msxqn1op9erg6",
@@ -7699,6 +8122,32 @@
       "keyword": "ruka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.618Z"
+    },
+    {
+      "id": "mt3a4b4ia3v7x",
+      "headword_latin": "Rušiti sneška",
+      "headword_cyrillic": "Рушити снешка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "обломать; вернуть с небес на землю",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne bih da ti rušim sneška, ali nema šanse.",
+          "russian": "Не хочу тебя обламывать, но шансов нет."
+        }
+      ],
+      "analogs_ru": [
+        "обломать",
+        "разрушить иллюзии",
+        "спустить с небес на землю"
+      ],
+      "literal_ru": "ломать снеговика",
+      "register": "разг.-сленг., современное; чаще в извиняющейся формуле neću da ti rušim sneška, ali…",
+      "note": "",
+      "keyword": "sneško",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.586Z"
     },
     {
       "id": "mt39f3swhs3j4",
@@ -8679,6 +9128,33 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "mt3a4b4igf0ef",
+      "headword_latin": "Šio mu ga Đura",
+      "headword_cyrillic": "Шио му га Ђура",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вышло криво; сработано на смех",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pogledaj kako je ovo montirano — šio mu ga Đura.",
+          "russian": "Посмотри, как это собрано: сработано на смех."
+        }
+      ],
+      "analogs_ru": [
+        "сделано через пень колоду",
+        "вышло боком",
+        "сработано на смех",
+        "ни к чёрту не годится"
+      ],
+      "literal_ru": "сшил ему это Джура",
+      "register": "разг., ирон.; о неудавшемся, испорченном или зря сделанном; варианты šio mi ga Đura, šio mu ga Đura",
+      "note": "Смысл перевернулся на противоположный. Джура Яношевич — белградский портной, открывший мастерскую в 1889 году на Кнез-Михайловой; между войнами у него шила костюмы вся городская знать, и на вопрос, чьей работы костюм, отвечали šio mi ga Đura — то есть высшего качества. Со временем формула стала насмешкой над обратным.",
+      "keyword": "Đura",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.586Z"
+    },
+    {
       "id": "mt0b9rqt12j0p",
       "headword_latin": "Špansko selo",
       "headword_cyrillic": "Шпанско село",
@@ -9175,6 +9651,33 @@
       "created_at": "2026-08-17T22:56:52.683Z"
     },
     {
+      "id": "mt3a4b4jlgrfw",
+      "headword_latin": "Tu i tamo",
+      "headword_cyrillic": "Ту и тамо",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "время от времени; кое-где",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima li posla? — Tu i tamo.",
+          "russian": "Работа есть? — Помаленьку."
+        }
+      ],
+      "analogs_ru": [
+        "время от времени",
+        "изредка",
+        "кое-где",
+        "то тут, то там"
+      ],
+      "literal_ru": "",
+      "register": "разг.; двузначно — о времени (idem u grad tu i tamo) и о месте (tu i tamo ima snega); как ответ на вопрос значит «так себе, помаленьку»",
+      "note": "",
+      "keyword": "tamo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.587Z"
+    },
+    {
       "id": "msxu2ocrzvwrp",
       "headword_latin": "Tuđu nafaku niko ukrasti ne može",
       "headword_cyrillic": "Туђу нафаку нико украсти не може",
@@ -9200,6 +9703,33 @@
       "keyword": "nafaka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "mt3a4b4jrs7ta",
+      "headword_latin": "Tušta i tma",
+      "headword_cyrillic": "Тушта и тма",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "тьма-тьмущая",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U šumi je tušta i tma komaraca.",
+          "russian": "В лесу комаров тьма-тьмущая."
+        }
+      ],
+      "analogs_ru": [
+        "тьма-тьмущая",
+        "видимо-невидимо",
+        "пруд пруди",
+        "не счесть"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспресс.; управление tušta i tma čega + родительный",
+      "note": "Парное сочетание, где tušta самостоятельно почти не живёт.",
+      "keyword": "tma",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.587Z"
     },
     {
       "id": "mt391c50soskf",
@@ -9887,6 +10417,32 @@
       "keyword": "saobraćaj",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt3a4b4ibq7ev",
+      "headword_latin": "Zagrejati stolicu",
+      "headword_cyrillic": "Загрејати столицу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "просиживать за учебниками; корпеть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako želiš da položiš, moraćeš da zagreješ stolicu.",
+          "russian": "Если хочешь сдать, придётся посидеть как следует."
+        }
+      ],
+      "analogs_ru": [
+        "корпеть над учебниками",
+        "сидеть не разгибаясь",
+        "грызть гранит науки"
+      ],
+      "literal_ru": "нагреть стул",
+      "register": "разг.; о долгой усидчивой работе или зубрёжке; чаще в будущем как условие: moraćeš da zagreješ stolicu",
+      "note": "Русское «просиживать штаны» звучит осуждающе — о пустом сидении, — а сербское наоборот, о добросовестном труде. Ложный друг по эмоции.",
+      "keyword": "stolica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:24:53.586Z"
     },
     {
       "id": "mt38pdhfqmgrz",
