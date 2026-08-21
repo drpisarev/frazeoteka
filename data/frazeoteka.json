@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-21T17:54:35.367Z",
+  "updated": "2026-08-21T18:05:17.742Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -417,6 +417,33 @@
       "created_at": "2026-08-17T23:48:44.421Z"
     },
     {
+      "id": "mt39f3st54sif",
+      "headword_latin": "Alal vera",
+      "headword_cyrillic": "Алал вера",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "молодец!; браво!; честь и хвала",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako si brzo završio to, alal vera!",
+          "russian": "Как ты быстро всё закончил, молодец!"
+        }
+      ],
+      "analogs_ru": [
+        "молодец",
+        "браво",
+        "честь и хвала",
+        "снимаю шляпу"
+      ],
+      "literal_ru": "",
+      "register": "разг., одобр.; турцизм (helal) «дозволенное, благословенное»; синоним svaka čast, но alal vera теплее и старомоднее",
+      "note": "Есть и глагольное alalim ti «прощаю, отдаю от души» — при передаче долга или благословении.",
+      "keyword": "alal",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.693Z"
+    },
+    {
       "id": "msxwc0621mfe5",
       "headword_latin": "Baba se češlja, a kuća gori",
       "headword_cyrillic": "Баба се чешља, а кућа гори",
@@ -805,6 +832,33 @@
       "keyword": "lonac",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
+      "id": "mt39f3sutkk5c",
+      "headword_latin": "Biti u elementu",
+      "headword_cyrillic": "Бити у елементу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть в ударе; в своей стихии",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Danas sam baš u elementu, napisala sam tri teksta.",
+          "russian": "Сегодня я прямо в ударе, написала три текста."
+        }
+      ],
+      "analogs_ru": [
+        "быть в ударе",
+        "в своей стихии",
+        "как рыба в воде",
+        "на подъёме"
+      ],
+      "literal_ru": "",
+      "register": "разг., одобр.; и о вдохновенном состоянии, и о привычной среде: on je tu u svom elementu",
+      "note": "",
+      "keyword": "element",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.694Z"
     },
     {
       "id": "msxlnru8ydzo9",
@@ -1666,6 +1720,33 @@
       "created_at": "2026-08-17T19:29:45.340Z"
     },
     {
+      "id": "mt39f3sx8l984",
+      "headword_latin": "Cvetaju mu ruže",
+      "headword_cyrillic": "Цветају му руже",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у него всё цветёт; жизнь удалась",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dobio je novi posao, oženio se — cvetaju mu ruže.",
+          "russian": "Новую работу нашёл, женился — жизнь удалась."
+        }
+      ],
+      "analogs_ru": [
+        "всё цветёт",
+        "жизнь удалась",
+        "всё как по маслу",
+        "масть пошла"
+      ],
+      "literal_ru": "у него розы цветут",
+      "register": "разг., одобр., иногда с завистью; дательный лица: cvetaju mu / joj ruže",
+      "note": "",
+      "keyword": "ruža",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.697Z"
+    },
+    {
       "id": "msxmobctm7d9s",
       "headword_latin": "Čast svakom, veresije nikom",
       "headword_cyrillic": "Част сваком, вересије ником",
@@ -2002,6 +2083,33 @@
       "keyword": "ćutanje",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.342Z"
+    },
+    {
+      "id": "mt39f3sx0x8mg",
+      "headword_latin": "Ćutati kao grob",
+      "headword_cyrillic": "Ћутати као гроб",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "молчать как могила",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne brini, ćutaću kao grob.",
+          "russian": "Не волнуйся, буду молчать как могила."
+        }
+      ],
+      "analogs_ru": [
+        "молчать как могила",
+        "нем как рыба",
+        "ни слова не проронить",
+        "могила!"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о хранении тайны",
+      "note": "Не путать с ćutati kao zaliven — там о человеке, который не отвечает, упорствует в молчании.",
+      "keyword": "grob",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.697Z"
     },
     {
       "id": "msxmobcucukpw",
@@ -2424,6 +2532,33 @@
       "created_at": "2026-08-17T19:29:45.345Z"
     },
     {
+      "id": "mt39f3sua5u7i",
+      "headword_latin": "Doterati cara do duvara",
+      "headword_cyrillic": "Дотерати цара до дувара",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "довести до крайности; допечь окончательно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet dvojka iz biologije? Stvarno si doterao cara do duvara!",
+          "russian": "Опять двойка по биологии? Ты меня и правда довёл до ручки!"
+        }
+      ],
+      "analogs_ru": [
+        "довести до ручки",
+        "допечь до крайности",
+        "переполнить чашу",
+        "достать окончательно"
+      ],
+      "literal_ru": "догнать царя до стены",
+      "register": "разг.; о том, кто своими выходками исчерпал чужое терпение; рифма cara — duvara",
+      "note": "Duvar — турцизм, «стена».",
+      "keyword": "duvar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.694Z"
+    },
+    {
       "id": "mt38wx4j15fng",
       "headword_latin": "Drugim rečima",
       "headword_cyrillic": "Другим речима",
@@ -2605,6 +2740,33 @@
       "created_at": "2026-08-18T00:00:07.130Z"
     },
     {
+      "id": "mt39f3sue6ann",
+      "headword_latin": "Đavo bi ga znao",
+      "headword_cyrillic": "Ђаво би га знао",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "чёрт его знает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ko je razbio čašu? — Đavo bi ga znao.",
+          "russian": "Кто разбил стакан? — Чёрт его знает."
+        }
+      ],
+      "analogs_ru": [
+        "чёрт его знает",
+        "бог его знает",
+        "кто ж его разберёт",
+        "поди узнай"
+      ],
+      "literal_ru": "",
+      "register": "разг.; условное наклонение — «чёрт бы знал»; смягчённо bog bi ga znao, ko zna",
+      "note": "",
+      "keyword": "đavo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.694Z"
+    },
+    {
       "id": "msxkiw6xld5ov",
       "headword_latin": "Đene-đene",
       "headword_cyrillic": "Ђене-ђене",
@@ -2637,6 +2799,33 @@
       "keyword": "đene",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "mt39f3sxhpgbh",
+      "headword_latin": "Fale samo od popa uši",
+      "headword_cyrillic": "Фале само од попа уши",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "чего только нет; полный набор",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Na toj pijaci ima svega, fale samo od popa uši.",
+          "russian": "На этом рынке есть всё, чего только нет."
+        }
+      ],
+      "analogs_ru": [
+        "чего только нет",
+        "всякой твари по паре",
+        "полный комплект",
+        "только птичьего молока не хватает"
+      ],
+      "literal_ru": "не хватает только поповских ушей",
+      "register": "разг., шутл.; о месте или собрании, где есть всё и всякое, часто с оттенком «сброд, разношёрстная публика»",
+      "note": "По устройству — как русское «только птичьего молока не хватает»: называется заведомо небывалая вещь, чтобы сказать, что всё остальное имеется.",
+      "keyword": "pop",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.697Z"
     },
     {
       "id": "msyrhihlwpbyb",
@@ -2849,6 +3038,33 @@
       "created_at": "2026-08-21T17:54:35.316Z"
     },
     {
+      "id": "mt39f3suiqjfa",
+      "headword_latin": "Glup kao noć",
+      "headword_cyrillic": "Глуп као ноћ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "глуп как пробка",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne trudi se da mu objasniš, glup je kao noć.",
+          "russian": "Не старайся объяснить, он глуп как пробка."
+        }
+      ],
+      "analogs_ru": [
+        "глуп как пробка",
+        "дурак дураком",
+        "тупой как валенок",
+        "ума ни на грош"
+      ],
+      "literal_ru": "глуп как ночь",
+      "register": "разг., груб.-неодобр.; синонимы glup kao tačka, glup kao ćuskija «как лом», glup kao stub",
+      "note": "Ночь как мера глупости — потому что в ней ничего не видно и не понять; русская «пробка» и сербская «ночь» одинаково стёрлись до чистого усилителя.",
+      "keyword": "noć",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.694Z"
+    },
+    {
       "id": "mt38pyjxpkcqs",
       "headword_latin": "Gurati đubre pod tepih",
       "headword_cyrillic": "Гурати ђубре под тепих",
@@ -2899,6 +3115,33 @@
       "keyword": "gvožđe",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "mt39f3sxb2odk",
+      "headword_latin": "Hajmo Jovo nanovo",
+      "headword_cyrillic": "Хајмо Јово наново",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "начнём сначала; опять двадцать пять",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet nisam položila ispit. Pa, dobro, hajmo Jovo nanovo.",
+          "russian": "Опять не сдала экзамен. Ну ладно, начнём сначала."
+        }
+      ],
+      "analogs_ru": [
+        "начнём сначала",
+        "опять двадцать пять",
+        "сказка про белого бычка",
+        "по новой"
+      ],
+      "literal_ru": "давай, Йово, заново",
+      "register": "разг.; и без досады (просто «начнём заново»), и с ней — когда всё приходится переделывать в который раз",
+      "note": "Йово — условное имя ради рифмы Jovo — nanovo.",
+      "keyword": "Jovo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.697Z"
     },
     {
       "id": "msxmobcymmi18",
@@ -3404,6 +3647,34 @@
       "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
+      "id": "mt39f3svm3oeo",
+      "headword_latin": "Izvoditi besne gliste",
+      "headword_cyrillic": "Изводити бесне глисте",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "выкобениваться; закатывать концерт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako ti se ne jede brokoli? Ne izvodi besne gliste.",
+          "russian": "Как это ты брокколи не будешь? Не капризничай."
+        }
+      ],
+      "analogs_ru": [
+        "выкобениваться",
+        "закатывать концерт",
+        "капризничать",
+        "выделываться",
+        "устраивать представление"
+      ],
+      "literal_ru": "выделывать бешеных червей",
+      "register": "разг., неодобр.; чаще о детях и о капризах, но и о взрослом, который привередничает; ходовое šta izvodiš besne gliste",
+      "note": "Образ бессмысленный и потому смешной — именно этим и держится. Сербы любят такие «пустые» образы для придирок: ср. izvoditi vratolomije «выделывать кульбиты».",
+      "keyword": "glista",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.695Z"
+    },
+    {
       "id": "mt0b1qfz42o5s",
       "headword_latin": "Izvući deblji kraj",
       "headword_cyrillic": "Извући дебљи крај",
@@ -3429,6 +3700,33 @@
       "keyword": "kraj",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt39f3sw1t12f",
+      "headword_latin": "Jasno kao dan",
+      "headword_cyrillic": "Јасно као дан",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ясно как день",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve je rešeno, jasno je kao dan ko je kriv.",
+          "russian": "Всё решено, ясно как день, кто виноват."
+        }
+      ],
+      "analogs_ru": [
+        "ясно как день",
+        "яснее ясного",
+        "как дважды два",
+        "очевидно"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; усиленно jasno kao dan na podne",
+      "note": "Совпадает с русским.",
+      "keyword": "dan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.696Z"
     },
     {
       "id": "msxp30ekxiy9z",
@@ -5755,6 +6053,33 @@
       "created_at": "2026-08-18T14:32:12.250Z"
     },
     {
+      "id": "mt39f3swhomty",
+      "headword_latin": "Njakati kao magarac",
+      "headword_cyrillic": "Њакати као магарац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "реветь как осёл; занудно тянуть своё",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu da te slušam, njačeš kao magarac!",
+          "russian": "Слушать тебя не могу, ревёшь как осёл!"
+        }
+      ],
+      "analogs_ru": [
+        "реветь как осёл",
+        "нудить",
+        "тянуть волынку",
+        "зудеть над ухом"
+      ],
+      "literal_ru": "",
+      "register": "разг., груб.-неодобр.",
+      "note": "Njakati — глагол именно ослиного крика; для других животных свои: blejati (овца), rikati (бык), mukati (корова). По-русски «блеять» — про овцу и переносно означает мямлить, а не занудствовать, поэтому вернее «реветь» или «нудить».",
+      "keyword": "magarac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.696Z"
+    },
+    {
       "id": "mt38wx4kyim3a",
       "headword_latin": "O čemu se radi",
       "headword_cyrillic": "О чему се ради",
@@ -5780,6 +6105,34 @@
       "keyword": "raditi se",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
+      "id": "mt39f3swnieps",
+      "headword_latin": "Obrati zelen bostan",
+      "headword_cyrillic": "Обрати зелен бостан",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "влипнуть; дело плохо",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet si pijan — obrao si zelen bostan kad dođeš kući.",
+          "russian": "Опять пьяный — влипнешь ты, когда домой придёшь."
+        }
+      ],
+      "analogs_ru": [
+        "влипнуть",
+        "попасть как кур в ощип",
+        "дело табак",
+        "несдобровать",
+        "нарваться"
+      ],
+      "literal_ru": "собрать зелёные арбузы (bostan, тур. — бахча, арбузы и дыни)",
+      "register": "разг.; часто в перфекте как приговор: obrao si bostan «ну, тебе конец»; уточнение zelen нередко опускается",
+      "note": "Образ хозяйственный: собрал бахчу до срока — зелёные арбузы ни продать, ни съесть. Оборот записан в «Сербском словаре» Вука Караджича, разобран Лалевичем в журнале «Наш језик» (1934) и Миланом Шипкой; в словаре САНУ приводится пример из Милована Глишича, Добрица Чосич использует его многократно в «Времени смерти» и в «Далеко солнце». Ближайшая параллель — naći se u nebranom grožđu, возникшая в винодельческом краю, тогда как эта в бахчевом.",
+      "keyword": "bostan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.696Z"
     },
     {
       "id": "mt38pyk051rja",
@@ -6791,6 +7144,33 @@
       "created_at": "2026-08-17T21:20:44.617Z"
     },
     {
+      "id": "mt39f3swc311b",
+      "headword_latin": "Prebiti kao vola u kupusu",
+      "headword_cyrillic": "Пребити као вола у купусу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "избить как сидорову козу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prebiću te kao vola u kupusu ako ne središ te igračke!",
+          "russian": "Всыплю тебе по первое число, если не уберёшь игрушки!"
+        }
+      ],
+      "analogs_ru": [
+        "избить как сидорову козу",
+        "намять бока",
+        "всыпать по первое число",
+        "отделать как бог черепаху"
+      ],
+      "literal_ru": "избить как вола в капусте — вола, забравшегося в чужой огород",
+      "register": "разг., груб.; чаще как угроза, а не описание; ходовое prebiću te kao vola u kupusu",
+      "note": "",
+      "keyword": "vo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.696Z"
+    },
+    {
       "id": "mt0b9rqv57t3c",
       "headword_latin": "Prljava posla",
       "headword_cyrillic": "Прљава посла",
@@ -7319,6 +7699,32 @@
       "keyword": "ruka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.618Z"
+    },
+    {
+      "id": "mt39f3swhs3j4",
+      "headword_latin": "Ružan kao lopov",
+      "headword_cyrillic": "Ружан као лопов",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "страшен как смертный грех",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne znam šta je videla u njemu, ružan je kao lopov.",
+          "russian": "Не знаю, что она в нём нашла, страшен как смертный грех."
+        }
+      ],
+      "analogs_ru": [
+        "страшен как смертный грех",
+        "урод уродом",
+        "краше в гроб кладут"
+      ],
+      "literal_ru": "уродлив как вор",
+      "register": "разг., груб.; синонимы ružan kao noć, ružan kao smrt",
+      "note": "",
+      "keyword": "lopov",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.696Z"
     },
     {
       "id": "msxrqv21dloeq",
@@ -7982,6 +8388,32 @@
       "keyword": "Doboj",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.621Z"
+    },
+    {
+      "id": "mt39f3svkx84z",
+      "headword_latin": "Stara koka, dobra supa",
+      "headword_cyrillic": "Стара кока, добра супа",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "старый конь борозды не портит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neka vodi on, stara koka, dobra supa.",
+          "russian": "Пусть он ведёт: старый конь борозды не портит."
+        }
+      ],
+      "analogs_ru": [
+        "старый конь борозды не портит",
+        "старая гвардия",
+        "опыт не пропьёшь"
+      ],
+      "literal_ru": "старая курица — хороший суп",
+      "register": "разг., шутл.; часто с сальным подтекстом о женщинах постарше — в вежливом разговоре осторожно",
+      "note": "См. также: BEZ STARE KOKE NEMA SUPE, BEZ STARCA NEMA UDARCA.",
+      "keyword": "koka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.695Z"
     },
     {
       "id": "msxrqv222nzhh",
@@ -8876,6 +9308,33 @@
       "created_at": "2026-08-17T22:56:52.684Z"
     },
     {
+      "id": "mt39f3sx4kfjy",
+      "headword_latin": "U sitna crevca",
+      "headword_cyrillic": "У ситна цревца",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "досконально; до мельчайших подробностей",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Analizirao si problem u sitna crevca.",
+          "russian": "Ты разобрал задачу по косточкам."
+        }
+      ],
+      "analogs_ru": [
+        "досконально",
+        "до мельчайших подробностей",
+        "разобрать по косточкам",
+        "вдоль и поперёк"
+      ],
+      "literal_ru": "в мелкие кишочки",
+      "register": "разг.; управление analizirati / razraditi / objasniti šta u sitna crevca",
+      "note": "Может быть и похвалой обстоятельности, и упрёком в чрезмерной дотошности.",
+      "keyword": "crevca",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.697Z"
+    },
+    {
       "id": "msxu2ocshtp4s",
       "headword_latin": "U strahu su velike oči",
       "headword_cyrillic": "У страху су велике очи",
@@ -9296,6 +9755,33 @@
       "created_at": "2026-08-17T22:56:52.685Z"
     },
     {
+      "id": "mt39f3st9650z",
+      "headword_latin": "Vuče se kao mrtav konj",
+      "headword_cyrillic": "Вуче се као мртав коњ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "плетётся еле-еле",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da se vučeš kao mrtav konj, požuri!",
+          "russian": "Не тащись как черепаха, поторопись!"
+        }
+      ],
+      "analogs_ru": [
+        "плетётся как черепаха",
+        "тащится еле-еле",
+        "как сонная муха",
+        "еле ноги волочит"
+      ],
+      "literal_ru": "тащится как дохлая лошадь",
+      "register": "разг., неодобр.; о медлительном человеке, а также о деле, которое затянулось",
+      "note": "",
+      "keyword": "konj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.693Z"
+    },
+    {
       "id": "msxl6oysbytjq",
       "headword_latin": "Vuk dlaku menja, ali ćud nikada",
       "headword_cyrillic": "Вук длаку мења, али ћуд никада",
@@ -9454,6 +9940,33 @@
       "keyword": "zamoriti",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.189Z"
+    },
+    {
+      "id": "mt39f3svorkr6",
+      "headword_latin": "Zapet kao puška",
+      "headword_cyrillic": "Запет као пушка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на взводе; готов и рвётся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Spreman sam, zapet sam kao puška i čekam te već pola sata.",
+          "russian": "Я готов, стою на низком старте и жду тебя уже полчаса."
+        }
+      ],
+      "analogs_ru": [
+        "на взводе",
+        "как на иголках",
+        "готов сорваться с места",
+        "взведён"
+      ],
+      "literal_ru": "взведён как ружьё",
+      "register": "разг.; о нетерпеливой готовности",
+      "note": "От zapeti «взвести курок». Осторожно: в другом контексте zapet читается и как «на нервах, на грани срыва».",
+      "keyword": "puška",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.695Z"
     },
     {
       "id": "mt0b9rqv5nqgw",
@@ -9695,6 +10208,33 @@
       "keyword": "staze i bogaze",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "mt39f3su88qg6",
+      "headword_latin": "Želudac mi se prevrnuo",
+      "headword_cyrillic": "Желудац ми се преврнуо",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "меня чуть не стошнило; с души воротит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Želudac mi se prevrne svaki put kad nađem prljave čarape svog cimera.",
+          "russian": "Меня выворачивает каждый раз, когда нахожу грязные носки соседа."
+        }
+      ],
+      "analogs_ru": [
+        "с души воротит",
+        "меня чуть не вывернуло",
+        "тошнит от одного вида",
+        "мутит"
+      ],
+      "literal_ru": "желудок у меня перевернулся",
+      "register": "разг.; и о физическом отвращении, и о моральном; несов. prevrće mi se želudac о повторяющемся",
+      "note": "",
+      "keyword": "želudac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:05:17.695Z"
     },
     {
       "id": "mt38wx4lipdze",
