@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-21T18:24:53.643Z",
+  "updated": "2026-08-21T18:25:38.496Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -8784,6 +8784,33 @@
       "keyword": "spolja",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
+      "id": "mt3a59qmbg89w",
+      "headword_latin": "Srećan kao dete na trešnji",
+      "headword_cyrillic": "Срећан као дете на трешњи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "счастлив как ребёнок; на седьмом небе",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "„Prelepa je“, uzdahnuo je, srećan kao dete na trešnji.",
+          "russian": "«Красавица», — вздохнул он, счастливый как ребёнок."
+        }
+      ],
+      "analogs_ru": [
+        "счастлив как ребёнок",
+        "на седьмом небе",
+        "рад-радёшенек",
+        "светится от счастья"
+      ],
+      "literal_ru": "счастлив как ребёнок на черешне",
+      "register": "разг.-книжн.; сравнительный оборот при прилагательных srećan, presrećan, veseo, ushićen; нередко с иронией — когда взрослый ликует по недостойному поводу",
+      "note": "Пара с ne silaziti kao dete s trešnje — один образ, разведённый предлогом: na trešnji это состояние (ребёнок уже наверху, среди ягод, и совершенно счастлив), s trešnje — движение, которого нет (не слезает, пока не объестся). Отсюда разные смыслы: чистая радость против неотрываемости. Черешня в сербском обиходе держит образ детского блаженства — первая ягода лета, за которой лезут на дерево. См. также: NE SILAZITI KAO DETE S TREŠNJE.",
+      "keyword": "trešnja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-21T18:25:38.446Z"
     },
     {
       "id": "msxrqv22i4esn",
