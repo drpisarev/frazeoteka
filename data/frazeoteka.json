@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T17:13:59.008Z",
+  "updated": "2026-08-24T17:17:31.759Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -941,6 +941,33 @@
       "keyword": "dirnuti",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt7i18d1rupv7",
+      "headword_latin": "Biti između vatre i vode",
+      "headword_cyrillic": "Бити између ватре и воде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть между двух огней",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Naše preduzeće je bilo između vatre i vode.",
+          "russian": "Наше предприятие оказалось между двух огней."
+        }
+      ],
+      "analogs_ru": [
+        "между двух огней",
+        "между молотом и наковальней",
+        "куда ни кинь, всюду клин",
+        "между Сциллой и Харибдой"
+      ],
+      "literal_ru": "быть между огнём и водой",
+      "register": "нейтр.-публиц.; о положении, где всякий выбор плох; синоним između čekića i nakovnja",
+      "note": "Русский берёт два одинаковых огня, серб — две противоположные стихии; логика одна: зажат с обеих сторон.",
+      "keyword": "vatra",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.669Z"
     },
     {
       "id": "mt7dahkndrerg",
@@ -2231,6 +2258,32 @@
       "created_at": "2026-08-24T14:38:03.126Z"
     },
     {
+      "id": "mt7i18d1n9scg",
+      "headword_latin": "Bura u čaši vode",
+      "headword_cyrillic": "Бура у чаши воде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "буря в стакане воды",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta rasprava je bila bura u čaši vode.",
+          "russian": "Тот спор был бурей в стакане воды."
+        }
+      ],
+      "analogs_ru": [
+        "буря в стакане воды",
+        "много шума из ничего",
+        "мышиная возня"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публиц.; о раздутом на пустом месте конфликте",
+      "note": "Совпадает с русским целиком. См. также: TRESLA SE GORA, RODIO SE MIŠ.",
+      "keyword": "bura",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.669Z"
+    },
+    {
       "id": "mt79wy4bpscy2",
       "headword_latin": "Car! Kralj!",
       "headword_cyrillic": "Цар! Краљ!",
@@ -3431,6 +3484,33 @@
       "keyword": "maca",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.343Z"
+    },
+    {
+      "id": "mt7i18d0g1prf",
+      "headword_latin": "Dođe mi",
+      "headword_cyrillic": "Дође ми",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "так и тянет; хочется прямо",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dođe mi da dam otkaz.",
+          "russian": "Так и тянет уволиться."
+        }
+      ],
+      "analogs_ru": [
+        "так и тянет",
+        "прямо хочется",
+        "готов был",
+        "подмывает"
+      ],
+      "literal_ru": "приходит мне",
+      "register": "разг.; безличный оборот с дательным: dođe mi da + презент; о внезапном порыве, обычно в сердцах и без намерения исполнить; прошедшее došlo mi je da",
+      "note": "Конструкция снимает волю с говорящего: не «я хочу», а «на меня накатывает». Тот же приём в omaklo mi se, ne da mi se «неохота», jede mi se «хочется есть».",
+      "keyword": "doći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.668Z"
     },
     {
       "id": "msxmobcv01fur",
@@ -4819,6 +4899,33 @@
       "created_at": "2026-08-21T17:45:17.188Z"
     },
     {
+      "id": "mt7i18d1emv7d",
+      "headword_latin": "Ima kao vode",
+      "headword_cyrillic": "Има као воде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "хоть залейся; хоть отбавляй",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima para kao vode.",
+          "russian": "Денег у него хоть залейся."
+        }
+      ],
+      "analogs_ru": [
+        "хоть залейся",
+        "хоть отбавляй",
+        "завались",
+        "пруд пруди"
+      ],
+      "literal_ru": "есть как воды",
+      "register": "разг.; управление ima čega kao vode + родительный",
+      "note": "Ряд синонимов по образам: kao blata, kao pleve, brdo čega.",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.669Z"
+    },
+    {
       "id": "msyrhihj7529d",
       "headword_latin": "Ima nas raznih",
       "headword_cyrillic": "Има нас разних",
@@ -6128,6 +6235,32 @@
       "created_at": "2026-08-24T13:34:58.254Z"
     },
     {
+      "id": "mt7i18d2i5jk3",
+      "headword_latin": "Kao kap vode u moru",
+      "headword_cyrillic": "Као кап воде у мору",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "капля в море",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ono što su nam dali je kao kap vode u moru.",
+          "russian": "То, что нам дали, — капля в море."
+        }
+      ],
+      "analogs_ru": [
+        "капля в море",
+        "ничтожно мало",
+        "кот наплакал"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; о помощи или сумме, несоразмерно малой относительно нужды",
+      "note": "",
+      "keyword": "kap",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.670Z"
+    },
+    {
       "id": "mt0b1qg0rrtw3",
       "headword_latin": "Kao kec na deset",
       "headword_cyrillic": "Као кец на десет",
@@ -6261,6 +6394,33 @@
       "keyword": "kučine",
       "source": "frazeoteka",
       "created_at": "2026-08-24T08:33:35.127Z"
+    },
+    {
+      "id": "mt7i18d2bpg2h",
+      "headword_latin": "Kao vrelom vodom poliven",
+      "headword_cyrillic": "Као врелом водом поливен",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как ошпаренный; как громом поражённый",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kad je čuo vest, stao je kao vrelom vodom poliven.",
+          "russian": "Услышав новость, застыл как ошпаренный."
+        }
+      ],
+      "analogs_ru": [
+        "как ошпаренный",
+        "как громом поражённый",
+        "как окатили",
+        "обомлел"
+      ],
+      "literal_ru": "как кипятком облитый",
+      "register": "разг.; о том, кто застыл от неожиданной дурной вести; ходовое stao je kao vrelom vodom poliven",
+      "note": "Ловушка: русское «как ошпаренный» чаще о резком движении («вскочил как ошпаренный»), сербское — наоборот, о застывании. Для движения серб скажет skočio kao oparen.",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.670Z"
     },
     {
       "id": "mt0aue86th1fa",
@@ -7070,6 +7230,33 @@
       "created_at": "2026-08-24T13:30:14.842Z"
     },
     {
+      "id": "mt7i18d2zce57",
+      "headword_latin": "Krv nije voda",
+      "headword_cyrillic": "Крв није вода",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кровь не вода",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Iako su se svađali godinama, opet su se pomirili — krv nije voda.",
+          "russian": "Годами ссорились, а всё-таки помирились: кровь не вода."
+        }
+      ],
+      "analogs_ru": [
+        "кровь не вода",
+        "голос крови",
+        "родная кровь своё возьмёт",
+        "свой своему поневоле брат"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; о неразрывности родственных связей вопреки ссорам",
+      "note": "Совпадает с русским. См. также: SVOJE SE MESO NE JEDE, BRAT BRATA NAD JAMU VODI.",
+      "keyword": "krv",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.670Z"
+    },
+    {
       "id": "mt7dboc9ybep1",
       "headword_latin": "Kukati",
       "headword_cyrillic": "Кукати",
@@ -7685,6 +7872,33 @@
       "keyword": "vuk",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "mt7i18d15mh5k",
+      "headword_latin": "Miki Maus fakultet",
+      "headword_cyrillic": "Мики Маус факултет",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "шарашкина контора; липовый вуз",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Završio je neki Miki Maus fakultet, ni sam ne zna šta je učio.",
+          "russian": "Окончил какой-то липовый вуз, сам не знает, чему учился."
+        }
+      ],
+      "analogs_ru": [
+        "шарашкина контора",
+        "липовый диплом",
+        "вуз «Рога и копыта»",
+        "заборостроительный"
+      ],
+      "literal_ru": "факультет Микки-Мауса",
+      "register": "разг., пренебр.; о частных вузах сомнительного качества, расплодившихся в двухтысячные",
+      "note": "Родственное — Miki Maus država, Miki Maus posao о чём угодно несерьёзном.",
+      "keyword": "fakultet",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.669Z"
     },
     {
       "id": "mt7dxk13urdx5",
@@ -9563,6 +9777,33 @@
       "created_at": "2026-08-18T14:32:12.250Z"
     },
     {
+      "id": "mt7i18d3sb6mg",
+      "headword_latin": "Nosi se",
+      "headword_cyrillic": "Носи се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "да пошёл ты; отвали",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nosi se, ne interesuje me više.",
+          "russian": "Да пошёл ты, мне уже неинтересно."
+        }
+      ],
+      "analogs_ru": [
+        "да пошёл ты",
+        "отвали",
+        "катись",
+        "иди отсюда"
+      ],
+      "literal_ru": "неси себя",
+      "register": "разг., груб.; императив от nositi se; смягчённая замена вульгарного посыла, но всё равно резкая; полные формы nosi se odavde, nosi se dođavola",
+      "note": "",
+      "keyword": "nositi se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.671Z"
+    },
+    {
       "id": "mt3a4b4it9vgq",
       "headword_latin": "Novinarska patka",
       "headword_cyrillic": "Новинарска патка",
@@ -10450,6 +10691,33 @@
       "created_at": "2026-08-19T16:27:34.557Z"
     },
     {
+      "id": "mt7i18d03wio7",
+      "headword_latin": "Padati na",
+      "headword_cyrillic": "Падати на",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "вестись на что-л.; клевать на что-л.",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne padam ja na te marketinške trikove.",
+          "russian": "Не ведусь я на эти маркетинговые уловки."
+        }
+      ],
+      "analogs_ru": [
+        "вестись на",
+        "клевать на",
+        "покупаться на",
+        "попадаться на удочку"
+      ],
+      "literal_ru": "",
+      "register": "разг.; управление padati na šta + аккузатив; чаще с отрицанием: ne padam ja na to; о рекламных уловках, лести, дешёвых приёмах",
+      "note": "Отдельно padati na koga — «западать на кого-л.». См. также: LOŽITI SE NA.",
+      "keyword": "padati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.668Z"
+    },
+    {
       "id": "mt7a760bfw5h6",
       "headword_latin": "Pala mi je roletna na oči",
       "headword_cyrillic": "Пала ми је ролетна на очи",
@@ -11207,6 +11475,33 @@
       "created_at": "2026-08-24T13:25:38.951Z"
     },
     {
+      "id": "mt7i18d33z5e1",
+      "headword_latin": "Poleđina",
+      "headword_cyrillic": "Полеђина",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "оборотная сторона; обратная сторона",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Potpiši se na poleđini.",
+          "russian": "Распишись на обороте."
+        }
+      ],
+      "analogs_ru": [
+        "оборотная сторона",
+        "обратная сторона",
+        "тыльная сторона",
+        "изнанка"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; о листе, монете, документе: poleđina računa, potpiši na poleđini; переносно poleđina medalje «обратная сторона медали»",
+      "note": "От leđa «спина»; тот же корень в iza leđa «за спиной», okrenuti leđa «отвернуться от кого-л.».",
+      "keyword": "leđa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.671Z"
+    },
+    {
       "id": "mt0b1qfzx958b",
       "headword_latin": "Pomeriti",
       "headword_cyrillic": "Померити",
@@ -11632,6 +11927,34 @@
       "keyword": "prazno",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.255Z"
+    },
+    {
+      "id": "mt7i18d2jiyt0",
+      "headword_latin": "Prevesti žednog preko vode",
+      "headword_cyrillic": "Превести жедног преко воде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "обвести вокруг пальца",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pazi se, on te može prevesti žednog preko vode.",
+          "russian": "Осторожно, он тебя вокруг пальца обведёт."
+        }
+      ],
+      "analogs_ru": [
+        "обвести вокруг пальца",
+        "объегорить",
+        "провести",
+        "оставить в дураках",
+        "облапошить"
+      ],
+      "literal_ru": "перевести жаждущего через воду — так, что тот и не напьётся",
+      "register": "разг.; о ловкаче, который проведёт кого угодно; чаще всего в потенциальной форме on te može prevesti žednog preko vode — как оценка чужой хитрости, а не рассказ о конкретном обмане",
+      "note": "Соль в предельности: обмануть человека, у которого перед носом вода и который умирает от жажды, — вершина мастерства. Оборот входит в сербские словари синонимов к namagarčiti наравне с prodati mačku u džaku и prodati rog za sveću. Считается одним из самых непереводимых сербских выражений — его регулярно включают в списки «наших непереводимых».",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.670Z"
     },
     {
       "id": "mt3ae8hmbkpx9",
@@ -12277,6 +12600,34 @@
       "created_at": "2026-08-24T15:34:03.000Z"
     },
     {
+      "id": "mt7i18d2yr08v",
+      "headword_latin": "Pustiti niz vodu",
+      "headword_cyrillic": "Пустити низ воду",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "бросить на произвол; сдать, предать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kad mu više nije bio potreban, pustio ga je niz vodu.",
+          "russian": "Когда он стал не нужен, тот его попросту сдал."
+        }
+      ],
+      "analogs_ru": [
+        "бросить на произвол судьбы",
+        "пустить на самотёк",
+        "сдать своего",
+        "отступиться",
+        "слить"
+      ],
+      "literal_ru": "пустить вниз по воде",
+      "register": "разг., неодобр.; двузначно: о деле — «махнуть рукой, пустить на самотёк», о человеке — «предать, отказаться от него, когда стал не нужен»; управление pustiti koga/šta niz vodu",
+      "note": "Образ — отпустить по течению и не оглянуться. Русское «пустить на самотёк» покрывает только первую половину; для второй нужен «сдал» или «слил». См. также: OSTAVITI NA CEDILU.",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.670Z"
+    },
+    {
       "id": "mt79wy4akf2rv",
       "headword_latin": "Pušiti kao Turčin",
       "headword_cyrillic": "Пушити као Турчин",
@@ -12461,6 +12812,32 @@
       "keyword": "raspremiti",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.558Z"
+    },
+    {
+      "id": "mt7i18d3176r7",
+      "headword_latin": "Rasti kao iz vode",
+      "headword_cyrillic": "Расти као из воде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "расти как на дрожжах",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mali je rastao kao iz vode — svake nedelje nove cipele.",
+          "russian": "Малыш рос как на дрожжах: каждую неделю новая обувь."
+        }
+      ],
+      "analogs_ru": [
+        "расти как на дрожжах",
+        "расти не по дням, а по часам",
+        "тянуться вверх"
+      ],
+      "literal_ru": "расти как из воды",
+      "register": "разг.; о детях, а также о ценах, городах, компаниях",
+      "note": "",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.671Z"
     },
     {
       "id": "mt0b9rqurgar2",
@@ -14853,6 +15230,33 @@
       "keyword": "marva",
       "source": "frazeoteka",
       "created_at": "2026-08-24T17:13:58.918Z"
+    },
+    {
+      "id": "mt7i18d0djfwb",
+      "headword_latin": "Transfer blama",
+      "headword_cyrillic": "Трансфер блама",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "испанский стыд",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Čula sam šta je rekao, doživela sam transfer blama.",
+          "russian": "Слышала, что он сказал, — испанский стыд."
+        }
+      ],
+      "analogs_ru": [
+        "испанский стыд",
+        "стыдно за другого",
+        "неловко до ужаса",
+        "кринж"
+      ],
+      "literal_ru": "перенос позора",
+      "register": "разг.-сленг., современное, молодёжн.; о неловкости, которую испытываешь за чужой поступок",
+      "note": "Blam — «позор, конфуз» (нем. Blamage), blamirati se «опозориться». Оба языка обозначили это чувство недавно и оба через заимствование: русский взял «испанский стыд» из английского Spanish shame, серб — психологический термин «перенос» плюс немецкий Blamage.",
+      "keyword": "blam",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:17:31.668Z"
     },
     {
       "id": "msxl0hlirujo9",
