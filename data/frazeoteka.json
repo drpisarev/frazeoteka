@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T15:34:03.087Z",
+  "updated": "2026-08-24T15:36:37.389Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -5113,6 +5113,88 @@
       "keyword": "istaknut",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:44.495Z"
+    },
+    {
+      "id": "mt7efgsexg63f",
+      "headword_latin": "Isterati mak na konac",
+      "headword_cyrillic": "Истерати мак на конац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "придираться к мелочам; доводить до последней запятой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne moramo da teramo mak na konac, suština je jasna.",
+          "russian": "Не надо цепляться к каждой запятой, суть ясна."
+        }
+      ],
+      "analogs_ru": [
+        "цепляться к каждой запятой",
+        "буквоедство",
+        "разбирать по волоску",
+        "доводить до абсурда в мелочах"
+      ],
+      "literal_ru": "вывести мак на нитку",
+      "register": "разг., чаще неодобр.; об упорстве, переходящем в мелочность и педантизм; варианты глагола isterati, terati, tjerati",
+      "note": "Оборот записан у Вука Караджича в собрании пословиц (№ 6577) с пояснением: «когда кто хочет докопаться до самого малого»; ни Вук, ни Даничич происхождения не объясняют. Ходовое сегодня толкование: mak здесь не цветок, а название тончайшего полотна — ткани такой прозрачной, что её сравнивали с маковым лепестком; работа с ней требовала безошибочной точности, каждый неверный стежок оставлял след навсегда. Толкование правдоподобное, но документально не подтверждённое — держать как версию. См. также: TRAŽITI DLAKU U JAJETU.",
+      "keyword": "mak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:36:37.310Z"
+    },
+    {
+      "id": "mt7efgse5jhfo",
+      "headword_latin": "Isterati pravdu",
+      "headword_cyrillic": "Истерати правду",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "добиться справедливости; доискаться правды",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Godinama pokušava da istera pravdu na sudu.",
+          "russian": "Годами пытается добиться справедливости в суде."
+        }
+      ],
+      "analogs_ru": [
+        "добиться справедливости",
+        "доискаться правды",
+        "найти управу",
+        "добиться своего в суде"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публиц.; чаще о долгой борьбе с учреждениями или в суде, и очень часто с горечью — что добиться не удалось; ходовое ne može se isterati pravda, isterati pravdu na sudu",
+      "note": "Pravda в сербском — и «справедливость», и «правда» как истина, и «правосудие»; русское разделение на «правду» и «справедливость» здесь не работает, различает контекст. См. также: PRAVDA JE SPORA, ALI DOSTIŽNA; ČIJA SILA, TOGA I PRAVDA.",
+      "keyword": "pravda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:36:37.310Z"
+    },
+    {
+      "id": "mt7efgsdx9n8d",
+      "headword_latin": "Isterati svoje",
+      "headword_cyrillic": "Истерати своје",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "добиться своего; настоять на своём",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Znao sam da će on na kraju isterati svoje.",
+          "russian": "Я знал, что он в итоге добьётся своего."
+        }
+      ],
+      "analogs_ru": [
+        "добиться своего",
+        "настоять на своём",
+        "взять своё",
+        "не отступиться",
+        "сделать по-своему"
+      ],
+      "literal_ru": "выгнать своё",
+      "register": "разг.; о том, кто дожал ситуацию до нужного ему исхода — чаще с оттенком упрямства, чем похвалы; несов. isterivati svoje; полная форма isterati svoje do kraja",
+      "note": "Приставка iz- при terati даёт «довести до конца, дожать»; отсюда целое гнездо: isterati na čistac «вывести на чистую воду», isterati na kraj «довести до конца», isterati mak na konac «придираться к мелочам».",
+      "keyword": "isterati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:36:37.309Z"
     },
     {
       "id": "msxmobcymqhpe",
