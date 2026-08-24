@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T13:22:48.203Z",
+  "updated": "2026-08-24T13:25:39.024Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -3582,6 +3582,33 @@
       "created_at": "2026-08-17T19:29:45.345Z"
     },
     {
+      "id": "mt79r18o31pdo",
+      "headword_latin": "Glava mu je u torbi",
+      "headword_cyrillic": "Глава му је у торби",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ходить по лезвию; рисковать головой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otkako se zadužio kod mafije, glava mu je u torbi.",
+          "russian": "С тех пор как он задолжал мафии, его жизнь висит на волоске."
+        }
+      ],
+      "analogs_ru": [
+        "ходить по лезвию ножа",
+        "рисковать головой",
+        "жизнь висит на волоске",
+        "играть со смертью"
+      ],
+      "literal_ru": "голова у него в сумке — носит собственную голову с собой, как поклажу",
+      "register": "разг., экспресс.; две конструкции: glava mu je u torbi «он в постоянной опасности» и nositi glavu u torbi «рисковать жизнью»; дательный лица меняется",
+      "note": "Оборот из времён, когда голову побеждённого действительно возили в суме. Отсюда разница с русским: «рисковать головой» звучит фигурально, сербское держит буквальный слой — голова уже отделена и уложена.",
+      "keyword": "glava",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.952Z"
+    },
+    {
       "id": "mt391c505k3gd",
       "headword_latin": "Glineni golub",
       "headword_cyrillic": "Глинени голуб",
@@ -4006,6 +4033,33 @@
       "keyword": "zmija",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:54:35.317Z"
+    },
+    {
+      "id": "mt79r18mzgme7",
+      "headword_latin": "Imati bubice u glavi",
+      "headword_cyrillic": "Имати бубице у глави",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "иметь тараканов в голове",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Svako od nas ima svoje bubice u glavi.",
+          "russian": "У каждого из нас свои тараканы в голове."
+        }
+      ],
+      "analogs_ru": [
+        "тараканы в голове",
+        "свои причуды",
+        "свои завихрения",
+        "не без странностей"
+      ],
+      "literal_ru": "иметь букашек в голове",
+      "register": "разг., шутл.",
+      "note": "Bubica — уменьшительное от buba «жук, букашка»; отдельное значение слова — наушник-микрофон, «жучок». Насекомое в этой идиоме везде разное: у русских таракан, у сербов букашка, у немцев einen Vogel haben «иметь птицу».",
+      "keyword": "bubica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.951Z"
     },
     {
       "id": "mt0b9rqufhxcf",
@@ -4620,6 +4674,33 @@
       "created_at": "2026-08-17T20:01:31.765Z"
     },
     {
+      "id": "mt79r18mr8b7g",
+      "headword_latin": "Jedno po jedno",
+      "headword_cyrillic": "Једно по једно",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "по порядку; одно за другим",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da žuriš, polako, jedno po jedno.",
+          "russian": "Не спеши, потихоньку, по порядку."
+        }
+      ],
+      "analogs_ru": [
+        "по порядку",
+        "одно за другим",
+        "не всё сразу",
+        "шаг за шагом"
+      ],
+      "literal_ru": "",
+      "register": "разг.; призыв не хвататься за всё разом",
+      "note": "Модель продуктивна: korak po korak, malo po malo, dan po dan.",
+      "keyword": "jedno",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.950Z"
+    },
+    {
       "id": "mt38pdhh57ync",
       "headword_latin": "Jedva gledam od umora",
       "headword_cyrillic": "Једва гледам од умора",
@@ -4672,6 +4753,33 @@
       "keyword": "roba",
       "source": "frazeoteka",
       "created_at": "2026-08-18T12:04:17.005Z"
+    },
+    {
+      "id": "mt79r18nxree8",
+      "headword_latin": "Juriti kao da ga vile gone",
+      "headword_cyrillic": "Јурити као да га виле гоне",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "нестись как ошпаренный",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Istrčao je iz zgrade kao da ga vile gone.",
+          "russian": "Выбежал из здания как ошпаренный."
+        }
+      ],
+      "analogs_ru": [
+        "нестись как ошпаренный",
+        "как будто черти гонятся",
+        "сломя голову",
+        "как угорелый"
+      ],
+      "literal_ru": "нестись, будто его вилы гонят",
+      "register": "разг.; о паническом или очень спешном беге; варианты beži, juri, trči kao da ga vile gone",
+      "note": "Ловушка: vile — омоним, «вилы» (орудие) и «вилы» (духи). Здесь второе: женские существа славянской мифологии, живущие у источников и на горах, красивые и опасные — могут одарить, могут наслать болезнь; в эпосе посестримы Королевича Марко (posestrima vila Ravijojla). Русское «черти» в переводе точнее по эмоции, чем «русалки».",
+      "keyword": "vila",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.951Z"
     },
     {
       "id": "msxnt6d1fu5hb",
@@ -4855,6 +4963,33 @@
       "keyword": "kadija",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
+      "id": "mt79r18ox93zw",
+      "headword_latin": "Kao blata",
+      "headword_cyrillic": "Као блата",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как грязи; завались",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima novca kao blata.",
+          "russian": "Денег у него как грязи."
+        }
+      ],
+      "analogs_ru": [
+        "как грязи",
+        "завались",
+        "хоть отбавляй",
+        "девать некуда"
+      ],
+      "literal_ru": "",
+      "register": "разг.; управление ima čega kao blata + родительный; чаще о деньгах, реже о людях и вещах",
+      "note": "Совпадает с русским и образом, и конструкцией.",
+      "keyword": "blato",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.952Z"
     },
     {
       "id": "msxl0hliu6xd7",
@@ -6256,6 +6391,33 @@
       "created_at": "2026-08-18T14:32:12.248Z"
     },
     {
+      "id": "mt79r18o1f011",
+      "headword_latin": "Na sav glas",
+      "headword_cyrillic": "На сав глас",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "во весь голос",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zavikali su na sav glas kad su videli zmiju.",
+          "russian": "Они закричали во весь голос, когда увидели змею."
+        }
+      ],
+      "analogs_ru": [
+        "во весь голос",
+        "во всё горло",
+        "благим матом",
+        "во всеуслышание"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; и буквально о громкости, и переносно «открыто, не скрываясь»: govoriti na sav glas o problemu",
+      "note": "",
+      "keyword": "glas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.952Z"
+    },
+    {
       "id": "msxl0hlid7j90",
       "headword_latin": "Na vrh mi je jezika",
       "headword_cyrillic": "На врх ми је језика",
@@ -7397,6 +7559,33 @@
       "created_at": "2026-08-21T17:45:44.496Z"
     },
     {
+      "id": "mt79r18nn3j9q",
+      "headword_latin": "Od Baha do sevdaha",
+      "headword_cyrillic": "Од Баха до севдаха",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "от Баха до севдаха; слушает всё подряд",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sluša sve, od Baha do sevdaha.",
+          "russian": "Слушает всё подряд, от Баха до севдаха."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "от классики до попсы",
+        "всеядный вкус",
+        "слушает всё подряд"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; вариант формулы od Silvane do Nirvane, но полюса другие: европейская классика против боснийской городской песни; держится на созвучии Baha — sevdaha",
+      "note": "Sevdah (тур. sevda «любовная тоска», араб. sawdā' «чёрная жёлчь») — и сам жанр sevdalinka, и особое состояние сладкой любовной печали, ради которого её поют. Одним русским словом непереводимо: не «грусть» и не «тоска», а наслаждение собственной печалью. См. также: OD SILVANE DO NIRVANE.",
+      "keyword": "sevdah",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.951Z"
+    },
+    {
       "id": "msym7ab1zuzyi",
       "headword_latin": "Od samoće ništa gore nema",
       "headword_cyrillic": "Од самоће ништа горе нема",
@@ -7580,6 +7769,34 @@
       "keyword": "naglavačke",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
+      "id": "mt79r18nvbbah",
+      "headword_latin": "Oladi",
+      "headword_cyrillic": "Олади",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "остынь; уймись; отвянь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Oladi bre, niko te ne napada.",
+          "russian": "Уймись, никто на тебя не нападает."
+        }
+      ],
+      "analogs_ru": [
+        "остынь",
+        "уймись",
+        "полегче",
+        "расслабься",
+        "отвянь"
+      ],
+      "literal_ru": "охладись — от ohladiti, с разговорным выпадением h",
+      "register": "разг.-сленг., резк.; тому, кто разошёлся, кипятится или пристаёт; усиленно oladi bre; в отшивающем значении oladi od mene «отстань от меня»; переходно oladiti koga «остудить, отбить всякий пыл»",
+      "note": "Ядро значения — «остыть», а не «уйти»; «иди отсюда» получается только в сочетании oladi od mene, и то через образ охлаждения. Современный синоним iskuliraj (от англ. cool) устроен так же. Слово разошлось по стране благодаря песне «Dečko, ajde oladi» группы Poslednja igra leptira (1985) — обращению девушки к слишком настойчивому парню.",
+      "keyword": "oladiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.951Z"
     },
     {
       "id": "mt0b9rqwh1lnj",
@@ -8176,6 +8393,33 @@
       "created_at": "2026-08-21T17:45:17.190Z"
     },
     {
+      "id": "mt79r18oa9jye",
+      "headword_latin": "Po ceo dan",
+      "headword_cyrillic": "По цео дан",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "целыми днями; весь день напролёт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moj muž radi po ceo dan.",
+          "russian": "Мой муж работает целыми днями."
+        }
+      ],
+      "analogs_ru": [
+        "целыми днями",
+        "весь день напролёт",
+        "день-деньской",
+        "сутки напролёт"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о повторяющемся, изо дня в день",
+      "note": "Предлог po даёт распределительность, как в po noći, po kiši: не один конкретный день, а всякий раз. Разница с ceo dan тонкая, но при переводе заметна: radio je ceo dan «он проработал весь день», radi po ceo dan «он работает целыми днями».",
+      "keyword": "dan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.952Z"
+    },
+    {
       "id": "msxp30elpij8p",
       "headword_latin": "Po jutru se dan poznaje",
       "headword_cyrillic": "По јутру се дан познаје",
@@ -8362,6 +8606,32 @@
       "keyword": "poklon",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "mt79r18nnuzs7",
+      "headword_latin": "Pokupiti kajmak",
+      "headword_cyrillic": "Покупити кајмак",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "снять сливки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mi smo radili, a oni su pokupili kajmak.",
+          "russian": "Работали мы, а сливки сняли они."
+        }
+      ],
+      "analogs_ru": [
+        "снять сливки",
+        "снять пенки",
+        "урвать лучшее"
+      ],
+      "literal_ru": "собрать каймак",
+      "register": "разг., чаще неодобр. — о том, кто взял лучшее, не приложив труда; управление pokupiti kajmak, реже skinuti kajmak",
+      "note": "Kajmak (тур.) — не сливки в русском смысле, а плотный молочный слой, снимаемый при кипячении, который потом солят и выдерживают; в Сербии это самостоятельное блюдо, подаётся к мясу и к хлебу. Русская калька «каймак» существует, но в переводе идиомы нужны именно «сливки».",
+      "keyword": "kajmak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.951Z"
     },
     {
       "id": "mt0b1qfzx958b",
@@ -8649,6 +8919,33 @@
       "keyword": "posao",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.495Z"
+    },
+    {
+      "id": "mt79r18nohzw1",
+      "headword_latin": "Proći kao bos po trnju",
+      "headword_cyrillic": "Проћи као бос по трњу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "хлебнуть горя; намаяться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prošao sam kao bos po trnju, šetali su me od šaltera do šaltera tri meseca.",
+          "russian": "Намаялся я: три месяца гоняли от окошка к окошку."
+        }
+      ],
+      "analogs_ru": [
+        "хлебнуть горя",
+        "намыкаться",
+        "пройти через ад",
+        "несладко пришлось"
+      ],
+      "literal_ru": "пройти как босой по терновнику",
+      "register": "разг.; о тяжёлом, изматывающем опыте — чаще о хождении по инстанциям и о волоките, чем о смертельной опасности",
+      "note": "Šalter — окошко в учреждении, ключевое слово сербского бюрократического быта; šalter-sistem — собирательное имя для канцелярской волокиты.",
+      "keyword": "trnje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.951Z"
     },
     {
       "id": "msxwc0627r8ff",
@@ -10661,6 +10958,33 @@
       "keyword": "pijan",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.682Z"
+    },
+    {
+      "id": "mt79r18o4nrjd",
+      "headword_latin": "Tako nešto",
+      "headword_cyrillic": "Тако нешто",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что-то в этом роде; вроде того",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kakvu košulju želiš da kupiš? — Tako nešto.",
+          "russian": "Какую рубашку хочешь купить? — Что-то в этом роде."
+        }
+      ],
+      "analogs_ru": [
+        "что-то в этом роде",
+        "вроде того",
+        "примерно так",
+        "типа того"
+      ],
+      "literal_ru": "",
+      "register": "разг.; уклончивый ответ, когда точнее говорить не хочется или незачем",
+      "note": "Родственные — nešto tako, tako nekako, i tako to.",
+      "keyword": "tako",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:25:38.952Z"
     },
     {
       "id": "msyrhihjsy4lb",
