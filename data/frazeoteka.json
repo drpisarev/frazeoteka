@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T13:34:58.324Z",
+  "updated": "2026-08-24T13:38:11.691Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -915,6 +915,33 @@
       "keyword": "ćošak",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:24:53.584Z"
+    },
+    {
+      "id": "mt7a760alm593",
+      "headword_latin": "Biti se na krv i nož",
+      "headword_cyrillic": "Бити се на крв и нож",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "биться не на жизнь, а на смерть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bore se na krv i nož oko svakog glasa.",
+          "russian": "Бьются не на жизнь, а на смерть за каждый голос."
+        }
+      ],
+      "analogs_ru": [
+        "биться не на жизнь, а на смерть",
+        "сражаться насмерть",
+        "враждовать смертельно",
+        "стоять насмерть"
+      ],
+      "literal_ru": "биться на кровь и нож",
+      "register": "разг., экспресс.; и о драке, и о непримиримой вражде, и о споре; глаголы biti se, boriti se, tući se",
+      "note": "",
+      "keyword": "nož",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.626Z"
     },
     {
       "id": "mt0aue88j65er",
@@ -3264,6 +3291,34 @@
       "created_at": "2026-08-21T17:51:09.236Z"
     },
     {
+      "id": "mt7a760bzsbnc",
+      "headword_latin": "Drž' ne daj",
+      "headword_cyrillic": "Држ' не дај",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "заваруха; кутерьма",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bila je takva drž' ne daj situacija na sastanku, svi su vikali.",
+          "russian": "На совещании была такая кутерьма, все орали."
+        }
+      ],
+      "analogs_ru": [
+        "заваруха",
+        "кутерьма",
+        "светопреставление",
+        "хоть святых выноси",
+        "дым коромыслом"
+      ],
+      "literal_ru": "держи — не отдавай",
+      "register": "разг.; о суматохе, свалке, напряжённой сцене; употребляется как определение: bila je situacija drž' ne daj",
+      "note": "Два императива подряд, как крики в свалке.",
+      "keyword": "držati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.627Z"
+    },
+    {
       "id": "msxwc060l3noo",
       "headword_latin": "Drž' se nova puta i stara prijatelja",
       "headword_cyrillic": "Држ' се нова пута и стара пријатеља",
@@ -4621,6 +4676,33 @@
       "keyword": "nabor",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:44.494Z"
+    },
+    {
+      "id": "mt7a760c91hyc",
+      "headword_latin": "Izgubiti se kao magarac u magli",
+      "headword_cyrillic": "Изгубити се као магарац у магли",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "заблудиться в трёх соснах; пропасть с концами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Krenuo je po hleb i izgubio se kao magarac u magli.",
+          "russian": "Пошёл за хлебом и пропал с концами."
+        }
+      ],
+      "analogs_ru": [
+        "заблудиться в трёх соснах",
+        "пропасть с концами",
+        "сгинуть без следа",
+        "как в воду канул"
+      ],
+      "literal_ru": "потеряться как осёл в тумане",
+      "register": "разг., насмешл.; и о том, кто заблудился, и о том, кто исчез из виду",
+      "note": "Держится на созвучии magarac — magla и на цвете: серый осёл в сером тумане.",
+      "keyword": "magla",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.628Z"
     },
     {
       "id": "msyrhihkkw6kf",
@@ -6122,6 +6204,34 @@
       "created_at": "2026-08-24T08:33:35.126Z"
     },
     {
+      "id": "mt7a760agxga1",
+      "headword_latin": "Kvocati",
+      "headword_cyrillic": "Квоцати",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "квохтать; занудствовать, пилить",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Stalno nešto kvocaš, pusti me na miru.",
+          "russian": "Вечно ты нудишь, оставь меня в покое."
+        }
+      ],
+      "analogs_ru": [
+        "квохтать",
+        "нудить",
+        "пилить",
+        "зудеть",
+        "долдонить своё"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; звукоподражательное — так квохчет курица над цыплятами; ходовое stalno nešto kvocaš",
+      "note": "Русское «квохтать» о человеке звучит умилительно — о наседке-заботнице; сербское kvocati всегда с раздражением, ближе к «пилить». Родственное kvočka «наседка» — и о женщине, чрезмерно опекающей своих.",
+      "keyword": "kvocati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.626Z"
+    },
+    {
       "id": "msxwc0615zxaj",
       "headword_latin": "Lasno je zdravome bolesnoga savetovati",
       "headword_cyrillic": "Ласно је здравоме болеснога саветовати",
@@ -6714,6 +6824,34 @@
       "created_at": "2026-08-21T18:32:36.728Z"
     },
     {
+      "id": "mt7a760b4bfjz",
+      "headword_latin": "Mrtav hladan",
+      "headword_cyrillic": "Мртав хладан",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "и бровью не повёл; хоть бы что",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Slagao me je mrtav hladan.",
+          "russian": "Соврал мне и бровью не повёл."
+        }
+      ],
+      "analogs_ru": [
+        "и бровью не повёл",
+        "глазом не моргнув",
+        "как ни в чём не бывало",
+        "невозмутимо",
+        "без зазрения совести"
+      ],
+      "literal_ru": "мёртво холодный",
+      "register": "разг.; согласуется в роде: mrtva hladna; двузначно по оценке — и восхищение самообладанием, и упрёк в бесстыдстве",
+      "note": "То же усилительное mrtav, что в mrtav umoran, mrtav ozbiljan. См. также: MRTAV UMORAN.",
+      "keyword": "hladan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.627Z"
+    },
+    {
       "id": "mt38pdhgkalzq",
       "headword_latin": "Mrtav umoran",
       "headword_cyrillic": "Мртав уморан",
@@ -6872,6 +7010,33 @@
       "keyword": "glas",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:25:38.952Z"
+    },
+    {
+      "id": "mt7a760cakdza",
+      "headword_latin": "Na tapetu",
+      "headword_cyrillic": "На тапету",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "под прицелом; на ковре; на повестке",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ove nedelje je na tapetu zakon o porezu.",
+          "russian": "На этой неделе на повестке закон о налогах."
+        }
+      ],
+      "analogs_ru": [
+        "под прицелом критики",
+        "на ковре",
+        "на повестке дня",
+        "в центре внимания"
+      ],
+      "literal_ru": "на ковре, на сукне",
+      "register": "разг.-публиц.; двузначно — «стать предметом обсуждения» и «попасть под критику»; ходовое biti na tapetu, staviti na tapet",
+      "note": "Из немецкого aufs Tapet bringen «вынести на обсуждение», где Tapet — сукно на столе переговоров. Русское «вызвать на ковёр» устроено похоже, но означает только выволочку у начальства, тогда как сербское шире.",
+      "keyword": "tapet",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.628Z"
     },
     {
       "id": "msxl0hlid7j90",
@@ -7270,6 +7435,34 @@
       "keyword": "poželeti",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.219Z"
+    },
+    {
+      "id": "mt7a760br1bpm",
+      "headword_latin": "Ne talasaj",
+      "headword_cyrillic": "Не таласај",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не мути воду; не поднимай волну",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da talasaš, šef je i tako nervozan.",
+          "russian": "Не мути воду, шеф и так на взводе."
+        }
+      ],
+      "analogs_ru": [
+        "не мути воду",
+        "не поднимай волну",
+        "не раскачивай лодку",
+        "не создавай проблем",
+        "не лезь на рожон"
+      ],
+      "literal_ru": "не гони волну",
+      "register": "разг.; призыв не будоражить, не поднимать неудобную тему, не возмущаться вслух; часто с оттенком «сиди тихо, себе же хуже сделаешь»",
+      "note": "Значение не «не увиливай», а противоположное по направлению: требуют не действия, а бездействия. Русское «не раскачивай лодку» — самый близкий аналог и по смыслу, и по водной метафоре.",
+      "keyword": "talasati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.627Z"
     },
     {
       "id": "msxp30ejlg3en",
@@ -8015,6 +8208,33 @@
       "created_at": "2026-08-21T18:05:17.696Z"
     },
     {
+      "id": "mt7a760bv9aou",
+      "headword_latin": "Obrni-okreni",
+      "headword_cyrillic": "Обрни-окрени",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как ни крути",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Obrni-okreni, moramo to da uradimo.",
+          "russian": "Как ни крути, придётся это сделать."
+        }
+      ],
+      "analogs_ru": [
+        "как ни крути",
+        "куда ни кинь",
+        "так или иначе",
+        "всё равно придётся"
+      ],
+      "literal_ru": "поверни-переверни",
+      "register": "разг.; вводный оборот перед неизбежным выводом",
+      "note": "Два синонимичных императива подряд — та же модель, что в brže-bolje, peri-deri.",
+      "keyword": "okrenuti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.627Z"
+    },
+    {
       "id": "mt38pyk051rja",
       "headword_latin": "Oće kaki, neće kaki",
       "headword_cyrillic": "Оће каки, неће каки",
@@ -8631,6 +8851,34 @@
       "created_at": "2026-08-19T16:27:34.557Z"
     },
     {
+      "id": "mt7a760bfw5h6",
+      "headword_latin": "Pala mi je roletna na oči",
+      "headword_cyrillic": "Пала ми је ролетна на очи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "крышу снесло; в глазах потемнело",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Toliko me je iznervirao da mi je pala roletna na oči i počeo sam da vičem.",
+          "russian": "Он меня так вывел, что мне крышу снесло и я начал орать."
+        }
+      ],
+      "analogs_ru": [
+        "крышу снесло",
+        "в глазах потемнело",
+        "сорвался",
+        "пелена перед глазами",
+        "накрыло"
+      ],
+      "literal_ru": "мне рольставня упала на глаза",
+      "register": "разг., современное; о вспышке ярости, при которой человек перестаёт себя контролировать; дательный лица меняется; синоним постарше pao mi je mrak na oči",
+      "note": "Roletna — рольставня, жалюзи (нем. Rollladen); образ городской и сравнительно новый. Смысл тот же, что у došla mu žuta minuta, но там подчёркнута внезапность, а здесь потеря обзора и контроля. См. также: DOŠLA MU ŽUTA MINUTA, KRV MU JE JURNULA U GLAVU.",
+      "keyword": "roletna",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.627Z"
+    },
+    {
       "id": "mt38wx4jae3od",
       "headword_latin": "Palo mi je na pamet",
       "headword_cyrillic": "Пало ми је на памет",
@@ -8901,6 +9149,33 @@
       "keyword": "smuk",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt7a760a5hjfr",
+      "headword_latin": "Plakati kao ljuta godina",
+      "headword_cyrillic": "Плакати као љута година",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "плакать навзрыд; заливаться слезами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Plakala je kao ljuta godina kad je čula vest.",
+          "russian": "Она заливалась слезами, когда услышала новость."
+        }
+      ],
+      "analogs_ru": [
+        "плакать навзрыд",
+        "реветь в три ручья",
+        "заливаться слезами",
+        "рыдать в голос"
+      ],
+      "literal_ru": "плакать как лютый год (ljuta godina — голодный, лихой год)",
+      "register": "разг., экспресс.; редк./не подтверждено надёжно — в доступных словарях и сборниках сравнение не найдено, толкование выведено из образа; форма без ljuta (plakati kao godina) встречается в устной речи",
+      "note": "Образ, вероятно, от неурожайного года, над которым «плачет» вся округа. Требуется проверка у носителей; до этого статью держать помеченной.",
+      "keyword": "godina",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.626Z"
     },
     {
       "id": "mt79r18oa9jye",
@@ -9246,6 +9521,33 @@
       "keyword": "poštapalica",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
+      "id": "mt7a760c22ltd",
+      "headword_latin": "Pošto-poto",
+      "headword_cyrillic": "Пошто-пото",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "во что бы то ни стало",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moram pošto-poto da završim ovo danas.",
+          "russian": "Мне кровь из носу надо закончить это сегодня."
+        }
+      ],
+      "analogs_ru": [
+        "во что бы то ни стало",
+        "любой ценой",
+        "кровь из носу",
+        "хоть тресни"
+      ],
+      "literal_ru": "",
+      "register": "разг.; пишется через дефис",
+      "note": "Оба слова — стяжения от po što «за что» и po to «за то», то есть «какой угодно ценой».",
+      "keyword": "pošto",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.628Z"
     },
     {
       "id": "msxqn1ooxwqi0",
@@ -11161,6 +11463,33 @@
       "created_at": "2026-08-21T18:05:17.695Z"
     },
     {
+      "id": "mt7a760ajq2ll",
+      "headword_latin": "Staviti prst na čelo",
+      "headword_cyrillic": "Ставити прст на чело",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "взяться за голову; хорошенько подумать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Stavi prst na čelo i zapitaj se da li je trebalo da ga tako uvrediš.",
+          "russian": "Задумайся-ка и спроси себя: стоило ли его так обижать?"
+        }
+      ],
+      "analogs_ru": [
+        "взяться за голову",
+        "подумать головой",
+        "призадуматься",
+        "пораскинуть мозгами"
+      ],
+      "literal_ru": "приложить палец ко лбу",
+      "register": "разг., назидат.; призыв опомниться и оценить собственный поступок; ходовое stavi prst na čelo pa se zapitaj",
+      "note": "Русское «взяться за голову» несёт больше отчаяния, сербское — призыв к самопроверке. Ближе всего по функции «поставь себя на его место» плюс «подумай головой».",
+      "keyword": "čelo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.626Z"
+    },
+    {
       "id": "msxrqv222nzhh",
       "headword_latin": "Sto ljudi, sto ćudi",
       "headword_cyrillic": "Сто људи, сто ћуди",
@@ -11185,6 +11514,32 @@
       "keyword": "ćud",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
+      "id": "mt7a760cbi8aj",
+      "headword_latin": "Strefila ga srčka",
+      "headword_cyrillic": "Стрефила га срчка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "его хватил инфаркт",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Umalo me nije strefila srčka kad sam video račun.",
+          "russian": "Меня чуть удар не хватил, когда я увидел счёт."
+        }
+      ],
+      "analogs_ru": [
+        "его хватил инфаркт",
+        "сердце прихватило",
+        "кондрашка хватила"
+      ],
+      "literal_ru": "",
+      "register": "разг.; часто и гиперболически, о сильном испуге или потрясении: umalo me nije strefila srčka",
+      "note": "Srčka — разговорное от srčani udar, infarkt; strefiti «хватить, поразить».",
+      "keyword": "srčka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.628Z"
     },
     {
       "id": "mt0b9rqwfbjsn",
@@ -11738,6 +12093,33 @@
       "keyword": "pijan",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.682Z"
+    },
+    {
+      "id": "mt7a760bjnj0r",
+      "headword_latin": "Šuć-muć",
+      "headword_cyrillic": "Шућ-мућ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "по-тихому провернуть; уладить втихаря",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Oni su to nešto šuć-muć pa dogovorili.",
+          "russian": "Они там по-тихому что-то провернули и договорились."
+        }
+      ],
+      "analogs_ru": [
+        "провернуть по-тихому",
+        "обтяпать",
+        "уладить втихаря",
+        "договориться по-свойски"
+      ],
+      "literal_ru": "",
+      "register": "разг.; звукоподражательное удвоение, само по себе значения не имеющее; глагольная форма šućmućnuti",
+      "note": "Uspeo je da šućmućne neke veze «сумел по-быстрому наладить связи». Часто с pa: šuć-muć pa prosuli — присказка о деле, которое затеяли, помутили и в итоге разлили.",
+      "keyword": "šuć-muć",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.627Z"
     },
     {
       "id": "mt79r18o4nrjd",
@@ -12638,6 +13020,34 @@
       "keyword": "noga",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.191Z"
+    },
+    {
+      "id": "mt7a760ctyvts",
+      "headword_latin": "Uškopiti",
+      "headword_cyrillic": "Ушкопити",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "кастрировать; выхолостить, обессилить",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Cenzura je uškopila umetnika.",
+          "russian": "Цензура выхолостила художника."
+        }
+      ],
+      "analogs_ru": [
+        "кастрировать",
+        "холостить",
+        "выхолостить",
+        "обескровить",
+        "лишить силы"
+      ],
+      "literal_ru": "",
+      "register": "прямое значение ветеринарное; переносное резкое — о том, что лишили силы и смысла: закон, инициативу, текст",
+      "note": "Существительное uškopljenik «евнух, кастрат», в переносном «безвольный человек». Переносное употребление звучит грубо и агрессивно, в отличие от нейтрального русского «выхолостить»; в вежливом тексте лучше osakatiti, obesmisliti, oduzeti snagu.",
+      "keyword": "uškopiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:38:11.628Z"
     },
     {
       "id": "mt0aue87s4zm3",
