@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T15:36:37.389Z",
+  "updated": "2026-08-24T15:58:26.374Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -13843,6 +13843,34 @@
       "keyword": "šesnaest",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.254Z"
+    },
+    {
+      "id": "mt7f7iszeh04k",
+      "headword_latin": "Svetkom i petkom",
+      "headword_cyrillic": "Светком и петком",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "и в будни, и в праздники; изо дня в день без роздыху",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Radi se vikendom, praznikom, svetkom i petkom, bez ikakve naknade.",
+          "russian": "Работают по выходным, по праздникам, изо дня в день, без всякой доплаты."
+        }
+      ],
+      "analogs_ru": [
+        "без выходных",
+        "изо дня в день",
+        "круглый год",
+        "и в будни, и в праздники",
+        "без роздыху"
+      ],
+      "literal_ru": "и по праздникам, и по пятницам",
+      "register": "разг.; чаще всего о работе без передышки, но и о любом занятии, которое не прерывается: radi svetkom i petkom, dolazi svetkom i petkom; порядок частей свободен, встречается и petkom i svetkom",
+      "note": "Svetak — старое областное слово «праздник, святой день», сегодня вне этого оборота почти не живёт; удержалось ради рифмы с petkom. Пятница в южнославянской традиции — постный день с наибольшим числом запретов на работу, отсюда логика: кто трудится и в праздник, и в пятницу, тот не отдыхает вовсе. Тот же оборот есть в словенском — v petek in svetek. Гнездо вокруг petak богато: nije svaki petak svetak «не каждый день праздник»; s petka na subotu «наспех, ненадолго»; u rijetke petke «крайне редко»; roditi se u petak «родиться в рубашке». Сербская параллель — na Đurin petak «когда рак на горе свистнет»: Юрьев день считался началом хозяйственного года, днём расчёта со слугами и уплаты податей, после него «уже ничего не получишь». См. также: KAD NA VRBI RODI GROŽĐE, PO CEO DAN.",
+      "keyword": "petak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:58:26.291Z"
     },
     {
       "id": "msxu2ocpyup2z",
