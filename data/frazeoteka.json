@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T14:38:03.201Z",
+  "updated": "2026-08-24T14:58:53.193Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -1421,6 +1421,33 @@
       "keyword": "bolan",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:51:43.694Z"
+    },
+    {
+      "id": "mt7d2xq54pj28",
+      "headword_latin": "Boli me uvo",
+      "headword_cyrillic": "Боли ме уво",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "мне до лампочки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Baš me briga šta ti misliš.",
+          "russian": "Мне плевать, что ты там думаешь."
+        }
+      ],
+      "analogs_ru": [
+        "мне до лампочки",
+        "плевать",
+        "по барабану",
+        "меня это не колышет"
+      ],
+      "literal_ru": "у меня ухо болит",
+      "register": "разг., грубоват.; управление boli me uvo za koga/šta; ряд по нарастанию грубости: baš me briga → boli me uvo → boli me kurac (вульг.)",
+      "note": "Оборот с ухом устроен как эвфемизм: подставляется безобидная часть тела вместо грубой; тот же приём в boli me uvce, boli me patka. Родственное — ko ga šiša. См. также: KO TE ŠIŠA.",
+      "keyword": "uvo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.117Z"
     },
     {
       "id": "mt38pyjztq3ef",
@@ -4302,6 +4329,34 @@
       "created_at": "2026-08-21T18:32:36.728Z"
     },
     {
+      "id": "mt7d2xq71dwt9",
+      "headword_latin": "Igrati pipirevku",
+      "headword_cyrillic": "Играти пипиревку",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ходить по краю; выкручиваться, лавировать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "I jedni i drugi igraju pipirevku kako bi ostali u igri.",
+          "russian": "И те и другие лавируют, лишь бы остаться в игре."
+        }
+      ],
+      "analogs_ru": [
+        "ходить по краю",
+        "ходить по лезвию",
+        "лавировать",
+        "вертеться ужом",
+        "играть с огнём"
+      ],
+      "literal_ru": "плясать пипиревку — старинное народное коло",
+      "register": "разг.; двузначно по оттенку: вести рискованную игру, не иметь покоя от неприятностей — либо упорно изворачиваться, чтобы своего добиться",
+      "note": "Pipirevka — и название коло, и женское имя (вариант от Петра, Спиридона, Филиппа), известное по народной песне, которую приводит Стоян Новакович: мать чешет Пипиревку и одновременно проклинает. Отсюда двойственность оборота — пляска, а внутри у неё беда. Есть и родительская отповедь: da nećeš možda i pipirevku da ti zaigram? «может, тебе ещё и станцевать?» — в ответ на непомерную просьбу ребёнка.",
+      "keyword": "pipirevka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.119Z"
+    },
+    {
       "id": "msym7ab239clz",
       "headword_latin": "Ima dana za megdana",
       "headword_cyrillic": "Има дана за мегдана",
@@ -6843,6 +6898,33 @@
       "created_at": "2026-08-24T13:30:14.842Z"
     },
     {
+      "id": "mt7d2xq6camd6",
+      "headword_latin": "Misaona imenica",
+      "headword_cyrillic": "Мисаона именица",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "из области фантастики; существует только на словах",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mobilni internet je ovde i dalje misaona imenica.",
+          "russian": "Мобильный интернет здесь по-прежнему из области фантастики."
+        }
+      ],
+      "analogs_ru": [
+        "из области фантастики",
+        "только на бумаге",
+        "существует лишь в теории",
+        "фикция"
+      ],
+      "literal_ru": "отвлечённое существительное",
+      "register": "разг.-публиц., ирон.; о том, что называют, но чего в действительности нет: услуга, право, обещанная реформа",
+      "note": "Остроумная находка сербской публицистики: грамматический термин перенесён на действительность — раз слово есть, а предмета нет, значит понятие отвлечённое. Русская школьная терминология («абстрактное существительное») в таком качестве не прижилась, аналог пришлось бы строить заново.",
+      "keyword": "imenica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.118Z"
+    },
+    {
       "id": "mt38pyjvwkz8d",
       "headword_latin": "Mlatiti praznu slamu",
       "headword_cyrillic": "Млатити празну сламу",
@@ -7835,6 +7917,33 @@
       "created_at": "2026-08-21T17:54:35.317Z"
     },
     {
+      "id": "mt7d2xq773f4z",
+      "headword_latin": "Nema kod mene trte-mrte",
+      "headword_cyrillic": "Нема код мене трте-мрте",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "со мной эти штучки не пройдут",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ili radiš ili ne radiš — nema kod mene trte-mrte.",
+          "russian": "Или работаешь, или нет — со мной эти штучки не пройдут."
+        }
+      ],
+      "analogs_ru": [
+        "со мной такое не пройдёт",
+        "без всяких там",
+        "разговор короткий",
+        "без соплей"
+      ],
+      "literal_ru": "",
+      "register": "разг.; ходовое и само по себе: nemoj trte-mrte, reci jasno",
+      "note": "Trte-mrte — звукоподражательное удвоение без значения, обозначающее увёртки, мямленье, канитель. В одном ряду с šuć-muć, dža ili bu, drž' ne daj: сербский охотно строит выразительность на парах бессмысленных слогов, где значение несёт только ритм.",
+      "keyword": "trte-mrte",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.119Z"
+    },
+    {
       "id": "msyrhihka5tze",
       "headword_latin": "Nema mu ravna",
       "headword_cyrillic": "Нема му равна",
@@ -7859,6 +7968,33 @@
       "keyword": "ravan",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.248Z"
+    },
+    {
+      "id": "mt7d2xq6ir19s",
+      "headword_latin": "Nema ni za lek",
+      "headword_cyrillic": "Нема ни за лек",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "днём с огнём не сыщешь; совсем нет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Taksija nije bilo ni za lek.",
+          "russian": "Такси было днём с огнём не сыскать."
+        }
+      ],
+      "analogs_ru": [
+        "днём с огнём не сыщешь",
+        "ни капли",
+        "ни грамма",
+        "хоть шаром покати"
+      ],
+      "literal_ru": "нет и на лекарство — нет даже того малого количества, что нужно для снадобья",
+      "register": "разг.; управление nema čega ni za lek + родительный",
+      "note": "По устройству близко к ni od korova: обе меры — через самое малое мыслимое количество. См. также: NI OD KOROVA.",
+      "keyword": "lek",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.118Z"
     },
     {
       "id": "mt0b9rquisedq",
@@ -8046,6 +8182,33 @@
       "keyword": "zora",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "mt7d2xq6rzgcw",
+      "headword_latin": "Ničim izazvan",
+      "headword_cyrillic": "Ничим изазван",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни с того ни с сего; никем не спровоцированный",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ničim izazvan, objavio je knjigu pesama.",
+          "russian": "Ни с того ни с сего взял и издал книгу стихов."
+        }
+      ],
+      "analogs_ru": [
+        "ни с того ни с сего",
+        "без всякого повода",
+        "на ровном месте",
+        "ничто не предвещало"
+      ],
+      "literal_ru": "ничем не вызванный",
+      "register": "разг.-публиц., чаще шутл.; вводный оборот перед сообщением о неожиданном поступке",
+      "note": "Из газетного языка (о нападении, «ничем не спровоцированном»), откуда и разошёлся в ироническом употреблении о вещах вполне мирных.",
+      "keyword": "izazvati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.118Z"
     },
     {
       "id": "mt0b9rqumd6cl",
@@ -9063,6 +9226,33 @@
       "created_at": "2026-08-21T18:35:16.665Z"
     },
     {
+      "id": "mt7d2xq6up02t",
+      "headword_latin": "Ozloglašen",
+      "headword_cyrillic": "Озлоглашен",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "печально известный; пресловутый",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ozloglašena londonska magla.",
+          "russian": "Пресловутый лондонский туман."
+        }
+      ],
+      "analogs_ru": [
+        "печально известный",
+        "пресловутый",
+        "с дурной славой",
+        "небезызвестный"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн.; существительное ozloglašenost",
+      "note": "От zao glas «дурная слава». Всегда с отрицательным знаком, в отличие от нейтрального poznat «известный» и одобрительного čuven «прославленный». Ср. dobar glas daleko se čuje, a rđav još dalje — то же слово glas в основе.",
+      "keyword": "glas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.118Z"
+    },
+    {
       "id": "mt0b1qfx8r30p",
       "headword_latin": "Pa mirna Bosna",
       "headword_cyrillic": "Па мирна Босна",
@@ -9444,6 +9634,32 @@
       "created_at": "2026-08-24T13:25:38.952Z"
     },
     {
+      "id": "mt7d2xq5w0ay1",
+      "headword_latin": "Po definiciji",
+      "headword_cyrillic": "По дефиницији",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "по определению",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "To je po definiciji nemoguće.",
+          "russian": "Это по определению невозможно."
+        }
+      ],
+      "analogs_ru": [
+        "по определению",
+        "изначально",
+        "по самой своей сути"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-разг.; калька латинской формулы, живёт и в бытовой речи",
+      "note": "",
+      "keyword": "definicija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.117Z"
+    },
+    {
       "id": "msxp30elpij8p",
       "headword_latin": "Po jutru se dan poznaje",
       "headword_cyrillic": "По јутру се дан познаје",
@@ -9682,6 +9898,32 @@
       "keyword": "pomeriti",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt7d2xq74n44u",
+      "headword_latin": "Popiti svu pamet sveta",
+      "headword_cyrillic": "Попити сву памет света",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "считать себя умнее всех",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Milan je popio svu pamet sveta, ne pokušavaj ništa da mu objasniš.",
+          "russian": "Милан считает себя умнее всех, и не пытайся ему что-то объяснить."
+        }
+      ],
+      "analogs_ru": [
+        "считать себя умнее всех",
+        "корчить из себя всезнайку",
+        "строить из себя великого ума"
+      ],
+      "literal_ru": "выпить весь ум мира",
+      "register": "разг., неодобр.; чаще в перфекте: popio je svu pamet sveta; об умственном высокомерии, а не об уме как таковом",
+      "note": "Образ — человек выпил весь мировой запас ума, другим не осталось. Тот же приём в misliš da si pojeo svu pamet.",
+      "keyword": "pamet",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.119Z"
     },
     {
       "id": "mt38pdhipq9jm",
@@ -9948,6 +10190,33 @@
       "keyword": "noć",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:26:34.051Z"
+    },
+    {
+      "id": "mt7d2xq527k6z",
+      "headword_latin": "Prema tome",
+      "headword_cyrillic": "Према томе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "стало быть; исходя из этого",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prema tome, vaše pitanje je besmisleno.",
+          "russian": "Стало быть, ваш вопрос не имеет смысла."
+        }
+      ],
+      "analogs_ru": [
+        "стало быть",
+        "следовательно",
+        "таким образом",
+        "значит"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн., связующий оборот; prema + дательный; синонимы dakle, shodno tome, sledstveno",
+      "note": "",
+      "keyword": "prema",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.117Z"
     },
     {
       "id": "mt7a30svvyj66",
@@ -10799,6 +11068,33 @@
       "created_at": "2026-08-17T21:51:42.265Z"
     },
     {
+      "id": "mt7d2xq6jubre",
+      "headword_latin": "S oproštenjem",
+      "headword_cyrillic": "С опроштењем",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "простите за выражение",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pao je, s oproštenjem, u blato do kolena.",
+          "russian": "Он свалился, простите за выражение, в грязь по колено."
+        }
+      ],
+      "analogs_ru": [
+        "простите за выражение",
+        "извиняюсь за грубость",
+        "не при вас будь сказано",
+        "простите мой французский"
+      ],
+      "literal_ru": "с прощением",
+      "register": "разг.-вежлив.; вводится перед грубым, неприличным или неаппетитным словом; ставится и до, и после",
+      "note": "Русское «простите мой французский» — калька с английского и звучит шутливо; сербское s oproštenjem старомодно-учтиво, без иронии. Тем же целям служат da izvinete и bez uvrede «без обид».",
+      "keyword": "oproštenje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.118Z"
+    },
+    {
       "id": "msxu2ocp53din",
       "headword_latin": "S vragom došlo, s vragom i otišlo",
       "headword_cyrillic": "С врагом дошло, с врагом и отишло",
@@ -11084,6 +11380,33 @@
       "keyword": "klopiti",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
+      "id": "mt7d2xq6x6tfp",
+      "headword_latin": "Skroz blesavo",
+      "headword_cyrillic": "Скроз блесаво",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "полный бред; полная нелепица",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije li ovo skroz blesavo?",
+          "russian": "Разве это не полный бред?"
+        }
+      ],
+      "analogs_ru": [
+        "полный бред",
+        "ерунда какая-то",
+        "совсем глупо",
+        "бред сивой кобылы"
+      ],
+      "literal_ru": "",
+      "register": "разг.",
+      "note": "Skroz «совсем, насквозь» — разговорный усилитель (skroz lud, skroz drugačije); blesav «глупый, дурацкий», мягче чем glup.",
+      "keyword": "blesav",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.118Z"
     },
     {
       "id": "msxrqv204fhqh",
@@ -11517,6 +11840,32 @@
       "created_at": "2026-08-21T18:35:16.665Z"
     },
     {
+      "id": "mt7d2xq7gj0tf",
+      "headword_latin": "Spojiti lepo i korisno",
+      "headword_cyrillic": "Спојити лепо и корисно",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "совместить приятное с полезным",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako spojiti lepo i korisno i pritom nešto zaraditi?",
+          "russian": "Как совместить приятное с полезным и ещё и заработать?"
+        }
+      ],
+      "analogs_ru": [
+        "совместить приятное с полезным",
+        "одним выстрелом двух зайцев",
+        "и делу польза, и себе удовольствие"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; порядок обратный русскому: сначала lepo, потом korisno",
+      "note": "Восходит к Горацию (utile dulci).",
+      "keyword": "korisno",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.119Z"
+    },
+    {
       "id": "mt7a30svd8hs0",
       "headword_latin": "Spolja gladac, a unutra jadac",
       "headword_cyrillic": "Споља гладац, а унутра јадац",
@@ -11885,6 +12234,33 @@
       "keyword": "ravno",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.249Z"
+    },
+    {
+      "id": "mt7d2xq5o3ks0",
+      "headword_latin": "Sve mu smeta",
+      "headword_cyrillic": "Све му смета",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ему всё не так",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nonstop mi nešto zamera i sve mu smeta.",
+          "russian": "Постоянно меня попрекает, и всё ему не так."
+        }
+      ],
+      "analogs_ru": [
+        "ему всё не так",
+        "всё не по нему",
+        "вечно всем недоволен",
+        "не угодишь"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; smetati kome «мешать, быть в тягость» — управление дательным, не аккузативом",
+      "note": "Ходовое: smeta mi buka «мне мешает шум», smetam li? «я не мешаю?». См. также: NEMA ZA MARKA KAPE.",
+      "keyword": "smetati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.117Z"
     },
     {
       "id": "mt3ajl9rzv3il",
@@ -13976,6 +14352,33 @@
       "keyword": "vladati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:46:00.691Z"
+    },
+    {
+      "id": "mt7d2xq5u11y0",
+      "headword_latin": "Zavisi",
+      "headword_cyrillic": "Зависи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "смотря как; по-разному",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kolika je plata? — Zavisi.",
+          "russian": "Какая зарплата? — По-разному."
+        }
+      ],
+      "analogs_ru": [
+        "смотря как",
+        "по-разному",
+        "когда как",
+        "зависит от обстоятельств"
+      ],
+      "literal_ru": "",
+      "register": "разг.; как самостоятельный ответ; полные формы zavisi od čega + родительный, sve zavisi, kako kad",
+      "note": "",
+      "keyword": "zavisiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:58:53.117Z"
     },
     {
       "id": "mt0b1qg094yt0",
