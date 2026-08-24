@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T13:43:10.223Z",
+  "updated": "2026-08-24T14:38:03.201Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -132,6 +132,33 @@
       "keyword": "lud",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:48:44.420Z"
+    },
+    {
+      "id": "mt7cc587t7nqq",
+      "headword_latin": "Ako komšijska kuća gori, gledaj u svoju",
+      "headword_cyrillic": "Ако комшијска кућа гори, гледај у своју",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "горит у соседа — берегись сам",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne raduj se njihovim problemima — ako komšijska kuća gori, gledaj u svoju.",
+          "russian": "Не радуйся их бедам: горит у соседа — берегись сам."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "чужая беда до порога",
+        "от соседского пожара и свой займётся",
+        "сегодня он, а завтра ты"
+      ],
+      "literal_ru": "",
+      "register": "послов., предостерег.; о том, что чужое несчастье легко перекинется на тебя; частотно в политических комментариях",
+      "note": "Та же мысль у Горация: tua res agitur, paries cum proximus ardet — «дело касается тебя, когда горит стена соседа». Сербская формула народная, но совпадение полное, вплоть до образа стены-дома.",
+      "keyword": "komšija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.127Z"
     },
     {
       "id": "msxvxddwbburv",
@@ -364,6 +391,33 @@
       "keyword": "protivnik",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "mt7cc5878orfj",
+      "headword_latin": "Ako si potegao, pucaj",
+      "headword_cyrillic": "Ако си потегао, пуцај",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "назвался груздем — полезай в кузов",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako si potegao, pucaj — nema nazad.",
+          "russian": "Назвался груздем — полезай в кузов, назад пути нет."
+        }
+      ],
+      "analogs_ru": [
+        "назвался груздем — полезай в кузов",
+        "взялся за гуж, не говори, что не дюж",
+        "сказал А, говори Б",
+        "коли взялся — доводи"
+      ],
+      "literal_ru": "если взвёл — стреляй",
+      "register": "разг., подстёгивающ.; о необходимости довести начатое до конца",
+      "note": "Potegnuti здесь — «выхватить оружие, взвести».",
+      "keyword": "pucati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.127Z"
     },
     {
       "id": "msxvxddx1mqzh",
@@ -1989,6 +2043,33 @@
       "created_at": "2026-08-17T19:29:45.340Z"
     },
     {
+      "id": "mt7cc58660faw",
+      "headword_latin": "Bulazni kao da se najeo bunike",
+      "headword_cyrillic": "Булазни као да се најео бунике",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "несёт как белены объелся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne slušaj ga, bulazni kao da se najeo bunike.",
+          "russian": "Не слушай его, несёт как белены объелся."
+        }
+      ],
+      "analogs_ru": [
+        "белены объелся",
+        "несёт околесицу",
+        "бредит наяву",
+        "чушь городит"
+      ],
+      "literal_ru": "бредит, будто белены наелся",
+      "register": "разг., неодобр.",
+      "note": "Bunika — белена, ядовитое растение, вызывающее бред и галлюцинации; bulazniti «бредить, нести бессвязное». Редкий случай полного совпадения — и растение то же, и глагол тот же по смыслу. Русское «белены объелся» держится крепче: сербское bunika сегодня мало кому знакомо вне этого оборота.",
+      "keyword": "bunika",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.126Z"
+    },
+    {
       "id": "mt79wy4bpscy2",
       "headword_latin": "Car! Kralj!",
       "headword_cyrillic": "Цар! Краљ!",
@@ -2569,6 +2650,32 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "mt7cc586kgdpw",
+      "headword_latin": "Daj Bože zdravlja, ostalo ima kod Kineza",
+      "headword_cyrillic": "Дај Боже здравља, остало има код Кинеза",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "было бы здоровье, остальное купим",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta da ti poželim? Daj Bože zdravlja, ostalo ima kod Kineza.",
+          "russian": "Чего тебе пожелать? Было бы здоровье, остальное купим."
+        }
+      ],
+      "analogs_ru": [
+        "было бы здоровье, остальное приложится",
+        "здоровье не купишь, остальное купишь",
+        "лишь бы здоровье"
+      ],
+      "literal_ru": "дай Бог здоровья, остальное есть у китайцев",
+      "register": "разг., шутл., современное; формула поздравительная и утешительная разом",
+      "note": "Реалия девяностых и двухтысячных: kineska radnja — дешёвый магазин со всякой всячиной, от посуды до одежды; в Сербии их открылось множество, и «у китайцев» стало синонимом «есть решительно всё и задёшево». Формула не старше девяностых.",
+      "keyword": "Kinez",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.126Z"
+    },
+    {
       "id": "mt0b1qfyjqknf",
       "headword_latin": "Daleko mu lepa kuća",
       "headword_cyrillic": "Далеко му лепа кућа",
@@ -2780,6 +2887,32 @@
       "keyword": "koža",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:24:53.584Z"
+    },
+    {
+      "id": "mt7cc5868fx0p",
+      "headword_latin": "Devojka bez miraza kao tiganj bez drške",
+      "headword_cyrillic": "Девојка без мираза као тигањ без дршке",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "девушка без приданого что сковорода без ручки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nekad se govorilo: devojka bez miraza kao tiganj bez drške.",
+          "russian": "Раньше говорили: девушка без приданого что сковорода без ручки."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "с голыми руками замуж не берут",
+        "бесприданница"
+      ],
+      "literal_ru": "",
+      "register": "послов., устар., пренебр.; из времён, когда приданое решало брак; сегодня цитируется как курьёз или с осуждением",
+      "note": "Miraz — турцизм, приданое. Образ утилитарный до жестокости: без ручки сковорода не бесполезна, но взяться за неё нельзя. В том же ряду формул о браке по расчёту — bolje je u kolibi pevati nego u dvoru plakati, но та с противоположным выводом.",
+      "keyword": "miraz",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.126Z"
     },
     {
       "id": "mt3ae8hmpqmf2",
@@ -3744,6 +3877,32 @@
       "keyword": "baba",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "mt7cc5853o631",
+      "headword_latin": "Gde ljudi pljuju, reka teče",
+      "headword_cyrillic": "Где људи пљују, река тече",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "с миру по нитке — из множества малых вкладов складывается многое",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Skupili smo za operaciju — gde ljudi pljuju, reka teče.",
+          "russian": "Собрали на операцию: с миру по нитке."
+        }
+      ],
+      "analogs_ru": [
+        "с миру по нитке — голому рубаха",
+        "по капле и море соберётся",
+        "всем миром"
+      ],
+      "literal_ru": "где люди плюют, там река течёт",
+      "register": "послов.; редк./не подтверждено надёжно — толкования в доступных источниках нет",
+      "note": "По образу — о складчине: каждый плюнул по разу, вышла река. Возможно и другое прочтение, «слухом земля полнится», если река — расходящаяся молва; какое из двух исходное, не установлено. Стоит уточнить у носителей, в каком контексте они это слышат — от этого зависит вся статья.",
+      "keyword": "reka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.125Z"
     },
     {
       "id": "msxmobcx1ybvm",
@@ -7570,6 +7729,33 @@
       "created_at": "2026-08-24T08:54:00.264Z"
     },
     {
+      "id": "mt7cc585v1wda",
+      "headword_latin": "Ne zna da li je došao ili pošao",
+      "headword_cyrillic": "Не зна да ли је дошао или пошао",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не знает, куда себя деть; растерялся вконец",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Toliko mu se sve nakupilo da ne zna da li je došao ili pošao.",
+          "russian": "Столько на него навалилось, что он не знает, куда себя деть."
+        }
+      ],
+      "analogs_ru": [
+        "не знает, куда себя деть",
+        "совсем потерялся",
+        "не знает, за что хвататься",
+        "голова кругом"
+      ],
+      "literal_ru": "не знает, пришёл он или уходит",
+      "register": "разг.; о полной растерянности — от суеты, потрясения или спешки",
+      "note": "",
+      "keyword": "doći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.125Z"
+    },
+    {
       "id": "msyrhihlclbac",
       "headword_latin": "Neće ti faliti ni dlaka s glave",
       "headword_cyrillic": "Неће ти фалити ни длака с главе",
@@ -8582,6 +8768,33 @@
       "created_at": "2026-08-17T20:37:10.220Z"
     },
     {
+      "id": "mt7cc587cozq2",
+      "headword_latin": "Ostao je kost i koža",
+      "headword_cyrillic": "Остао је кост и кожа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "от него остались кожа да кости",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Posle bolesti je ostao kost i koža.",
+          "russian": "После болезни от него остались кожа да кости."
+        }
+      ],
+      "analogs_ru": [
+        "кожа да кости",
+        "одни мощи",
+        "высох весь",
+        "тень от человека"
+      ],
+      "literal_ru": "",
+      "register": "разг.; порядок слов обратный русскому — сначала кость",
+      "note": "Синоним — mršav kao kostur. См. также: MRŠAV KAO KOSTUR.",
+      "keyword": "kost",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.127Z"
+    },
+    {
       "id": "mt3a4b4j0r0o0",
       "headword_latin": "Ostaviti na cedilu",
       "headword_cyrillic": "Оставити на цедилу",
@@ -8768,6 +8981,32 @@
       "keyword": "otrov",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "mt7cc587mj2r8",
+      "headword_latin": "Otvorena ti je radnja",
+      "headword_cyrillic": "Отворена ти је радња",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у тебя ширинка расстёгнута",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Care, otvorena ti je radnja.",
+          "russian": "Слушай, у тебя ширинка расстёгнута."
+        }
+      ],
+      "analogs_ru": [
+        "ширинка расстёгнута",
+        "у тебя магазин открыт",
+        "закрой лавочку"
+      ],
+      "literal_ru": "у тебя лавка открыта",
+      "register": "разг., шутл.-эвфемистич.; способ намекнуть, не называя вещи; другие эвфемизмы того же ряда: pada ti roletna, šlic ti je otvoren",
+      "note": "Русский обиход выбрал похожий торговый образ («магазин открыт»), так что калька здесь работает.",
+      "keyword": "radnja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.127Z"
     },
     {
       "id": "mt391c500im1a",
@@ -12203,6 +12442,33 @@
       "created_at": "2026-08-18T14:32:12.247Z"
     },
     {
+      "id": "mt7cc588sxeff",
+      "headword_latin": "Teško da",
+      "headword_cyrillic": "Тешко да",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вряд ли; едва ли",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Teško da je bila greška.",
+          "russian": "Вряд ли это была ошибка."
+        }
+      ],
+      "analogs_ru": [
+        "вряд ли",
+        "едва ли",
+        "сомневаюсь, чтобы",
+        "навряд ли"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; конструкция teško da + личная форма глагола; синонимы jedva da, malo verovatno",
+      "note": "Ловушка для русскоязычного: буквально «трудно, что» смысла не даёт, а конструкция ходовая и в устной, и в письменной речи. Не путать с teško meni «горе мне» и teško da se to uradi «это трудно сделать» — там teško наречие при глаголе.",
+      "keyword": "teško",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.128Z"
+    },
+    {
       "id": "msxu2ocr4wmq0",
       "headword_latin": "Teško je žabu u vodu naterati",
       "headword_cyrillic": "Тешко је жабу у воду натерати",
@@ -12893,6 +13159,33 @@
       "created_at": "2026-08-19T16:27:34.558Z"
     },
     {
+      "id": "mt7cc5871pvpf",
+      "headword_latin": "Ugojila se kao mečka",
+      "headword_cyrillic": "Угојила се као мечка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "разъелась как медведица",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ugojila se kao mečka od kad je prestala da trenira.",
+          "russian": "Разъелась как медведица, как перестала тренироваться."
+        }
+      ],
+      "analogs_ru": [
+        "разъелась",
+        "раздобрела",
+        "расплылась",
+        "отъелась"
+      ],
+      "literal_ru": "",
+      "register": "разг., груб.-неодобр.; о заметно располневшей; мужской вариант ugojio se kao svinja ещё грубее; в приличном разговоре не употребляется",
+      "note": "Mečka — медведица; то же слово в je l' igra bela mečka. Медведь в сербском обиходе — мера крупности и неуклюжести: krupan kao mečka, snažan kao medved.",
+      "keyword": "mečka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.127Z"
+    },
+    {
       "id": "mt7a30swsdtae",
       "headword_latin": "Uhvatiti se u kolo",
       "headword_cyrillic": "Ухватити се у коло",
@@ -13396,6 +13689,32 @@
       "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
+      "id": "mt7cc588h0ej7",
+      "headword_latin": "Za ondašnje prilike",
+      "headword_cyrillic": "За ондашње прилике",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "по тем временам",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Za ondašnje prilike to je bila ogromna suma.",
+          "russian": "По тем временам это была огромная сумма."
+        }
+      ],
+      "analogs_ru": [
+        "по тем временам",
+        "для того времени",
+        "по тогдашним меркам"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-книжн.; парное za današnje prilike «по нынешним временам»",
+      "note": "Ondašnji «тогдашний», от onda «тогда».",
+      "keyword": "prilike",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.128Z"
+    },
+    {
       "id": "mt79ndft5gsl3",
       "headword_latin": "Za razliku od",
       "headword_cyrillic": "За разлику од",
@@ -13472,6 +13791,32 @@
       "keyword": "stolica",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:24:53.586Z"
+    },
+    {
+      "id": "mt7cc586prgdf",
+      "headword_latin": "Zajeban kao kratko ćebe",
+      "headword_cyrillic": "Зајебан као кратко ћебе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "с ним каши не сваришь; тяжёлый человек",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "S njim je teško raditi, zajeban je kao kratko ćebe.",
+          "russian": "С ним тяжело работать, с ним каши не сваришь."
+        }
+      ],
+      "analogs_ru": [
+        "с ним каши не сваришь",
+        "не подступишься",
+        "тяжёлый человек"
+      ],
+      "literal_ru": "неудобный как короткое одеяло",
+      "register": "вульг.-разг.; о человеке неудобном, непредсказуемом, с которым всё непросто; zajeban и о деле: zajeban zadatak «мудрёная задача»",
+      "note": "Образ точный: короткое одеяло — голову укроешь, ноги мёрзнут, и наоборот; удобно не будет никак. Ćebe — турцизм, одеяло.",
+      "keyword": "ćebe",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.126Z"
     },
     {
       "id": "mt38pdhfqmgrz",
@@ -13767,6 +14112,32 @@
       "created_at": "2026-08-18T12:04:17.006Z"
     },
     {
+      "id": "mt7cc586c35k2",
+      "headword_latin": "Zlatom piše, govnom zapečati",
+      "headword_cyrillic": "Златом пише, говном запечати",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "начал за здравие, кончил за упокой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve je lepo napisao, pa na kraju uvreda — zlatom piše, govnom zapečati.",
+          "russian": "Всё хорошо написал, а под конец оскорбление: начал за здравие, кончил за упокой."
+        }
+      ],
+      "analogs_ru": [
+        "начал за здравие, кончил за упокой",
+        "ложка дёгтя в бочке мёда",
+        "всё испортил под конец"
+      ],
+      "literal_ru": "золотом пишет, дерьмом запечатывает",
+      "register": "вульг.-разг., неодобр.; редк./не подтверждено надёжно — в доступных сборниках не найдено",
+      "note": "О том, кто прекрасно ведёт дело и портит его в самом конце. Образ канцелярский: письмо выведено золотом, а сургучная печать из нечистот; печать ставится последней и определяет впечатление от всего.",
+      "keyword": "pečat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.126Z"
+    },
+    {
       "id": "msxvtv1wok6xx",
       "headword_latin": "Znam te, puško, dok si pištolj bila",
       "headword_cyrillic": "Знам те, пушко, док си пиштољ била",
@@ -13846,6 +14217,33 @@
       "keyword": "jadac",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.254Z"
+    },
+    {
+      "id": "mt7cc585d7yrj",
+      "headword_latin": "Žali se upravi vodovoda",
+      "headword_cyrillic": "Жали се управи водовода",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "жалуйся в спортлото",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne odgovara mi radno vreme. — Žali se upravi vodovoda.",
+          "russian": "Мне график не подходит. — Жалуйся в спортлото."
+        }
+      ],
+      "analogs_ru": [
+        "жалуйся в спортлото",
+        "пиши письма мелким почерком",
+        "иди жалуйся кому хочешь",
+        "некому тебя жалеть"
+      ],
+      "literal_ru": "жалуйся в управление водопровода",
+      "register": "разг., ирон.-отшивающ.; ответ ноющему: жалоба всё равно ни к кому не дойдёт",
+      "note": "Водопровод выбран как контора, заведомо не имеющая отношения к делу.",
+      "keyword": "vodovod",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T14:38:03.125Z"
     },
     {
       "id": "mt39f3su88qg6",
