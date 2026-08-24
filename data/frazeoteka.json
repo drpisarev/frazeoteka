@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T15:58:26.374Z",
+  "updated": "2026-08-24T17:13:59.008Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -1257,6 +1257,34 @@
       "keyword": "tele",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.560Z"
+    },
+    {
+      "id": "mt7hwo7ce7fjw",
+      "headword_latin": "Blesav",
+      "headword_cyrillic": "Блесав",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "чокнутый; дурашливый",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On je blesav, ali me uvek nasmeje.",
+          "russian": "Он чокнутый, но всегда меня смешит."
+        }
+      ],
+      "analogs_ru": [
+        "чокнутый",
+        "дурашливый",
+        "придурковатый",
+        "шальной",
+        "со странностями"
+      ],
+      "literal_ru": "",
+      "register": "разг.; мягче и теплее, чем glup «глупый» или lud «сумасшедший»; часто с симпатией: blesav je, ali ga volim",
+      "note": "Наречие blesavo, существительное blesan «дурень, шут». Различие в ряду: lud — «безумный» (может быть всерьёз, о болезни), glup — «глупый» (обидно), blesav — «дурашливый» (чаще беззлобно). См. также: SKROZ BLESAVO.",
+      "keyword": "blesav",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.920Z"
     },
     {
       "id": "msxlnru8l86m9",
@@ -2786,6 +2814,33 @@
       "created_at": "2026-08-21T18:32:36.728Z"
     },
     {
+      "id": "mt7hwo7ahgfky",
+      "headword_latin": "Da se Vlasi ne dosete",
+      "headword_cyrillic": "Да се Власи не досете",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "чтоб никто не догадался",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Reći ćemo da idemo na sastanak, da se Vlasi ne dosete.",
+          "russian": "Скажем, что идём на встречу, — чтоб никто не догадался."
+        }
+      ],
+      "analogs_ru": [
+        "чтоб никто не догадался",
+        "для отвода глаз",
+        "чтобы не просекли",
+        "шито-крыто"
+      ],
+      "literal_ru": "чтобы влахи не догадались",
+      "register": "разг., шутл.-заговорщ.; о хитрости, придуманной для отвода глаз; ходовое в конце фразы, как объяснение манёвра",
+      "note": "За оборотом стоит эпизод Первого сербского восстания: в 1805 году сербская делегация собиралась в Царьград просить у султана самоуправления, и помешать хотели многие — прежде всего Австрия, опасавшаяся, что вслед за сербами того же потребуют сремские и банатские граничары. Поэтому вожди отправили в Бухарест, кроме настоящих делегатов, ещё и подставных, будто бы действующих через посредников — влашских бояр; секретарь Правительствующего совета Божидар Груевич тайно уведомил посланника в Бухаресте, что подлинная просьба находится у других людей. Влахи здесь — валахи, жители нынешней Румынии, а не влахи восточной Сербии. Слово Vlah за века успело побывать и обозначением православных вообще, и обидным прозвищем сербов в Боснии.",
+      "keyword": "Vlasi",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.918Z"
+    },
+    {
       "id": "msxmobcucukpw",
       "headword_latin": "Da su babi muda, bila bi deda",
       "headword_cyrillic": "Да су баби муда, била би деда",
@@ -3164,6 +3219,33 @@
       "keyword": "dlan",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.730Z"
+    },
+    {
+      "id": "mt7hwo7ct5boc",
+      "headword_latin": "Dno je dobilo svoj podrum",
+      "headword_cyrillic": "Дно је добило свој подрум",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "дно пробито",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mislio sam da je gore nemoguće — dno je dobilo svoj podrum.",
+          "russian": "Думал, хуже некуда, — а дно оказалось пробито."
+        }
+      ],
+      "analogs_ru": [
+        "дно пробито",
+        "ниже некуда, а всё ниже",
+        "новое дно",
+        "пробили очередное дно"
+      ],
+      "literal_ru": "у дна появился свой подвал",
+      "register": "разг.-публиц., ирон., современное; о падении ниже того, что уже казалось пределом; частотно в комментариях о политике и телевидении",
+      "note": "",
+      "keyword": "dno",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.920Z"
     },
     {
       "id": "mt79ndfr0faju",
@@ -4630,6 +4712,32 @@
       "created_at": "2026-08-24T14:58:53.119Z"
     },
     {
+      "id": "mt7hwo7b06gmc",
+      "headword_latin": "Ili je gluv ili mu noge smrde",
+      "headword_cyrillic": "Или је глув или му ноге смрде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "то ли глухой, то ли прикидывается",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zovem ga pet minuta — ili je gluv ili mu noge smrde.",
+          "russian": "Пять минут его зову: то ли глухой, то ли прикидывается."
+        }
+      ],
+      "analogs_ru": [
+        "прикидывается шлангом",
+        "делает вид, что не слышит",
+        "включил дурака"
+      ],
+      "literal_ru": "либо глухой, либо у него ноги воняют",
+      "register": "разг., груб.-шутл.; о том, кто упорно не реагирует на обращённое к нему",
+      "note": "Соль в нелогичности второго члена: предлагается заведомо не относящееся к делу объяснение.",
+      "keyword": "gluv",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.919Z"
+    },
+    {
       "id": "mt7ec5q15g4aj",
       "headword_latin": "Ima brdo para",
       "headword_cyrillic": "Има брдо пара",
@@ -4952,6 +5060,33 @@
       "keyword": "inat",
       "source": "frazeoteka",
       "created_at": "2026-08-18T00:00:07.128Z"
+    },
+    {
+      "id": "mt7hwo7bd4zzj",
+      "headword_latin": "Ispasti budala",
+      "headword_cyrillic": "Испасти будала",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "остаться в дураках; опозориться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Branio sam ga, a na kraju sam ispao budala.",
+          "russian": "Защищал его, а в итоге сам остался в дураках."
+        }
+      ],
+      "analogs_ru": [
+        "остаться в дураках",
+        "опозориться",
+        "сесть в лужу",
+        "выставить себя дураком"
+      ],
+      "literal_ru": "выпасть дураком",
+      "register": "разг.; часто с kao: ispao sam kao budala",
+      "note": "Ispasti + именная часть — «оказаться в итоге кем-л.»: ispao je heroj, ispao sam krivac.",
+      "keyword": "budala",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.919Z"
     },
     {
       "id": "msxmobcyt20a4",
@@ -6566,6 +6701,32 @@
       "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
+      "id": "mt7hwo7bwng9l",
+      "headword_latin": "Ko pre devojci, njemu devojka",
+      "headword_cyrillic": "Ко пре девојци, њему девојка",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "кто успел, тот и съел",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nema rezervacija, ko pre devojci, njemu devojka.",
+          "russian": "Броней нет: кто успел, тот и съел."
+        }
+      ],
+      "analogs_ru": [
+        "кто успел, тот и съел",
+        "кто раньше встал, того и тапки",
+        "первым пришёл — первым обслужили"
+      ],
+      "literal_ru": "кто первым к девушке, тому и девушка",
+      "register": "разг.; о принципе «кто первый»; ходовые формы ko pre devojci, njemu devojka и просто ko pre, njemu dve",
+      "note": "",
+      "keyword": "devojka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.919Z"
+    },
+    {
       "id": "msxl6oyrj2ukb",
       "headword_latin": "Ko rano rani, dve sreće grabi",
       "headword_cyrillic": "Ко рано рани, две среће граби",
@@ -6990,6 +7151,33 @@
       "keyword": "mačka",
       "source": "frazeoteka",
       "created_at": "2026-08-24T08:33:35.126Z"
+    },
+    {
+      "id": "mt7hwo7asvavo",
+      "headword_latin": "Kuvana jela",
+      "headword_cyrillic": "Кувана јела",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "домашняя горячая еда; первое и второе",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ovde nema roštilja, samo kuvana jela.",
+          "russian": "Гриля тут нет, только домашняя горячая еда."
+        }
+      ],
+      "analogs_ru": [
+        "домашняя еда",
+        "горячее",
+        "обед из кастрюли",
+        "не фастфуд"
+      ],
+      "literal_ru": "варёные блюда",
+      "register": "нейтр.; противопоставлено жареному на гриле (roštilj) и холодным закускам; синоним jela na kašiku «блюда под ложку»",
+      "note": "Деление сербского меню проходит именно по этой линии: kuvana jela — пасуль, чорба, сарма, гуляш; jela sa roštilja — плескавица, чевапи, ражньичи. В столовых и кафанах это отдельные разделы карты.",
+      "keyword": "jelo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.918Z"
     },
     {
       "id": "mt7a760agxga1",
@@ -8281,6 +8469,33 @@
       "keyword": "ljubav",
       "source": "frazeoteka",
       "created_at": "2026-08-24T08:54:00.262Z"
+    },
+    {
+      "id": "mt7hwo7bv6dw2",
+      "headword_latin": "Ne dam na sebe",
+      "headword_cyrillic": "Не дам на себе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "в обиду себя не дам",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mala je, ali ne da na sebe.",
+          "russian": "Маленькая, а в обиду себя не даёт."
+        }
+      ],
+      "analogs_ru": [
+        "в обиду себя не дам",
+        "спуску не дам",
+        "за себя постою",
+        "меня не задавишь"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о человеке, который не позволяет собой помыкать: ne dam na sebe, ne da na sebe",
+      "note": "",
+      "keyword": "sebe",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.919Z"
     },
     {
       "id": "mt391c519q7u9",
@@ -10860,6 +11075,33 @@
       "created_at": "2026-08-21T17:45:17.191Z"
     },
     {
+      "id": "mt7hwo7bibtdf",
+      "headword_latin": "Pogrešiti adresu",
+      "headword_cyrillic": "Погрешити адресу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "обратиться не по адресу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako tražiš fitnes savete, pogrešio si adresu — ja volim kolače.",
+          "russian": "Если тебе нужны советы по фитнесу, ты не по адресу: я люблю пирожные."
+        }
+      ],
+      "analogs_ru": [
+        "обратиться не по адресу",
+        "не туда попал",
+        "не по адресу",
+        "ошибиться дверью"
+      ],
+      "literal_ru": "",
+      "register": "разг.; чаще как отповедь; ходовое pogrešio si adresu, na pogrešnoj si adresi",
+      "note": "",
+      "keyword": "adresa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.919Z"
+    },
+    {
       "id": "mt38pyjxu2dxa",
       "headword_latin": "Pogurati se",
       "headword_cyrillic": "Погурати се",
@@ -12248,6 +12490,33 @@
       "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
+      "id": "mt7hwo7cd1j0s",
+      "headword_latin": "Reče i ostade živ",
+      "headword_cyrillic": "Рече и остаде жив",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сказал — и не поперхнулся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Rekao je da radnici sami biraju da rade prekovremeno — reče i ostade živ.",
+          "russian": "Заявил, что рабочие сами выбирают сверхурочные, — и не поперхнулся."
+        }
+      ],
+      "analogs_ru": [
+        "сказал — и не поперхнулся",
+        "ляпнул и глазом не моргнул",
+        "и не покраснел",
+        "у него язык не отсох"
+      ],
+      "literal_ru": "сказал и остался жив",
+      "register": "разг., ирон.; о наглом, глупом или вопиюще неуместном высказывании, за которое говорящему ничего не было",
+      "note": "Форма аориста (reče, ostade) придаёт летописную торжественность, в чём и соль.",
+      "keyword": "reći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.920Z"
+    },
+    {
       "id": "msxqn1oqwi4ex",
       "headword_latin": "Ruka ruku mije",
       "headword_cyrillic": "Рука руку мије",
@@ -12272,6 +12541,33 @@
       "keyword": "ruka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.618Z"
+    },
+    {
+      "id": "mt7hwo7cun50k",
+      "headword_latin": "Ruke ti se pozlatile",
+      "headword_cyrillic": "Руке ти се позлатиле",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "золотые у тебя руки; дай тебе бог здоровья",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Divno je ovo ispalo, ruke ti se pozlatile!",
+          "russian": "Как чудесно вышло, золотые у тебя руки!"
+        }
+      ],
+      "analogs_ru": [
+        "золотые руки",
+        "дай бог тебе здоровья",
+        "спасибо тебе большое",
+        "благослови тебя бог"
+      ],
+      "literal_ru": "да позолотятся тебе руки",
+      "register": "разг., благодарств.; пожелание-благословение тому, кто сделал что-то хорошее своими руками — приготовил, починил, помог",
+      "note": "Форма оптатива, живая почти только в таких формулах. Русское «золотые руки» — оценка умения, сербское — благодарность и пожелание; ближайшая по функции русская формула «дай бог здоровья твоим рукам» куда менее ходовая.",
+      "keyword": "ruke",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.920Z"
     },
     {
       "id": "mt3a4b4ia3v7x",
@@ -13471,6 +13767,33 @@
       "created_at": "2026-08-21T18:05:17.695Z"
     },
     {
+      "id": "mt7hwo7akhe1t",
+      "headword_latin": "Stati na ludi kamen",
+      "headword_cyrillic": "Стати на луди камен",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "жениться; выйти замуж",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Još nisam spreman da stanem na ludi kamen.",
+          "russian": "Я ещё не готов жениться."
+        }
+      ],
+      "analogs_ru": [
+        "жениться",
+        "выйти замуж",
+        "надеть хомут",
+        "связать себя узами"
+      ],
+      "literal_ru": "стать на дурной камень",
+      "register": "разг., шутл.; всегда с оттенком «решиться на безумство»",
+      "note": "Происхождение надёжно не установлено — толкования в доступных источниках нет. Образ, вероятно, восходит к обряду, где камень служил местом заключения союза, но это догадка. Сочетание ludi kamen самостоятельно не живёт.",
+      "keyword": "kamen",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.918Z"
+    },
+    {
       "id": "mt7a760ajq2ll",
       "headword_latin": "Staviti prst na čelo",
       "headword_cyrillic": "Ставити прст на чело",
@@ -14004,6 +14327,34 @@
       "created_at": "2026-08-19T16:33:49.493Z"
     },
     {
+      "id": "mt7hwo7cmosru",
+      "headword_latin": "Šta ćemo",
+      "headword_cyrillic": "Шта ћемо",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что поделаешь; ну что ж",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ponovo pada kiša, a hteli smo u šetnju. — E, šta ćemo, ostajemo kod kuće.",
+          "russian": "Опять дождь, а мы собирались гулять. — Ну что ж, остаёмся дома."
+        }
+      ],
+      "analogs_ru": [
+        "что поделаешь",
+        "ничего не поделаешь",
+        "ну что ж",
+        "так уж вышло",
+        "куда деваться"
+      ],
+      "literal_ru": "что будем [делать]",
+      "register": "разг.; примирение с неизбежным, а не вопрос о плане; расширенно šta ćemo, tako je kako je, šta se može",
+      "note": "Формула стоит в одном ряду с šta se može, tako je kako je, nema veze — целым слоем сербских способов принять неизбежное без сопротивления. Русское «что поделаешь» покрывает почти точно.",
+      "keyword": "šta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.920Z"
+    },
+    {
       "id": "msyrhihl1xfxe",
       "headword_latin": "Šta fali?",
       "headword_cyrillic": "Шта фали?",
@@ -14475,6 +14826,33 @@
       "keyword": "sport",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.238Z"
+    },
+    {
+      "id": "mt7hwo7aemqo3",
+      "headword_latin": "Tovarna marva",
+      "headword_cyrillic": "Товарна марва",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "рабочая скотина; ломовая лошадь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisam ja tovarna marva da sve to nosim.",
+          "russian": "Я не вьючное животное, чтобы всё это тащить."
+        }
+      ],
+      "analogs_ru": [
+        "рабочая лошадь",
+        "ломовая лошадь",
+        "вьючное животное",
+        "пахать как вол"
+      ],
+      "literal_ru": "вьючный скот",
+      "register": "разг., неодобр.-жалобн.; о человеке, которого нагружают сверх меры",
+      "note": "Marva — «скот, скотина», tovar — «вьюк, поклажа».",
+      "keyword": "marva",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.918Z"
     },
     {
       "id": "msxl0hlirujo9",
@@ -16205,6 +16583,33 @@
       "keyword": "zbrda",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "mt7hwo7b7ojgp",
+      "headword_latin": "Zdravo za gotovo",
+      "headword_cyrillic": "Здраво за готово",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как само собой разумеющееся; на веру",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne uzimaj to zdravo za gotovo, proveri.",
+          "russian": "Не принимай это на веру, проверь."
+        }
+      ],
+      "analogs_ru": [
+        "как само собой разумеющееся",
+        "как данность",
+        "за чистую монету",
+        "не задумываясь принять"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; управление uzeti šta zdravo za gotovo; двузначно — и «принимать как должное, не ценя», и «поверить не проверяя»",
+      "note": "Zdravo здесь в старом значении «целиком, полностью», а не «здорово»; gotovo — «готовое, наличное». Буквально «принять целиком как готовое».",
+      "keyword": "gotovo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:13:58.919Z"
     },
     {
       "id": "mt7a30stg24ki",
