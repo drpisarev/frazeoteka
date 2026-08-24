@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T13:38:11.691Z",
+  "updated": "2026-08-24T13:43:10.223Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -12838,6 +12838,33 @@
       "created_at": "2026-08-21T18:32:36.729Z"
     },
     {
+      "id": "mt7adkcrks20g",
+      "headword_latin": "Ubaciti svojih pet para",
+      "headword_cyrillic": "Убацити својих пет пара",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вставить свои пять копеек",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Morao je i on da ubaci svojih pet para.",
+          "russian": "И он не удержался, вставил свои пять копеек."
+        }
+      ],
+      "analogs_ru": [
+        "вставить свои пять копеек",
+        "ввернуть словечко",
+        "влезть со своим мнением",
+        "добавить от себя"
+      ],
+      "literal_ru": "подбросить свои пять пар (para — мелкая монета, сотая динара)",
+      "register": "разг., чаще самоиронично («и я туда же») или с лёгким упрёком в чужой адрес; глаголы варьируют: ubaciti, dodati, dati svojih pet para",
+      "note": "Para — не «пара», а денежная единица: сто пар составляют динар; монета давно вышла из обихода, оставшись в счётных оборотах и в этой идиоме. Русские «пять копеек» устроены точно так же — мелочь, которой никто не просил. Заведено по запросу «nepozvan se uključiti u priču» — это описание, а не устойчивый оборот. См. также: BITI MIROĐIJA U SVAKOJ ČORBI, SOLITI PAMET.",
+      "keyword": "para",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:43:10.155Z"
+    },
+    {
       "id": "mt0b1qfysmz0e",
       "headword_latin": "Ući u štos",
       "headword_cyrillic": "Ући у штос",
@@ -12994,6 +13021,33 @@
       "keyword": "sekira",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt7adkcscfhc8",
+      "headword_latin": "Upasti u reč",
+      "headword_cyrillic": "Упасти у реч",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "перебить; влезть в разговор",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Izvini što upadam u reč, ali ovo je važno.",
+          "russian": "Извини, что перебиваю, но это важно."
+        }
+      ],
+      "analogs_ru": [
+        "перебить",
+        "вклиниться",
+        "влезть в разговор",
+        "не дать договорить"
+      ],
+      "literal_ru": "упасть в слово",
+      "register": "нейтр.-разг., неодобр.; управление upasti kome u reč + дательный",
+      "note": "В отличие от ubaciti svojih pet para речь именно о перебивании говорящего, а не о непрошеном мнении. Из того же смыслового ряда: mešati se u tuđa posla «лезть в чужие дела», gurati nos gde mu nije mesto «совать нос куда не следует».",
+      "keyword": "reč",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:43:10.156Z"
     },
     {
       "id": "mt38pdhj4v26z",
