@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T17:22:37.358Z",
+  "updated": "2026-08-24T18:52:07.630Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -3807,6 +3807,33 @@
       "created_at": "2026-08-21T18:05:17.694Z"
     },
     {
+      "id": "mt7levw3nuuzf",
+      "headword_latin": "Drmnuti jednu",
+      "headword_cyrillic": "Дрмнути једну",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "хлопнуть рюмку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hajde da drmnemo jednu pre ručka.",
+          "russian": "Давай хлопнем по одной перед обедом."
+        }
+      ],
+      "analogs_ru": [
+        "хлопнуть рюмку",
+        "дёрнуть",
+        "пропустить стаканчик",
+        "накатить"
+      ],
+      "literal_ru": "тряхнуть одну",
+      "register": "разг., шутл.; jednu без существительного — «одну рюмку» подразумевается; с уточнением drmnuti jednu orahovaču, drmnuti rakijicu",
+      "note": "Orahovača — ракия, настоянная на зелёных грецких орехах, собранных до Ивана Купалы; тёмная, горьковатая, домашняя. В сербском доме её держат как лекарство от желудка и предлагают гостю с формулой ovo je za stomak. Названия ракий образуются одинаково: šljivovica (слива), kajsijevača (абрикос), dunjevača (айва), lozovača (виноград), travarica (на травах).",
+      "keyword": "rakija",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.539Z"
+    },
+    {
       "id": "mt38wx4j15fng",
       "headword_latin": "Drugim rečima",
       "headword_cyrillic": "Другим речима",
@@ -5381,6 +5408,33 @@
       "keyword": "Drina",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:22:48.136Z"
+    },
+    {
+      "id": "mt7levw335loc",
+      "headword_latin": "Ispušni ventil",
+      "headword_cyrillic": "Испушни вентил",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "отдушина; выпускной клапан",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ponekad mi je razgovor s prijateljem jedini ispušni ventil.",
+          "russian": "Иногда разговор с другом — моя единственная отдушина."
+        }
+      ],
+      "analogs_ru": [
+        "отдушина",
+        "выпускной клапан",
+        "способ выпустить пар",
+        "разрядка"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; технический термин, употребляемый переносно — о том, что позволяет сбросить напряжение",
+      "note": "Русская «отдушина» тоже техническая по происхождению — отверстие для воздуха в печи; оба языка пришли к одному переносу независимо.",
+      "keyword": "ventil",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.539Z"
     },
     {
       "id": "mt3a4b4frahzv",
@@ -7286,6 +7340,62 @@
       "created_at": "2026-08-18T00:00:07.129Z"
     },
     {
+      "id": "mt7levw2tmic5",
+      "headword_latin": "Krš",
+      "headword_cyrillic": "Крш",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "1. карст, каменистая местность; 2. рухлядь, драндулет; 3. бардак, развал",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moram da kupim novi telefon, ovaj je teški krš.",
+          "russian": "Надо новый телефон покупать, этот полная рухлядь."
+        }
+      ],
+      "analogs_ru": [
+        "каменистая пустошь",
+        "рухлядь",
+        "хлам",
+        "развалина",
+        "бардак"
+      ],
+      "literal_ru": "",
+      "register": "знач. 1 геогр.-нейтр.; знач. 2 и 3 разг., пренебр.; ходовое teški krš «полная рухлядь», otišlo u krš «пошло прахом», soba ti je u kršu «в комнате разгром»",
+      "note": "Международный геологический термин «карст» происходит именно отсюда — от словенского Kras и сербского krš, названия каменистого плато над Триестом. Слово ушло в мировую науку и вернулось в сербский уже как karst, так что в языке живут обе формы: своя бытовая пренебрежительная и заимствованная научная.",
+      "keyword": "krš",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.538Z"
+    },
+    {
+      "id": "mt7levw2s62dn",
+      "headword_latin": "Kršan",
+      "headword_cyrillic": "Кршан",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "статный; крепкий, дюжий",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kršan je, kao od brega odvaljen.",
+          "russian": "Здоровяк, косая сажень в плечах."
+        }
+      ],
+      "analogs_ru": [
+        "статный",
+        "крепкий",
+        "дюжий",
+        "здоровяк",
+        "косая сажень в плечах"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-одобр.; чаще о мужчине: kršan momak, kršan čovek; усиленное сравнение kao od brega odvaljen «как от горы отломленный»",
+      "note": "Тот же корень, что в krš «камень, скала», — «каменный, скалистый» о телосложении. Пренебрежительное krš «рухлядь» и одобрительное kršan «статный» разошлись из одного слова в противоположные стороны.",
+      "keyword": "kršan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.538Z"
+    },
+    {
       "id": "mt3a4b4hbaph9",
       "headword_latin": "Kružiti kao kiša oko Kragujevca",
       "headword_cyrillic": "Кружити као киша око Крагујевца",
@@ -7632,6 +7742,61 @@
       "keyword": "suze",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt7levw2w1lkz",
+      "headword_latin": "Litica",
+      "headword_cyrillic": "Литица",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "утёс; отвесный обрыв",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kuća stoji na samoj litici iznad mora.",
+          "russian": "Дом стоит на самом обрыве над морем."
+        }
+      ],
+      "analogs_ru": [
+        "утёс",
+        "обрыв",
+        "круча",
+        "отвесная скала"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; именно вертикальная стена, с которой можно сорваться; переносно na litici «на грани, у края пропасти»",
+      "note": "",
+      "keyword": "litica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.538Z"
+    },
+    {
+      "id": "mt7levw32caqg",
+      "headword_latin": "Ložiti se na",
+      "headword_cyrillic": "Ложити се на",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "западать на кого-л.; загораться чем-л.",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vidi se iz aviona da se ložiš na njega.",
+          "russian": "За версту видно, что ты на него запала."
+        }
+      ],
+      "analogs_ru": [
+        "западать на",
+        "втюриться",
+        "загораться",
+        "тащиться от",
+        "фанатеть"
+      ],
+      "literal_ru": "разжигаться от чего-л. — от ložiti «топить печь»",
+      "register": "разг.-сленг.; управление ložiti se na koga/šta; и о влюблённости, и об увлечении вообще",
+      "note": "Существительное loža «увлечение, страсть», naložen «загоревшийся», naložiti nekoga «раззадорить, накрутить». Образ огня общий с русским «загораться», но сербский держит его буквальнее — от печки. См. также: PADATI NA.",
+      "keyword": "ložiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.539Z"
     },
     {
       "id": "mt3a4b4hqeydo",
@@ -8062,6 +8227,33 @@
       "keyword": "milo",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:22:41.703Z"
+    },
+    {
+      "id": "mt7levw3le0bs",
+      "headword_latin": "Miriše kao duša",
+      "headword_cyrillic": "Мирише као душа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пахнет божественно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uđi, cela kuća miriše kao duša.",
+          "russian": "Заходи, весь дом божественно пахнет."
+        }
+      ],
+      "analogs_ru": [
+        "пахнет божественно",
+        "одуряюще пахнет",
+        "слюнки текут",
+        "аромат на весь дом"
+      ],
+      "literal_ru": "пахнет как душа",
+      "register": "разг., одобр.; редк./не подтверждено надёжно — как устойчивый оборот в источниках не найдено",
+      "note": "Наиболее вероятно, что duša здесь — усечённое dušica, то есть majčina dušica «чабрец, тимьян», трава с сильным сладким запахом, растущая по сербским лугам. При случае стоит записать живой контекст: о еде фраза сказана или о траве.",
+      "keyword": "duša",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.539Z"
     },
     {
       "id": "mt79wy4awestb",
@@ -8763,6 +8955,33 @@
       "keyword": "natkasna",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:15:39.929Z"
+    },
+    {
+      "id": "mt7levw2ujwd4",
+      "headword_latin": "Natrpan raspored",
+      "headword_cyrillic": "Натрпан распоред",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "плотный график",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ove nedelje mi je raspored natrpan, ne stižem nigde.",
+          "russian": "На этой неделе график плотный, никуда не успеваю."
+        }
+      ],
+      "analogs_ru": [
+        "плотный график",
+        "забитое расписание",
+        "всё расписано по минутам",
+        "ни одного окна"
+      ],
+      "literal_ru": "набитое расписание",
+      "register": "нейтр.; синонимы pretrpan, nabijen, gust raspored",
+      "note": "Глагол natrpati «набить, навалить».",
+      "keyword": "raspored",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.538Z"
     },
     {
       "id": "mt391c51e5zt7",
@@ -14526,6 +14745,33 @@
       "created_at": "2026-08-24T13:38:11.626Z"
     },
     {
+      "id": "mt7levw2gz3cw",
+      "headword_latin": "Stena",
+      "headword_cyrillic": "Стена",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "скала; каменная глыба",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Popeli su se na stenu iznad reke.",
+          "russian": "Они забрались на скалу над рекой."
+        }
+      ],
+      "analogs_ru": [
+        "скала",
+        "утёс",
+        "каменная глыба",
+        "камень"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; общее слово для скалы и скальной породы; переносно о надёжном человеке: on mi je stena «он мне опора»; собирательное stenje «скалы»",
+      "note": "Различие в ряду: stena — скала как таковая; litica — её отвесная часть, обрыв; krš — каменистая, изрытая местность целиком.",
+      "keyword": "stena",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.538Z"
+    },
+    {
       "id": "msxrqv222nzhh",
       "headword_latin": "Sto ljudi, sto ćudi",
       "headword_cyrillic": "Сто људи, сто ћуди",
@@ -14631,6 +14877,33 @@
       "created_at": "2026-08-24T13:38:11.628Z"
     },
     {
+      "id": "mt7levw3trpde",
+      "headword_latin": "Strm",
+      "headword_cyrillic": "Стрм",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "крутой; обрывистый",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Put je strm, pazi kako voziš.",
+          "russian": "Дорога крутая, осторожнее за рулём."
+        }
+      ],
+      "analogs_ru": [
+        "крутой",
+        "обрывистый",
+        "отвесный",
+        "круто спускающийся"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; о склоне, дороге, лестнице, крыше; наречие strmo, существительное strmina «круча»",
+      "note": "Ложный друг: русское «крутой» в переносном значении («крутой парень») по-сербски будет frajer, opasan, car — но не strm. Сербское strm только о наклоне.",
+      "keyword": "strm",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.539Z"
+    },
+    {
       "id": "mt0b9rqwfbjsn",
       "headword_latin": "Stvari poput toga",
       "headword_cyrillic": "Ствари попут тога",
@@ -14656,6 +14929,33 @@
       "keyword": "stvar",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
+      "id": "mt7levw4a956z",
+      "headword_latin": "Suvo zlato",
+      "headword_cyrillic": "Суво злато",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "чистое золото; сущий клад",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moja baka je suvo zlato, uvek je tu i nikad ništa ne traži zauzvrat.",
+          "russian": "Моя бабушка — чистое золото: всегда рядом и никогда ничего не просит взамен."
+        }
+      ],
+      "analogs_ru": [
+        "чистое золото",
+        "сущий клад",
+        "золото, а не человек",
+        "на вес золота"
+      ],
+      "literal_ru": "сухое золото",
+      "register": "разг., одобр.; о человеке, вещи или работе исключительной ценности; ходовое ona je suvo zlato, to je suvo zlato u današnje vreme",
+      "note": "Suvo здесь — «беспримесное, чистое», как в suvo srebro; к сухости отношения не имеет. Русское «чистое золото» устроено так же, только через другое прилагательное.",
+      "keyword": "zlato",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.540Z"
     },
     {
       "id": "msxl6oyr8akiw",
@@ -17124,6 +17424,32 @@
       "keyword": "termin",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.188Z"
+    },
+    {
+      "id": "mt7levw3qufzn",
+      "headword_latin": "Zamorče",
+      "headword_cyrillic": "Заморче",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "1. морская свинка; 2. подопытный кролик",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisam ja zamorče da isprobavam njihove ideje.",
+          "russian": "Я не подопытный кролик, чтобы испытывать их идеи."
+        }
+      ],
+      "analogs_ru": [
+        "морская свинка",
+        "подопытный кролик",
+        "подопытная мышь"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; знач. 2 переносное, о человеке, на котором ставят опыты: nisam ja zamorče; вариант zamorac",
+      "note": "Оба языка назвали зверька по заморскому происхождению: русская «морская свинка» — привезённая из-за моря, сербское zamorče буквально «заморское». Животное родом из Перу и к морю отношения не имеет. Для опытов русский взял кролика, серб оставил ту же свинку.",
+      "keyword": "zamorče",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:52:07.539Z"
     },
     {
       "id": "mt38pdhgl5n72",
