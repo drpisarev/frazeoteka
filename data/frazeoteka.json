@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T17:17:31.759Z",
+  "updated": "2026-08-24T17:22:37.358Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -1312,6 +1312,33 @@
       "keyword": "blesav",
       "source": "frazeoteka",
       "created_at": "2026-08-24T17:13:58.920Z"
+    },
+    {
+      "id": "mt7i7s5w9f7nw",
+      "headword_latin": "Bljutav",
+      "headword_cyrillic": "Бљутав",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "пресный; безвкусный",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Supa je potpuno bljutava, nema soli.",
+          "russian": "Суп совершенно пресный, соли нет."
+        }
+      ],
+      "analogs_ru": [
+        "пресный",
+        "безвкусный",
+        "никакой",
+        "плоский (о шутке)"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; о еде без соли и вкуса, переносно о фильме, шутке, разговоре: bljutav vic, bljutav film",
+      "note": "У слова есть и оттенок вызывающего дурноту — общий корень с bljuvati «блевать». Контекст различает: о еде это «пресный», об эмоции — «противный до тошноты».",
+      "keyword": "bljutav",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.268Z"
     },
     {
       "id": "msxlnru8l86m9",
@@ -4130,6 +4157,33 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "mt7i7s5wx6sh7",
+      "headword_latin": "Evo trčim",
+      "headword_cyrillic": "Ево трчим",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ага, бегу уже",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hajde da idemo na trening. — Evo trčim.",
+          "russian": "Пойдём на тренировку. — Ага, бегу уже."
+        }
+      ],
+      "analogs_ru": [
+        "ага, бегу",
+        "сейчас, только шнурки поглажу",
+        "разбежался",
+        "щас всё брошу"
+      ],
+      "literal_ru": "вот, бегу",
+      "register": "разг., ирон.; отказ, поданный как показное рвение; всегда с соответствующей интонацией",
+      "note": "См. также: MALO SUTRA, ZINI DA TI KAŽEM.",
+      "keyword": "trčati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.268Z"
+    },
+    {
       "id": "mt39f3sxhpgbh",
       "headword_latin": "Fale samo od popa uši",
       "headword_cyrillic": "Фале само од попа уши",
@@ -4237,6 +4291,33 @@
       "keyword": "floskula",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
+      "id": "mt7i7s5vlopgp",
+      "headword_latin": "Fušeraj",
+      "headword_cyrillic": "Фушерај",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "халтура; топорная работа",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sve je to fušeraj, ništa nisu uradili kako treba.",
+          "russian": "Всё это халтура, ничего не сделали как следует."
+        }
+      ],
+      "analogs_ru": [
+        "халтура",
+        "топорная работа",
+        "сделано через пень колоду",
+        "брак"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; из нем. Pfuscherei; родственные fušer «халтурщик», fušeriti «халтурить»",
+      "note": "Есть и второе, более узкое употребление: raditi fuš — «шабашить, работать налево». См. также: PLJUNI PA ZALEPI, SMANDRLJATI.",
+      "keyword": "fušeraj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.267Z"
     },
     {
       "id": "msxmobcxtwg5x",
@@ -6315,6 +6396,34 @@
       "created_at": "2026-08-19T16:33:49.495Z"
     },
     {
+      "id": "mt7i7s5w5k1xp",
+      "headword_latin": "Kao kuvana noga",
+      "headword_cyrillic": "Као кувана нога",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как выжатый лимон; никакой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Posle smene sam kao kuvana noga.",
+          "russian": "После смены я как выжатый лимон."
+        }
+      ],
+      "analogs_ru": [
+        "как выжатый лимон",
+        "варёный",
+        "никакой",
+        "без сил",
+        "еле живой"
+      ],
+      "literal_ru": "как варёная нога",
+      "register": "разг., экспресс.; о полном упадке сил, чаще от жары или усталости; синонимы kao krpa, kao prebijen, skuvan",
+      "note": "",
+      "keyword": "noga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.268Z"
+    },
+    {
       "id": "mt79wy4bj83p1",
       "headword_latin": "Kao lanjski sneg",
       "headword_cyrillic": "Као лањски снег",
@@ -7660,6 +7769,33 @@
       "created_at": "2026-08-24T15:15:39.931Z"
     },
     {
+      "id": "mt7i7s5xsrcbc",
+      "headword_latin": "Magareća klupa",
+      "headword_cyrillic": "Магарећа клупа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "камчатка; парта для двоечников",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet su ga poslali u magareću klupu.",
+          "russian": "Опять его отправили на камчатку."
+        }
+      ],
+      "analogs_ru": [
+        "камчатка",
+        "последняя парта",
+        "угол (куда ставят)",
+        "скамья позора"
+      ],
+      "literal_ru": "ослиная скамья",
+      "register": "разг., школьн.; исторически отдельная скамья, куда сажали провинившегося или отстающего ученика на позор; сегодня чаще переносно: sedi u magarećoj klupi",
+      "note": "Русское «камчатка» — просто задние парты, без наказания; сербское держит именно позорный смысл. Ослиные уши и ослиная скамья — общеевропейский школьный реквизит, ср. англ. dunce cap.",
+      "keyword": "klupa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.269Z"
+    },
+    {
       "id": "msxlgokc2gisz",
       "headword_latin": "Majke mi",
       "headword_cyrillic": "Мајке ми",
@@ -8441,6 +8577,32 @@
       "keyword": "nagon",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.191Z"
+    },
+    {
+      "id": "mt7i7s5v9q2fb",
+      "headword_latin": "Najblaže rečeno",
+      "headword_cyrillic": "Најблаже речено",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "мягко говоря",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "To je, najblaže rečeno, neodgovorno.",
+          "russian": "Это, мягко говоря, безответственно."
+        }
+      ],
+      "analogs_ru": [
+        "мягко говоря",
+        "это ещё мягко сказано",
+        "если выражаться прилично"
+      ],
+      "literal_ru": "мягчайше говоря",
+      "register": "нейтр.; вводный оборот перед резкой оценкой или после неё; синоним u najmanju ruku",
+      "note": "",
+      "keyword": "blago",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.267Z"
     },
     {
       "id": "msxwc061omf8a",
@@ -9513,6 +9675,33 @@
       "created_at": "2026-08-24T14:58:53.118Z"
     },
     {
+      "id": "mt7i7s5x0hf2h",
+      "headword_latin": "Nije do mene",
+      "headword_cyrillic": "Није до мене",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "от меня не зависит; я тут ни при чём",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije do mene, ja sam sve poslao na vreme.",
+          "russian": "От меня не зависит, я всё отправил вовремя."
+        }
+      ],
+      "analogs_ru": [
+        "от меня не зависит",
+        "не в моей власти",
+        "я тут ни при чём",
+        "не моя вина"
+      ],
+      "literal_ru": "",
+      "register": "разг.; управление biti do koga «зависеть от кого-л.»; утвердительно do mene je «это от меня зависит», ako je do mene «если дело за мной»",
+      "note": "Конструкция ходовая и коварная: буквально «не до меня», что по-русски значит совсем иное. Запоминать целиком.",
+      "keyword": "do",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.269Z"
+    },
+    {
       "id": "mt0b9rqumd6cl",
       "headword_latin": "Nije ni ona cvećka",
       "headword_cyrillic": "Није ни она цвећка",
@@ -9992,6 +10181,33 @@
       "keyword": "sevdah",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:25:38.951Z"
+    },
+    {
+      "id": "mt7i7s5xbmao5",
+      "headword_latin": "Od jutra do sutra",
+      "headword_cyrillic": "Од јутра до сутра",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "с утра до ночи; целыми сутками",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Radi od jutra do sutra, a plata mizerna.",
+          "russian": "Работает с утра до ночи, а зарплата грошовая."
+        }
+      ],
+      "analogs_ru": [
+        "с утра до ночи",
+        "день-деньской",
+        "с утра до вечера",
+        "круглые сутки"
+      ],
+      "literal_ru": "с утра до завтра",
+      "register": "разг.; держится на рифме jutra — sutra",
+      "note": "Отсюда и странная логика: не «до вечера», а «до следующего дня». См. также: PO CEO DAN, SVETKOM I PETKOM.",
+      "keyword": "jutro",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.269Z"
     },
     {
       "id": "msym7ab1zuzyi",
@@ -11097,6 +11313,38 @@
       "keyword": "smuk",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt7i7s5xuw35c",
+      "headword_latin": "Pije vodu",
+      "headword_cyrillic": "Пије воду",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "держится; звучит убедительно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Njegov predlog je dobar, ta ideja pije vodu.",
+          "russian": "Предложение дельное, идея держится."
+        },
+        {
+          "serbian_latin": "Nemoj mi reći da ti je pobegao autobus, taj izgovor ne pije vodu.",
+          "russian": "Не рассказывай, что автобус ушёл, — эта отговорка не катит."
+        }
+      ],
+      "analogs_ru": [
+        "держится",
+        "не подкопаешься",
+        "звучит убедительно",
+        "имеет смысл",
+        "это работает"
+      ],
+      "literal_ru": "пьёт воду",
+      "register": "разг.; об аргументе, объяснении, идее, которые выдерживают проверку; отрицательная форма ходовее: ne pije vodu «не катит, этот номер не пройдёт»",
+      "note": "Образ, вероятно, от сосуда, который не течёт: воду держит — значит целый. Русское «не держит воду» существует буквально, но идиомой не стало; ближайшее по функции — «не выдерживает критики».",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.269Z"
     },
     {
       "id": "mt7a760a5hjfr",
@@ -13132,6 +13380,32 @@
       "created_at": "2026-08-19T16:27:34.559Z"
     },
     {
+      "id": "mt7i7s5v8bfj7",
+      "headword_latin": "Sečeš uši da pokrpiš dupe",
+      "headword_cyrillic": "Сечеш уши да покрпиш дупе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "тришкин кафтан — латать одну дыру, проделывая другую",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzima novi kredit da vrati stari — seče uši da pokrpi dupe.",
+          "russian": "Берёт новый кредит, чтобы отдать старый: тришкин кафтан."
+        }
+      ],
+      "analogs_ru": [
+        "тришкин кафтан",
+        "латать одну дыру, проделывая другую",
+        "грабить Петра, чтобы заплатить Павлу"
+      ],
+      "literal_ru": "режешь уши, чтобы залатать зад",
+      "register": "груб.-разг., неодобр.; о решении, которое создаёт новую проблему вместо старой; чаще о долгах и бюджетах",
+      "note": "Русский аналог из басни Крылова — Тришка укоротил рукава, чтобы починить локти; сербский образ телесный и грубый, но устроен так же.",
+      "keyword": "uši",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.267Z"
+    },
+    {
       "id": "mt38pyk0cc0a7",
       "headword_latin": "Seo kao dečja guza na nošu",
       "headword_cyrillic": "Сео као дечја гуза на ношу",
@@ -13263,6 +13537,33 @@
       "keyword": "sila",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:35:16.666Z"
+    },
+    {
+      "id": "mt7i7s5xrvgnw",
+      "headword_latin": "Sisati vesla",
+      "headword_cyrillic": "Сисати весла",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть простофилей; лаптем щи хлебать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nećeš ti mene prevariti, nisam ja sisao vesla.",
+          "russian": "Меня ты не обманешь, я не лаптем щи хлебал."
+        }
+      ],
+      "analogs_ru": [
+        "быть простофилей",
+        "лаптем щи хлебать",
+        "вчера родился",
+        "дурачок наивный"
+      ],
+      "literal_ru": "сосать вёсла — вместо материнской груди",
+      "register": "разг.-простореч.; почти исключительно с отрицанием и в перфекте: nisam ja sisao vesla «меня не проведёшь, я не вчера родился»",
+      "note": "Значение не «бездельничать», а «быть наивным, легковерным»; зафиксировано в воеводинских говорах (Бечей, Ковиль, Вршац). Логика образа: кого вместо материнской груди кормили веслом, тот вырос простаком и его легко обвести. Отсюда почти обязательное отрицание — фраза служит защитой от обмана, а не описанием чужой глупости. Ходят и вывернутые варианты: nisam ja veslao sise. См. также: PREVESTI ŽEDNOG PREKO VODE.",
+      "keyword": "veslo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.269Z"
     },
     {
       "id": "msxqn1oqb8nm5",
@@ -14089,6 +14390,33 @@
       "keyword": "stav",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:30:14.841Z"
+    },
+    {
+      "id": "mt7i7s5xv9njh",
+      "headword_latin": "Stalo mi je do tebe",
+      "headword_cyrillic": "Стало ми је до тебе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ты мне дорог; мне не всё равно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ukoliko ti je stalo do partnera, nemoj da ga lažeš.",
+          "russian": "Если тебе дорог твой партнёр, не ври ему."
+        }
+      ],
+      "analogs_ru": [
+        "ты мне дорог",
+        "мне не всё равно",
+        "мне важно",
+        "я дорожу тобой"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; управление stalo je kome do koga/čega + родительный; безличная конструкция, лицо в дательном",
+      "note": "Самый обиходный способ сказать «мне важно» и «я дорожу»; сильнее нейтрального bitno mi je, мягче признания volim te. Отрицание nije mi stalo — «мне безразлично».",
+      "keyword": "stalo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.269Z"
     },
     {
       "id": "msxqn1oscjryq",
@@ -15659,6 +15987,32 @@
       "created_at": "2026-08-21T18:35:16.664Z"
     },
     {
+      "id": "mt7i7s5wvf25l",
+      "headword_latin": "U ručici doneti, u guzici odneti",
+      "headword_cyrillic": "У ручици донети, у гузици однети",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "принесёт с напёрсток, унесёт с ведро",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dođe s kutijom keksa, a ode s pola ostave — u ručici doneti, u guzici odneti.",
+          "russian": "Придёт с пачкой печенья, а уйдёт с полкладовки: принесёт с напёрсток, унесёт с ведро."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "вложил копейку, вынул рубль",
+        "пришёл с пустыми руками, ушёл с полными"
+      ],
+      "literal_ru": "в ручке принести, в заднице унести",
+      "register": "груб.-разг., неодобр.; о госте или родственнике, который приносит мелочь, а уносит несравнимо больше; в приличном обществе не произносится",
+      "note": "",
+      "keyword": "ručica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.268Z"
+    },
+    {
       "id": "msxu2ocs69sgg",
       "headword_latin": "U se, na se i poda se",
       "headword_cyrillic": "У се, на се и пода се",
@@ -16246,6 +16600,32 @@
       "created_at": "2026-08-19T16:21:52.135Z"
     },
     {
+      "id": "mt7i7s5w84dpw",
+      "headword_latin": "Uzmi, kume, da se ne baci",
+      "headword_cyrillic": "Узми, куме, да се не баци",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "лучше в нас, чем в таз",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima još sarme, uzmi kume da se ne baci.",
+          "russian": "Сарма ещё есть, бери — лучше в нас, чем в таз."
+        }
+      ],
+      "analogs_ru": [
+        "лучше в нас, чем в таз",
+        "не пропадать же добру",
+        "доедай, а то выбрасывать жалко"
+      ],
+      "literal_ru": "бери, кум, чтоб не выбрасывать",
+      "register": "разг., шутл.; застольное понукание доесть остатки; обращение kume условное — к любому гостю",
+      "note": "См. также: JAZUK BACITI, A OD JAZUKA SE DEBLJA.",
+      "keyword": "kum",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.268Z"
+    },
+    {
       "id": "mt7dahkow08ok",
       "headword_latin": "Vedri i oblači",
       "headword_cyrillic": "Ведри и облачи",
@@ -16562,6 +16942,32 @@
       "keyword": "džabe",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
+      "id": "mt7i7s5y6twi9",
+      "headword_latin": "Za džabe i sirće je slatko",
+      "headword_cyrillic": "За џабе и сирће је слатко",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "на халяву и уксус сладкий",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzeo je i ono što mu ne treba — za džabe i sirće je slatko.",
+          "russian": "Взял и то, что не нужно: на халяву и уксус сладкий."
+        }
+      ],
+      "analogs_ru": [
+        "на халяву и уксус сладкий",
+        "дармовое всегда вкусно",
+        "бесплатное всё съедобно"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; о том, кто берёт что попало, лишь бы даром",
+      "note": "Совпадение с русским полное, вплоть до уксуса. См. также: ŠTO JE DŽABA, I BOGU JE DRAGO; ZA DŽABE.",
+      "keyword": "sirće",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T17:22:37.270Z"
     },
     {
       "id": "mt7cc588h0ej7",
