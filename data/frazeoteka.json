@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T18:55:45.709Z",
+  "updated": "2026-08-24T18:59:35.698Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -1234,6 +1234,34 @@
       "keyword": "minus",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:04:45.431Z"
+    },
+    {
+      "id": "mt7lohmatsv64",
+      "headword_latin": "Biti u opticaju",
+      "headword_cyrillic": "Бити у оптицају",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть в обращении; рассматриваться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Koji datumi su u opticaju?",
+          "russian": "Какие даты рассматриваются?"
+        }
+      ],
+      "analogs_ru": [
+        "быть в обращении",
+        "рассматриваться",
+        "обсуждаться",
+        "фигурировать",
+        "ходить (о слухах)"
+      ],
+      "literal_ru": "быть в обороте",
+      "register": "нейтр.-публиц.; двузначно — о деньгах и документах «находиться в обращении» (novčanice u opticaju), о вариантах и именах «рассматриваться, обсуждаться»",
+      "note": "Opticaj от opticati «обтекать, обращаться»; тот же корень в krvotok, promet. Для слухов ходовее kruži priča «ходит разговор».",
+      "keyword": "opticaj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.602Z"
     },
     {
       "id": "msxlnru8ydzo9",
@@ -5278,6 +5306,33 @@
       "created_at": "2026-08-24T13:25:38.951Z"
     },
     {
+      "id": "mt7lohmaoy8ts",
+      "headword_latin": "Imati dve leve ruke",
+      "headword_cyrillic": "Имати две леве руке",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "руки-крюки; быть неумехой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne daj mu čekić, ima dve leve ruke.",
+          "russian": "Не давай ему молоток, у него руки-крюки."
+        }
+      ],
+      "analogs_ru": [
+        "руки-крюки",
+        "руки не оттуда растут",
+        "всё из рук валится",
+        "криворукий"
+      ],
+      "literal_ru": "иметь две левые руки",
+      "register": "разг., неодобр.-шутл.; о неумелом в ручной работе",
+      "note": "Совпадает с немецким zwei linke Hände, откуда, вероятно, и пришло. Русский аналог держится на форме («крюки»), сербский и немецкий — на левизне; в обоих случаях виновата старая дурная слава левой стороны. См. также: USTATI NA LEVU NOGU.",
+      "keyword": "ruka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.603Z"
+    },
+    {
       "id": "mt0b9rqufhxcf",
       "headword_latin": "Imati posla preko glave",
       "headword_cyrillic": "Имати посла преко главе",
@@ -5303,6 +5358,33 @@
       "keyword": "posao",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
+      "id": "mt7lohmbfzq6c",
+      "headword_latin": "Imati putera na glavi",
+      "headword_cyrillic": "Имати путера на глави",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "рыльце в пушку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neka ćuti, i on ima putera na glavi.",
+          "russian": "Пусть помолчит, у него у самого рыльце в пушку."
+        }
+      ],
+      "analogs_ru": [
+        "рыльце в пушку",
+        "совесть нечиста",
+        "сам не без греха",
+        "чья бы корова мычала"
+      ],
+      "literal_ru": "иметь масло на голове",
+      "register": "разг.-публиц., неодобр.; о том, кто обвиняет других, будучи сам замешан",
+      "note": "Германизм — от Butter auf dem Kopf haben. Образ из южнонемецкого быта: женщина несла на голове масло на рынок, и на солнце оно начинало таять и стекать, уличая её. Русское «рыльце в пушку» из крыловской басни — образ другой, смысл тот же. См. также: KRIVAC SE I SENKE BOJI.",
+      "keyword": "puter",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.603Z"
     },
     {
       "id": "mt0b9rqvtognb",
@@ -6215,6 +6297,32 @@
       "created_at": "2026-08-24T13:30:14.843Z"
     },
     {
+      "id": "mt7lohmbjnw42",
+      "headword_latin": "Još rađaju majke Obiliće",
+      "headword_cyrillic": "Још рађају мајке Обилиће",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "герои ещё не перевелись",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sam je stao pred bagere — još rađaju majke Obiliće.",
+          "russian": "Один встал перед бульдозерами: богатыри не перевелись."
+        }
+      ],
+      "analogs_ru": [
+        "богатыри не перевелись",
+        "есть ещё порох в пороховницах",
+        "мужики ещё не вывелись"
+      ],
+      "literal_ru": "ещё рожают матери Обиличей",
+      "register": "разг.-патетич., политически заряженное; о чьём-то смелом или самоотверженном поступке; употребляется и всерьёз, и с иронией, но в устах иностранца прозвучит как заявка на национальную позицию — лучше знать пассивно",
+      "note": "Милош Обилич — герой сербского эпоса, который, по преданию, на Косовом поле убил султана Мурада и был за это изрублен; в песне «Кнежева вечера» он клянётся заколоть султана и наступить ему ногой на горло. Культ героя закрепил Негош, учредивший в 1847 году Обиличеву медаль как высшую награду Черногории за храбрость; позднее появились сербская Золотая медаль Милоша Обилича (1913) и орден Республики Сербской (1993). Сегодня формула живёт в интернете и на футболках вперемешку с шутками и мемами; рядом ходит вариант još rađaju majke Jugoviće — по девяти братьям Юговичам из того же косовского цикла.",
+      "keyword": "Obilić",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.603Z"
+    },
+    {
       "id": "mt79r18nxree8",
       "headword_latin": "Juriti kao da ga vile gone",
       "headword_cyrillic": "Јурити као да га виле гоне",
@@ -6883,6 +6991,33 @@
       "keyword": "kidati",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:30:14.843Z"
+    },
+    {
+      "id": "mt7lohmasdz7i",
+      "headword_latin": "Kiša sipi",
+      "headword_cyrillic": "Киша сипи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "моросит; сеет мелкий дождь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne treba kišobran, samo sipi.",
+          "russian": "Зонт не нужен, только моросит."
+        }
+      ],
+      "analogs_ru": [
+        "моросит",
+        "сеет",
+        "накрапывает",
+        "сыплет мелкий дождь"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; sipiti только о мелком, частом дожде; существительное sipnja, sipljiva kiša",
+      "note": "Ряд по силе: rominja (моросит), sipi (сеет), pljušti (льёт как из ведра), lije (льёт).",
+      "keyword": "kiša",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.602Z"
     },
     {
       "id": "mt38wx4lbc9rw",
@@ -8750,6 +8885,32 @@
       "created_at": "2026-08-24T18:55:45.611Z"
     },
     {
+      "id": "mt7lohmc4gih9",
+      "headword_latin": "Muštuluk",
+      "headword_cyrillic": "Муштулук",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "магарыч за добрую весть; награда вестнику",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Muštuluk! Dobio si sina!",
+          "russian": "С тебя магарыч! У тебя сын родился!"
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "с тебя магарыч",
+        "подарок за хорошую новость"
+      ],
+      "literal_ru": "",
+      "register": "разг.; турцизм (muştuluk, от müjde «радостная весть»); употребляется и как возглас вестника, требующего награды, и как название самой награды",
+      "note": "Обычай живой: принёсшему добрую весть — о рождении, о сдаче экзамена, о выигрыше — полагается что-то дать, хотя бы символически. Русское «магарыч» тоже тюркизм, но означает угощение по случаю сделки, а не награду вестнику; полного соответствия нет. Родственное muštulugdžija «вестник, приносящий добрую весть».",
+      "keyword": "muštuluk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.604Z"
+    },
+    {
       "id": "msxnt6d3jh52b",
       "headword_latin": "Na mlađima svet ostaje",
       "headword_cyrillic": "На млађима свет остаје",
@@ -9176,6 +9337,33 @@
       "created_at": "2026-08-24T15:15:39.929Z"
     },
     {
+      "id": "mt7lohmapupvs",
+      "headword_latin": "Natrontati se",
+      "headword_cyrillic": "Натронтати се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "укутаться; навертеть на себя всего",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Natrontao se kao da ide na Severni pol.",
+          "russian": "Укутался, будто на Северный полюс собрался."
+        }
+      ],
+      "analogs_ru": [
+        "укутаться",
+        "закутаться как капуста",
+        "навертеть на себя",
+        "нацепить сто одёжек"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.-неодобр.; о чрезмерном количестве надетой одежды",
+      "note": "Tronte — тряпьё, ветошь; отсюда оттенок неуклюжести.",
+      "keyword": "natrontati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.602Z"
+    },
+    {
       "id": "mt7levw2ujwd4",
       "headword_latin": "Natrpan raspored",
       "headword_cyrillic": "Натрпан распоред",
@@ -9363,6 +9551,33 @@
       "keyword": "obzir",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.235Z"
+    },
+    {
+      "id": "mt7lohmb1qavo",
+      "headword_latin": "Ne izbijati iz",
+      "headword_cyrillic": "Не избијати из",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не вылезать откуда-л.; быть завсегдатаем",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On ne izbija iz te kafane.",
+          "russian": "Он из этого кабака не вылезает."
+        }
+      ],
+      "analogs_ru": [
+        "не вылезать из",
+        "торчать где-л.",
+        "быть завсегдатаем",
+        "пропадать где-л."
+      ],
+      "literal_ru": "не выбиваться из",
+      "register": "разг.; управление ne izbijati iz čega + родительный; о месте, где человек проводит всё время: кабак, спортзал, библиотека, больница",
+      "note": "",
+      "keyword": "izbijati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.603Z"
     },
     {
       "id": "mt38pyjw70fo0",
@@ -9976,6 +10191,62 @@
       "keyword": "reč",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
+      "id": "mt7lohmaviukl",
+      "headword_latin": "Nemoj da se cimaš",
+      "headword_cyrillic": "Немој да се цимаш",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не парься; не заморачивайся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da se cimaš oko poklona, stvarno nije važno.",
+          "russian": "Не заморачивайся с подарком, правда неважно."
+        }
+      ],
+      "analogs_ru": [
+        "не парься",
+        "не заморачивайся",
+        "не суетись",
+        "не бери в голову",
+        "забей"
+      ],
+      "literal_ru": "не дёргайся",
+      "register": "разг.-сленг.; успокаивающая формула, снимающая с собеседника хлопоты",
+      "note": "Cimati se «дёргаться, суетиться, напрягаться»; невозвратное cimati koga — «дёргать, теребить кого-л.».",
+      "keyword": "cimati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.602Z"
+    },
+    {
+      "id": "mt7lohmaju0jy",
+      "headword_latin": "Nemoj meni dva zeca, tri zeca",
+      "headword_cyrillic": "Немој мени два зеца, три зеца",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не заговаривай мне зубы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Gde su pare? Nemoj meni dva zeca, tri zeca, reci tačno koliko si potrošio.",
+          "russian": "Где деньги? Не заговаривай мне зубы, скажи точно, сколько потратил."
+        }
+      ],
+      "analogs_ru": [
+        "не заговаривай зубы",
+        "не крути",
+        "не вешай лапшу",
+        "не разводи тут",
+        "говори прямо"
+      ],
+      "literal_ru": "не надо мне тут два зайца, три зайца",
+      "register": "разг., резк.; требование прекратить увёртки и назвать вещи своими именами",
+      "note": "Соль в самой бессмысленности перечисления — так изображается пустое многословие уклоняющегося. См. также: NEMA KOD MENE TRTE-MRTE.",
+      "keyword": "zec",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.602Z"
     },
     {
       "id": "mt7dahkmdi8b2",
@@ -11698,6 +11969,33 @@
       "created_at": "2026-08-21T17:45:17.191Z"
     },
     {
+      "id": "mt7lohm9ffjf3",
+      "headword_latin": "Pasti u vatru",
+      "headword_cyrillic": "Пасти у ватру",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "влипнуть; попасть в переделку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Umešao se u tuđu svađu pa je pao u vatru.",
+          "russian": "Влез в чужую ссору и влип."
+        }
+      ],
+      "analogs_ru": [
+        "влипнуть",
+        "попасть в переделку",
+        "угодить в передрягу",
+        "нарваться"
+      ],
+      "literal_ru": "упасть в огонь",
+      "register": "разг.; о том, кто по своей вине или по неосторожности оказался в тяжёлом положении",
+      "note": "Не путать с biti u vatri «гореть в жару» (о болезни).",
+      "keyword": "vatra",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.601Z"
+    },
+    {
       "id": "mt38pdhhh4piv",
       "headword_latin": "Peri-deri",
       "headword_cyrillic": "Пери-дери",
@@ -12238,6 +12536,32 @@
       "keyword": "pomeriti",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt7lohm9hxn3g",
+      "headword_latin": "Popiti na eks",
+      "headword_cyrillic": "Попити на екс",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "выпить залпом; выпить до дна",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Popio je čašu na eks i izašao.",
+          "russian": "Осушил стакан залпом и вышел."
+        }
+      ],
+      "analogs_ru": [
+        "выпить залпом",
+        "осушить одним махом",
+        "до дна"
+      ],
+      "literal_ru": "",
+      "register": "разг.; ходовое na eks! как призыв, popio je na eks",
+      "note": "Eks от лат. ex «до дна», ср. немецкое застольное ex!",
+      "keyword": "eks",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.601Z"
     },
     {
       "id": "mt7d2xq74n44u",
@@ -17251,6 +17575,32 @@
       "keyword": "uškopiti",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:38:11.628Z"
+    },
+    {
+      "id": "mt7lohm9oggtn",
+      "headword_latin": "Uz dužno poštovanje",
+      "headword_cyrillic": "Уз дужно поштовање",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "при всём уважении",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uz dužno poštovanje, to je potpuna glupost.",
+          "russian": "При всём уважении, это полная чушь."
+        }
+      ],
+      "analogs_ru": [
+        "при всём уважении",
+        "со всем почтением",
+        "не в обиду будь сказано"
+      ],
+      "literal_ru": "с должным уважением",
+      "register": "нейтр.-книжн. по форме, но в живой речи почти всегда иронично — предваряет резкость или следует за ней",
+      "note": "Чем учтивее формула, тем грубее то, что рядом. Русская формула ведёт себя точно так же. Родственные приёмы — bez uvrede, s oproštenjem, nije da se hvalim, ali. См. также: S OPROŠTENJEM.",
+      "keyword": "poštovanje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:59:35.601Z"
     },
     {
       "id": "mt0aue87s4zm3",
