@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T14:58:53.193Z",
+  "updated": "2026-08-24T15:04:45.506Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -891,6 +891,33 @@
       "created_at": "2026-08-19T16:27:34.559Z"
     },
     {
+      "id": "mt7dahkndrerg",
+      "headword_latin": "Biti kao minus i plus",
+      "headword_cyrillic": "Бити као минус и плус",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть полными противоположностями",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne znam šta traže zajedno, oni su kao minus i plus.",
+          "russian": "Не понимаю, что их держит вместе, они полные противоположности."
+        }
+      ],
+      "analogs_ru": [
+        "как небо и земля",
+        "полные противоположности",
+        "как день и ночь",
+        "совершенно разные люди"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о паре, которая не подходит друг другу",
+      "note": "В отличие от русского «противоположности притягиваются», сербский оборот с оттенком «не пара».",
+      "keyword": "minus",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.431Z"
+    },
+    {
       "id": "mt0aue88dt5qk",
       "headword_latin": "Biti mirođija u svakoj čorbi",
       "headword_cyrillic": "Бити мирођија у свакој чорби",
@@ -1074,6 +1101,33 @@
       "keyword": "element",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:05:17.694Z"
+    },
+    {
+      "id": "mt7dahknbc1ii",
+      "headword_latin": "Biti u minus fazi",
+      "headword_cyrillic": "Бити у минус фази",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть не в духе; в миноре",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne ide mi se nigde, ja sam u minus fazi.",
+          "russian": "Никуда не хочется, я не в духе."
+        }
+      ],
+      "analogs_ru": [
+        "не в духе",
+        "в миноре",
+        "на нуле",
+        "настроения ноль"
+      ],
+      "literal_ru": "",
+      "register": "разг., современное; о временном упадке настроения и сил; противоположное u plus fazi",
+      "note": "",
+      "keyword": "minus",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.431Z"
     },
     {
       "id": "msxlnru8ydzo9",
@@ -3052,6 +3106,33 @@
       "created_at": "2026-08-17T19:29:45.343Z"
     },
     {
+      "id": "mt7dahkmr0c4h",
+      "headword_latin": "Dobiti muda labudova",
+      "headword_cyrillic": "Добити муда лабудова",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "получить шиш с маслом; остаться ни с чем",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Obećali su povišicu, a dobili smo muda labudova.",
+          "russian": "Обещали прибавку, а получили шиш с маслом."
+        }
+      ],
+      "analogs_ru": [
+        "получить шиш с маслом",
+        "получить фигу",
+        "остаться ни с чем",
+        "получить дырку от бублика"
+      ],
+      "literal_ru": "получить лебединые яйца — то, чего не бывает",
+      "register": "вульг.-разг.; о полном отсутствии обещанного результата; ходовое dobićeš muda labudova",
+      "note": "Соль в невозможности предмета: у птицы такого органа нет, значит получить его нельзя в принципе. Тот же приём в русском «дырка от бублика». Родственное Marijanova muda — «полный ноль, ничего».",
+      "keyword": "labud",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.430Z"
+    },
+    {
       "id": "mt38wx4l3qkef",
       "headword_latin": "Dobro jutro, Kolumbo",
       "headword_cyrillic": "Добро јутро, Колумбо",
@@ -3397,6 +3478,33 @@
       "keyword": "reč",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.235Z"
+    },
+    {
+      "id": "mt7dahkn7zi7v",
+      "headword_latin": "Držati konce u svojim rukama",
+      "headword_cyrillic": "Држати конце у својим рукама",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "держать все нити в руках",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On drži konce u svojim rukama, ostali su tu za ukras.",
+          "russian": "Все нити у него в руках, остальные для мебели."
+        }
+      ],
+      "analogs_ru": [
+        "держать все нити в своих руках",
+        "держать бразды правления",
+        "всё под контролем",
+        "дёргать за ниточки"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-публиц.; о том, кто на самом деле управляет ходом дела, часто скрытно",
+      "note": "Konac — нитка. Образ кукольный: марионетки на нитях; тот же в povlačiti konce «дёргать за ниточки». Совпадает с русским полностью.",
+      "keyword": "konac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.431Z"
     },
     {
       "id": "msxmobcx9eih9",
@@ -7758,6 +7866,34 @@
       "created_at": "2026-08-18T00:00:07.126Z"
     },
     {
+      "id": "mt7dahko9ncdm",
+      "headword_latin": "Ne vredi",
+      "headword_cyrillic": "Не вреди",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не годится; бесполезно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta karta više ne vredi.",
+          "russian": "Этот билет уже недействителен."
+        }
+      ],
+      "analogs_ru": [
+        "не годится",
+        "не подходит",
+        "бесполезно",
+        "толку никакого",
+        "не работает"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; о плане, документе, решении, лекарстве; разговорнее и грубее ne valja",
+      "note": "Пара различается оттенком: ne vredi — «не стоит, бессмысленно» (ne vredi se svađati), ne valja — «плохой, негодный» по качеству (ova mašina ne valja). У valjati есть и третье употребление: valja «стоит, следует» — valjalo bi otići «стоило бы сходить».",
+      "keyword": "vredeti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.432Z"
+    },
+    {
       "id": "mt3ae8hlc23pq",
       "headword_latin": "Ne vredi ni pišljiva boba",
       "headword_cyrillic": "Не вреди ни пишљива боба",
@@ -8075,6 +8211,33 @@
       "keyword": "reč",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
+      "id": "mt7dahkmdi8b2",
+      "headword_latin": "Ni luk jeo ni luk mirisao",
+      "headword_cyrillic": "Ни лук јео ни лук мирисао",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни сном ни духом; я тут ни при чём",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ja u toj priči nisam ni luk jeo ni luk mirisao.",
+          "russian": "Я к этой истории ни сном ни духом."
+        }
+      ],
+      "analogs_ru": [
+        "ни сном ни духом",
+        "я тут ни при чём",
+        "моя хата с краю",
+        "не при делах"
+      ],
+      "literal_ru": "ни лука ел, ни лука нюхал",
+      "register": "разг.; о полной непричастности; ходовое ja tu nisam ni luk jeo ni luk mirisao",
+      "note": "Образ через запах: лук выдаёт себя даже тому, кто рядом стоял; раз не ел и не нюхал — значит и близко не было. Русское «моя хата с краю» ближе по функции, но там оттенок уклонения, а здесь именно факт непричастности.",
+      "keyword": "luk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.430Z"
     },
     {
       "id": "mt79ndfsz7gho",
@@ -8905,6 +9068,61 @@
       "created_at": "2026-08-19T16:33:49.496Z"
     },
     {
+      "id": "mt7dahknwo6v6",
+      "headword_latin": "On je u svom filmu",
+      "headword_cyrillic": "Он је у свом филму",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "он в своём мире",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne obraćaj pažnju, on je u svom filmu.",
+          "russian": "Не обращай внимания, он в своём мире."
+        }
+      ],
+      "analogs_ru": [
+        "в своём мире",
+        "витает в облаках",
+        "живёт в своей реальности",
+        "у него своё кино"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о человеке, оторванном от происходящего — иногда мечтательно, чаще с упрёком в невменяемости",
+      "note": "Родственное — ne kapiraš film «не догоняешь», film mu se vrti «его несёт».",
+      "keyword": "film",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.432Z"
+    },
+    {
+      "id": "mt7dahknpdh70",
+      "headword_latin": "Opasuljiti se",
+      "headword_cyrillic": "Опасуљити се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "очухаться; врубиться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opasulji se, čoveče, o čemu pričaš?",
+          "russian": "Очухайся, дружище, ты о чём вообще?"
+        }
+      ],
+      "analogs_ru": [
+        "очухаться",
+        "прийти в себя",
+        "врубиться",
+        "дойти наконец",
+        "сообразить что к чему"
+      ],
+      "literal_ru": "«офасолиться» — от pasulj «фасоль»",
+      "register": "разг.-шутл.; и «прийти в себя после потрясения», и «наконец сообразить»; ходовое в императиве: opasulji se, čoveče",
+      "note": "Образ, вероятно, от сытной фасоли, которая приводит человека в чувство; надёжного объяснения нет. Ср. prosto ko pasulj — фасоль в сербском вообще держит за собой всё простое и основательное.",
+      "keyword": "pasulj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.431Z"
+    },
+    {
       "id": "msxp30ekhmnxb",
       "headword_latin": "Opreznost je majka mudrosti",
       "headword_cyrillic": "Опрезност је мајка мудрости",
@@ -9607,6 +9825,33 @@
       "created_at": "2026-08-24T13:38:11.626Z"
     },
     {
+      "id": "mt7dahkm2i4ka",
+      "headword_latin": "Pljuni pa zalepi",
+      "headword_cyrillic": "Пљуни па залепи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на соплях; сделано кое-как",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ovo je krpljeno pljuni pa zalepi.",
+          "russian": "Это залатано на соплях."
+        }
+      ],
+      "analogs_ru": [
+        "на соплях",
+        "на живую нитку",
+        "тяп-ляп",
+        "держится на честном слове"
+      ],
+      "literal_ru": "плюнь да приклей",
+      "register": "разг., неодобр.; о халтурной, ненадёжной работе; употребляется и как определение: to ti je pljuni pa zalepi",
+      "note": "См. также: DRŽI VODU DOK MAJSTORI ODU.",
+      "keyword": "zalepiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.430Z"
+    },
+    {
       "id": "mt79r18oa9jye",
       "headword_latin": "Po ceo dan",
       "headword_cyrillic": "По цео дан",
@@ -9846,6 +10091,34 @@
       "keyword": "poklon",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.221Z"
+    },
+    {
+      "id": "mt7dahkljb2lm",
+      "headword_latin": "Pokondirena tikva",
+      "headword_cyrillic": "Покондирена тиква",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "выскочка; из грязи в князи",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otkako je dobila to mesto, prava pokondirena tikva.",
+          "russian": "Как получила эту должность, стала настоящей выскочкой."
+        }
+      ],
+      "analogs_ru": [
+        "выскочка",
+        "из грязи в князи",
+        "нувориш",
+        "мещанин во дворянстве",
+        "корчит из себя барыню"
+      ],
+      "literal_ru": "тыква, возомнившая себя кондиром",
+      "register": "разг., насмешл.; о человеке, который стыдится своего происхождения и напоказ изображает благородство; чаще о женщине, но не обязательно; глагол pokondiriti se",
+      "note": "Оборот придумал Йован Стерия Попович — так называется его комедия 1830 года о Феме, жене сапожника, которая выбрасывает мебель, коверкает французский и немецкий и мечтает выдать дочь за философа, а титул «госпожа философка» берёт себе. Из пьесы выражение ушло в язык и держится почти двести лет. Механика образа: tikva — простой сосуд из выдолбленной тыквы для переливания воды, kondir — нарядный кувшин для питья; тыква, вообразившая себя кондиром, и есть выскочка. Ближайшая родня по мысли — videla žaba da se konj potkiva, pa i ona digla nogu, но там подражание, а здесь отречение от собственного происхождения.",
+      "keyword": "tikva",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.429Z"
     },
     {
       "id": "mt79r18nnuzs7",
@@ -10640,6 +10913,33 @@
       "keyword": "hop",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.617Z"
+    },
+    {
+      "id": "mt7dahknc468o",
+      "headword_latin": "Pukao mi je film",
+      "headword_cyrillic": "Пукао ми је филм",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "крышу снесло; терпение лопнуло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kad je to rekao, pukao mi je film.",
+          "russian": "Когда он это сказал, у меня крышу снесло."
+        }
+      ],
+      "analogs_ru": [
+        "крышу снесло",
+        "терпение лопнуло",
+        "сорвался",
+        "меня переклинило"
+      ],
+      "literal_ru": "у меня плёнка порвалась",
+      "register": "разг.; момент срыва, когда человек перестаёт себя контролировать; дательный лица: pukao mu je film",
+      "note": "Образ из кинобудки: плёнка рвётся, показ обрывается. Тот же кинематографический пласт даёт on je u svom filmu. Ср. pala mi je roletna na oči — там теряется обзор, здесь обрывается связность. См. также: PALA MI JE ROLETNA NA OČI, DOŠLA MU ŽUTA MINUTA.",
+      "keyword": "film",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.431Z"
     },
     {
       "id": "mt38wx4j5zjqt",
@@ -12923,6 +13223,33 @@
       "created_at": "2026-08-17T22:56:52.683Z"
     },
     {
+      "id": "mt7dahkm6czwc",
+      "headword_latin": "To je jasno i vrapcima na grani",
+      "headword_cyrillic": "То је јасно и врапцима на грани",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "это и ежу понятно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "To znaju i vrapci na grani.",
+          "russian": "Об этом все давно знают."
+        }
+      ],
+      "analogs_ru": [
+        "и ежу понятно",
+        "ясно как божий день",
+        "это всякий знает",
+        "младенцу ясно"
+      ],
+      "literal_ru": "это ясно и воробьям на ветке",
+      "register": "разг.; вариант с kišnim glistama «дождевым червям» — грубее и насмешливее; отдельно живёт vrapci na grani znaju «об этом все давно знают»",
+      "note": "Воробей в сербском — мера самого обыденного и всеприсутствующего; он же в bolje vrabac u ruci nego golub na grani, только там как малая, но верная добыча.",
+      "keyword": "vrabac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.430Z"
+    },
+    {
       "id": "mt38wx4lz5wj6",
       "headword_latin": "To je skup sport",
       "headword_cyrillic": "То је скуп спорт",
@@ -13159,6 +13486,33 @@
       "keyword": "nafaka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "mt7dahkm1xrag",
+      "headword_latin": "Tuk na luk",
+      "headword_cyrillic": "Тук на лук",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "око за око; ответить тем же",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako oni tako, onda i mi — tuk na luk.",
+          "russian": "Раз они так, то и мы: око за око."
+        }
+      ],
+      "analogs_ru": [
+        "око за око",
+        "ответить тем же",
+        "клин клином",
+        "баш на баш"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о жёстком ответе, силой на силу; синоним milo za drago",
+      "note": "Tuk — «удар, толчок»; связка держится на созвучии tuk — luk, где luk здесь не «лук-овощ», а «изгиб, дуга».",
+      "keyword": "tuk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.430Z"
     },
     {
       "id": "mt3a4b4jrs7ta",
@@ -13692,6 +14046,33 @@
       "created_at": "2026-08-21T17:45:17.190Z"
     },
     {
+      "id": "mt7dahknbk6vq",
+      "headword_latin": "Upasti u minus",
+      "headword_cyrillic": "Упасти у минус",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "уйти в минус; сидеть на мели",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Preterala sam sa kupovinom, opet sam upala u minus.",
+          "russian": "Перестаралась с покупками, опять ушла в минус."
+        }
+      ],
+      "analogs_ru": [
+        "уйти в минус",
+        "влезть в долги",
+        "сидеть на мели",
+        "уйти в овердрафт"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о банковском счёте, ушедшем ниже нуля; ходовое u minusu sam, izvući se iz minusa",
+      "note": "",
+      "keyword": "minus",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.431Z"
+    },
+    {
       "id": "mt7adkcscfhc8",
       "headword_latin": "Upasti u reč",
       "headword_cyrillic": "Упасти у реч",
@@ -13798,6 +14179,33 @@
       "keyword": "rezerva",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.135Z"
+    },
+    {
+      "id": "mt7dahkow08ok",
+      "headword_latin": "Vedri i oblači",
+      "headword_cyrillic": "Ведри и облачи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "заправляет всем; и царь, и бог",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On tamo vedri i oblači već deset godina.",
+          "russian": "Он там и царь, и бог уже десять лет."
+        }
+      ],
+      "analogs_ru": [
+        "и царь, и бог",
+        "всем заправляет",
+        "от него всё зависит",
+        "держит всё в кулаке"
+      ],
+      "literal_ru": "ведрит и облачит — распоряжается погодой, устраивая то ясно, то пасмурно",
+      "register": "разг.-публиц., неодобр.; о человеке с полной и обычно чрезмерной властью в своей области; управление vedri i oblači u čemu",
+      "note": "Соседняя по смыслу držati konce u svojim rukama говорит о скрытом управлении, а эта — об открытом самовластии. Образ божественный: погодой распоряжаться дано не человеку.",
+      "keyword": "vedriti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:04:45.432Z"
     },
     {
       "id": "msym7ab1wtx4c",
