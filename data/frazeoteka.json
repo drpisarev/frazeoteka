@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T15:05:40.931Z",
+  "updated": "2026-08-24T15:15:40.017Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -549,6 +549,32 @@
       "keyword": "baba",
       "source": "frazeoteka",
       "created_at": "2026-08-18T00:00:07.130Z"
+    },
+    {
+      "id": "mt7doil5h3jsf",
+      "headword_latin": "Baci pet",
+      "headword_cyrillic": "Баци пет",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "дай пять",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Baci pet, brate, uspeli smo!",
+          "russian": "Дай пять, брат, у нас получилось!"
+        }
+      ],
+      "analogs_ru": [
+        "дай пять",
+        "держи пять",
+        "по рукам"
+      ],
+      "literal_ru": "брось пять",
+      "register": "разг., дружеск.; при рукопожатии или хлопке ладонью; вариант baci kosku — фамильярнее и грубее",
+      "note": "",
+      "keyword": "pet",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.929Z"
     },
     {
       "id": "msxlnru8vqj6o",
@@ -2574,6 +2600,33 @@
       "created_at": "2026-08-17T18:39:13.168Z"
     },
     {
+      "id": "mt7doil5jhp9t",
+      "headword_latin": "Ćeraćemo se još",
+      "headword_cyrillic": "Ћераћемо се још",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "мы ещё посчитаемся; это ещё не конец",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ovo nije gotovo, ćeraćemo se još.",
+          "russian": "Это ещё не конец, мы ещё посчитаемся."
+        }
+      ],
+      "analogs_ru": [
+        "мы ещё посчитаемся",
+        "это ещё не конец",
+        "мы ещё встретимся",
+        "ещё сочтёмся"
+      ],
+      "literal_ru": "мы ещё погоняемся друг за другом",
+      "register": "разг., угрожающ., политически заряженное; в бытовом разговоре — обещание реванша, в публичном — угроза новой вражды; иностранцу употреблять не стоит",
+      "note": "Ćerati — черногорская и герцеговинская форма вместо terati «гнать». Источник не «Маратонцы», а поэма Матии Бечковича «Ćeraćemo se još» (1996), отмеченная несколькими литературными премиями. После войн девяностых строка стала политическим лозунгом: её цитировали и цитируют деятели по разные стороны — от Насера Орича до Милорада Додика, — и всякий раз это вызывает встречный шум в прессе. Сегодня фраза почти неотделима от этого контекста.",
+      "keyword": "ćerati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.929Z"
+    },
+    {
       "id": "mt0b9rqujuldo",
       "headword_latin": "Ćorav posao",
       "headword_cyrillic": "Ћорав посао",
@@ -2755,6 +2808,38 @@
       "keyword": "Kinez",
       "source": "frazeoteka",
       "created_at": "2026-08-24T14:38:03.126Z"
+    },
+    {
+      "id": "mt7doil47gba8",
+      "headword_latin": "Daleko bilo",
+      "headword_cyrillic": "Далеко било",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. не дай бог, упаси боже; 2. ещё чего, ни за что",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ovaj novi virus se brzo širi. — Daleko bilo!",
+          "russian": "[знач. 1] Новый вирус быстро расходится. — Не дай бог!"
+        },
+        {
+          "serbian_latin": "Jesi li bila na toj žurci? — Daleko bilo, ne treba mi to.",
+          "russian": "[знач. 2] Ты была на той вечеринке? — Ещё чего, мне это ни к чему."
+        }
+      ],
+      "analogs_ru": [
+        "не дай бог",
+        "упаси боже",
+        "тьфу-тьфу-тьфу",
+        "сплюнь",
+        "ещё чего"
+      ],
+      "literal_ru": "далеко было бы",
+      "register": "разг.; знач. 1 — оберег после упоминания беды, болезни или смерти; знач. 2 — резкий отказ; различает интонация",
+      "note": "Сербский богат оберегами при упоминании дурного: ne daj bože, bože sačuvaj, kucnem u drvo, pljuni tri puta. Daleko bilo — самый ходовой и нейтральный из них.",
+      "keyword": "daleko",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.928Z"
     },
     {
       "id": "mt0b1qfyjqknf",
@@ -4573,6 +4658,33 @@
       "created_at": "2026-08-21T17:54:35.317Z"
     },
     {
+      "id": "mt7doil66oitr",
+      "headword_latin": "Imaš pravo",
+      "headword_cyrillic": "Имаш право",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. ты прав; 2. ты имеешь право",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Imaš pravo, tako je najbolje.",
+          "russian": "Ты прав, так лучше всего."
+        }
+      ],
+      "analogs_ru": [
+        "ты прав",
+        "верно говоришь",
+        "имеешь право",
+        "вправе"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; знач. 1 разговорное согласие, синоним u pravu si (нормативнее); знач. 2 юридическое: imaš pravo na žalbu; различает управление — без дополнения «ты прав», с na + аккузатив «имеешь право на»",
+      "note": "Ловушка: u pravu si значит только «ты прав», а imaš pravo двузначно. В строгой речи для согласия предпочитают u pravu si.",
+      "keyword": "pravo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.930Z"
+    },
+    {
       "id": "mt79r18mzgme7",
       "headword_latin": "Imati bubice u glavi",
       "headword_cyrillic": "Имати бубице у глави",
@@ -5106,6 +5218,33 @@
       "keyword": "kraj",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:34.559Z"
+    },
+    {
+      "id": "mt7doil6hufhk",
+      "headword_latin": "Ja drumom, ti šumom",
+      "headword_cyrillic": "Ја друмом, ти шумом",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "я про Фому, а ты про Ерёму",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne razumemo se: ja drumom, ti šumom.",
+          "russian": "Никак не сойдёмся: я про Фому, ты про Ерёму."
+        }
+      ],
+      "analogs_ru": [
+        "я про Фому, а ты про Ерёму",
+        "в огороде бузина, а в Киеве дядька",
+        "кто в лес, кто по дрова",
+        "говорим о разном"
+      ],
+      "literal_ru": "я дорогой, ты лесом",
+      "register": "разг.; о разговоре, где собеседники не сходятся ни в чём; вариант ja jedno, ti deseto",
+      "note": "Сербский образ пространственный — двое идут разными путями; русский строится на именах, но результат тот же. «Кто в лес, кто по дрова» ближе всего и по лесу в образе.",
+      "keyword": "drum",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.930Z"
     },
     {
       "id": "mt39f3sw1t12f",
@@ -5905,6 +6044,34 @@
       "keyword": "kliknuti",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.237Z"
+    },
+    {
+      "id": "mt7doil629x8h",
+      "headword_latin": "Klot",
+      "headword_cyrillic": "Клот",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "голый, чистый, без ничего",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "To je klot plata, bez ikakvih dodataka.",
+          "russian": "Это голый оклад, безо всяких надбавок."
+        }
+      ],
+      "analogs_ru": [
+        "голый (об окладе)",
+        "чистыми",
+        "без всего",
+        "сам по себе",
+        "пустой"
+      ],
+      "literal_ru": "",
+      "register": "разг.; неизменяемое определение перед существительным: klot plata «голый оклад», klot pasulj «фасоль без мяса», klot kafa «кофе без ничего»",
+      "note": "Из нем. glatt «гладкий, ровный».",
+      "keyword": "klot",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.930Z"
     },
     {
       "id": "mt0b1qfzyco37",
@@ -6822,6 +6989,34 @@
       "created_at": "2026-08-21T17:51:09.237Z"
     },
     {
+      "id": "mt7doil7og95a",
+      "headword_latin": "Mačji kašalj",
+      "headword_cyrillic": "Мачји кашаљ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "раз плюнуть; пустяк",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ispit je bio mačji kašalj.",
+          "russian": "Экзамен был раз плюнуть."
+        }
+      ],
+      "analogs_ru": [
+        "раз плюнуть",
+        "плёвое дело",
+        "пара пустяков",
+        "легкотня",
+        "семечки"
+      ],
+      "literal_ru": "кошачий кашель",
+      "register": "разг.; управление to mi je mačji kašalj; пишется и mačiji, обе формы нормативны",
+      "note": "Образ через ничтожность: кошачий кашель — самое малое, что можно вообразить. Не путать с luk i voda: там пренебрежение к никчёмному, здесь оценка лёгкости. См. также: PROSTO KO PASULJ.",
+      "keyword": "kašalj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.931Z"
+    },
+    {
       "id": "msxlgokc2gisz",
       "headword_latin": "Majke mi",
       "headword_cyrillic": "Мајке ми",
@@ -7551,6 +7746,34 @@
       "created_at": "2026-08-18T00:00:07.129Z"
     },
     {
+      "id": "mt7doil5hfi9u",
+      "headword_latin": "Namazan svim bojama",
+      "headword_cyrillic": "Намазан свим бојама",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "тёртый калач; продувная бестия",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pazi ga se, on je namazan svim bojama, nećeš ga lako prevariti.",
+          "russian": "Осторожнее с ним, он тёртый калач, его так просто не проведёшь."
+        }
+      ],
+      "analogs_ru": [
+        "тёртый калач",
+        "стреляный воробей",
+        "прошёл огонь и воду",
+        "пройдоха",
+        "себе на уме"
+      ],
+      "literal_ru": "намазан всеми красками",
+      "register": "разг.; «хитёр и опытен, не проведёшь» — иногда с уважением, иногда с опаской; синоним prošao je sito i rešeto",
+      "note": "",
+      "keyword": "boja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.929Z"
+    },
+    {
       "id": "mt0b9rqwkrmcf",
       "headword_latin": "Napaćena duša",
       "headword_cyrillic": "Напаћена душа",
@@ -7602,6 +7825,32 @@
       "keyword": "vreća",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.680Z"
+    },
+    {
+      "id": "mt7doil551fst",
+      "headword_latin": "Natkasna",
+      "headword_cyrillic": "Наткасна",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "тумбочка, прикроватный столик",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Naočare su ti na natkasni.",
+          "russian": "Очки у тебя на тумбочке."
+        }
+      ],
+      "analogs_ru": [
+        "тумбочка",
+        "прикроватный столик",
+        "ночной столик"
+      ],
+      "literal_ru": "",
+      "register": "разг.; из нем. Nachtkasten; литературный синоним noćni stočić, в каталогах noćni ormarić",
+      "note": "Один из множества германизмов сербского быта, пришедших через Воеводину и австрийскую администрацию: šrafciger «отвёртка», šalter «окошко, выключатель», veš «бельё», farba «краска», cigla «кирпич».",
+      "keyword": "natkasna",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.929Z"
     },
     {
       "id": "mt391c51e5zt7",
@@ -10361,6 +10610,33 @@
       "created_at": "2026-08-24T13:38:11.628Z"
     },
     {
+      "id": "mt7doil638z4f",
+      "headword_latin": "Poštovanje",
+      "headword_cyrillic": "Поштовање",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "моё почтение; здравствуйте",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Poštovanje, komšija. — Ništa manje.",
+          "russian": "Моё почтение, сосед. — И вам того же."
+        }
+      ],
+      "analogs_ru": [
+        "моё почтение",
+        "здравствуйте",
+        "приветствую",
+        "доброго здоровья"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-учтив.; приветствие и прощание разом, чуть старомоднее и почтительнее, чем dobar dan",
+      "note": "Ответная реплика ništa manje «и вам не меньше» — шутливо-любезная.",
+      "keyword": "poštovanje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.930Z"
+    },
+    {
       "id": "msxqn1ooxwqi0",
       "headword_latin": "Pravda je spora, ali dostižna",
       "headword_cyrillic": "Правда је спора, али достижна",
@@ -11267,6 +11543,33 @@
       "created_at": "2026-08-21T17:45:44.495Z"
     },
     {
+      "id": "mt7doil5c0qwo",
+      "headword_latin": "Rasipati se",
+      "headword_cyrillic": "Расипати се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "сорить деньгами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da se rasipaš, nije ti plata milion.",
+          "russian": "Не сори деньгами, у тебя не миллион зарплата."
+        }
+      ],
+      "analogs_ru": [
+        "сорить деньгами",
+        "швыряться деньгами",
+        "транжирить",
+        "пускать на ветер"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; существительное rasipnik «мот, транжира»",
+      "note": "Rasipati «рассыпать, расточать». Родственное spiskati сильнее и говорит о конкретной сумме, спущенной разом; rasipati se — о привычке. См. также: SPISKATI.",
+      "keyword": "rasipati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.929Z"
+    },
+    {
       "id": "mt0b1qfyakh8v",
       "headword_latin": "Raspremiti",
       "headword_cyrillic": "Распремити",
@@ -11737,6 +12040,33 @@
       "keyword": "klopiti",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
+      "id": "mt7doil69enj9",
+      "headword_latin": "Skockati se",
+      "headword_cyrillic": "Скоцкати се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "приодеться; нарядиться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Skockala se za izlazak.",
+          "russian": "Она нарядилась, собираясь в город."
+        }
+      ],
+      "analogs_ru": [
+        "приодеться",
+        "нарядиться",
+        "прифрантиться",
+        "при полном параде"
+      ],
+      "literal_ru": "",
+      "register": "разг., одобр.; о тщательно и удачно подобранном виде",
+      "note": "Родственное skockano «складно, ладно, чётко» и о вещах вообще: sve je skockano «всё подогнано как надо».",
+      "keyword": "skockati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.930Z"
     },
     {
       "id": "mt7d2xq6x6tfp",
@@ -12274,6 +12604,34 @@
       "keyword": "spolja",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.236Z"
+    },
+    {
+      "id": "mt7doil7okp4p",
+      "headword_latin": "Spustiti loptu",
+      "headword_cyrillic": "Спустити лопту",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сбавить обороты; разрядить обстановку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hajde da spustimo loptu i ne vičemo.",
+          "russian": "Давайте сбавим обороты и не будем кричать."
+        }
+      ],
+      "analogs_ru": [
+        "сбавить обороты",
+        "спустить пар",
+        "остыть",
+        "не кипятиться",
+        "снизить градус"
+      ],
+      "literal_ru": "опустить мяч",
+      "register": "разг.-публиц.; призыв к успокоению в споре; ходовое hajde da spustimo loptu, spusti loptu",
+      "note": "Образ футбольный: мяч, вброшенный высоко, обостряет игру; опустить его — вернуть спокойный темп. Тот же пласт даёт vratiti loptu «отпасовать назад, вернуть вопрос собеседнику» и lopta je na njihovoj strani. См. также: OLADI.",
+      "keyword": "lopta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.931Z"
     },
     {
       "id": "mt3a59qmbg89w",
@@ -13973,6 +14331,34 @@
       "created_at": "2026-08-24T14:38:03.127Z"
     },
     {
+      "id": "mt7doil4srwit",
+      "headword_latin": "Uhvatiti maglu",
+      "headword_cyrillic": "Ухватити маглу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "смыться; сделать ноги",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kad je čuo za inspekciju, uhvatio je maglu.",
+          "russian": "Как услышал про проверку, тут же смылся."
+        }
+      ],
+      "analogs_ru": [
+        "смыться",
+        "слинять",
+        "сделать ноги",
+        "раствориться",
+        "только его и видели"
+      ],
+      "literal_ru": "поймать туман",
+      "register": "разг.; исчезнуть быстро и незаметно, чаще от неприятностей; ходовое uhvatio je maglu, hvataj maglu",
+      "note": "Не путать с prodavati maglu «пускать пыль в глаза»: там туман продают, здесь в него уходят. См. также: DATI VATRU TABANIMA, IZGUBITI SE KAO MAGARAC U MAGLI.",
+      "keyword": "magla",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.928Z"
+    },
+    {
       "id": "mt7a30swsdtae",
       "headword_latin": "Uhvatiti se u kolo",
       "headword_cyrillic": "Ухватити се у коло",
@@ -14342,6 +14728,32 @@
       "keyword": "žaba",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.685Z"
+    },
+    {
+      "id": "mt7doil56o19m",
+      "headword_latin": "Viša sila",
+      "headword_cyrillic": "Виша сила",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "форс-мажор; непреодолимая сила",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zakasnio sam, viša sila.",
+          "russian": "Опоздал, форс-мажор."
+        }
+      ],
+      "analogs_ru": [
+        "форс-мажор",
+        "обстоятельства непреодолимой силы",
+        "стихийное бедствие"
+      ],
+      "literal_ru": "высшая сила",
+      "register": "юрид.-нейтр.; термин договорного права, но живёт и в обиходе как отговорка",
+      "note": "По сербскому праву под višu silu подводят и природные события (землетрясение, наводнение), и общественные — войну, забастовку, решение властей. Русское «форс-мажор» из французского, сербское — прямая калька с латинского vis maior.",
+      "keyword": "sila",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:15:39.929Z"
     },
     {
       "id": "msxu2octnuu95",
