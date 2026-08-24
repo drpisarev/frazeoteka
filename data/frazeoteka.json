@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T15:15:40.017Z",
+  "updated": "2026-08-24T15:22:41.784Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -3401,6 +3401,33 @@
       "keyword": "tući se",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "mt7dxk14dwzvd",
+      "headword_latin": "Dokona publika",
+      "headword_cyrillic": "Докона публика",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "праздная публика; зеваки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Skupila se dokona publika da gleda svađu.",
+          "russian": "Собрались зеваки поглазеть на ссору."
+        }
+      ],
+      "analogs_ru": [
+        "праздная публика",
+        "зеваки",
+        "бездельники",
+        "публика от нечего делать"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-неодобр.; ходовое и о человеке: dokon čovek",
+      "note": "Dokon «праздный, незанятый». Пословица из того же гнезда: dokonu popu i jarci krivi «праздному попу и козлы виноваты».",
+      "keyword": "dokon",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.704Z"
     },
     {
       "id": "msxknp37i528f",
@@ -6856,6 +6883,32 @@
       "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
+      "id": "mt7dxk1481163",
+      "headword_latin": "Ležati na parama",
+      "headword_cyrillic": "Лежати на парама",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "купаться в деньгах",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Oni leže na parama, a stalno se žale.",
+          "russian": "Они купаются в деньгах, а вечно жалуются."
+        }
+      ],
+      "analogs_ru": [
+        "купаться в деньгах",
+        "денег куры не клюют",
+        "сидеть на мешке с деньгами"
+      ],
+      "literal_ru": "лежать на деньгах",
+      "register": "разг.; о большом состоянии, а не о заработке",
+      "note": "Ср. mlatiti pare — про поток, ležati na parama — про запас. См. также: PUN KAO BROD.",
+      "keyword": "pare",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.704Z"
+    },
+    {
       "id": "mt38pdhipb214",
       "headword_latin": "Liti krokodilske suze",
       "headword_cyrillic": "Лити крокодилске сузе",
@@ -7231,6 +7284,33 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "mt7dxk13urdx5",
+      "headword_latin": "Milo za drago",
+      "headword_cyrillic": "Мило за драго",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "око за око; ответить тем же",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neću ti oprostiti prevaru, vratiću ti milo za drago.",
+          "russian": "Обман тебе не прощу, отвечу тем же."
+        }
+      ],
+      "analogs_ru": [
+        "око за око",
+        "ответить тем же",
+        "как аукнется, так и откликнется",
+        "долг платежом красен"
+      ],
+      "literal_ru": "милое за дорогое",
+      "register": "разг.; чаще о возмездии, но иногда и о взаимной услуге; ходовое vratiti kome milo za drago",
+      "note": "См. также: TANTE ZA TANTE, TUK NA LUK.",
+      "keyword": "milo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.703Z"
+    },
+    {
       "id": "mt79wy4awestb",
       "headword_latin": "Mirne duše",
       "headword_cyrillic": "Мирне душе",
@@ -7283,6 +7363,32 @@
       "keyword": "imenica",
       "source": "frazeoteka",
       "created_at": "2026-08-24T14:58:53.118Z"
+    },
+    {
+      "id": "mt7dxk14yl4oa",
+      "headword_latin": "Mlatiti pare",
+      "headword_cyrillic": "Млатити паре",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "грести деньги лопатой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Mlati pare na tim kursevima.",
+          "russian": "Гребёт деньги лопатой на этих курсах."
+        }
+      ],
+      "analogs_ru": [
+        "грести деньги лопатой",
+        "рубить бабки",
+        "зашибать"
+      ],
+      "literal_ru": "молотить деньги",
+      "register": "разг.; о больших и лёгких заработках, часто с завистью или подозрением",
+      "note": "Не путать с mlatiti praznu slamu «толочь воду в ступе» — тот же глагол, противоположный результат.",
+      "keyword": "pare",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.704Z"
     },
     {
       "id": "mt38pyjvwkz8d",
@@ -7799,6 +7905,33 @@
       "keyword": "duša",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.496Z"
+    },
+    {
+      "id": "mt7dxk122h1s8",
+      "headword_latin": "Napućiti usne",
+      "headword_cyrillic": "Напућити усне",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "надуть губы; сложить губы бантиком",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Napućila je usne i okrenula glavu.",
+          "russian": "Надула губы и отвернулась."
+        }
+      ],
+      "analogs_ru": [
+        "надуть губы",
+        "губки бантиком",
+        "губы уточкой",
+        "дуться"
+      ],
+      "literal_ru": "",
+      "register": "разг.; napućene usne — «губы уточкой», в том числе о позе для фотографии; ona puće usne — и о капризной обиде, и о кокетстве",
+      "note": "Родственное — duriti se «дуться, обижаться».",
+      "keyword": "usne",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.702Z"
     },
     {
       "id": "msxu2ocorja8b",
@@ -8466,6 +8599,34 @@
       "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
+      "id": "mt7dxk14t17ax",
+      "headword_latin": "Nema vajde",
+      "headword_cyrillic": "Нема вајде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "толку никакого; без толку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Od toga nema vajde.",
+          "russian": "От этого никакого толку."
+        }
+      ],
+      "analogs_ru": [
+        "толку никакого",
+        "без толку",
+        "что толку",
+        "без пользы",
+        "пустое дело"
+      ],
+      "literal_ru": "",
+      "register": "разг.; управление nema vajde od čega",
+      "note": "Vajda — «польза, прок», через венгерский и турецкий. Слово живёт почти только с отрицанием; положительное ima vajde редко. Синонимы nema koristi, nema svrhe (о бессмысленности действия), ne vredi. См. также: NEMA SVRHE.",
+      "keyword": "vajda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.704Z"
+    },
+    {
       "id": "mt391c52qp8nj",
       "headword_latin": "Nema za Marka kape",
       "headword_cyrillic": "Нема за Марка капе",
@@ -8888,6 +9049,33 @@
       "keyword": "vinkla",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.254Z"
+    },
+    {
+      "id": "mt7dxk13creoz",
+      "headword_latin": "Nit smrdi, nit miriše",
+      "headword_cyrillic": "Нит смрди, нит мирише",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни рыба ни мясо",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Trebalo bi da pokaže svoju poziciju, a on nit' smrdi nit' miriše.",
+          "russian": "Ему бы обозначить позицию, а он ни рыба ни мясо."
+        }
+      ],
+      "analogs_ru": [
+        "ни рыба ни мясо",
+        "ни то ни сё",
+        "ни богу свечка, ни чёрту кочерга",
+        "серединка на половинку"
+      ],
+      "literal_ru": "ни воняет, ни пахнет",
+      "register": "разг., неодобр.; о человеке или деле без определённости, позиции, характера",
+      "note": "Сербский строит образ на запахе, русский на еде, но оба — через отсутствие любого свойства, хотя бы и дурного. См. также: NIT' RIBA, NIT' DEVOJKA; ĐENE-ĐENE.",
+      "keyword": "smrdeti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.703Z"
     },
     {
       "id": "msyrhihms6fyq",
@@ -9885,6 +10073,32 @@
       "created_at": "2026-08-21T18:32:36.730Z"
     },
     {
+      "id": "mt7dxk13bb6kt",
+      "headword_latin": "Paradajz turizam",
+      "headword_cyrillic": "Парадајз туризам",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "туризм со своими помидорами — поездка, в которую везут собственную еду",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet paradajz turizam, ceo gepek pun tegli.",
+          "russian": "Опять едем со своими помидорами, весь багажник в банках."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "отдых с кастрюлями",
+        "отпуск с полным багажником еды"
+      ],
+      "literal_ru": "помидорный туризм",
+      "register": "разг., шутл.-ирон., современное",
+      "note": "Явление и слово сербские: летом на побережье едут с ящиками овощей, айваром и ракией, чтобы не тратиться на месте.",
+      "keyword": "paradajz",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.703Z"
+    },
+    {
       "id": "mt0b9rqszjw2w",
       "headword_latin": "Parati uši",
       "headword_cyrillic": "Парати уши",
@@ -10715,6 +10929,34 @@
       "created_at": "2026-08-19T16:21:52.137Z"
     },
     {
+      "id": "mt7dxk12tfn1p",
+      "headword_latin": "Praviti se važan",
+      "headword_cyrillic": "Правити се важан",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "важничать; строить из себя",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prestani da se praviš važan, svi te znamo.",
+          "russian": "Хватит важничать, мы все тебя знаем."
+        }
+      ],
+      "analogs_ru": [
+        "важничать",
+        "задирать нос",
+        "строить из себя",
+        "пыжиться",
+        "корчить из себя большого человека"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.",
+      "note": "Модель praviti se + прилагательное продуктивна: praviti se lud «прикидываться дурачком», praviti se blesav, praviti se Englez «изображать невозмутимость и полную непричастность, как англичанин, который ничего не заметил».",
+      "keyword": "važan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.702Z"
+    },
+    {
       "id": "msxqn1oosvmk8",
       "headword_latin": "Prazne se puške dvojica boje",
       "headword_cyrillic": "Празне се пушке двојица боје",
@@ -10879,6 +11121,34 @@
       "created_at": "2026-08-21T18:32:36.730Z"
     },
     {
+      "id": "mt7dxk12khtjk",
+      "headword_latin": "Primiti se",
+      "headword_cyrillic": "Примити се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "повестись; купиться, загореться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da se primaš, zezaju te.",
+          "russian": "Не ведись, тебя разыгрывают."
+        }
+      ],
+      "analogs_ru": [
+        "повестись",
+        "купиться",
+        "клюнуть",
+        "вцепиться",
+        "загореться"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о том, кто с жаром ухватился за чужую идею, шутку или наживку; ходовое сравнение primio se k'o baba na penziju",
+      "note": "Вариант с saučešće строится на другом значении глагола (primiti saučešće «принять соболезнования») и звучит как каламбур. У primiti se есть и нейтральные значения — «прижиться» о растении (primila se sadnica) и «взяться за дело» (primiti se posla); разговорное «повестись» узнаётся по отсутствию дополнения.",
+      "keyword": "primiti se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.702Z"
+    },
+    {
       "id": "mt0b9rqv57t3c",
       "headword_latin": "Prljava posla",
       "headword_cyrillic": "Прљава посла",
@@ -10956,6 +11226,34 @@
       "keyword": "vera",
       "source": "frazeoteka",
       "created_at": "2026-08-18T00:00:07.130Z"
+    },
+    {
+      "id": "mt7dxk13cgfnn",
+      "headword_latin": "Prodavati maglu",
+      "headword_cyrillic": "Продавати маглу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пускать пыль в глаза; вешать лапшу на уши",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne veruj mu, on uvek prodaje maglu.",
+          "russian": "Не верь ему, он вечно пускает пыль в глаза."
+        }
+      ],
+      "analogs_ru": [
+        "пускать пыль в глаза",
+        "вешать лапшу на уши",
+        "втирать очки",
+        "торговать воздухом",
+        "обещать золотые горы"
+      ],
+      "literal_ru": "продавать туман",
+      "register": "разг.-публиц., неодобр.; о пустых обещаниях и рекламных посулах; существительное prodavac magle «торговец воздухом»",
+      "note": "Не путать с uhvatiti maglu «смыться»: тот же туман, но там в него убегают, здесь его сбывают. Родственное по смыслу farbati nekoga. См. также: FARBATI NEKOGA, UHVATITI MAGLU.",
+      "keyword": "magla",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.703Z"
     },
     {
       "id": "mt3a4b4h7eey6",
@@ -12122,6 +12420,33 @@
       "created_at": "2026-08-17T21:51:42.264Z"
     },
     {
+      "id": "mt7dxk12zluvi",
+      "headword_latin": "Skuvati se",
+      "headword_cyrillic": "Скувати се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "свариться (от жары)",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ceo dan smo bili na plaži, skoro smo se skuvali.",
+          "russian": "Весь день на пляже — чуть не сварились."
+        }
+      ],
+      "analogs_ru": [
+        "свариться",
+        "изжариться",
+        "испечься",
+        "сомлеть от жары"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о человеке на жаре; прямое значение — «свариться» о еде; ходовое skuvali smo se, skuvaću se u ovom autobusu",
+      "note": "Совпадает с русским полностью; в том же ряду ispeći se «изжариться», rastopiti se «растаять».",
+      "keyword": "skuvati se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.702Z"
+    },
+    {
       "id": "mt79wy49cte5q",
       "headword_latin": "Slagati se kao rogovi u vreći",
       "headword_cyrillic": "Слагати се као рогови у врећи",
@@ -12817,6 +13142,59 @@
       "keyword": "ćud",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
+      "id": "mt7dxk136euk8",
+      "headword_latin": "Stoji kao saliveno",
+      "headword_cyrillic": "Стоји као саливено",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сидит как влитое",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta haljina ti stoji kao salivena.",
+          "russian": "Это платье сидит на тебе как влитое."
+        }
+      ],
+      "analogs_ru": [
+        "сидит как влитое",
+        "как на тебя шито",
+        "точно по фигуре",
+        "сидит идеально"
+      ],
+      "literal_ru": "стоит как отлитое",
+      "register": "разг., одобр.; об одежде",
+      "note": "Ловушка управления: по-сербски одежда stoji (стоит), а не «сидит», и всегда с дательным того, кому идёт: stoji mi, stoji ti; dobro ti stoji «тебе идёт».",
+      "keyword": "saliveno",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.703Z"
+    },
+    {
+      "id": "mt7dxk142i2ds",
+      "headword_latin": "Stoji ti kao piletu sise",
+      "headword_cyrillic": "Стоји ти као пилету сисе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "идёт тебе как корове седло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Taj šešir ti stoji kao piletu sise.",
+          "russian": "Эта шляпа тебе идёт как корове седло."
+        }
+      ],
+      "analogs_ru": [
+        "идёт как корове седло",
+        "совсем тебе не идёт",
+        "ни к селу ни к городу"
+      ],
+      "literal_ru": "сидит на тебе как на цыплёнке сиськи",
+      "register": "груб.-разг., насмешл.; прямая противоположность обороту stoji kao saliveno; в приличном разговоре лучше ne stoji ti dobro или ne pristaje ti",
+      "note": "Соль в невозможности предмета — у птицы такого не бывает; тот же приём в dobiti muda labudova. Русское «как корове седло» мягче: седло существует, просто не для коровы.",
+      "keyword": "pile",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:22:41.704Z"
     },
     {
       "id": "mt7a760cbi8aj",
