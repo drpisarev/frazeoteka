@@ -1,7 +1,34 @@
 {
   "v": 1,
-  "updated": "2026-08-24T18:52:07.630Z",
+  "updated": "2026-08-24T18:55:45.709Z",
   "entries": [
+    {
+      "id": "mt7ljk5nmho18",
+      "headword_latin": "Ako budeš most, svako će da te gazi",
+      "headword_cyrillic": "Ако будеш мост, свако ће да те гази",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "станешь мостом — все по тебе ходить будут",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nauči da kažeš ne — ako budeš most, svako će da te gazi.",
+          "russian": "Научись говорить «нет»: станешь мостом — все по тебе ходить будут."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "сядут на шею и ножки свесят",
+        "будешь мягким — сомнут",
+        "не будь тряпкой"
+      ],
+      "literal_ru": "",
+      "register": "послов., предостерег.; о том, что безотказность оборачивается против самого безотказного",
+      "note": "См. также: DOBAR I LUD SU BRAĆA, NE DAM NA SEBE.",
+      "keyword": "most",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.611Z"
+    },
     {
       "id": "mt0b9rqtalctg",
       "headword_latin": "Ako hoćeš da nasmeješ Boga, ispričaj mu svoje planove",
@@ -3134,6 +3161,34 @@
       "created_at": "2026-08-17T19:29:45.342Z"
     },
     {
+      "id": "mt7ljk5mnl8w1",
+      "headword_latin": "Danas za sutra",
+      "headword_cyrillic": "Данас за сутра",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на скорую руку; одним днём",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne možeš učiti danas za sutra, moraš imati sistem.",
+          "russian": "Нельзя учить в последний момент, нужна система."
+        }
+      ],
+      "analogs_ru": [
+        "на скорую руку",
+        "в последний момент",
+        "одним днём",
+        "без задела",
+        "жить сегодняшним днём"
+      ],
+      "literal_ru": "сегодня на завтра",
+      "register": "разг., неодобр.; двузначно — о работе, сделанной впопыхах перед самым сроком, и о жизни без всякого расчёта на будущее",
+      "note": "",
+      "keyword": "danas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.610Z"
+    },
+    {
       "id": "mt79ndftf5m1o",
       "headword_latin": "Dati vatru tabanima",
       "headword_cyrillic": "Дати ватру табанима",
@@ -4096,6 +4151,33 @@
       "created_at": "2026-08-21T18:35:16.665Z"
     },
     {
+      "id": "mt7ljk5oog5up",
+      "headword_latin": "Dvoumiti se",
+      "headword_cyrillic": "Двоумити се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "колебаться; сомневаться в выборе",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije se dvoumila ni sekund.",
+          "russian": "Она не колебалась ни секунды."
+        }
+      ],
+      "analogs_ru": [
+        "колебаться",
+        "сомневаться",
+        "раздумывать",
+        "не знать, на чём остановиться"
+      ],
+      "literal_ru": "двоиться умом",
+      "register": "нейтр.; управление dvoumiti se između čega, dvoumiti se da li; существительное dvoumljenje",
+      "note": "Не путать с sumnjati «сомневаться, подозревать»: sumnjam da će doći — недоверие к факту, dvoumim se da li da idem — нерешительность в выборе. Русское «сомневаться» покрывает оба, сербский разводит.",
+      "keyword": "dvoumiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.612Z"
+    },
+    {
       "id": "mt3a4b4fla9rh",
       "headword_latin": "Dža ili bu",
       "headword_cyrillic": "Џа или бу",
@@ -4528,6 +4610,33 @@
       "created_at": "2026-08-24T13:25:38.952Z"
     },
     {
+      "id": "mt7ljk5o23fnj",
+      "headword_latin": "Glavom i bradom",
+      "headword_cyrillic": "Главом и брадом",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "собственной персоной",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "O, Branko, jesi li to ti? — Ja sam, glavom i bradom.",
+          "russian": "О, Бранко, это ты? — Я, собственной персоной."
+        }
+      ],
+      "analogs_ru": [
+        "собственной персоной",
+        "он самый",
+        "во плоти",
+        "живьём"
+      ],
+      "literal_ru": "головой и бородой",
+      "register": "разг., шутл.-торжеств.; подтверждение, что перед вами именно тот человек; чаще как ответ на вопрос «это ты?»",
+      "note": "Борода как знак подлинности — деталь патриархального быта: у взрослого мужчины она была отличительным признаком, подделать который нельзя. Русское «собственной персоной» книжно и латинского происхождения, сербское — телесное и домашнее.",
+      "keyword": "brada",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.612Z"
+    },
+    {
       "id": "mt391c505k3gd",
       "headword_latin": "Glineni golub",
       "headword_cyrillic": "Глинени голуб",
@@ -4870,6 +4979,33 @@
       "keyword": "alva",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.728Z"
+    },
+    {
+      "id": "mt7ljk5o6vp19",
+      "headword_latin": "Idi u tri lepe",
+      "headword_cyrillic": "Иди у три лепе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "иди ты; катись",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Idi u tri lepe, ne interesuje me.",
+          "russian": "Иди ты, мне неинтересно."
+        }
+      ],
+      "analogs_ru": [
+        "иди ты",
+        "катись",
+        "пошёл вон",
+        "да ну тебя"
+      ],
+      "literal_ru": "",
+      "register": "разг., смягчённо-груб.; эвфемизм с оборванной концовкой: полная форма вульгарна, вместо неё подставляют šargarepe «морковки» или просто обрывают",
+      "note": "Приём типичный для сербской ругани — начать вульгарный оборот и свернуть в безобидное слово. Русский делает то же самое: «иди ты на…» → «на фиг».",
+      "keyword": "tri",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.612Z"
     },
     {
       "id": "mt7d2xq71dwt9",
@@ -6209,6 +6345,34 @@
       "created_at": "2026-08-17T18:48:03.555Z"
     },
     {
+      "id": "mt7ljk5lhpi1l",
+      "headword_latin": "Kad ono",
+      "headword_cyrillic": "Кад оно",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "а тут; и вдруг",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otvaram frižider, kad ono — nema ništa.",
+          "russian": "Открываю холодильник — а там пусто."
+        }
+      ],
+      "analogs_ru": [
+        "а тут",
+        "и вдруг",
+        "глядь",
+        "а там",
+        "смотрю — а там"
+      ],
+      "literal_ru": "когда оно",
+      "register": "разг., очень частотно; вводит неожиданный поворот в рассказе, обычно после презенса повествовательного; порядок жёсткий: сначала действие, потом kad ono и открытие",
+      "note": "Конструкция чисто рассказовая: сербы держат весь бытовой анекдот в настоящем времени, а kad ono работает переключателем на неожиданность. Русское «глядь» устроено так же, но звучит старомоднее; в живой речи вернее «а тут» или «смотрю — а там».",
+      "keyword": "kad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.609Z"
+    },
+    {
       "id": "msxkiw6xe5rip",
       "headword_latin": "Kad-tad",
       "headword_cyrillic": "Кад-тад",
@@ -6287,6 +6451,34 @@
       "keyword": "kadija",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
+      "id": "mt7ljk5mv65in",
+      "headword_latin": "Kao bez duše",
+      "headword_cyrillic": "Као без душе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сломя голову; как оглашенный",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Jurio je kući kao bez duše.",
+          "russian": "Нёсся домой сломя голову."
+        }
+      ],
+      "analogs_ru": [
+        "сломя голову",
+        "как оглашенный",
+        "что было мочи",
+        "как угорелый",
+        "не помня себя"
+      ],
+      "literal_ru": "как без души",
+      "register": "разг., экспресс.; при глаголах движения и крика: juriti, trčati, vrištati kao bez duše; о действии на пределе, без самоконтроля",
+      "note": "Образ — тело, покинутое душой и потому лишённое разума и меры. Соседнее kao da ga vile gone подчёркивает страх, а kao bez duše — самозабвение. См. также: JURITI KAO DA GA VILE GONE.",
+      "keyword": "duša",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.610Z"
     },
     {
       "id": "mt79r18ox93zw",
@@ -8531,6 +8723,33 @@
       "created_at": "2026-08-21T17:45:17.188Z"
     },
     {
+      "id": "mt7ljk5nuzqqf",
+      "headword_latin": "Muk",
+      "headword_cyrillic": "Мук",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "гробовая тишина; мёртвое молчание",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kada je saopštio loše vesti, u sali je nastao muk.",
+          "russian": "Когда он сообщил дурную весть, в зале наступила гробовая тишина."
+        }
+      ],
+      "analogs_ru": [
+        "гробовая тишина",
+        "мёртвая тишина",
+        "повисло молчание",
+        "ни звука"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-нейтр.; о тишине после потрясения или неловкости; ходовое nastao je muk, zavladao je muk",
+      "note": "Родственное — mukom mučati «упорно молчать», muklo «глухо, приглушённо».",
+      "keyword": "muk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.611Z"
+    },
+    {
       "id": "msxnt6d3jh52b",
       "headword_latin": "Na mlađima svet ostaje",
       "headword_cyrillic": "На млађима свет остаје",
@@ -9198,6 +9417,32 @@
       "keyword": "mirisati",
       "source": "frazeoteka",
       "created_at": "2026-08-24T08:54:00.263Z"
+    },
+    {
+      "id": "mt7ljk5n33twy",
+      "headword_latin": "Ne mogu ni usta da otvorim",
+      "headword_cyrillic": "Не могу ни уста да отворим",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "наелся до отвала",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hvala, ne mogu ni usta da otvorim.",
+          "russian": "Спасибо, я объелся до отвала."
+        }
+      ],
+      "analogs_ru": [
+        "наелся до отвала",
+        "объелся",
+        "не могу больше ни кусочка"
+      ],
+      "literal_ru": "не могу и рта раскрыть",
+      "register": "разг., шутл.; после обильной еды",
+      "note": "Осторожно: та же фраза в другом контексте значит «мне и слова сказать не дают».",
+      "keyword": "usta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.611Z"
     },
     {
       "id": "mt0b9rqwi35zg",
@@ -14691,6 +14936,33 @@
       "created_at": "2026-08-21T18:05:17.695Z"
     },
     {
+      "id": "mt7ljk5pupuo4",
+      "headword_latin": "Starog kova",
+      "headword_cyrillic": "Старог кова",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "старой закалки; старой школы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On je novinar starog kova, proverava svaku informaciju.",
+          "russian": "Он журналист старой закалки, проверяет каждое сведение."
+        }
+      ],
+      "analogs_ru": [
+        "старой закалки",
+        "старой школы",
+        "старой формации",
+        "из тех, прежних"
+      ],
+      "literal_ru": "старой ковки",
+      "register": "нейтр.-одобр.; о человеке с прежними, надёжными правилами: domaćin starog kova, lekar starog kova",
+      "note": "От kovati «ковать» — как о клинке, выкованном по старому образцу.",
+      "keyword": "kov",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.613Z"
+    },
+    {
       "id": "mt7hwo7akhe1t",
       "headword_latin": "Stati na ludi kamen",
       "headword_cyrillic": "Стати на луди камен",
@@ -15332,6 +15604,33 @@
       "created_at": "2026-08-19T16:33:49.493Z"
     },
     {
+      "id": "mt7ljk5mctlu8",
+      "headword_latin": "Šta će mi",
+      "headword_cyrillic": "Шта ће ми",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на что оно мне; зачем мне это",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzmi ovu kutiju. — Šta će mi?",
+          "russian": "Возьми эту коробку. — На что она мне?"
+        }
+      ],
+      "analogs_ru": [
+        "на что оно мне",
+        "зачем мне это",
+        "куда мне столько",
+        "на кой он мне"
+      ],
+      "literal_ru": "что оно мне будет",
+      "register": "разг.; дательный лица меняется: šta će ti, šta će mu; отказ или недоумение по поводу ненужной вещи",
+      "note": "Расширенно — šta će mi to sad.",
+      "keyword": "šta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.610Z"
+    },
+    {
       "id": "mt7hwo7cmosru",
       "headword_latin": "Šta ćemo",
       "headword_cyrillic": "Шта ћемо",
@@ -15592,6 +15891,34 @@
       "keyword": "šuć-muć",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:38:11.627Z"
+    },
+    {
+      "id": "mt7ljk5nkswsi",
+      "headword_latin": "Šuplja priča",
+      "headword_cyrillic": "Шупља прича",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пустой трёп; трепотня",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šuplja priča, brate! Opet se hvališ!",
+          "russian": "Трепотня, брат! Опять хвастаешься!"
+        }
+      ],
+      "analogs_ru": [
+        "пустой трёп",
+        "болтовня",
+        "слова, слова",
+        "сотрясение воздуха",
+        "пустышка"
+      ],
+      "literal_ru": "дырявый разговор",
+      "register": "разг., неодобр.; о речах без содержания и без последствий",
+      "note": "Родственное šupalj «полый, дырявый», šupljikav «худой, с дырами». См. также: PRESIPANJE IZ ŠUPLJEG U PRAZNO, PRODAVATI MAGLU.",
+      "keyword": "priča",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.611Z"
     },
     {
       "id": "mt79r18o4nrjd",
@@ -16072,6 +16399,32 @@
       "created_at": "2026-08-21T18:24:53.587Z"
     },
     {
+      "id": "mt7ljk5m3ivax",
+      "headword_latin": "Tuđe je slađe",
+      "headword_cyrillic": "Туђе је слађе",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "чужое слаще",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uvek uzme s mog tanjira — tuđe je slađe.",
+          "russian": "Вечно тянет с моей тарелки: чужое слаще."
+        }
+      ],
+      "analogs_ru": [
+        "в чужих руках ломоть велик",
+        "чужое всегда слаще",
+        "на чужой каравай рот не разевай"
+      ],
+      "literal_ru": "",
+      "register": "послов.; о зависти к чужому и о том, что своё кажется хуже; полная форма tuđe je uvek slađe",
+      "note": "",
+      "keyword": "tuđe",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.610Z"
+    },
+    {
       "id": "msxu2ocrzvwrp",
       "headword_latin": "Tuđu nafaku niko ukrasti ne može",
       "headword_cyrillic": "Туђу нафаку нико украсти не може",
@@ -16231,6 +16584,33 @@
       "keyword": "laž",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.684Z"
+    },
+    {
+      "id": "mt7ljk5ognuuh",
+      "headword_latin": "U minut do dvanaest",
+      "headword_cyrillic": "У минут до дванаест",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "в последний момент",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prijavila sam se u minut do dvanaest.",
+          "russian": "Я подала заявку в самый последний момент."
+        }
+      ],
+      "analogs_ru": [
+        "в последний момент",
+        "на флажке",
+        "в последнюю секунду",
+        "в самый последний час"
+      ],
+      "literal_ru": "в минуту до двенадцати",
+      "register": "нейтр.-публиц.; и о том, кто едва успел, и о положении, когда действовать надо немедленно; вариант pet do dvanaest",
+      "note": "",
+      "keyword": "minut",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.612Z"
     },
     {
       "id": "mt0b9rqwpvnph",
@@ -17187,6 +17567,33 @@
       "keyword": "vuk",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "mt7ljk5p4czi1",
+      "headword_latin": "Za čije babe zdravlje",
+      "headword_cyrillic": "За чије бабе здравље",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на кой чёрт; ради чего это всё",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Za čije babe zdravlje sam ustajao u šest ujutru?",
+          "russian": "На кой чёрт я вставал в шесть утра?"
+        }
+      ],
+      "analogs_ru": [
+        "на кой чёрт",
+        "за каким лешим",
+        "какого рожна",
+        "спрашивается, зачем"
+      ],
+      "literal_ru": "за чьей бабки здоровье",
+      "register": "разг., раздражённо; вопрос о бессмысленно потраченных усилиях — своих или чужих; частотно в политических комментариях",
+      "note": "Сербские языковые рубрики объясняют образ так: бабки редко бывают в добром здравии, а о здоровье чужой бабки никто и подавно не печётся; соединение «бабки» и «здоровья» с вопросом «чьей же?» обесценивает всё сделанное. Оборот прямо называют эвфемизмом вульгарного za koji kurac — по функции это приличная замена крепкого слова, как русское «на кой чёрт».",
+      "keyword": "baba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T18:55:45.613Z"
     },
     {
       "id": "msxvtv1rhnvhe",
