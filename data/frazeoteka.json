@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T15:22:41.784Z",
+  "updated": "2026-08-24T15:34:03.087Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -653,6 +653,32 @@
       "keyword": "kuga",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.731Z"
+    },
+    {
+      "id": "mt7ec5q1jt65t",
+      "headword_latin": "Bele pare za crne dane",
+      "headword_cyrillic": "Беле паре за црне дане",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "копить на чёрный день",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Čuvaj bele pare za crne dane.",
+          "russian": "Береги белые деньги на чёрный день."
+        }
+      ],
+      "analogs_ru": [
+        "откладывать на чёрный день",
+        "копить на чёрный день",
+        "беречь про запас"
+      ],
+      "literal_ru": "белые деньги на чёрные дни",
+      "register": "разг.; держится на противопоставлении bele — crne",
+      "note": "Bele pare — старое название серебряных монет, отсюда белизна. Русский «чёрный день» совпадает, а «белых денег» в нём нет — контраст при переводе теряется.",
+      "keyword": "pare",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.001Z"
     },
     {
       "id": "msxlnru8oi42h",
@@ -2203,6 +2229,33 @@
       "keyword": "car",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:30:14.843Z"
+    },
+    {
+      "id": "mt7ec5q25pcy7",
+      "headword_latin": "Crkni-pukni",
+      "headword_cyrillic": "Цркни-пукни",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "хоть тресни; кровь из носу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Crkni-pukni, do petka mora biti gotovo.",
+          "russian": "Хоть тресни, к пятнице должно быть готово."
+        }
+      ],
+      "analogs_ru": [
+        "хоть тресни",
+        "кровь из носу",
+        "во что бы то ни стало",
+        "умри, но сделай"
+      ],
+      "literal_ru": "сдохни-лопни — два императива подряд",
+      "register": "разг., груб.; о том, что должно быть сделано любой ценой, либо как безжалостная отповедь: crkni-pukni, mene se ne tiče",
+      "note": "См. также: POŠTO-POTO.",
+      "keyword": "crknuti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.002Z"
     },
     {
       "id": "mt39f3sx8l984",
@@ -4577,6 +4630,33 @@
       "created_at": "2026-08-24T14:58:53.119Z"
     },
     {
+      "id": "mt7ec5q15g4aj",
+      "headword_latin": "Ima brdo para",
+      "headword_cyrillic": "Има брдо пара",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "денег куча",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima brdo para, a vozi se autobusom.",
+          "russian": "Денег куча, а ездит на автобусе."
+        }
+      ],
+      "analogs_ru": [
+        "денег куча",
+        "денег навалом",
+        "куры не клюют",
+        "горы денег"
+      ],
+      "literal_ru": "у него гора денег",
+      "register": "разг.",
+      "note": "Brdo как мера количества применимо ко всему: brdo posla «гора работы», brdo problema. См. также: LEŽATI NA PARAMA, PUN KAO BROD, KAO BLATA.",
+      "keyword": "brdo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.001Z"
+    },
+    {
       "id": "msym7ab239clz",
       "headword_latin": "Ima dana za megdana",
       "headword_cyrillic": "Има дана за мегдана",
@@ -5137,6 +5217,33 @@
       "keyword": "nabor",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:44.494Z"
+    },
+    {
+      "id": "mt7ec5q1et6ar",
+      "headword_latin": "Izgleda kao avion",
+      "headword_cyrillic": "Изгледа као авион",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "выглядит сногсшибательно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Videla sam je sinoć, izgleda kao avion.",
+          "russian": "Видела её вчера — выглядит сногсшибательно."
+        }
+      ],
+      "analogs_ru": [
+        "выглядит сногсшибательно",
+        "как с обложки",
+        "глаз не отвести",
+        "эффектная"
+      ],
+      "literal_ru": "выглядит как самолёт",
+      "register": "разг., одобр.; чаще о женщине, иногда о машине или доме",
+      "note": "Avion как похвала — «красивый, стремительный, дорогой». Сербский охотно берёт технику в комплименты: ona je avion, auto ko tenk, radi kao mašina. Русское «как с обложки» строится через образ печатный, а не машинный.",
+      "keyword": "avion",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.001Z"
     },
     {
       "id": "mt7a760c91hyc",
@@ -6590,6 +6697,32 @@
       "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
+      "id": "mt7ec5q017izu",
+      "headword_latin": "Koliko para, toliko muzike",
+      "headword_cyrillic": "Колико пара, толико музике",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "сколько заплатишь, столько и получишь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Tražiš vrhunski posao za taj honorar? Koliko para, toliko muzike.",
+          "russian": "Хочешь первоклассную работу за такой гонорар? Сколько заплатишь, столько и получишь."
+        }
+      ],
+      "analogs_ru": [
+        "по деньгам и товар",
+        "сколько заплатишь, столько и получишь",
+        "какова плата, такова и работа"
+      ],
+      "literal_ru": "сколько денег, столько музыки",
+      "register": "послов., частотно; и как оправдание скромного результата, и как отповедь требовательному заказчику",
+      "note": "Образ кафанский: сколько сунул музыкантам, столько они и играют. Тот же быт стоит за bacati pare muzičarima и за целым слоем сербских оборотов вокруг оркестра в кабаке.",
+      "keyword": "muzika",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.000Z"
+    },
+    {
       "id": "mt38pyjvy99p3",
       "headword_latin": "Košta kao svetog Petra kajgana",
       "headword_cyrillic": "Кошта као светог Петра кајгана",
@@ -8011,6 +8144,34 @@
       "keyword": "smrt",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:54:35.317Z"
+    },
+    {
+      "id": "mt7ec5q2d15cg",
+      "headword_latin": "Navrat-nanos",
+      "headword_cyrillic": "Наврат-нанос",
+      "transcription": "",
+      "pos": "prilog",
+      "definition_ru": "наспех; впопыхах",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Spakovali smo se navrat-nanos i krenuli.",
+          "russian": "Собрались впопыхах и поехали."
+        }
+      ],
+      "analogs_ru": [
+        "наспех",
+        "впопыхах",
+        "второпях",
+        "как попало",
+        "сломя голову"
+      ],
+      "literal_ru": "",
+      "register": "разг.; наречие, пишется через дефис; о действии, сделанном в спешке и оттого плохо",
+      "note": "Образ падения кувырком — «через голову, наискось». Соседнее brže-bolje мягче: там просто быстро, здесь ещё и беспорядочно. См. также: BRŽE-BOLJE.",
+      "keyword": "navrat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.002Z"
     },
     {
       "id": "mt701p39knfnj",
@@ -10073,6 +10234,33 @@
       "created_at": "2026-08-21T18:32:36.730Z"
     },
     {
+      "id": "mt7ec5q0x1wuf",
+      "headword_latin": "Para vrti gde burgija neće",
+      "headword_cyrillic": "Пара врти где бургија неће",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "деньги всё могут",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije imao ni papire ni uslove, ali dobio je dozvolu — para vrti gde burgija neće.",
+          "russian": "Ни бумаг, ни условий, а разрешение получил: деньги всё могут."
+        }
+      ],
+      "analogs_ru": [
+        "деньги всё могут",
+        "за деньги всё купишь",
+        "деньги дырку в камне протрут",
+        "всё решают деньги"
+      ],
+      "literal_ru": "деньга вертит там, где сверло не берёт",
+      "register": "послов., констатирующ., чаще с горечью; частотна в разговорах о коррупции и связях",
+      "note": "Burgija — сверло, бурав (турцизм). Соль в сопоставлении инструментов: сверло — предел механической силы, а деньга берёт там, где и оно бессильно. Русские аналоги строятся через покупку, сербский — через проникновение.",
+      "keyword": "para",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.000Z"
+    },
+    {
       "id": "mt7dxk13bb6kt",
       "headword_latin": "Paradajz turizam",
       "headword_cyrillic": "Парадајз туризам",
@@ -10203,6 +10391,34 @@
       "keyword": "vrućina",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.190Z"
+    },
+    {
+      "id": "mt7ec5q2riepm",
+      "headword_latin": "Pasti na niske grane",
+      "headword_cyrillic": "Пасти на ниске гране",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "опуститься; потерять лицо",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zbog loših odluka, firma je pala na niske grane.",
+          "russian": "Из-за плохих решений фирма скатилась."
+        }
+      ],
+      "analogs_ru": [
+        "опуститься",
+        "скатиться",
+        "потерять лицо",
+        "упасть в глазах",
+        "дойти до ручки"
+      ],
+      "literal_ru": "упасть на низкие ветки",
+      "register": "разг., неодобр.-сочувств.; и о потере уважения, и о вообще ухудшившемся положении; управление pasti na niske grane kod koga",
+      "note": "Образ птичий: сокол, сидевший высоко, спустился на нижние ветки. Ср. spao s konja na magarca — там пересел на кого похуже, здесь спустился ниже. См. также: SPAO S KONJA NA MAGARCA.",
+      "keyword": "grana",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.002Z"
     },
     {
       "id": "mt38pdhj7hjte",
@@ -11709,6 +11925,34 @@
       "created_at": "2026-08-21T18:24:53.585Z"
     },
     {
+      "id": "mt7ec5q028viz",
+      "headword_latin": "Pustiti mozak na ispašu",
+      "headword_cyrillic": "Пустити мозак на испашу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "отключить голову; ни о чём не думать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Došao sam kući i pustio mozak na ispašu.",
+          "russian": "Пришёл домой и отключил голову."
+        }
+      ],
+      "analogs_ru": [
+        "отключить голову",
+        "дать мозгам отдохнуть",
+        "ни о чём не думать",
+        "витать в облаках",
+        "отпустить мысли"
+      ],
+      "literal_ru": "пустить мозг на выпас",
+      "register": "разг., шутл.; чаще без осуждения — о заслуженном отдыхе от размышлений, но и о работе, где голова не нужна: posao gde možeš da pustiš mozak na ispašu; варианты na pašu, na otavu",
+      "note": "Otava в варианте — не канадская столица, а второй укос, осенняя трава на скошенном лугу; скот пускают на неё пастись без присмотра. Оборот из речи старшего поколения, и сегодняшние горожане нередко слышат в нём «Оттаву», что породило шутливое pustiti mozak u Otavu. В 2024 году на конкурс новых сербских слов подавали производное существительное с толкованием «расслабиться настолько, чтобы ни о чём не думать».",
+      "keyword": "ispaša",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.000Z"
+    },
+    {
       "id": "mt79wy4akf2rv",
       "headword_latin": "Pušiti kao Turčin",
       "headword_cyrillic": "Пушити као Турчин",
@@ -11998,6 +12242,33 @@
       "keyword": "lopov",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:05:17.696Z"
+    },
+    {
+      "id": "mt7ec5q21q3jo",
+      "headword_latin": "S koca i konopca",
+      "headword_cyrillic": "С коца и конопца",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "всякий сброд; кто попало",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sakupili su ljude na mitingu s koca i konopca.",
+          "russian": "На митинг согнали кого попало."
+        }
+      ],
+      "analogs_ru": [
+        "всякий сброд",
+        "с бору по сосенке",
+        "кто попало",
+        "разношёрстная публика"
+      ],
+      "literal_ru": "с кола и с верёвки",
+      "register": "разг., резко неодобр.; о случайно собранной публике сомнительного разбора; управление pokupiti / skupiti koga s koca i konopca",
+      "note": "Образ мрачный: kolac — кол, на который сажали, konopac — верёвка виселицы; изначально о тех, кого сняли с казни. Сегодня слой стёрся, осталось просто «сброд», но резкость сохранилась — в вежливом разговоре лучше raznorazni svet.",
+      "keyword": "konopac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.002Z"
     },
     {
       "id": "msxrqv21dloeq",
@@ -12551,6 +12822,33 @@
       "keyword": "braća",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.265Z"
+    },
+    {
+      "id": "mt7ec5q1gz6nc",
+      "headword_latin": "Smandrljati",
+      "headword_cyrillic": "Смандрљати",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "состряпать; сварганить кое-как",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Smandrljao je izveštaj za pola sata.",
+          "russian": "Состряпал отчёт за полчаса."
+        }
+      ],
+      "analogs_ru": [
+        "сварганить",
+        "состряпать",
+        "слепить на скорую руку",
+        "сляпать"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; о работе, сделанной наспех и небрежно; синоним sklepati (от klepati «ковать, стучать»), чуть более «ремесленный» по образу",
+      "note": "См. также: PLJUNI PA ZALEPI, DRŽI VODU DOK MAJSTORI ODU.",
+      "keyword": "smandrljati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.001Z"
     },
     {
       "id": "msxknp37toeua",
@@ -14362,6 +14660,33 @@
       "created_at": "2026-08-21T17:54:35.316Z"
     },
     {
+      "id": "mt7ec5q16xpfz",
+      "headword_latin": "U jednom dahu",
+      "headword_cyrillic": "У једном даху",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на одном дыхании; залпом",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pročitao sam knjigu u jednom dahu.",
+          "russian": "Прочитал книгу на одном дыхании."
+        }
+      ],
+      "analogs_ru": [
+        "на одном дыхании",
+        "залпом",
+        "не переводя духа",
+        "за один присест"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; о чтении, рассказе, работе без перерыва, и буквально о выпитом залпом",
+      "note": "Совпадает с русским.",
+      "keyword": "dah",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.001Z"
+    },
+    {
       "id": "msxu2ocse4xvv",
       "headword_latin": "U laži su kratke noge",
       "headword_cyrillic": "У лажи су кратке ноге",
@@ -14625,6 +14950,33 @@
       "keyword": "navrat",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.729Z"
+    },
+    {
+      "id": "mt7ec5q2rv5b9",
+      "headword_latin": "U vrh glave",
+      "headword_cyrillic": "У врх главе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "самое большее; максимум",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Jelo može da košta u vrh glave dve hiljade.",
+          "russian": "Обед обойдётся самое большее в две тысячи."
+        }
+      ],
+      "analogs_ru": [
+        "самое большее",
+        "максимум",
+        "от силы",
+        "край"
+      ],
+      "literal_ru": "в верхушку головы",
+      "register": "разг.; перед числом или мерой; синонимы najviše, maksimum, u najboljem slučaju",
+      "note": "Образ — уровень, выше которого некуда, как вода, поднявшаяся до макушки. Русское «от силы» устроено иначе, через усилие.",
+      "keyword": "glava",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.002Z"
     },
     {
       "id": "mt7adkcrks20g",
@@ -15528,6 +15880,33 @@
       "keyword": "puška",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:05:17.695Z"
+    },
+    {
+      "id": "mt7ec5q1lcwpp",
+      "headword_latin": "Zategnuta kao praćka",
+      "headword_cyrillic": "Затегнута као праћка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "подтянутая; как струна",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ima pedeset godina, a zategnuta je kao praćka.",
+          "russian": "Ей пятьдесят, а подтянута как струна."
+        }
+      ],
+      "analogs_ru": [
+        "подтянутая",
+        "в отличной форме",
+        "как струна",
+        "ни грамма лишнего"
+      ],
+      "literal_ru": "натянута как рогатка",
+      "register": "разг.; о фигуре — упругой, тренированной; о мужчине чаще zategnut",
+      "note": "О напряжении вообще — zategnuti odnosi «натянутые отношения».",
+      "keyword": "praćka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T15:34:03.001Z"
     },
     {
       "id": "mt0b9rqv5nqgw",
