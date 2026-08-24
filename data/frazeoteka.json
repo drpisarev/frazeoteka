@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T08:33:35.165Z",
+  "updated": "2026-08-24T08:54:00.309Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -861,6 +861,33 @@
       "keyword": "mirođija",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
+      "id": "mt701p3a6ue9e",
+      "headword_latin": "Biti na ratnoj nozi",
+      "headword_cyrillic": "Бити на ратној нози",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть на ножах; во вражде",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Komšije sa drugog sprata su na ratnoj nozi zbog glasne muzike.",
+          "russian": "Соседи со второго этажа на ножах из-за громкой музыки."
+        }
+      ],
+      "analogs_ru": [
+        "быть на ножах",
+        "на военном положении",
+        "воевать друг с другом",
+        "в контрах"
+      ],
+      "literal_ru": "быть на военной ноге",
+      "register": "разг.; сильнее оборота ne biti u ljubavi — не прохлада, а открытая вражда; управление biti na ratnoj nozi s kim; и о людях, и о государствах, и переносно о человеке и предмете: on je na ratnoj nozi s kompjuterima",
+      "note": "«Нога» держит в сербском целое гнездо отношений: na ravnoj nozi «на равных», na ratnoj nozi «во вражде», na visokoj nozi «на широкую ногу». Русский из этого ряда сохранил только последнее. См. также: NA RAVNOJ NOZI, ŽIVOT NA VISOKOJ NOZI.",
+      "keyword": "noga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:54:00.263Z"
     },
     {
       "id": "mt3a4b4g0fm0x",
@@ -6198,6 +6225,33 @@
       "created_at": "2026-08-21T17:54:35.317Z"
     },
     {
+      "id": "mt701p39knfnj",
+      "headword_latin": "Ne biti u ljubavi",
+      "headword_cyrillic": "Не бити у љубави",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть не в ладах; отношения прохладные",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Oni nisu nešto u ljubavi od prošle godine.",
+          "russian": "Они как-то не особо ладят с прошлого года."
+        }
+      ],
+      "analogs_ru": [
+        "не в ладах",
+        "отношения натянутые",
+        "кошка пробежала",
+        "не особо ладят"
+      ],
+      "literal_ru": "не быть в любви",
+      "register": "разг.; почти всегда с отрицанием и часто со смягчающим nešto: nisu nešto u ljubavi; управление biti u ljubavi s kim; формула мягкая, уклончивая — о ссоре впрямую не говорит",
+      "note": "Сербский любит такие приуменьшения: nije mi nešto dobro «мне не то чтобы хорошо» (на деле плохо), nije baš «не то чтобы». Частица nešto здесь смягчает, а не уточняет, — как русское «как-то не очень».",
+      "keyword": "ljubav",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:54:00.262Z"
+    },
+    {
       "id": "mt391c519q7u9",
       "headword_latin": "Ne diraj lava dok spava",
       "headword_cyrillic": "Не дирај лава док спава",
@@ -6276,6 +6330,33 @@
       "keyword": "baba",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:44.493Z"
+    },
+    {
+      "id": "mt701p3b047v5",
+      "headword_latin": "Ne mirisati se",
+      "headword_cyrillic": "Не мирисати се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не переваривать друг друга",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Čini mi se da se Petrovići ne mirišu baš sa Mihailovićima.",
+          "russian": "Мне кажется, Петровичи с Михайловичами не очень-то ладят."
+        }
+      ],
+      "analogs_ru": [
+        "не переваривать друг друга",
+        "на дух не выносить",
+        "не выносить на нюх",
+        "не сошлись характерами"
+      ],
+      "literal_ru": "не нюхаться",
+      "register": "разг.; всегда с отрицанием, чаще во взаимном значении ne mirišu se; возможно и одностороннее ne mirišem ga «терпеть его не могу»; управление ne mirisati se s kim",
+      "note": "Русский меряет неприязнь вкусом («не переваривать»), сербский обонянием — но и в русском есть «на дух не выносить», так что образ узнаваем. Родственное: neko mi smrdi «кто-то мне подозрителен, не нравится».",
+      "keyword": "mirisati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:54:00.263Z"
     },
     {
       "id": "mt0b9rqwi35zg",
@@ -6432,6 +6513,33 @@
       "keyword": "boba",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.729Z"
+    },
+    {
+      "id": "mt701p3c50bal",
+      "headword_latin": "Ne zaklapati",
+      "headword_cyrillic": "Не заклапати",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не закрывать рта; молоть без умолку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ona baba Mara priča, pa ne zaklapa!",
+          "russian": "Эта бабка Мара говорит и рта не закрывает!"
+        }
+      ],
+      "analogs_ru": [
+        "не закрывать рта",
+        "трещать без умолку",
+        "язык без костей",
+        "рта не закрывает"
+      ],
+      "literal_ru": "не затворяться",
+      "register": "разг., неодобр.; всегда с отрицанием и без дополнения — usta подразумевается: priča, pa ne zaklapa; иногда с уточнением ne zaklapa usta",
+      "note": "Тот же корень, что в zaklopiti «закрыть, накрыв» — zaklopiti knjigu, zaklopiti oči. Опущение объекта и создаёт разговорность: буквально «не затворяется», как дверь или крышка. См. также: PRIČA KAO NAVIJEN, SKLOPITI / ZAKLOPITI / PREKLOPITI.",
+      "keyword": "zaklapati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:54:00.264Z"
     },
     {
       "id": "msyrhihlclbac",
