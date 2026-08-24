@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T08:54:00.309Z",
+  "updated": "2026-08-24T13:22:48.203Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -1830,6 +1830,33 @@
       "created_at": "2026-08-17T23:54:45.976Z"
     },
     {
+      "id": "mt79ndfq5j1k5",
+      "headword_latin": "Brk u brk",
+      "headword_cyrillic": "Брк у брк",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "лицом к лицу; нос к носу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Video je mnogo puta smrt brk u brk.",
+          "russian": "Он не раз видел смерть лицом к лицу."
+        }
+      ],
+      "analogs_ru": [
+        "лицом к лицу",
+        "нос к носу",
+        "вплотную",
+        "глаза в глаза"
+      ],
+      "literal_ru": "ус в ус",
+      "register": "разг., экспресс.; о встрече вплотную — с человеком, с опасностью, со смертью",
+      "note": "Модель «существительное + предлог + то же существительное» продуктивна: oko u oko, prsa u prsa «грудь в грудь», licem u lice. Усы как мера близости — деталь балканская. Для нейтрального «лицом к лицу» есть прямое licem u lice, brk u brk всегда экспрессивнее.",
+      "keyword": "brk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.135Z"
+    },
+    {
       "id": "mt3ahnwap31kp",
       "headword_latin": "Brže-bolje",
       "headword_cyrillic": "Брже-боље",
@@ -2538,6 +2565,34 @@
       "created_at": "2026-08-17T19:29:45.342Z"
     },
     {
+      "id": "mt79ndftf5m1o",
+      "headword_latin": "Dati vatru tabanima",
+      "headword_cyrillic": "Дати ватру табанима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "дать дёру; сделать ноги",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dao je vatru tabanima kada je izašao stražar.",
+          "russian": "Он дал дёру, когда вышел сторож."
+        }
+      ],
+      "analogs_ru": [
+        "дать дёру",
+        "сделать ноги",
+        "сверкать пятками",
+        "унести ноги",
+        "дать стрекача"
+      ],
+      "literal_ru": "поддать огня пяткам",
+      "register": "разг., шутл.; синонимы pete su mu bile pune, dati petama vetra",
+      "note": "Tabani — ступни, подошвы ног (турцизм taban).",
+      "keyword": "taban",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.137Z"
+    },
+    {
       "id": "mt3a4b4g2ti5y",
       "headword_latin": "Derati kožu na šiljak",
       "headword_cyrillic": "Дерати кожу на шиљак",
@@ -2595,6 +2650,33 @@
       "keyword": "dlan",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.730Z"
+    },
+    {
+      "id": "mt79ndfr0faju",
+      "headword_latin": "Do daske",
+      "headword_cyrillic": "До даске",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "на всю катушку; до упора",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Odvrnuo sam muziku do daske.",
+          "russian": "Включил музыку на всю катушку."
+        }
+      ],
+      "analogs_ru": [
+        "на всю катушку",
+        "до упора",
+        "по полной",
+        "в пол"
+      ],
+      "literal_ru": "до доски",
+      "register": "разг.; ходовое odvrnuti muziku do daske, voziti do daske, dati gas do daske",
+      "note": "Образ из машины — педаль, вдавленная до пола.",
+      "keyword": "daska",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.136Z"
     },
     {
       "id": "msxmobcvchf62",
@@ -3554,6 +3636,33 @@
       "created_at": "2026-08-21T18:05:17.694Z"
     },
     {
+      "id": "mt79ndfssfait",
+      "headword_latin": "Govoriti u vetar",
+      "headword_cyrillic": "Говорити у ветар",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "бросать слова на ветер",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da govoriš u vetar.",
+          "russian": "Не бросай слова на ветер."
+        }
+      ],
+      "analogs_ru": [
+        "бросать слова на ветер",
+        "говорить впустую",
+        "как об стенку горох",
+        "сотрясать воздух"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.",
+      "note": "Двузначно, как и в русском: и «обещать не выполняя», и «говорить, когда никто не слушает».",
+      "keyword": "vetar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.136Z"
+    },
+    {
       "id": "mt38pyjxpkcqs",
       "headword_latin": "Gurati đubre pod tepih",
       "headword_cyrillic": "Гурати ђубре под тепих",
@@ -4086,6 +4195,60 @@
       "created_at": "2026-08-17T20:02:22.695Z"
     },
     {
+      "id": "mt79ndftvkhxd",
+      "headword_latin": "Ispod žita",
+      "headword_cyrillic": "Испод жита",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "исподтишка; втихаря",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U toj firmi se sve radi ispod žita.",
+          "russian": "В этой фирме всё делается втихаря."
+        }
+      ],
+      "analogs_ru": [
+        "исподтишка",
+        "втихаря",
+        "под ковром",
+        "тайком",
+        "по-тихому"
+      ],
+      "literal_ru": "под хлебами — под несжатым полем, где не видно",
+      "register": "разг., неодобр.; о делах, которые нарочно скрывают; ходовые raditi ispod žita, sve ide ispod žita",
+      "note": "Образ полевой: в высоком хлебе можно пройти незамеченным. Родственное podmuklo «исподтишка, коварно» жёстче — ispod žita скорее о скрытности, чем о подлости.",
+      "keyword": "žito",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.137Z"
+    },
+    {
+      "id": "mt79ndfs9kovl",
+      "headword_latin": "Ispravljati krive Drine",
+      "headword_cyrillic": "Исправљати криве Дрине",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "переделывать неисправимое; ломать копья впустую",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prekini da ispravljaš krive Drine, tu ne možeš ništa.",
+          "russian": "Хватит ломать копья, ты тут ничего не изменишь."
+        }
+      ],
+      "analogs_ru": [
+        "воду в ступе толочь",
+        "биться головой о стену",
+        "переделывать мир"
+      ],
+      "literal_ru": "выпрямлять кривые Дрины",
+      "register": "разг.; о попытке исправить то, что не поддаётся: порядки, нравы, чужой характер",
+      "note": "Дрина, пограничная река между Сербией и Боснией, славится крутыми меандрами и множеством наносных островов — выпрямить её нельзя, отсюда образ; множественное число Drine от бесчисленных извивов одной реки. Никакой легенды об императоре за оборотом не стоит. Vukajlija добавляет живой оттенок: чаще всего так говорят тому, кто взялся исправлять проблему, которая его вообще не касается. Сербские пособия по переводу предостерегают от вставки этого оборота в переводной текст о западной жизни — он слишком местный; рядом в том же списке стоит kiša oko Kragujevca. См. также: KRUŽITI KAO KIŠA OKO KRAGUJEVCA.",
+      "keyword": "Drina",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.136Z"
+    },
+    {
       "id": "mt3a4b4frahzv",
       "headword_latin": "Ista meta, isto odstojanje",
       "headword_cyrillic": "Иста мета, исто одстојање",
@@ -4165,6 +4328,33 @@
       "keyword": "iver",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "mt79ndfrtgqqs",
+      "headword_latin": "Iz čista mira",
+      "headword_cyrillic": "Из чиста мира",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни с того ни с сего",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uvredio se iz čista mira.",
+          "russian": "Обиделся ни с того ни с сего."
+        }
+      ],
+      "analogs_ru": [
+        "ни с того ни с сего",
+        "на ровном месте",
+        "как гром среди ясного неба",
+        "вдруг ни с чего"
+      ],
+      "literal_ru": "из чистого покоя",
+      "register": "нейтр.-разг.; застывший оборот; синоним iz vedra neba",
+      "note": "Mir здесь «покой, тишина», а не «мир» как вселенная.",
+      "keyword": "mir",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.135Z"
     },
     {
       "id": "mt391c52e3u5n",
@@ -4612,6 +4802,33 @@
       "keyword": "kad",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:29:33.177Z"
+    },
+    {
+      "id": "mt79ndftpampn",
+      "headword_latin": "Kad zagusti",
+      "headword_cyrillic": "Кад загусти",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "когда припечёт; когда дело дойдёт до жареного",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kad zagusti, uz tebe ostanu samo pravi prijatelji.",
+          "russian": "Когда припечёт, рядом остаются только настоящие друзья."
+        }
+      ],
+      "analogs_ru": [
+        "когда припечёт",
+        "когда дело дойдёт до жареного",
+        "в трудную минуту",
+        "когда прижмёт"
+      ],
+      "literal_ru": "когда загустеет",
+      "register": "разг.; безличный глагол; полный вариант kad dođe do gustog; часто в разговорах о том, кто останется рядом в беде",
+      "note": "Образ из готовки: варево густеет, значит дошло до предела. Русское «до жареного» тоже кухонное — редкое совпадение регистра.",
+      "keyword": "zagustiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.137Z"
     },
     {
       "id": "msxnt6d2dazuo",
@@ -6727,6 +6944,32 @@
       "created_at": "2026-08-21T17:51:09.236Z"
     },
     {
+      "id": "mt79ndfsz7gho",
+      "headword_latin": "Ni minut više",
+      "headword_cyrillic": "Ни минут више",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни минутой больше",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sačekaću te pola sata i ni minut više.",
+          "russian": "Подожду тебя полчаса, и ни минутой больше."
+        }
+      ],
+      "analogs_ru": [
+        "ни минутой больше",
+        "и ни секундой дольше",
+        "и всё, точка"
+      ],
+      "literal_ru": "",
+      "register": "разг., категоричн.; ставится после указания срока",
+      "note": "Модель продуктивна: ni dinar više, ni korak dalje, ni reč više.",
+      "keyword": "minut",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.136Z"
+    },
+    {
       "id": "mt0b224tzgtjh",
       "headword_latin": "Ni od korova",
       "headword_cyrillic": "Ни од корова",
@@ -6833,6 +7076,33 @@
       "keyword": "cvećka",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.494Z"
+    },
+    {
+      "id": "mt79ndftkwh2o",
+      "headword_latin": "Nije pošteno",
+      "headword_cyrillic": "Није поштено",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "это нечестно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije pošteno da se prepisuje.",
+          "russian": "Списывать нечестно."
+        }
+      ],
+      "analogs_ru": [
+        "это нечестно",
+        "так нечестно",
+        "это несправедливо",
+        "так не делается"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; разговорный синоним nije fer (англ. fair), особенно у молодёжи; nije pošteno весомее и годится для письменной речи",
+      "note": "Pošten шире русского «честный»: это и неподкупность, и порядочность вообще. Pošten čovek — «порядочный человек», высокая похвала.",
+      "keyword": "pošteno",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.137Z"
     },
     {
       "id": "mt38pyjztvh61",
@@ -7960,6 +8230,33 @@
       "keyword": "po",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:35:16.663Z"
+    },
+    {
+      "id": "mt79ndfsauqrq",
+      "headword_latin": "Po noći",
+      "headword_cyrillic": "По ноћи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ночью; посреди ночи",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Čula sam čudnu buku po noći.",
+          "russian": "Я слышала странный шум ночью."
+        }
+      ],
+      "analogs_ru": [
+        "ночью",
+        "посреди ночи",
+        "среди ночи",
+        "по ночам"
+      ],
+      "literal_ru": "",
+      "register": "разг.; предлог po с локативом указывает на время протекания; нейтральные варианты noću (наречие), usred noći («посреди ночи», подчёркнуто не вовремя)",
+      "note": "Конструкция с po даёт оттенок «в течение, по ходу», а не точку: po danu «днём», po kiši «в дождь», po mraku «в темноте». Для «именно посреди ночи, в неурочный час» точнее usred noći.",
+      "keyword": "noć",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.136Z"
     },
     {
       "id": "mt0b9rqvrqrgl",
@@ -11504,6 +11801,32 @@
       "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
+      "id": "mt79ndft5gsl3",
+      "headword_latin": "Za razliku od",
+      "headword_cyrillic": "За разлику од",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "в отличие от",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Za razliku od tebe, ja sam pametan.",
+          "russian": "В отличие от тебя, я умный."
+        }
+      ],
+      "analogs_ru": [
+        "в отличие от",
+        "в противоположность",
+        "не то что"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., связующий оборот; управление za razliku od koga/čega + родительный",
+      "note": "Razlika «разница, различие»; отсюда же razlikovati se od «отличаться от» и praviti razliku «делать различие». Русскому легко ошибиться с предлогом: только od, не iz и не sa.",
+      "keyword": "razlika",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.137Z"
+    },
+    {
       "id": "mt0b1qfzkfj4n",
       "headword_latin": "Zaglaviti se u saobraćaju",
       "headword_cyrillic": "Заглавити се у саобраћају",
@@ -11954,6 +12277,32 @@
       "keyword": "škola",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:46:00.691Z"
+    },
+    {
+      "id": "mt79ndfrqpwi8",
+      "headword_latin": "Životna želja",
+      "headword_cyrillic": "Животна жеља",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "мечта всей жизни",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moja životna želja je da otputujem na Kubu.",
+          "russian": "Мечта всей моей жизни — съездить на Кубу."
+        }
+      ],
+      "analogs_ru": [
+        "мечта всей жизни",
+        "заветное желание",
+        "давняя мечта"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.",
+      "note": "Životni как усилитель встречается и в životno delo «дело всей жизни», životna uloga «главная роль в жизни актёра». Сербское želja покрывает и русское «мечта» в бытовом смысле; san звучит поэтичнее и дальше от практического плана.",
+      "keyword": "želja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T13:22:48.135Z"
     },
     {
       "id": "mt38pyjvqqv88",
