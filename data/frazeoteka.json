@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-23T18:57:43.566Z",
+  "updated": "2026-08-24T08:33:35.165Z",
   "entries": [
     {
       "id": "mt0b9rqtalctg",
@@ -2832,6 +2832,33 @@
       "created_at": "2026-08-17T18:33:17.251Z"
     },
     {
+      "id": "mt6zbfrrzgol7",
+      "headword_latin": "Došao đavo po svoje",
+      "headword_cyrillic": "Дошао ђаво по своје",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пришёл час расплаты",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Godinama je muljao, a sad je došao đavo po svoje.",
+          "russian": "Годами мутил, а теперь пришёл час расплаты."
+        }
+      ],
+      "analogs_ru": [
+        "пришёл час расплаты",
+        "отольются кошке мышкины слёзки",
+        "сколько верёвочке ни виться",
+        "по счетам пришлось платить"
+      ],
+      "literal_ru": "пришёл дьявол за своим",
+      "register": "разг., мрачновато-ирон.; о наступившей расплате за прежние дела; часто как констатация со стороны, с оттенком удовлетворения",
+      "note": "Образ из народных легенд о договоре с нечистым: срок вышел, и хозяин явился за душой. Отсюда неотвратимость, которой нет в нейтральном «поплатился». См. также: SVE SE VRAĆA, SVE SE PLAĆA; DOĆI ĆE MACA NA VRATANCA.",
+      "keyword": "đavo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:33:35.127Z"
+    },
+    {
       "id": "mt38pyjv4wriy",
       "headword_latin": "Došla mu žuta minuta",
       "headword_cyrillic": "Дошла му жута минута",
@@ -3681,6 +3708,34 @@
       "keyword": "vuk",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.346Z"
+    },
+    {
+      "id": "mt6zbfrsf7mwd",
+      "headword_latin": "Ići grlom u jagode",
+      "headword_cyrillic": "Ићи грлом у јагоде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "лезть напролом; браться без подготовки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ušao je u posao grlom u jagode, bez ijednog papira.",
+          "russian": "Влез в дело напролом, без единой бумажки."
+        }
+      ],
+      "analogs_ru": [
+        "лезть напролом",
+        "с бухты-барахты",
+        "очертя голову",
+        "без царя в голове",
+        "сунуться не подумав"
+      ],
+      "literal_ru": "идти горлом в землянику",
+      "register": "разг., неодобр.-снисходит.; о том, кто берётся за дело без плана и без оглядки на последствия — часто с оттенком молодой безоглядности, а не глупости",
+      "note": "Полная старая форма — s golim grlom u jagode; Вук Караджич объясняет её так: подняться куда-то неподготовленным, как если бы человек пошёл собирать землянику, не взяв никакой посуды. То есть golo grlo — пустые руки, нести добычу не во что. Оборот приводится в вуковском собрании народных пословиц и в словаре Даничича. В современном обиходе выражение прочно связано с культовым сериалом Срджана Карановича «Grlom u jagode» (1976, десять серий, по году на серию, с 1960 по 1969) — историей взросления Бане Бумбара на белградской Карабурме; название закрепило за оборотом привкус молодости, которая кидается в жизнь очертя голову.",
+      "keyword": "jagode",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:33:35.128Z"
     },
     {
       "id": "mt3ae8hkgebat",
@@ -4666,6 +4721,33 @@
       "created_at": "2026-08-21T18:24:53.585Z"
     },
     {
+      "id": "mt6zbfrrjpuae",
+      "headword_latin": "Kao pile u kučine",
+      "headword_cyrillic": "Као пиле у кучине",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "запутался вконец; ни туда ни сюда",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zapetljao se u toj priči kao pile u kučine.",
+          "russian": "Запутался в этой истории вконец."
+        }
+      ],
+      "analogs_ru": [
+        "запутался как муха в паутине",
+        "как в трёх соснах",
+        "ни туда ни сюда",
+        "завяз по уши"
+      ],
+      "literal_ru": "как цыплёнок в пакле (kučine — очёски льна или конопли, спутанное волокно)",
+      "register": "разг.; о полной беспомощной запутанности — в делах, бумагах, объяснениях; ходовое zapetljao se kao pile u kučine",
+      "note": "Образ деревенский: цыплёнок попадает в кудель и чем больше барахтается, тем крепче вяжется. Русские аналоги строятся на паутине и соснах, так что дословный перевод останется непонятным.",
+      "keyword": "kučine",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:33:35.127Z"
+    },
+    {
       "id": "mt0aue86th1fa",
       "headword_latin": "Kap koja je prelila čašu",
       "headword_cyrillic": "Кап која је прелила чашу",
@@ -5310,6 +5392,32 @@
       "keyword": "Kragujevac",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:24:53.585Z"
+    },
+    {
+      "id": "mt6zbfrqdip18",
+      "headword_latin": "Kupiti mačku u džaku",
+      "headword_cyrillic": "Купити мачку у џаку",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "купить кота в мешке",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da kupuješ mačku u džaku, otiđi i pogledaj stan.",
+          "russian": "Не покупай кота в мешке, съезди и посмотри квартиру."
+        }
+      ],
+      "analogs_ru": [
+        "купить кота в мешке",
+        "взять не глядя",
+        "купить вслепую"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; управление kupiti šta kao mačku u džaku; džak — турцизм, «мешок»",
+      "note": "Совпадает с русским целиком, включая кота и мешок. Оборот интернациональный (нем. die Katze im Sack kaufen, англ. a pig in a poke); англичане назвали не кота, а поросёнка, которого в мешке как раз не было, — оттуда же их let the cat out of the bag «проговориться»: кот вылез, обман раскрылся.",
+      "keyword": "mačka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:33:35.126Z"
     },
     {
       "id": "msxwc0615zxaj",
@@ -9383,6 +9491,33 @@
       "keyword": "rešenje",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.191Z"
+    },
+    {
+      "id": "mt6zbfrsxjy9z",
+      "headword_latin": "Spao s konja na magarca",
+      "headword_cyrillic": "Спао с коња на магарца",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "с коня да на осла; докатился",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nekad je vodio firmu, a sad ovo — spao s konja na magarca.",
+          "russian": "Когда-то фирмой управлял, а теперь вот: с коня да на осла."
+        }
+      ],
+      "analogs_ru": [
+        "с коня да на осла",
+        "из князей в грязь",
+        "дела пошли под гору",
+        "скатиться по наклонной"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.-сочувств.; о падении в положении, доходах, качестве; ходовые формы spao je s konja na magarca, pao s konja na magarca",
+      "note": "Русское «из князи в грязи» резче и говорит о полном крахе, сербское мягче — пересел на кого похуже, но всё-таки едет. Есть продолжение по нарастающей: s konja na magarca, s magarca na pešačenje.",
+      "keyword": "konj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-24T08:33:35.128Z"
     },
     {
       "id": "mt0b1qfystgjd",
