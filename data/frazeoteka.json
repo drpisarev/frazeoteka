@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-24T18:59:35.698Z",
+  "updated": "2026-08-25T16:12:06.392Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -4851,6 +4851,33 @@
       "created_at": "2026-08-21T18:05:17.697Z"
     },
     {
+      "id": "mt8v4y6vagub0",
+      "headword_latin": "Harati",
+      "headword_cyrillic": "Харати",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "свирепствовать; опустошать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Epidemija hara gradom.",
+          "russian": "Эпидемия свирепствует в городе."
+        }
+      ],
+      "analogs_ru": [
+        "свирепствовать",
+        "бушевать",
+        "косить (об эпидемии)",
+        "разгуливать"
+      ],
+      "literal_ru": "",
+      "register": "книжн.-публиц.; об эпидемии, пожаре, засухе, преступности; управление harati čime + творительный: hara gradom, hara zemljom",
+      "note": "Турцизм. Исходное значение — «грабить, разорять» (о разбойниках, о войске); отсюда harač — османская подушная подать с немусульман, слово с тяжёлым историческим привкусом.",
+      "keyword": "harati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.295Z"
+    },
+    {
       "id": "msxmobcymmi18",
       "headword_latin": "I ćorava koka zrno pogodi",
       "headword_cyrillic": "И ћорава кока зрно погоди",
@@ -7667,6 +7694,33 @@
       "created_at": "2026-08-18T00:00:07.129Z"
     },
     {
+      "id": "mt8v4y6w5onke",
+      "headword_latin": "Krpež i trpež kuću drže",
+      "headword_cyrillic": "Крпеж и трпеж кућу држе",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "терпение да заплатка дом держат",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemamo mnogo, ali krpež i trpež kuću drže.",
+          "russian": "Достатка нет, да терпение с заплаткой дом держат."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "терпение и труд всё перетрут",
+        "копейка рубль бережёт",
+        "не до жиру, быть бы живу"
+      ],
+      "literal_ru": "латание и терпение дом держат",
+      "register": "послов., нар.; о том, что дом держится не достатком, а бережливостью и выносливостью",
+      "note": "Рифма krpež — trpež; оба слова вне пословицы почти не живут.",
+      "keyword": "krpež",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.296Z"
+    },
+    {
       "id": "mt7levw2tmic5",
       "headword_latin": "Krš",
       "headword_cyrillic": "Крш",
@@ -9712,6 +9766,33 @@
       "created_at": "2026-08-21T17:45:44.492Z"
     },
     {
+      "id": "mt8v4y6wsutk9",
+      "headword_latin": "Ne polazi mi za rukom",
+      "headword_cyrillic": "Не полази ми за руком",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у меня не выходит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne polazi mi za rukom da ga ubedim.",
+          "russian": "Никак не выходит его убедить."
+        }
+      ],
+      "analogs_ru": [
+        "у меня не выходит",
+        "не получается",
+        "не задаётся",
+        "никак не даётся"
+      ],
+      "literal_ru": "не идёт мне за рукой",
+      "register": "нейтр.-книжн.; безличная конструкция с дательным: polazi mi za rukom da + презент; разговорнее ne ide mi, ne uspevam",
+      "note": "",
+      "keyword": "ruka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.296Z"
+    },
+    {
       "id": "msxp30ejzffeq",
       "headword_latin": "Ne poželi nikome ono što samom sebi ne želiš",
       "headword_cyrillic": "Не пожели никоме оно што самом себи не желиш",
@@ -9952,6 +10033,32 @@
       "created_at": "2026-08-18T14:32:12.249Z"
     },
     {
+      "id": "mt8v4y6t1rbgt",
+      "headword_latin": "Neko te spominje",
+      "headword_cyrillic": "Неко те спомиње",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "кто-то тебя вспоминает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Štucaš? Neko te spominje.",
+          "russian": "Икаешь? Кто-то тебя вспоминает."
+        }
+      ],
+      "analogs_ru": [
+        "кто-то тебя вспоминает",
+        "икается — значит поминают",
+        "кто-то о тебе говорит"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; говорится икающему",
+      "note": "Štucati «икать», štucavica «икота». Продолжение приметы: если икота не проходит, надо угадать, кто именно, — тогда отпустит. Сербский вариант держится на глаголе spominjati «поминать, упоминать» — не «думать о тебе», а именно называть вслух.",
+      "keyword": "spominjati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.294Z"
+    },
+    {
       "id": "msxp30ehsubt1",
       "headword_latin": "Nema brata dok ne rodi majka",
       "headword_cyrillic": "Нема брата док не роди мајка",
@@ -9977,6 +10084,34 @@
       "keyword": "brat",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.218Z"
+    },
+    {
+      "id": "mt8v4y6xbc6dm",
+      "headword_latin": "Nema frke",
+      "headword_cyrillic": "Нема фрке",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "без проблем; не парься",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Izvini što kasnim! — Nema frke, sve je ok.",
+          "russian": "Извини за опоздание! — Без проблем, всё нормально."
+        }
+      ],
+      "analogs_ru": [
+        "без проблем",
+        "не парься",
+        "всё нормально",
+        "да ничего",
+        "не вопрос"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг.; ответ на извинение или на беспокойство",
+      "note": "Frka — «суматоха, напряг, переполох», ходовое и само: velika frka, u frci sam «я в запарке». См. также: NEMOJ DA SE CIMAŠ.",
+      "keyword": "frka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.297Z"
     },
     {
       "id": "mt391c51ycc2z",
@@ -10167,6 +10302,33 @@
       "created_at": "2026-08-21T17:54:35.318Z"
     },
     {
+      "id": "mt8v4y6xm2slk",
+      "headword_latin": "Nemam ništa s tim",
+      "headword_cyrillic": "Немам ништа с тим",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "я к этому не имею отношения",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ja nemam ništa s tim, pitaj njega.",
+          "russian": "Я к этому отношения не имею, спроси у него."
+        }
+      ],
+      "analogs_ru": [
+        "я тут ни при чём",
+        "не имею отношения",
+        "это не ко мне",
+        "моё дело сторона"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; полная форма nemam nikakve veze s tim",
+      "note": "Управление imati veze s čim. См. также: NI LUK JEO NI LUK MIRISAO, NIJE DO MENE.",
+      "keyword": "veza",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.297Z"
+    },
+    {
       "id": "mt38wx4kuuh3r",
       "headword_latin": "Nemam reči",
       "headword_cyrillic": "Немам речи",
@@ -10327,6 +10489,34 @@
       "keyword": "korov",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:27:49.709Z"
+    },
+    {
+      "id": "mt8v4y6yhvqmn",
+      "headword_latin": "Ni po babu ni po stričevima",
+      "headword_cyrillic": "Ни по бабу ни по стричевима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "невзирая на лица; по справедливости, без кумовства",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sudiće se ni po babu ni po stričevima.",
+          "russian": "Судить будут невзирая на лица."
+        }
+      ],
+      "analogs_ru": [
+        "невзирая на лица",
+        "по справедливости",
+        "не глядя на родство",
+        "всем по заслугам",
+        "закон один для всех"
+      ],
+      "literal_ru": "ни по отцу, ни по дядьям",
+      "register": "книжн.-публиц., одобр.; о беспристрастном решении или суде; полная форма ni po babu ni po stričevima, već po pravdi Boga istinoga",
+      "note": "Ключевая ловушка в слове babu: это не «бабка», а babo — «отец» (турцизм персидского происхождения, где baba значила «отец, почтенный старец»; ср. Али-баба). Хорватские языковеды специально писали, что распространённая форма ni po babama ni po stričevima бессмысленна и искажает пословицу. Оборот пришёл из народной эпической песни «Урош и Мрњавчевићи», записанной Вуком Караджичем во второй книге «Српских народних пјесама» (1845): Королевич Марко должен рассудить, кому достанется царство Душана; отец Вукашин рассчитывает на решение в свою пользу, дядя Углеша сулит царствовать по-братски, дядя Гойко обещает ещё больше. Марко молчит, а потом судит по завещанию царя Душана — царство законному наследнику Урошу, как его и заклинала мать Евросима: судить по правде Божьей, а не по родству. См. также: ISTERATI PRAVDU, ČIJA SILA, TOGA I PRAVDA.",
+      "keyword": "pravda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.298Z"
     },
     {
       "id": "mt0b1qfy6l2yv",
@@ -12023,6 +12213,31 @@
       "created_at": "2026-08-21T17:45:17.189Z"
     },
     {
+      "id": "mt8v4y6uuwmqc",
+      "headword_latin": "Pet pišeš, šest pamtiš",
+      "headword_cyrillic": "Пет пишеш, шест памтиш",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пять пишем, шесть в уме",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kaže jedno, a pet pišeš, šest pamtiš.",
+          "russian": "Говорит одно, а пять пишем, шесть в уме."
+        }
+      ],
+      "analogs_ru": [
+        "пять пишем, шесть в уме",
+        "столько-то в уме"
+      ],
+      "literal_ru": "",
+      "register": "разг.; из счёта в столбик, переносно — о человеке, который что-то утаивает или считает про себя; числа варьируют",
+      "note": "",
+      "keyword": "pisati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.294Z"
+    },
+    {
       "id": "mt38pdhhdkncf",
       "headword_latin": "Pijan kao majka",
       "headword_cyrillic": "Пијан као мајка",
@@ -12351,6 +12566,33 @@
       "keyword": "jaje",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:17.191Z"
+    },
+    {
+      "id": "mt8v4y6wc511i",
+      "headword_latin": "Pogoditi u živac",
+      "headword_cyrillic": "Погодити у живац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "задеть за живое",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Tim pitanjem si ga pogodio u živac.",
+          "russian": "Этим вопросом ты задел его за живое."
+        }
+      ],
+      "analogs_ru": [
+        "задеть за живое",
+        "попасть в точку",
+        "наступить на больную мозоль",
+        "задеть больное"
+      ],
+      "literal_ru": "попасть в нерв",
+      "register": "разг.; и о нечаянно задетой больной теме, и о метком попадании в суть",
+      "note": "Родственные — ići na živce «действовать на нервы», biti na ivici živaca «быть на пределе».",
+      "keyword": "živac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.296Z"
     },
     {
       "id": "mt7hwo7bibtdf",
@@ -13930,6 +14172,34 @@
       "created_at": "2026-08-24T17:13:58.920Z"
     },
     {
+      "id": "mt8v4y6vi4g5r",
+      "headword_latin": "Rovito",
+      "headword_cyrillic": "Ровито",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "1. всмятку (о яйце); 2. неважно, шатко (о здоровье, положении)",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako si? — Rovito, iskreno.",
+          "russian": "Как ты? — Честно говоря, неважно."
+        }
+      ],
+      "analogs_ru": [
+        "всмятку",
+        "жидковато",
+        "неважно",
+        "шатко",
+        "ни то ни сё"
+      ],
+      "literal_ru": "",
+      "register": "знач. 1 нейтр., кулин.: rovito jaje «яйцо всмятку», в отличие от tvrdo kuvano «вкрутую»; знач. 2 разг., переносное — о зыбком, неустоявшемся состоянии",
+      "note": "Перенос прозрачен: недоваренное, не затвердевшее — значит непрочное. Тот же образ в русском «сырой» о недоделанном.",
+      "keyword": "rovito",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.295Z"
+    },
+    {
       "id": "msxqn1oqwi4ex",
       "headword_latin": "Ruka ruku mije",
       "headword_cyrillic": "Рука руку мије",
@@ -14140,6 +14410,34 @@
       "keyword": "vrag",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.681Z"
+    },
+    {
+      "id": "mt8v4y6y0d93f",
+      "headword_latin": "Sam pao, sam se ubio",
+      "headword_cyrillic": "Сам пао, сам се убио",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "сам виноват; на себя пеняй",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Niko ga nije terao, sam pao, sam se ubio.",
+          "russian": "Никто его не заставлял: сам виноват."
+        }
+      ],
+      "analogs_ru": [
+        "сам виноват",
+        "на себя пеняй",
+        "сам напросился",
+        "что посеял, то и пожал",
+        "не на кого пенять"
+      ],
+      "literal_ru": "сам упал — сам себя убил",
+      "register": "разг.; о том, кто попал в беду по собственной вине и не может винить никого другого; часто без сочувствия",
+      "note": "",
+      "keyword": "pasti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.298Z"
     },
     {
       "id": "mt0b1qfzplbx8",
@@ -14376,6 +14674,33 @@
       "keyword": "sit",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:20:44.619Z"
+    },
+    {
+      "id": "mt8v4y6vgctjx",
+      "headword_latin": "Sitno se broji",
+      "headword_cyrillic": "Ситно се броји",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "считаные дни остались",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sitno se broji do odmora.",
+          "russian": "До отпуска считаные дни."
+        }
+      ],
+      "analogs_ru": [
+        "считаные дни остались",
+        "совсем немного осталось",
+        "дни считаю",
+        "на финишной прямой"
+      ],
+      "literal_ru": "мелко считается",
+      "register": "разг.; о приближении желанного срока — отпуска, окончания службы, родов; управление sitno se broji do čega",
+      "note": "«Мелко» — потому что счёт пошёл уже не на месяцы, а на дни и часы. Оборот прочно связан с армейским бытом: солдаты срочной службы вели такой счёт до дембеля.",
+      "keyword": "brojati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.295Z"
     },
     {
       "id": "msxrqv1yiioys",
@@ -15604,6 +15929,33 @@
       "keyword": "konj",
       "source": "frazeoteka",
       "created_at": "2026-08-17T21:51:42.266Z"
+    },
+    {
+      "id": "mt8v4y6x3pa23",
+      "headword_latin": "Sve lađe su mi potonule",
+      "headword_cyrillic": "Све лађе су ми потонуле",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "руки опустились; всё рухнуло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kad sam čuo rezultat, sve lađe su mi potonule.",
+          "russian": "Когда я услышал результат, у меня руки опустились."
+        }
+      ],
+      "analogs_ru": [
+        "всё рухнуло",
+        "руки опустились",
+        "как в воду опущенный",
+        "пал духом"
+      ],
+      "literal_ru": "все мои корабли потонули",
+      "register": "разг., экспресс.; о полном отчаянии после краха надежд; ходовое и в вопросе-утешении: šta ti je, kao da su ti sve lađe potonule?",
+      "note": "Образ купеческий: торговец, чьи суда с товаром пошли ко дну, разорён окончательно. Русское «как в воду опущенный» тоже водное, но там о виде человека, а не о причине.",
+      "keyword": "lađa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.297Z"
     },
     {
       "id": "msyrhihk43g9x",
@@ -17256,6 +17608,32 @@
       "created_at": "2026-08-24T13:43:10.155Z"
     },
     {
+      "id": "mt8v4y6vv9175",
+      "headword_latin": "Ućeban džemper",
+      "headword_cyrillic": "Ућебан џемпер",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "свитер в катышках",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Taj džemper je sav ućeban, vreme je za novi.",
+          "russian": "Свитер весь в катышках, пора новый."
+        }
+      ],
+      "analogs_ru": [
+        "свитер в катышках",
+        "скатался",
+        "закатался"
+      ],
+      "literal_ru": "",
+      "register": "разг.; редк./не подтверждено надёжно — в словарях не фиксируется",
+      "note": "Катышки на ткани — čvorići, kuglice, в химчистках pilling; о свитере ходовое iskrzan, izlizan, skupio se. Похоже на местное или семейное словцо; при случае стоит записать регион. В нейтральной речи вернее džemper se iskrzao.",
+      "keyword": "džemper",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.295Z"
+    },
+    {
       "id": "mt0b1qfysmz0e",
       "headword_latin": "Ući u štos",
       "headword_cyrillic": "Ући у штос",
@@ -18183,6 +18561,32 @@
       "created_at": "2026-08-21T17:45:17.188Z"
     },
     {
+      "id": "mt8v4y6v6rloz",
+      "headword_latin": "Zameniti mesta",
+      "headword_cyrillic": "Заменити места",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "поменяться местами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hoćeš da zamenimo mesta, meni duva na prozoru?",
+          "russian": "Поменяемся местами? Мне у окна дует."
+        }
+      ],
+      "analogs_ru": [
+        "поменяться местами",
+        "пересесть",
+        "обменяться местами"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; множественное mesta при взаимном действии двоих: zamenili su mesta; переносно zameni se sa mnom «побудь на моём месте»",
+      "note": "При обмене двое меняют два места, отсюда множественное; форма zameniti mesto в единственном значит «занять чьё-то место, подменить кого-л.».",
+      "keyword": "mesto",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.295Z"
+    },
+    {
       "id": "mt7levw3qufzn",
       "headword_latin": "Zamorče",
       "headword_cyrillic": "Заморче",
@@ -18718,6 +19122,33 @@
       "created_at": "2026-08-21T18:05:17.695Z"
     },
     {
+      "id": "mt8v4y6xdp8q8",
+      "headword_latin": "Živi bili pa videli",
+      "headword_cyrillic": "Живи били па видели",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "поживём — увидим",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisi u pravu! — Živi bili pa videli.",
+          "russian": "Ты неправ! — Поживём — увидим."
+        }
+      ],
+      "analogs_ru": [
+        "поживём — увидим",
+        "время покажет",
+        "увидим",
+        "там видно будет"
+      ],
+      "literal_ru": "живы будем — увидим",
+      "register": "разг.; и как уклончивый ответ, и как возражение самоуверенному; форма аориста-оптатива, застывшая",
+      "note": "",
+      "keyword": "videti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.297Z"
+    },
+    {
       "id": "mt38wx4lipdze",
       "headword_latin": "Život na visokoj nozi",
       "headword_cyrillic": "Живот на високој нози",
@@ -18794,6 +19225,33 @@
       "keyword": "želja",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:22:48.135Z"
+    },
+    {
+      "id": "mt8v4y6wbd4we",
+      "headword_latin": "Žrtveni jarac",
+      "headword_cyrillic": "Жртвени јарац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "козёл отпущения",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U našoj porodici sam uvek ja žrtveni jarac.",
+          "russian": "В нашей семье вечно я козёл отпущения."
+        }
+      ],
+      "analogs_ru": [
+        "козёл отпущения",
+        "стрелочник",
+        "крайний",
+        "на нём всё и отыгрались"
+      ],
+      "literal_ru": "жертвенный козёл",
+      "register": "нейтр.-публиц.; ходовое napraviti koga žrtvenim jarcem, biti žrtveni jarac",
+      "note": "Из библейского обряда (Лев. 16), интернациональное. Русское название точнее сербского и латинского: козла в обряде не приносили в жертву, а отпускали в пустыню, унося на нём грехи народа. Сербское žrtveni — калька с западных языков (scapegoat, Sündenbock), где эта деталь тоже утрачена.",
+      "keyword": "jarac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:12:06.296Z"
     },
     {
       "id": "mt38pyjvqqv88",
