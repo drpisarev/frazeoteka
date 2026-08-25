@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-25T17:16:05.478Z",
+  "updated": "2026-08-25T17:21:27.446Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -2419,6 +2419,34 @@
       "keyword": "bog",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:20:13.692Z"
+    },
+    {
+      "id": "mt8xm4vcn9qrg",
+      "headword_latin": "Bukvalno",
+      "headword_cyrillic": "Буквално",
+      "transcription": "",
+      "pos": "prilog",
+      "definition_ru": "буквально; прямо-таки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bukvalno je rekao te reči.",
+          "russian": "Он буквально эти слова и сказал."
+        }
+      ],
+      "analogs_ru": [
+        "буквально",
+        "дословно",
+        "прямо-таки",
+        "в прямом смысле",
+        "реально"
+      ],
+      "literal_ru": "",
+      "register": "нейтр. в прямом значении, разг. и раздражающе-частотно в роли усилителя: bukvalno sam umro od smeha; в списках слов-паразитов стоит рядом со znači, ono kao, u principu",
+      "note": "Слово латинское, а не от bukva «бук». Само дерево дало ходовое сравнение glup kao bukva «глуп как пень». См. также: POŠTAPALICA.",
+      "keyword": "bukvalno",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.336Z"
     },
     {
       "id": "mt7cc58660faw",
@@ -5386,6 +5414,38 @@
       "keyword": "kusur",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:35:16.665Z"
+    },
+    {
+      "id": "mt8xm4vep39iy",
+      "headword_latin": "I nikom ništa",
+      "headword_cyrillic": "И ником ништа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. и хоть бы что, и никаких последствий; 2. и ладно, ничего страшного",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pokrali su milione — i nikom ništa.",
+          "russian": "[знач. 1] Разворовали миллионы — и хоть бы что."
+        },
+        {
+          "serbian_latin": "Ako se vidimo, dobro; ako ne, nikom ništa.",
+          "russian": "[знач. 2] Увидимся — хорошо, нет — ну и ладно."
+        }
+      ],
+      "analogs_ru": [
+        "и хоть бы что",
+        "и всё сошло с рук",
+        "и никто не ответил",
+        "ну и ладно",
+        "ничего страшного"
+      ],
+      "literal_ru": "и никому ничего",
+      "register": "разг.; знач. 1 резко неодобрительное, о безнаказанности, крайне частотно в политических комментариях; знач. 2 примирительное, о том, что обошлось без последствий и обид",
+      "note": "Словарь сленга толкует знач. 1 как «популярную процедуру замалчивания и игнорирования, с насильственным забыванием и отсутствием ожидаемой реакции». В хорватской традиции оборот связывают со сказкой Иваны Брлич-Мажуранич «Шума Стриборова», где он зафиксирован. Два значения разошлись довольно далеко: первое звучит горько, второе легко и дружелюбно, различает их только контекст.",
+      "keyword": "ništa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.338Z"
     },
     {
       "id": "msxmobcyr67km",
@@ -9146,6 +9206,33 @@
       "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
+      "id": "mt8xm4vewk6km",
+      "headword_latin": "Ma ko mi kaže",
+      "headword_cyrillic": "Ма ко ми каже",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "кто бы говорил",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kaže mi da kasnim. Ma ko mi kaže.",
+          "russian": "Мне говорит, что я опаздываю. Кто бы говорил."
+        }
+      ],
+      "analogs_ru": [
+        "кто бы говорил",
+        "чья бы корова мычала",
+        "на себя посмотри",
+        "сам-то хорош"
+      ],
+      "literal_ru": "да кто мне говорит",
+      "register": "разг., ирон.; ответ упрекающему, который сам грешен тем же; дательный меняется: ko njemu kaže",
+      "note": "См. также: IMATI PUTERA NA GLAVI; NAJPRE ISPRED SVOJE KUĆE POČISTI.",
+      "keyword": "kazati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.338Z"
+    },
+    {
       "id": "mt38wx4ltxnpz",
       "headword_latin": "Ma nemoj",
       "headword_cyrillic": "Ма немој",
@@ -10221,6 +10308,33 @@
       "keyword": "kuća",
       "source": "frazeoteka",
       "created_at": "2026-08-18T00:00:07.129Z"
+    },
+    {
+      "id": "mt8xm4vccmbtg",
+      "headword_latin": "Naklon do poda",
+      "headword_cyrillic": "Наклон до пода",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "низкий поклон",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Naklon do poda za sve što ste uradili.",
+          "russian": "Низкий поклон за всё, что вы сделали."
+        }
+      ],
+      "analogs_ru": [
+        "низкий поклон",
+        "снимаю шляпу",
+        "земной поклон",
+        "моё почтение"
+      ],
+      "literal_ru": "поклон до пола",
+      "register": "разг.-книжн., торжеств.; выражение глубокой благодарности или восхищения, чаще письменно — в посте, отзыве, посвящении",
+      "note": "См. также: SVAKA ČAST, ALAL VERA.",
+      "keyword": "naklon",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.336Z"
     },
     {
       "id": "mt7doil5hfi9u",
@@ -13148,6 +13262,34 @@
       "created_at": "2026-08-19T16:27:34.557Z"
     },
     {
+      "id": "mt8xm4vbcke6r",
+      "headword_latin": "Pa znaš kako",
+      "headword_cyrillic": "Па знаш како",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ну, знаешь, как оно; как тебе сказать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pa znaš kako, nije to tako jednostavno.",
+          "russian": "Ну, знаешь, не так всё просто."
+        }
+      ],
+      "analogs_ru": [
+        "ну, знаешь",
+        "как тебе сказать",
+        "видишь ли",
+        "ну как сказать",
+        "дело такое"
+      ],
+      "literal_ru": "ну, знаешь как",
+      "register": "разг., очень частотно; зачин перед объяснением, оправданием или мягким возражением; ответа не требует",
+      "note": "Родственные зачины — pa dobro, pa evo, pa ne znam.",
+      "keyword": "znati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.335Z"
+    },
+    {
       "id": "mt7i18d03wio7",
       "headword_latin": "Padati na",
       "headword_cyrillic": "Падати на",
@@ -14465,6 +14607,32 @@
       "keyword": "ždera",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.247Z"
+    },
+    {
+      "id": "mt8xm4vdi4dra",
+      "headword_latin": "Pravilo je da nema pravila",
+      "headword_cyrillic": "Правило је да нема правила",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "правило одно: правил нет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako se to radi? — Pravilo je da nema pravila.",
+          "russian": "Как это делается? — Правило одно: правил нет."
+        }
+      ],
+      "analogs_ru": [
+        "правил нет",
+        "единственное правило — что правил нет",
+        "тут всё по обстоятельствам"
+      ],
+      "literal_ru": "",
+      "register": "разг.-афор.; о сфере, где невозможно вывести общий закон — о вкусах, о любви, о балканской бюрократии",
+      "note": "",
+      "keyword": "pravilo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.337Z"
     },
     {
       "id": "mt8va5bpm4lv1",
@@ -17571,6 +17739,33 @@
       "created_at": "2026-08-25T16:56:26.731Z"
     },
     {
+      "id": "mt8xm4vckjfup",
+      "headword_latin": "Sve ima svoje",
+      "headword_cyrillic": "Све има своје",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "всему своё; у всего есть своя цена",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne žuri, sve ima svoje.",
+          "russian": "Не спеши, всему своё время."
+        }
+      ],
+      "analogs_ru": [
+        "всему своё время",
+        "у всего своя цена",
+        "у каждой медали две стороны",
+        "за всё надо платить"
+      ],
+      "literal_ru": "у всего есть своё",
+      "register": "разг., философ.-примирит.; недоговорённая формула, где опущенное дополнение читается по контексту",
+      "note": "Полные варианты — sve ima svoje vreme, sve ima svoju cenu, sve ima svoje razloge.",
+      "keyword": "svoje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.336Z"
+    },
+    {
       "id": "mt8vfe9m8v9vg",
       "headword_latin": "Sve je dobro što se dobro svrši",
       "headword_cyrillic": "Све је добро што се добро сврши",
@@ -17996,6 +18191,32 @@
       "keyword": "selo",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:33:49.493Z"
+    },
+    {
+      "id": "mt8xm4vc6cqke",
+      "headword_latin": "Šta bi ja bez tebe",
+      "headword_cyrillic": "Шта би ја без тебе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что бы я без тебя делал",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Doneo si mi ključeve? Šta bi ja bez tebe.",
+          "russian": "Ключи принёс? Что бы я без тебя делал."
+        }
+      ],
+      "analogs_ru": [
+        "что бы я без тебя делал",
+        "ты моё спасение",
+        "спасибо, выручил"
+      ],
+      "literal_ru": "",
+      "register": "разг.; и искренняя благодарность, и ирония в адрес того, кто «помог» некстати; интонация решает",
+      "note": "",
+      "keyword": "bez",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.337Z"
     },
     {
       "id": "mt7ljk5mctlu8",
@@ -19622,6 +19843,32 @@
       "created_at": "2026-08-19T16:27:34.558Z"
     },
     {
+      "id": "mt8xm4ve8tz2s",
+      "headword_latin": "Udobno se smestite",
+      "headword_cyrillic": "Удобно се сместите",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "устраивайтесь поудобнее",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Udobno se smestite, priča je duga.",
+          "russian": "Устраивайтесь поудобнее, история длинная."
+        }
+      ],
+      "analogs_ru": [
+        "устраивайтесь поудобнее",
+        "располагайтесь",
+        "садитесь поудобнее"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-вежлив.; приглашение гостю и стандартный зачин рассказа или лекции — «сейчас будет долго»",
+      "note": "Smestiti se — «разместиться, устроиться»; udobno от udoban «удобный». Не путать с smestiti kome «подставить кого-л.» — тот же глагол в другом управлении.",
+      "keyword": "smestiti se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.338Z"
+    },
+    {
       "id": "mt7cc5871pvpf",
       "headword_latin": "Ugojila se kao mečka",
       "headword_cyrillic": "Угојила се као мечка",
@@ -20468,6 +20715,33 @@
       "keyword": "razlika",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:22:48.137Z"
+    },
+    {
+      "id": "mt8xm4vd4pgcr",
+      "headword_latin": "Za svakog ponešto",
+      "headword_cyrillic": "За сваког понешто",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "каждому найдётся что-нибудь; на любой вкус",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U programu ima za svakog ponešto.",
+          "russian": "В программе есть на любой вкус."
+        }
+      ],
+      "analogs_ru": [
+        "на любой вкус",
+        "каждому найдётся своё",
+        "всего понемногу для всех",
+        "есть из чего выбрать"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; о разнообразном ассортименте, программе, меню; ходовое в рекламе и в описании подборок",
+      "note": "",
+      "keyword": "ponešto",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:21:27.337Z"
     },
     {
       "id": "mt8va5bo8u53s",
