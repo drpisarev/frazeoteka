@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-25T16:56:26.837Z",
+  "updated": "2026-08-25T17:16:05.478Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -6648,6 +6648,33 @@
       "created_at": "2026-08-21T17:54:35.318Z"
     },
     {
+      "id": "mt8xf8fulzwdj",
+      "headword_latin": "Je l' me razumeš, je l' me pratiš",
+      "headword_cyrillic": "Је л' ме разумеш, је л' ме пратиш",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "понимаешь меня? следишь за мыслью?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ja sam njemu rekao sve, je l' me razumeš, i on je pristao.",
+          "russian": "Я ему всё сказал, понимаешь, и он согласился."
+        }
+      ],
+      "analogs_ru": [
+        "понимаешь?",
+        "улавливаешь?",
+        "следишь за мыслью?",
+        "понимаешь, о чём я"
+      ],
+      "literal_ru": "",
+      "register": "разг.; вставляется в собственную речь как проверка внимания слушателя, но чаще просто слово-паразит",
+      "note": "Издание Б92 включило je l' me razumeš в список самых раздражающих сербских поштапалиц наряду со svašta nešto, znači, ono kao. По функции это не вопрос, а ритмическая подпорка речи — отвечать не нужно; в публичном выступлении лучше обойтись без него. См. также: POŠTAPALICA.",
+      "keyword": "razumeti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:16:05.370Z"
+    },
+    {
       "id": "msxnt6d1yu3cl",
       "headword_latin": "Jedna kašika sama ne zveči",
       "headword_cyrillic": "Једна кашика сама не звечи",
@@ -11429,6 +11456,33 @@
       "created_at": "2026-08-21T17:51:09.236Z"
     },
     {
+      "id": "mt8xf8ftosayz",
+      "headword_latin": "Nemoj da me shvatiš pogrešno, ali",
+      "headword_cyrillic": "Немој да ме схватиш погрешно, али",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не пойми меня неправильно, но…",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj da me shvatiš pogrešno, ali to je bilo loše odrađeno.",
+          "russian": "Не пойми меня неправильно, но сделано было плохо."
+        }
+      ],
+      "analogs_ru": [
+        "не пойми меня неправильно, но",
+        "ты уж извини, но",
+        "при всём уважении",
+        "не обижайся, но"
+      ],
+      "literal_ru": "",
+      "register": "разг.; предваряет то, что собеседнику точно не понравится",
+      "note": "Как и uz dužno poštovanje, служит сигналом: сейчас будет неприятное. См. также: UZ DUŽNO POŠTOVANJE, S OPROŠTENJEM.",
+      "keyword": "shvatiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:16:05.369Z"
+    },
+    {
       "id": "mt7lohmaviukl",
       "headword_latin": "Nemoj da se cimaš",
       "headword_cyrillic": "Немој да се цимаш",
@@ -11935,6 +11989,60 @@
       "keyword": "nikad",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:37:10.220Z"
+    },
+    {
+      "id": "mt8xf8ftfkjzd",
+      "headword_latin": "Nikad se ne zna",
+      "headword_cyrillic": "Никад се не зна",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как знать; всякое бывает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ponesi kišobran, nikad se ne zna.",
+          "russian": "Возьми зонт, мало ли что."
+        }
+      ],
+      "analogs_ru": [
+        "как знать",
+        "всякое бывает",
+        "мало ли что",
+        "чем чёрт не шутит",
+        "никогда не знаешь"
+      ],
+      "literal_ru": "",
+      "register": "разг.; безличная возвратная конструкция; и осторожный оптимизм («вдруг получится»), и предостережение («мало ли»)",
+      "note": "",
+      "keyword": "znati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:16:05.369Z"
+    },
+    {
+      "id": "mt8xf8fuytorr",
+      "headword_latin": "Nisam ja kuče od juče",
+      "headword_cyrillic": "Нисам ја куче од јуче",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "я не вчера родился",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj meni to da pričaš, nisam ja kuče od juče.",
+          "russian": "Не рассказывай мне сказки, я не вчера родился."
+        }
+      ],
+      "analogs_ru": [
+        "я не вчера родился",
+        "меня на мякине не проведёшь",
+        "я тоже не лыком шит"
+      ],
+      "literal_ru": "я не вчерашний щенок",
+      "register": "разг.; заявление о собственной опытности в ответ на попытку обмануть или недооценить; держится на рифме kuče — juče",
+      "note": "См. также: SISATI VESLA; ZNAM TE PUŠKO, DOK SI PIŠTOLJ BILA.",
+      "keyword": "kuče",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:16:05.370Z"
     },
     {
       "id": "mt7a30su7lj2s",
@@ -18048,6 +18156,33 @@
       "keyword": "reći",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:56:26.731Z"
+    },
+    {
+      "id": "mt8xf8ft73q3x",
+      "headword_latin": "Šta se radi na estradi",
+      "headword_cyrillic": "Шта се ради на естради",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что новенького?; какие новости?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ćao, šta se radi na estradi?",
+          "russian": "Привет, что новенького?"
+        }
+      ],
+      "analogs_ru": [
+        "что новенького",
+        "какие новости",
+        "что слышно",
+        "как оно всё"
+      ],
+      "literal_ru": "что делается на эстраде",
+      "register": "разг., шутл.; рифмованное приветствие-вопрос о новостях, к эстраде отношения не имеющее; держится на созвучии radi — estradi",
+      "note": "Из того же ряда шутливых вопросов о новостях: šta ima novo, šta se dešava, šta radiš, šta se gradiš.",
+      "keyword": "estrada",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T17:16:05.369Z"
     },
     {
       "id": "mt0aue8619ai4",
