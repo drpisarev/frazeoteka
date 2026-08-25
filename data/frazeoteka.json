@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-25T16:16:08.927Z",
+  "updated": "2026-08-25T16:20:13.787Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -1498,6 +1498,33 @@
       "created_at": "2026-08-17T19:01:20.432Z"
     },
     {
+      "id": "mt8vfe9n67t61",
+      "headword_latin": "Bog te ubio da te ne ubije",
+      "headword_cyrillic": "Бог те убио да те не убије",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "да чтоб тебя; ну и голова садовая",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bog te ubio da te ne ubije, što si to uradio?",
+          "russian": "Да чтоб тебя, ну зачем ты это сделал?"
+        }
+      ],
+      "analogs_ru": [
+        "да чтоб тебя",
+        "ну ты и даёшь",
+        "головой думай",
+        "о господи, что ж ты творишь"
+      ],
+      "literal_ru": "убил бы тебя Бог, чтобы он тебя не убил",
+      "register": "разг., бранно-любовное; проклятие, тут же снимающее само себя; говорится с досадой, но без злобы — чаще своим: ребёнку, другу, родне",
+      "note": "Сербская брань часто устроена так — форма проклятия при явном отсутствии злого умысла: ubio te bog, dabogda te, bogtemazo. Русский аналог того же типа — «чтоб тебя», сказанное с улыбкой. При переводе главное не утяжелить: буквальное «убил бы тебя Бог» звучит куда страшнее оригинала.",
+      "keyword": "bog",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.691Z"
+    },
+    {
       "id": "msxlgokcij8mt",
       "headword_latin": "Boga ti",
       "headword_cyrillic": "Бога ти",
@@ -2339,6 +2366,33 @@
       "created_at": "2026-08-17T19:29:45.340Z"
     },
     {
+      "id": "mt8vfe9of0zjd",
+      "headword_latin": "Budi Bog s nama",
+      "headword_cyrillic": "Буди Бог с нама",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "свят-свят; Господи помилуй",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pričaju da tamo nešto ima, budi Bog s nama.",
+          "russian": "Говорят, там что-то водится, свят-свят."
+        }
+      ],
+      "analogs_ru": [
+        "свят-свят",
+        "Господи помилуй",
+        "не приведи господь",
+        "тьфу, нечистая сила"
+      ],
+      "literal_ru": "будь Бог с нами",
+      "register": "разг., оберег; произносится при упоминании нечистой силы, страшной болезни, дурного знака; сокращение bud' Bog s nama",
+      "note": "См. также: DALEKO BILO.",
+      "keyword": "bog",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.692Z"
+    },
+    {
       "id": "mt7cc58660faw",
       "headword_latin": "Bulazni kao da se najeo bunike",
       "headword_cyrillic": "Булазни као да се најео бунике",
@@ -3000,6 +3054,59 @@
       "keyword": "ćutati",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.728Z"
+    },
+    {
+      "id": "mt8vfe9pjfkdt",
+      "headword_latin": "Da je bolje, ne bi valjalo",
+      "headword_cyrillic": "Да је боље, не би ваљало",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "лучше не бывает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako si? — Da je bolje, ne bi valjalo.",
+          "russian": "Как дела? — Лучше не бывает."
+        }
+      ],
+      "analogs_ru": [
+        "лучше не бывает",
+        "лучше и не придумаешь",
+        "всё отлично",
+        "грех жаловаться"
+      ],
+      "literal_ru": "будь оно лучше — было бы никуда не годно",
+      "register": "разг., шутл.; ходовой ответ на kako si?",
+      "note": "Двойное дно: формально похвала, но перевёрнутая логика оставляет место иронии — говорящий может иметь в виду и «хуже некуда». Весь набор ответов на «как дела» стоит держать вместе: đene-đene, tu i tamo, ne pitaj, ide nekako. Прямого dobro sam сербы избегают: слишком плоско.",
+      "keyword": "valjati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.693Z"
+    },
+    {
+      "id": "mt8vfe9ofldm9",
+      "headword_latin": "Da nemaš možda",
+      "headword_cyrillic": "Да немаш можда",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "у тебя случайно нет…",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Da nemaš možda upaljač?",
+          "russian": "У тебя случайно нет зажигалки?"
+        }
+      ],
+      "analogs_ru": [
+        "у тебя случайно нет",
+        "не найдётся ли у тебя",
+        "нет ли у тебя часом"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-вежлив.; ходовая формула осторожной просьбы",
+      "note": "Конструкция с da + отрицание смягчает: спрашивают так, будто заранее готовы к отказу. Прямое imaš li upaljač? звучит требовательнее.",
+      "keyword": "nemati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.692Z"
     },
     {
       "id": "mt7hwo7ahgfky",
@@ -6641,6 +6748,33 @@
       "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
+      "id": "mt8vfe9oqadbq",
+      "headword_latin": "Kad ja tamo, a ono međutim",
+      "headword_cyrillic": "Кад ја тамо, а оно међутим",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "прихожу, а там совсем другое дело",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Krenem po dokumenta, kad ja tamo, a ono međutim — kancelarija zatvorena.",
+          "russian": "Иду за документами, прихожу, а там — контора закрыта."
+        }
+      ],
+      "analogs_ru": [
+        "прихожу, а там",
+        "а оно вон как оказалось",
+        "гляжу — а дело-то не в том",
+        "а вышло совсем иначе"
+      ],
+      "literal_ru": "когда я туда, а оно между тем",
+      "register": "разг., рассказовый; вводит развязку, опровергающую ожидание",
+      "note": "A ono međutim — намеренно корявый оборот, часть комизма: рассказчик будто спотыкается, подбирая слова. См. также: KAD ONO.",
+      "keyword": "tamo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.692Z"
+    },
+    {
       "id": "msxl6oyratm5p",
       "headword_latin": "Kad na vrbi rodi grožđe",
       "headword_cyrillic": "Кад на врби роди грожђе",
@@ -7285,6 +7419,31 @@
       "keyword": "kliknuti",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.237Z"
+    },
+    {
+      "id": "mt8vfe9mnj8ux",
+      "headword_latin": "Klin se klinom izbija",
+      "headword_cyrillic": "Клин се клином избија",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "клин клином вышибают",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Popij kafu, klin se klinom izbija.",
+          "russian": "Выпей кофе, клин клином вышибают."
+        }
+      ],
+      "analogs_ru": [
+        "клин клином вышибают",
+        "подобное лечится подобным"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.; часто в контексте похмелья и переносно — о вытеснении одной беды другой",
+      "note": "Совпадает с русским полностью.",
+      "keyword": "klin",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.690Z"
     },
     {
       "id": "mt7doil629x8h",
@@ -8286,6 +8445,61 @@
       "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
+      "id": "mt8vfe9pcn0p9",
+      "headword_latin": "Leglo mi je kao budali šamar",
+      "headword_cyrillic": "Легло ми је као будали шамар",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "зашло как нельзя лучше; пришлось в самый раз",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta rakija mi je legla kao budali šamar.",
+          "russian": "Эта ракия зашла как нельзя лучше."
+        }
+      ],
+      "analogs_ru": [
+        "зашло на ура",
+        "то, что доктор прописал",
+        "как нельзя кстати",
+        "село как влитое",
+        "пришлось в самый раз"
+      ],
+      "literal_ru": "легло мне как дураку пощёчина",
+      "register": "разг., груб.-шутл.; чаще всего о еде и питье, попавших в самое нужное место, реже о поступке или подарке; дательный лица меняется",
+      "note": "Соль в жестокой логике: пощёчина дураку приходится точно по назначению и без промаха — значит, попало ровно туда, куда надо. Сравнение годится и когда речь о чём-то приятном, в чём весь комизм. См. также: KAO KEC NA DESET, SEO KAO DEČJA GUZA NA NOŠU.",
+      "keyword": "šamar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.693Z"
+    },
+    {
+      "id": "mt8vfe9mpkcod",
+      "headword_latin": "Lep kao lutka",
+      "headword_cyrillic": "Леп као лутка",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "красив как картинка",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Lep je kao lutka, ne možeš skinuti pogled.",
+          "russian": "Красив как картинка, глаз не отвести."
+        }
+      ],
+      "analogs_ru": [
+        "красив как картинка",
+        "хорош собой",
+        "загляденье",
+        "как с обложки"
+      ],
+      "literal_ru": "красив как кукла",
+      "register": "разг., одобр.; и о женщине, и о мужчине, и о ребёнке; синоним lep kao slika",
+      "note": "В сербском без насмешки, в отличие от русского «кукольный», где слышится бездушность.",
+      "keyword": "lutka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.690Z"
+    },
+    {
       "id": "msxnt6d3h9pqs",
       "headword_latin": "Lepa reč i gvozdena vrata otvara",
       "headword_cyrillic": "Лепа реч и гвоздена врата отвара",
@@ -8444,6 +8658,34 @@
       "keyword": "luk",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:24:53.585Z"
+    },
+    {
+      "id": "mt8vfe9p74s9r",
+      "headword_latin": "Lupa kao Maksim po diviziji",
+      "headword_cyrillic": "Лупа као Максим по дивизији",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "несёт чушь; мелет без остановки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne slušaj ga, lupa ko Maksim po diviziji.",
+          "russian": "Не слушай его, несёт чушь без остановки."
+        }
+      ],
+      "analogs_ru": [
+        "несёт чушь",
+        "мелет языком",
+        "трещит без умолку",
+        "городит околесицу",
+        "понесло его"
+      ],
+      "literal_ru": "лупит как максим по дивизии",
+      "register": "разг., неодобр.; о том, кто много говорит и ничего не говорит, вставляя нелепые отступления, или уверенно сыплет неверными сведениями; глагол варьирует: lupa, tuče",
+      "note": "Максим — не человек, а пулемёт: первый в мире станковый пулемёт, сконструированный Хайремом Стивенсом Максимом в 1884 году и названный по имени изобретателя. Оружие било несколько сотен выстрелов в минуту, было убийственным, но не особо точным и очень шумным — отсюда «лупит». Сербская армия приняла его на вооружение вслед за прочими европейскими, и в Первую мировую грохот «максима» по дивизиям дал оборот. Образ соединяет три черты сразу: громко, безостановочно и мимо цели. См. также: PRIČA KAO NAVIJEN, PALAMUDITI.",
+      "keyword": "Maksim",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.693Z"
     },
     {
       "id": "msxnt6d3rqexs",
@@ -10513,6 +10755,34 @@
       "created_at": "2026-08-19T16:33:49.494Z"
     },
     {
+      "id": "mt8vfe9n4as6j",
+      "headword_latin": "Nema šanse",
+      "headword_cyrillic": "Нема шансе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни за что; исключено",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Da idem tamo sam? Nema šanse.",
+          "russian": "Чтобы я туда один пошёл? Ни за что."
+        }
+      ],
+      "analogs_ru": [
+        "ни за что",
+        "исключено",
+        "ни в коем случае",
+        "без шансов",
+        "да ну, нереально"
+      ],
+      "literal_ru": "",
+      "register": "разг., очень частотно; и как категорический отказ, и как оценка невозможности; усиленно nema šanse na svetu, nema teorije",
+      "note": "См. также: NE DOLAZI U OBZIR, MALO SUTRA.",
+      "keyword": "šansa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.691Z"
+    },
+    {
       "id": "mt7dxk14t17ax",
       "headword_latin": "Nema vajde",
       "headword_cyrillic": "Нема вајде",
@@ -11372,6 +11642,33 @@
       "keyword": "okrenuti",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:38:11.627Z"
+    },
+    {
+      "id": "mt8vfe9mg3cyl",
+      "headword_latin": "Obrve kao morske pijavice",
+      "headword_cyrillic": "Обрве као морске пијавице",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "брови как нарисованные — тонкие, тёмные, изогнутые",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vidi je, ima obrve kao morske pijavice.",
+          "russian": "Ты посмотри, брови как нарисованные."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "брови вразлёт",
+        "брови соболиные",
+        "как две дуги"
+      ],
+      "literal_ru": "брови как морские пиявки",
+      "register": "разг., одобр.; комплимент форме бровей; чаще о младенце или девочке, в устах старших родственниц",
+      "note": "Образ для русского уха неприятный, а по-сербски это чистая похвала: пиявка мыслится как гладкая, тёмная, идеально изогнутая линия. При переводе образ надо менять, иначе комплимент прочтётся как оскорбление.",
+      "keyword": "obrve",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.690Z"
     },
     {
       "id": "mt38pyk051rja",
@@ -12672,6 +12969,33 @@
       "created_at": "2026-08-24T17:22:37.269Z"
     },
     {
+      "id": "mt8vfe9pzqdzg",
+      "headword_latin": "Plakati kao godina",
+      "headword_cyrillic": "Плакати као година",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "плакать навзрыд; заливаться слезами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Plakala je kao godina kad je čula vest.",
+          "russian": "Она заливалась слезами, когда услышала новость."
+        }
+      ],
+      "analogs_ru": [
+        "плакать навзрыд",
+        "реветь в три ручья",
+        "заливаться слезами",
+        "рыдать в голос"
+      ],
+      "literal_ru": "",
+      "register": "разг., экспресс.; расширенный вариант plakati kao ljuta godina",
+      "note": "Заменяет прежнюю версию с пометой «не подтверждено»: оборот зафиксирован, сербские языковые рубрики разбирают его наряду с прочими сравнениями о плаче — plače izaglasa (громко и сильно), plače kao kiša (льёт слёзы), plače kao godina. Полного объяснения образа по-прежнему нет; вероятная связь — с ljuta godina «голодный, лихой год», над которым «плачет» вся округа.",
+      "keyword": "godina",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.693Z"
+    },
+    {
       "id": "mt7a760a5hjfr",
       "headword_latin": "Plakati kao ljuta godina",
       "headword_cyrillic": "Плакати као љута година",
@@ -12697,6 +13021,32 @@
       "keyword": "godina",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:38:11.626Z"
+    },
+    {
+      "id": "mt8vfe9on75id",
+      "headword_latin": "Plitak potok, a voda duboka",
+      "headword_cyrillic": "Плитак поток, а вода дубока",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "в тихом омуте черти водятся",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne potcenjuj ga: plitak potok, a voda duboka.",
+          "russian": "Не недооценивай его: в тихом омуте черти водятся."
+        }
+      ],
+      "analogs_ru": [
+        "в тихом омуте черти водятся",
+        "внешность обманчива",
+        "не всё то просто, что кажется простым"
+      ],
+      "literal_ru": "ручей мелкий, а вода глубокая",
+      "register": "послов.; о человеке или деле, кажущемся простым и неглубоким; реже, чем ispod mire sto đavola vire и tiha voda breg roni",
+      "note": "",
+      "keyword": "potok",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.692Z"
     },
     {
       "id": "mt7dahkm2i4ka",
@@ -16414,6 +16764,31 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "mt8vfe9m8v9vg",
+      "headword_latin": "Sve je dobro što se dobro svrši",
+      "headword_cyrillic": "Све је добро што се добро сврши",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "всё хорошо, что хорошо кончается",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bilo je napeto, ali sve je dobro što se dobro svrši.",
+          "russian": "Понервничали, но всё хорошо, что хорошо кончается."
+        }
+      ],
+      "analogs_ru": [
+        "всё хорошо, что хорошо кончается",
+        "конец — делу венец"
+      ],
+      "literal_ru": "",
+      "register": "послов., общеупотр.",
+      "note": "Интернациональная; ср. англ. All's Well That Ends Well.",
+      "keyword": "svršiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.690Z"
+    },
+    {
       "id": "mt8v4y6x3pa23",
       "headword_latin": "Sve lađe su mi potonule",
       "headword_cyrillic": "Све лађе су ми потонуле",
@@ -18064,6 +18439,33 @@
       "created_at": "2026-08-17T23:43:00.318Z"
     },
     {
+      "id": "mt8vfe9nrh487",
+      "headword_latin": "U tom grmu leži zec",
+      "headword_cyrillic": "У том грму лежи зец",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вот где собака зарыта",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Znači on je potpisao? E, u tom grmu leži zec.",
+          "russian": "Значит, это он подписал? Вот где собака зарыта."
+        }
+      ],
+      "analogs_ru": [
+        "вот где собака зарыта",
+        "вот в чём загвоздка",
+        "вот оно что",
+        "вот где корень зла"
+      ],
+      "literal_ru": "в этом кусте лежит заяц",
+      "register": "разг.; момент, когда открывается скрытая причина; глагол варьирует: leži, čuči",
+      "note": "Образ охотничий: собаки лают на куст, а там-то и притаился заяц. Русская «зарытая собака» из немецкого da liegt der Hund begraben; сербский образ прозрачнее и живее. См. также: ZAČKOLJICA.",
+      "keyword": "grm",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.691Z"
+    },
+    {
       "id": "mt3ae8hl9slzu",
       "headword_latin": "U više navrata",
       "headword_cyrillic": "У више наврата",
@@ -19633,6 +20035,32 @@
       "created_at": "2026-08-24T13:34:58.254Z"
     },
     {
+      "id": "mt8vfe9mrb7ex",
+      "headword_latin": "Zubići kao biseri",
+      "headword_cyrillic": "Зубићи као бисери",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "зубки как жемчужинки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako su mu lepi zubići kao biseri!",
+          "russian": "Какие у него красивые зубки, как жемчужинки!"
+        }
+      ],
+      "analogs_ru": [
+        "зубки как жемчужинки",
+        "жемчужные зубки",
+        "белые как снег"
+      ],
+      "literal_ru": "",
+      "register": "разг., умилит.; о детских зубах",
+      "note": "Уменьшительное zubići обязательно — со взрослым zubi kao biseri звучит уже как реклама стоматологии.",
+      "keyword": "zub",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.690Z"
+    },
+    {
       "id": "mt7cc585d7yrj",
       "headword_latin": "Žali se upravi vodovoda",
       "headword_cyrillic": "Жали се управи водовода",
@@ -19712,6 +20140,33 @@
       "keyword": "videti",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:12:06.297Z"
+    },
+    {
+      "id": "mt8vfe9lq05o1",
+      "headword_latin": "Živi od danas do sutra",
+      "headword_cyrillic": "Живи од данас до сутра",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "живёт одним днём",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne štedi ništa, živi od danas do sutra.",
+          "russian": "Ничего не откладывает, живёт одним днём."
+        }
+      ],
+      "analogs_ru": [
+        "живёт одним днём",
+        "перебивается со дня на день",
+        "не загадывает наперёд",
+        "живёт как придётся"
+      ],
+      "literal_ru": "живёт от сегодня до завтра",
+      "register": "разг., неодобр. или сочувств.; двузначно — о беспечности и о бедности; контекст решает, упрёк это или жалоба",
+      "note": "См. также: DANAS ZA SUTRA.",
+      "keyword": "sutra",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:20:13.689Z"
     },
     {
       "id": "mt38wx4lipdze",
