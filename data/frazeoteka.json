@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-25T16:23:48.026Z",
+  "updated": "2026-08-25T16:56:26.837Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -4564,6 +4564,34 @@
       "created_at": "2026-08-17T18:29:33.177Z"
     },
     {
+      "id": "mt8wpyzq1jv98",
+      "headword_latin": "E moj ti",
+      "headword_cyrillic": "Е мој ти",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "эх ты; ну что ж ты так",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "E moj ti brate, u šta si se to upustio.",
+          "russian": "Эх, брат, во что ж ты ввязался."
+        }
+      ],
+      "analogs_ru": [
+        "эх ты",
+        "ну что ж ты так",
+        "бедолага",
+        "да уж",
+        "эх, брат"
+      ],
+      "literal_ru": "эх, мой ты…",
+      "register": "разг.; вводит сочувствие или мягкий укор, чаще с обращением: e moj ti brate, e moja ti Ano",
+      "note": "Притяжательное moj здесь не о принадлежности, а знак душевной близости. Сербский щедр на притяжательные в обращении: sine moj, ćerko moja, dušo moja — даже к чужому человеку. Русское «милый мой» устроено похоже, но звучит покровительственнее.",
+      "keyword": "moj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.726Z"
+    },
+    {
       "id": "mt7i7s5wx6sh7",
       "headword_latin": "Evo trčim",
       "headword_cyrillic": "Ево трчим",
@@ -4906,6 +4934,33 @@
       "keyword": "Turci",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "mt8wpyzsj6s8m",
+      "headword_latin": "Gde ti je mladost?",
+      "headword_cyrillic": "Где ти је младост?",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "где твой задор?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne ideš na svirku? Gde ti je mladost?",
+          "russian": "Не идёшь на концерт? Где твой задор?"
+        }
+      ],
+      "analogs_ru": [
+        "где твой задор",
+        "что ты как старик",
+        "куда молодость подевалась",
+        "взбодрись"
+      ],
+      "literal_ru": "",
+      "register": "разг., подначивающ.; упрёк тому, кто отказывается от затеи, ссылаясь на усталость или возраст; дательный меняется: gde mu je mladost",
+      "note": "",
+      "keyword": "mladost",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.728Z"
     },
     {
       "id": "mt79r18o31pdo",
@@ -6725,6 +6780,60 @@
       "created_at": "2026-08-18T12:04:17.005Z"
     },
     {
+      "id": "mt8wpyzrg0cmy",
+      "headword_latin": "Jesam ti rekao?!",
+      "headword_cyrillic": "Јесам ти рекао?!",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "а я тебе говорил!",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pokvarilo se posle mesec dana. — Jesam ti rekao?!",
+          "russian": "Через месяц сломалось. — А я тебе говорил!"
+        }
+      ],
+      "analogs_ru": [
+        "а я тебе говорил",
+        "ну вот, а я предупреждал",
+        "что я говорил",
+        "я же сказал"
+      ],
+      "literal_ru": "",
+      "register": "разг., торжествующе-укоризн.; произносится, когда предсказанное сбылось; вопросительная форма риторическая",
+      "note": "",
+      "keyword": "reći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.727Z"
+    },
+    {
+      "id": "mt8wpyztdqh4r",
+      "headword_latin": "Jesi živ?",
+      "headword_cyrillic": "Јеси жив?",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ты живой?; как ты там?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Jesi živ? Nema te nedelju dana.",
+          "russian": "Ты живой? Неделю не появлялся."
+        }
+      ],
+      "analogs_ru": [
+        "ты живой?",
+        "куда пропал?",
+        "как ты там?",
+        "подаёшь признаки жизни?"
+      ],
+      "literal_ru": "",
+      "register": "разг., дружеск.; и приветствие давно не отзывавшемуся, и вопрос о самочувствии после тяжёлого дня; ходовое в переписке после долгого молчания",
+      "note": "",
+      "keyword": "živ",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.729Z"
+    },
+    {
       "id": "mt79wy4b71oav",
       "headword_latin": "Jesti vruću kašu",
       "headword_cyrillic": "Јести врућу кашу",
@@ -7660,6 +7769,33 @@
       "created_at": "2026-08-17T18:48:03.556Z"
     },
     {
+      "id": "mt8wpyzvi72m4",
+      "headword_latin": "Ko da je drugde bolje",
+      "headword_cyrillic": "Ко да је другде боље",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "а где-то разве лучше?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Svi beže odavde. — Ko da je drugde bolje.",
+          "russian": "Все отсюда бегут. — А где-то разве лучше?"
+        }
+      ],
+      "analogs_ru": [
+        "а где-то разве лучше?",
+        "везде хорошо, где нас нет",
+        "думаешь, где-то мёдом намазано?",
+        "всюду то же самое"
+      ],
+      "literal_ru": "",
+      "register": "разг., примирит.-фаталист.; ответ жалующемуся на здешние порядки или мечтающему об отъезде",
+      "note": "",
+      "keyword": "drugde",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.731Z"
+    },
+    {
       "id": "mt3a4b4j9856w",
       "headword_latin": "Ko dete na trešnji",
       "headword_cyrillic": "Ко дете на трешњи",
@@ -8097,6 +8233,33 @@
       "keyword": "kamen",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:01:31.767Z"
+    },
+    {
+      "id": "mt8wpyzrhflkp",
+      "headword_latin": "Ko zna zašto je to dobro",
+      "headword_cyrillic": "Ко зна зашто је то добро",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "всё, что ни делается, к лучшему",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisu me primili — ko zna zašto je to dobro.",
+          "russian": "Меня не взяли — может, и к лучшему."
+        }
+      ],
+      "analogs_ru": [
+        "всё, что ни делается, к лучшему",
+        "нет худа без добра",
+        "может, и к лучшему",
+        "кто знает, к чему это"
+      ],
+      "literal_ru": "кто знает, почему это хорошо",
+      "register": "разг., утешит.; о неудаче, в которой, возможно, откроется скрытая польза",
+      "note": "Формула осторожная: не «это к лучшему», а «кто знает».",
+      "keyword": "dobro",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.727Z"
     },
     {
       "id": "msxnt6d2yui3i",
@@ -8579,6 +8742,33 @@
       "keyword": "kvocati",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:38:11.626Z"
+    },
+    {
+      "id": "mt8wpyzu6stoz",
+      "headword_latin": "Lako je tebi",
+      "headword_cyrillic": "Лако је теби",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "тебе-то легко",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ma lako je tebi, ti radiš od kuće.",
+          "russian": "Тебе-то легко, ты из дома работаешь."
+        }
+      ],
+      "analogs_ru": [
+        "тебе-то легко",
+        "хорошо тебе рассуждать",
+        "тебе легко говорить",
+        "ты-то что"
+      ],
+      "literal_ru": "",
+      "register": "разг., с упрёком или завистью; ходовое с ma: ma lako je tebi; расширенно lako je tebi, ti nemaš decu",
+      "note": "См. также: SIT GLADNOM NE VERUJE; LASNO JE ZDRAVOME BOLESNOGA SAVETOVATI.",
+      "keyword": "lako",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.730Z"
     },
     {
       "id": "msxwc0615zxaj",
@@ -9494,6 +9684,32 @@
       "created_at": "2026-08-24T13:34:58.256Z"
     },
     {
+      "id": "mt8wpyzrd27z6",
+      "headword_latin": "Mora samo da se umre",
+      "headword_cyrillic": "Мора само да се умре",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "обязательно только умереть — ничего ты не обязан",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moram na taj sastanak. — Mora samo da se umre.",
+          "russian": "Мне надо на эту встречу. — Обязательно только умереть."
+        }
+      ],
+      "analogs_ru": [
+        "умереть — вот единственное, что обязательно",
+        "ничего ты не обязан",
+        "никто тебя не заставляет"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.-философ.; ответ тому, кто говорит «я должен, мне надо»; полная форма ništa ne mora, samo se mora umreti",
+      "note": "Та же мысль в английском nothing is certain but death and taxes, но сербский обходится без налогов — и потому звучит не саркастично, а освобождающе. См. также: ŠTO SE MORA, NIJE TEŠKO.",
+      "keyword": "umreti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.727Z"
+    },
+    {
       "id": "mt79wy4ab4c5g",
       "headword_latin": "Može se na prste izbrojati",
       "headword_cyrillic": "Може се на прсте избројати",
@@ -10223,6 +10439,33 @@
       "created_at": "2026-08-24T15:34:03.002Z"
     },
     {
+      "id": "mt8wpyzsv88vw",
+      "headword_latin": "Ne bilo ti zapoveđeno",
+      "headword_cyrillic": "Не било ти заповеђено",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "если тебе не трудно; уж будь любезен",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Donesi mi vodu, ne bilo ti zapoveđeno.",
+          "russian": "Принеси мне воды, если тебе не трудно."
+        }
+      ],
+      "analogs_ru": [
+        "если тебе не трудно",
+        "уж будь добр",
+        "не сочти за труд",
+        "сделай милость"
+      ],
+      "literal_ru": "да не будет тебе приказано",
+      "register": "разг., шутл.-учтив.; приставляется к императиву, смягчая приказ до просьбы — но так, что отказаться неловко; ходовое из уст старших",
+      "note": "Словари сленга определяют оборот с ехидством: «фраза при просьбе, только похитрее — самим произнесением просьба обретает вес приказа», и точнее — «сербский императив глагола uraditi». Разница между daj pivo! и donesi mi hladno pivo iz frižidera, ne bilo ti zapoveđeno в том, что второе отклонить куда труднее. Формула держится в семейном обиходе как способ отправить младшего за чем-нибудь.",
+      "keyword": "zapovest",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.729Z"
+    },
+    {
       "id": "mt701p39knfnj",
       "headword_latin": "Ne biti u ljubavi",
       "headword_cyrillic": "Не бити у љубави",
@@ -10514,6 +10757,32 @@
       "keyword": "ruka",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:12:06.296Z"
+    },
+    {
+      "id": "mt8wpyzsvq2j2",
+      "headword_latin": "Ne postoje glupa pitanja",
+      "headword_cyrillic": "Не постоје глупа питања",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "глупых вопросов не бывает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pitaj slobodno, ne postoje glupa pitanja.",
+          "russian": "Спрашивай смело, глупых вопросов не бывает."
+        }
+      ],
+      "analogs_ru": [
+        "глупых вопросов не бывает",
+        "спрашивай, не стесняйся",
+        "не стыдно не знать"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-ободряющ.; учительская и рабочая формула, поощряющая спрашивать",
+      "note": "Шутливое продолжение — …samo glupi odgovori. См. также: KO PITA, NE SKITA.",
+      "keyword": "pitanje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.728Z"
     },
     {
       "id": "msxp30ejzffeq",
@@ -11693,6 +11962,33 @@
       "keyword": "vinkla",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.254Z"
+    },
+    {
+      "id": "mt8wpyzt9d902",
+      "headword_latin": "Ništa lično",
+      "headword_cyrillic": "Ништа лично",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ничего личного",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Moramo da raskinemo ugovor, ništa lično.",
+          "russian": "Придётся расторгнуть договор, ничего личного."
+        }
+      ],
+      "analogs_ru": [
+        "ничего личного",
+        "без обид",
+        "это не про тебя",
+        "дело есть дело"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; смягчение перед неприятным решением или после него",
+      "note": "Калька с англ. nothing personal, прижилась прочно.",
+      "keyword": "lično",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.729Z"
     },
     {
       "id": "mt7dxk13creoz",
@@ -17140,6 +17436,33 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "mt8wpyzvuxigf",
+      "headword_latin": "Svašta nešto",
+      "headword_cyrillic": "Свашта нешто",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "всякое разное; то да сё",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta ste kupili? — Svašta nešto.",
+          "russian": "Что купили? — Да так, всякое разное."
+        }
+      ],
+      "analogs_ru": [
+        "всякое разное",
+        "то да сё",
+        "всего понемногу",
+        "да так, разное"
+      ],
+      "literal_ru": "",
+      "register": "разг.; уклончивый ответ о содержании чего-либо — покупок, разговора, дня; иногда с оттенком «ерунда всякая»",
+      "note": "См. также: TAKO NEŠTO, TU SAM PO GRADU.",
+      "keyword": "svašta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.731Z"
+    },
+    {
       "id": "mt8vfe9m8v9vg",
       "headword_latin": "Sve je dobro što se dobro svrši",
       "headword_cyrillic": "Све је добро што се добро сврши",
@@ -17163,6 +17486,32 @@
       "keyword": "svršiti",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:20:13.690Z"
+    },
+    {
+      "id": "mt8wpyzu47t42",
+      "headword_latin": "Sve je lako kad si mlad",
+      "headword_cyrillic": "Све је лако кад си млад",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "в молодости всё легко",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Radio je i studirao istovremeno — sve je lako kad si mlad.",
+          "russian": "Работал и учился разом: в молодости всё легко."
+        }
+      ],
+      "analogs_ru": [
+        "молодым всё нипочём",
+        "в молодости всё легко",
+        "пока молод, всё по плечу"
+      ],
+      "literal_ru": "",
+      "register": "разг.; и с завистью — старшего к младшему, и с ностальгией о себе прежнем",
+      "note": "См. также: VESELA MLADOST NAJVEĆA JE RADOST; GDE TI JE MLADOST.",
+      "keyword": "mlad",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.730Z"
     },
     {
       "id": "mt8v4y6x3pa23",
@@ -17596,6 +17945,33 @@
       "created_at": "2026-08-24T17:13:58.920Z"
     },
     {
+      "id": "mt8wpyzwrcdj3",
+      "headword_latin": "Šta da se radi",
+      "headword_cyrillic": "Шта да се ради",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что поделаешь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otkazali su let. Šta da se radi.",
+          "russian": "Рейс отменили. Что поделаешь."
+        }
+      ],
+      "analogs_ru": [
+        "что поделаешь",
+        "ничего не попишешь",
+        "что тут сделаешь",
+        "такова жизнь"
+      ],
+      "literal_ru": "",
+      "register": "разг.; примирение с неизбежным",
+      "note": "Практически синонимично šta ćemo и šta se može, различие только в лице: šta ćemo — «что нам делать», šta da se radi — безлично. См. также: ŠTA ĆEMO.",
+      "keyword": "raditi",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.732Z"
+    },
+    {
       "id": "msyrhihl1xfxe",
       "headword_latin": "Šta fali?",
       "headword_cyrillic": "Шта фали?",
@@ -17646,6 +18022,32 @@
       "keyword": "kokoška",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.256Z"
+    },
+    {
+      "id": "mt8wpyzvglida",
+      "headword_latin": "Šta reći?",
+      "headword_cyrillic": "Шта рећи?",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что тут скажешь?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet su digli cene. Šta reći?",
+          "russian": "Опять цены подняли. Что тут скажешь?"
+        }
+      ],
+      "analogs_ru": [
+        "что тут скажешь",
+        "и добавить нечего",
+        "без комментариев"
+      ],
+      "literal_ru": "",
+      "register": "разг.; риторический вопрос перед лицом чего-то возмутительного или безнадёжного; расширенно šta reći, a ne zaplakati",
+      "note": "",
+      "keyword": "reći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.731Z"
     },
     {
       "id": "mt0aue8619ai4",
@@ -17776,6 +18178,33 @@
       "keyword": "posejati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.682Z"
+    },
+    {
+      "id": "mt8wpyzq1kr7o",
+      "headword_latin": "Što se mora, nije teško",
+      "headword_cyrillic": "Што се мора, није тешко",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "что надо, то не в тягость",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ustajem u pet, ali što se mora, nije teško.",
+          "russian": "Встаю в пять, но надо — значит надо."
+        }
+      ],
+      "analogs_ru": [
+        "надо — значит надо",
+        "неизбежное не тяготит",
+        "от судьбы не уйдёшь",
+        "раз надо, так надо"
+      ],
+      "literal_ru": "что приходится, то не трудно",
+      "register": "послов., фаталист.-утешит.; о том, что неизбежное переносится легче, потому что выбора нет",
+      "note": "Полная форма — što se mora, nije teško, a što se ne mora, ne treba ni raditi.",
+      "keyword": "morati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.726Z"
     },
     {
       "id": "msxu2ocq378u9",
@@ -18095,6 +18524,60 @@
       "keyword": "sport",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.238Z"
+    },
+    {
+      "id": "mt8wpyzvo7pkt",
+      "headword_latin": "To ti kažem",
+      "headword_cyrillic": "То ти кажем",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вот и я о том же",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Trebalo je odmah da im kažemo. — E, to ti kažem.",
+          "russian": "Надо было сразу им сказать. — Вот и я о том же."
+        }
+      ],
+      "analogs_ru": [
+        "вот и я о том же",
+        "именно",
+        "я о том и говорю",
+        "в точку"
+      ],
+      "literal_ru": "это тебе и говорю",
+      "register": "разг.; выражает согласие с только что сказанным собеседником, а не сообщение новости; порядок слов жёсткий",
+      "note": "Ловушка для русскоязычного: буквально «это я тебе говорю» звучит как настояние на своём, а на деле это чистое поддакивание.",
+      "keyword": "kazati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.731Z"
+    },
+    {
+      "id": "mt8wpyzrtylrx",
+      "headword_latin": "Toga ima samo kod nas",
+      "headword_cyrillic": "Тога има само код нас",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "такое только у нас",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bankomat radi samo do dva. Toga ima samo kod nas.",
+          "russian": "Банкомат работает только до двух. Такое только у нас."
+        }
+      ],
+      "analogs_ru": [
+        "такое только у нас",
+        "ну где ещё такое увидишь",
+        "это по-нашему",
+        "только в наших краях"
+      ],
+      "literal_ru": "",
+      "register": "разг.; двузначно и почти всегда с самоиронией — и гордость за находчивость, и стыд за бардак, чаще второе",
+      "note": "",
+      "keyword": "kod nas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.727Z"
     },
     {
       "id": "mt7hwo7aemqo3",
@@ -18575,6 +19058,33 @@
       "keyword": "minut",
       "source": "frazeoteka",
       "created_at": "2026-08-24T18:55:45.612Z"
+    },
+    {
+      "id": "mt8wpyzst349r",
+      "headword_latin": "U moje vreme toga nije bilo",
+      "headword_cyrillic": "У моје време тога није било",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "в моё время такого не было",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Deca po ceo dan na telefonu — u moje vreme toga nije bilo.",
+          "russian": "Дети целыми днями в телефоне: в моё время такого не было."
+        }
+      ],
+      "analogs_ru": [
+        "в моё время такого не было",
+        "вот раньше было",
+        "молодёжь пошла",
+        "куда катится мир"
+      ],
+      "literal_ru": "",
+      "register": "разг.; ворчание старшего о переменах; часто цитируется с иронией — как готовый ярлык брюзжания",
+      "note": "См. также: DŽANGRIZALO, STAROG KOVA.",
+      "keyword": "vreme",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.728Z"
     },
     {
       "id": "mt0b9rqwpvnph",
@@ -19374,6 +19884,32 @@
       "keyword": "čuti se",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:23:47.923Z"
+    },
+    {
+      "id": "mt8wpyztxx8rw",
+      "headword_latin": "Važno je učestvovati",
+      "headword_cyrillic": "Важно је учествовати",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "главное не победа, а участие",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ispali smo u prvom kolu. — Pa, važno je učestvovati.",
+          "russian": "Вылетели в первом круге. — Ну, главное не победа, а участие."
+        }
+      ],
+      "analogs_ru": [
+        "главное не победа, а участие",
+        "важен сам факт участия",
+        "не в призах дело"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; в живой речи почти всегда иронически — утешение проигравшему",
+      "note": "Олимпийская формула Кубертена.",
+      "keyword": "učestvovati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:56:26.729Z"
     },
     {
       "id": "mt7dahkow08ok",
