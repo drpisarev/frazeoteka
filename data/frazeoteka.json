@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-25T16:20:13.787Z",
+  "updated": "2026-08-25T16:23:48.026Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -1496,6 +1496,34 @@
       "keyword": "bog",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "mt8vjzkkppnuf",
+      "headword_latin": "Bog te mazo",
+      "headword_cyrillic": "Бог те мазо",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "чёрт побери; вот это да",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Bog te mazo, pa gde si ti sve ovo vreme?",
+          "russian": "Ёлки-палки, ты где всё это время был?"
+        }
+      ],
+      "analogs_ru": [
+        "чёрт побери",
+        "ну и ну",
+        "вот это да",
+        "ёлки-палки",
+        "батюшки"
+      ],
+      "literal_ru": "Бог тебя помазал",
+      "register": "разг., мягко-бранное; и восхищение, и досада, и упрёк — по интонации; пишется и слитно bogtemazo; безобидная замена крепкого слова, годится даже при детях",
+      "note": "См. также: BOG TE UBIO DA TE NE UBIJE.",
+      "keyword": "bog",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.924Z"
     },
     {
       "id": "mt8vfe9n67t61",
@@ -3054,6 +3082,33 @@
       "keyword": "ćutati",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.728Z"
+    },
+    {
+      "id": "mt8vjzkko48g8",
+      "headword_latin": "Ćuti, može i gore",
+      "headword_cyrillic": "Ћути, може и горе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "молчи, могло быть и хуже",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Opet kasni plata. — Ćuti, može i gore.",
+          "russian": "Опять зарплату задерживают. — Молчи, могло быть и хуже."
+        }
+      ],
+      "analogs_ru": [
+        "молчи, могло быть и хуже",
+        "не гневи бога",
+        "скажи спасибо, что так",
+        "бывает хуже"
+      ],
+      "literal_ru": "",
+      "register": "разг., утешит.-одёргивающ.; ответ жалующемуся",
+      "note": "Формула фаталистическая: не «всё наладится», а «не жалуйся, бывает хуже».",
+      "keyword": "gore",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.924Z"
     },
     {
       "id": "mt8vfe9pjfkdt",
@@ -4961,6 +5016,30 @@
       "created_at": "2026-08-21T18:05:17.694Z"
     },
     {
+      "id": "mt8vjzki2dd9o",
+      "headword_latin": "Gore gore gore gore",
+      "headword_cyrillic": "Горе горе горе горе",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "наверху горы горят хуже — фраза-омограф из четырёх одинаковых слов",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Gore gore gore gore.",
+          "russian": "Наверху горы горят хуже."
+        }
+      ],
+      "analogs_ru": [
+        "косил косой косой косой"
+      ],
+      "literal_ru": "",
+      "register": "лингв.-курьёз; не идиома, а хрестоматийный пример омонимии",
+      "note": "Gore (наверху) gore (горы) gore (горят) gore (хуже); различаются только ударением и долготой, которые на письме не обозначаются. Сербы приводят фразу как своё «косил косой косой косой». Ходят расширенные версии: gore gore gore gore nego gore dole. Прекрасная иллюстрация роли ударения в сербском.",
+      "keyword": "gore",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.922Z"
+    },
+    {
       "id": "mt79wy4allep4",
       "headword_latin": "Gotovo svugde",
       "headword_cyrillic": "Готово свугде",
@@ -5170,6 +5249,34 @@
       "keyword": "usta",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:16:08.819Z"
+    },
+    {
+      "id": "mt8vjzkhic4sy",
+      "headword_latin": "Hvatati zjale",
+      "headword_cyrillic": "Хватати зјале",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "считать ворон; бить баклуши",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ceo dan hvata zjale po gradu.",
+          "russian": "Целыми днями слоняется по городу без дела."
+        }
+      ],
+      "analogs_ru": [
+        "считать ворон",
+        "бить баклуши",
+        "слоняться без дела",
+        "ротозейничать",
+        "глазеть по сторонам"
+      ],
+      "literal_ru": "ловить зевки",
+      "register": "разг., неодобр.; ходовое šta hvataš zjale",
+      "note": "Zjala — «зевота, разинутый рот», отсюда zjalo «ротозей».",
+      "keyword": "zjala",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.921Z"
     },
     {
       "id": "msxmobcymmi18",
@@ -5787,6 +5894,33 @@
       "keyword": "mali prst",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:43:14.070Z"
+    },
+    {
+      "id": "mt8vjzkikbg78",
+      "headword_latin": "Inače?",
+      "headword_cyrillic": "Иначе?",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "а вообще?; а так как сам?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dobro, to smo rešili. Inače?",
+          "russian": "Ладно, с этим разобрались. А вообще как?"
+        }
+      ],
+      "analogs_ru": [
+        "а вообще?",
+        "а так?",
+        "ну а сам-то как?",
+        "а помимо этого?"
+      ],
+      "literal_ru": "",
+      "register": "разг., очень частотно; переход от конкретной темы к общему разговору о жизни собеседника; отдельная реплика с вопросительной интонацией",
+      "note": "В связном тексте inače значит «иначе, в противном случае» (požuri, inače ćemo zakasniti) и «вообще, обычно» (inače ne pijem). Как самостоятельный вопрос — только третье, разговорное.",
+      "keyword": "inače",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.922Z"
     },
     {
       "id": "msxwc060f96yr",
@@ -7801,6 +7935,33 @@
       "created_at": "2026-08-17T18:48:03.555Z"
     },
     {
+      "id": "mt8vjzkjqhsvv",
+      "headword_latin": "Ko razume, shvatiće",
+      "headword_cyrillic": "Ко разуме, схватиће",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "кто понял, тот понял",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neću da imenujem nikoga, ko razume, shvatiće.",
+          "russian": "Никого называть не буду: кто понял, тот понял."
+        }
+      ],
+      "analogs_ru": [
+        "кто понял, тот понял",
+        "понимающий да поймёт",
+        "имеющий уши да услышит",
+        "намёк ясен"
+      ],
+      "literal_ru": "",
+      "register": "разг.; ставится после намёка, который говорящий не хочет разъяснять; часто в соцсетях как подпись к колкости",
+      "note": "",
+      "keyword": "razumeti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.923Z"
+    },
+    {
       "id": "msxl6oysdneor",
       "headword_latin": "Ko sa đavolom tikve sadi, o glavu mu se razbijaju",
       "headword_cyrillic": "Ко са ђаволом тикве сади, о главу му се разбијају",
@@ -8255,6 +8416,33 @@
       "created_at": "2026-08-24T17:17:31.670Z"
     },
     {
+      "id": "mt8vjzkhbi7u6",
+      "headword_latin": "Kud koji, mili moji",
+      "headword_cyrillic": "Куд који, мили моји",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "кто куда; врассыпную",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kad je stigla policija, kud koji, mili moji.",
+          "russian": "Как появилась полиция — кто куда, милые мои."
+        }
+      ],
+      "analogs_ru": [
+        "кто куда",
+        "врассыпную",
+        "разбежались кто куда",
+        "спасайся кто может"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.; о поспешном бегстве врассыпную или о том, как компания разошлась по домам",
+      "note": "Обращение mili moji — часть формулы, никого конкретно не называет.",
+      "keyword": "kud",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.921Z"
+    },
+    {
       "id": "mt7dboc9ybep1",
       "headword_latin": "Kukati",
       "headword_cyrillic": "Кукати",
@@ -8417,6 +8605,33 @@
       "keyword": "savetovati",
       "source": "frazeoteka",
       "created_at": "2026-08-18T00:00:07.129Z"
+    },
+    {
+      "id": "mt8vjzkhtjgdi",
+      "headword_latin": "Laže kao pas",
+      "headword_cyrillic": "Лаже као пас",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "врёт как сивый мерин",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne veruj mu ni reč, laže kao pas.",
+          "russian": "Не верь ни слову, врёт как сивый мерин."
+        }
+      ],
+      "analogs_ru": [
+        "врёт как сивый мерин",
+        "врёт и не краснеет",
+        "брешет напропалую",
+        "соврёт — недорого возьмёт"
+      ],
+      "literal_ru": "врёт как пёс",
+      "register": "разг., резк.-неодобр.; синонимы по нарастанию: laže kao pas, laže kao pseto, laže kad zine",
+      "note": "Русский «сивый мерин» ни при чём по образу, зато у обоих языков есть собачья линия: brehati — «лаять» и «врать», как русское «брехать».",
+      "keyword": "pas",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.921Z"
     },
     {
       "id": "msxnt6d3xgn7k",
@@ -10515,6 +10730,33 @@
       "created_at": "2026-08-24T14:38:03.125Z"
     },
     {
+      "id": "mt8vjzki3jkk5",
+      "headword_latin": "Ne znam, nisam pametna",
+      "headword_cyrillic": "Не знам, нисам паметна",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не знаю, ума не приложу",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zašto su to uradili? — Ne znam, nisam pametna.",
+          "russian": "Зачем они так сделали? — Не знаю, ума не приложу."
+        }
+      ],
+      "analogs_ru": [
+        "не знаю, ума не приложу",
+        "понятия не имею",
+        "я в этом не разбираюсь",
+        "откуда мне знать"
+      ],
+      "literal_ru": "не знаю, я не умна",
+      "register": "разг., самоуничижит.-шутл.; уход от ответа с показной скромностью, часто с иронией; согласуется по роду: nisam pametan / nisam pametna",
+      "note": "",
+      "keyword": "pametan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.922Z"
+    },
+    {
       "id": "msyrhihlclbac",
       "headword_latin": "Neće ti faliti ni dlaka s glave",
       "headword_cyrillic": "Неће ти фалити ни длака с главе",
@@ -10781,6 +11023,33 @@
       "keyword": "šansa",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:20:13.691Z"
+    },
+    {
+      "id": "mt8vjzkhws71y",
+      "headword_latin": "Nema šta nema",
+      "headword_cyrillic": "Нема шта нема",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "чего только нет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Na toj pijaci nema šta nema.",
+          "russian": "На этом рынке чего только нет."
+        }
+      ],
+      "analogs_ru": [
+        "чего только нет",
+        "всё есть",
+        "полный набор",
+        "всякой всячины"
+      ],
+      "literal_ru": "нет чего нет — то есть нет ничего, чего бы не было",
+      "register": "разг.; двойное отрицание для утверждения полноты; о рынке, магазине, столе, ассортименте",
+      "note": "См. также: FALE SAMO OD POPA UŠI.",
+      "keyword": "nemati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.921Z"
     },
     {
       "id": "mt7dxk14t17ax",
@@ -11161,6 +11430,32 @@
       "keyword": "do",
       "source": "frazeoteka",
       "created_at": "2026-08-24T17:22:37.269Z"
+    },
+    {
+      "id": "mt8vjzkj6lmai",
+      "headword_latin": "Nije do tebe, do mene je",
+      "headword_cyrillic": "Није до тебе, до мене је",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "дело не в тебе, дело во мне",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije do tebe, do mene je, stvarno.",
+          "russian": "Дело не в тебе, дело во мне, правда."
+        }
+      ],
+      "analogs_ru": [
+        "дело не в тебе, дело во мне",
+        "ты ни при чём",
+        "это я виноват"
+      ],
+      "literal_ru": "",
+      "register": "разг.; классическая формула расставания, отсюда её слегка комическая репутация",
+      "note": "Конструкция biti do koga — «зависеть от кого-л., быть чьей-л. виной». См. также: NIJE DO MENE.",
+      "keyword": "do",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.923Z"
     },
     {
       "id": "mt8va5bqe4oqj",
@@ -12558,6 +12853,33 @@
       "created_at": "2026-08-21T17:51:09.235Z"
     },
     {
+      "id": "mt8vjzkl7bv9o",
+      "headword_latin": "Pametniji popušta",
+      "headword_cyrillic": "Паметнији попушта",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "умный уступит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neću da se raspravljam, pametniji popušta.",
+          "russian": "Спорить не буду, умный уступит."
+        }
+      ],
+      "analogs_ru": [
+        "умный уступит",
+        "кто умнее, тот уступает",
+        "не спорь с дураком",
+        "уступи — не убудет"
+      ],
+      "literal_ru": "",
+      "register": "разг., примирит.; призыв прекратить спор, обращённый к более разумному; часто с иронией",
+      "note": "Полная форма — pametniji popušta, a budala se nikad ne predaje; в ней вся двойственность: то ли похвала сдержанности, то ли констатация того, что упрямый всегда добивается своего.",
+      "keyword": "popustiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.925Z"
+    },
+    {
       "id": "mt3ae8hmmmgnt",
       "headword_latin": "Paprena cena",
       "headword_cyrillic": "Папрена цена",
@@ -13074,6 +13396,33 @@
       "keyword": "zalepiti",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:04:45.430Z"
+    },
+    {
+      "id": "mt8vjzkins5ev",
+      "headword_latin": "Pljunuti otac",
+      "headword_cyrillic": "Пљунути отац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вылитый отец",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On je pljunuti otac.",
+          "russian": "Он вылитый отец."
+        }
+      ],
+      "analogs_ru": [
+        "вылитый отец",
+        "одно лицо",
+        "копия отца",
+        "как две капли воды"
+      ],
+      "literal_ru": "оплёванный отец",
+      "register": "разг., одобр.-умилит.; о полном внешнем сходстве; согласуется: pljunuta majka, pljunuti deda",
+      "note": "Pljunuti здесь не «плюнуть», а старое «как выплюнутый, отделённый от», то есть точная отливка. Тот же ход в русском «вылитый» — от литья.",
+      "keyword": "pljunuti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.922Z"
     },
     {
       "id": "mt79r18oa9jye",
@@ -15824,6 +16173,33 @@
       "keyword": "smandrljati",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:34:03.001Z"
+    },
+    {
+      "id": "mt8vjzkizrisc",
+      "headword_latin": "Smeje se kao lud na brašno",
+      "headword_cyrillic": "Смеје се као луд на брашно",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "смеётся как дурачок; ржёт без причины",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta se smeješ ko lud na brašno?",
+          "russian": "Ты чего ржёшь как ненормальный?"
+        }
+      ],
+      "analogs_ru": [
+        "смеётся как дурачок",
+        "хохочет без причины",
+        "ржёт как ненормальный",
+        "смех без причины — признак дурачины"
+      ],
+      "literal_ru": "смеётся как безумный на муку",
+      "register": "разг., насмешл.; о заразительном или беспричинном смехе; ходовое šta se smeješ ko lud na brašno",
+      "note": "Происхождение объясняют двояко. По первой версии корни уходят в древнегреческий обряд: боги умирали осенью и рождались весной, а зимой души умерших выходили на свет, и единственной защитой от них были смех и веселье; по улицам шли процессии ряженых, где особое место занимали шуты и дурни, а обсыпали их мукой, чтобы они были белы, как те мертвецы, которых высмеивают. По второй — оборот идёт от македонского обычая читать молитвы над мукой для душевнобольных, часто заходившихся беспричинным смехом, а из этой муки потом пекли лепёшки. Какая версия верна, не установлено.",
+      "keyword": "brašno",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.922Z"
     },
     {
       "id": "msxknp37toeua",
@@ -18971,6 +19347,33 @@
       "keyword": "kum",
       "source": "frazeoteka",
       "created_at": "2026-08-24T17:22:37.268Z"
+    },
+    {
+      "id": "mt8vjzkj4r8kh",
+      "headword_latin": "Važi, čujemo se",
+      "headword_cyrillic": "Важи, чујемо се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "договорились, на связи",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Važi, čujemo se sutra.",
+          "russian": "Договорились, созвонимся завтра."
+        }
+      ],
+      "analogs_ru": [
+        "договорились, на связи",
+        "лады, созвонимся",
+        "добро, услышимся",
+        "всё, до связи"
+      ],
+      "literal_ru": "",
+      "register": "разг., очень частотно; стандартная формула завершения разговора или переписки",
+      "note": "Čujemo se — «услышимся», настоящее время в значении будущего. Сербский прощается через слух, русский через зрение: čujemo se против «увидимся». Для встречи вживую есть vidimo se, но по телефону и в переписке ходовое именно čujemo se.",
+      "keyword": "čuti se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-25T16:23:47.923Z"
     },
     {
       "id": "mt7dahkow08ok",
