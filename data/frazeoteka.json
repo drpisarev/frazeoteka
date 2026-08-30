@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T20:35:31.349Z",
+  "updated": "2026-08-30T20:39:14.627Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -633,6 +633,32 @@
       "keyword": "oko",
       "source": "frazeoteka",
       "created_at": "2026-08-30T20:04:38.691Z"
+    },
+    {
+      "id": "mtg9vqwj1cdbl",
+      "headword_latin": "Baš si lepa kao šargarepa",
+      "headword_cyrillic": "Баш си лепа као шаргарепа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "красивая, как морковка — рифмованный комплимент ребёнку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Baš si lepa kao šargarepa!",
+          "russian": "Какая ты у нас красавица!"
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "красавица-раскрасавица",
+        "ну прямо картинка"
+      ],
+      "literal_ru": "",
+      "register": "разг., детск., шутл.; чаще девочке; держится исключительно на созвучии lepa — šargarepa, морковь тут ни при чём",
+      "note": "Рифмованные присказки этого типа — целый пласт сербской речи с детьми. Переводить их надо не по смыслу, а по функции: подобрать русскую рифму или просто сказать «красавица».",
+      "keyword": "šargarepa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.419Z"
     },
     {
       "id": "msxlnru8vqj6o",
@@ -4815,6 +4841,34 @@
       "created_at": "2026-08-25T16:56:26.726Z"
     },
     {
+      "id": "mtg9vqwic1m12",
+      "headword_latin": "Eto",
+      "headword_cyrillic": "Ето",
+      "transcription": "",
+      "pos": "rečca",
+      "definition_ru": "вот так; ну вот",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pokušali smo, nije uspelo, eto.",
+          "russian": "Пытались, не вышло, вот так."
+        }
+      ],
+      "analogs_ru": [
+        "вот так",
+        "ну вот",
+        "вот",
+        "такие дела",
+        "как-то так"
+      ],
+      "literal_ru": "",
+      "register": "разг., очень частотно; вводит вывод, итог или беспомощное завершение рассказа; как самостоятельная реплика значит «вот такие дела, добавить нечего»",
+      "note": "Сербский различает три «вот» по расстоянию: evo — при говорящем, eto — при собеседнике, eno — вдали от обоих. Русский обходится одним, и это одна из мелочей, на которых иностранца слышно сразу.",
+      "keyword": "eto",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.418Z"
+    },
+    {
       "id": "mtg9qylh89zbt",
       "headword_latin": "Evo me",
       "headword_cyrillic": "Ево ме",
@@ -5934,6 +5988,34 @@
       "keyword": "alva",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:32:36.728Z"
+    },
+    {
+      "id": "mtg9vqwjdaam0",
+      "headword_latin": "Ide polako",
+      "headword_cyrillic": "Иде полако",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "идёт помаленьку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako posao? — Ide polako.",
+          "russian": "Как работа? — Идёт помаленьку."
+        }
+      ],
+      "analogs_ru": [
+        "идёт помаленьку",
+        "потихоньку",
+        "движется",
+        "ни шатко ни валко",
+        "понемногу"
+      ],
+      "literal_ru": "",
+      "register": "разг.; ответ на вопрос о работе или деле; короче просто ide; расширенно и одобрительно polako ali sigurno «медленно, но верно»",
+      "note": "Polako — одно из ключевых слов сербского обихода: и «медленно», и «спокойно, не спеши», и «осторожно», и прощание. Polako! в ответ на чью-то горячность значит «остынь».",
+      "keyword": "polako",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.419Z"
     },
     {
       "id": "mt7ljk5o6vp19",
@@ -7675,6 +7757,32 @@
       "keyword": "Indijanac",
       "source": "frazeoteka",
       "created_at": "2026-08-30T20:29:20.352Z"
+    },
+    {
+      "id": "mtg9vqwjw8zkh",
+      "headword_latin": "Kako je žena? — Sluša",
+      "headword_cyrillic": "Како је жена? — Слуша",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "как жена? — слушается",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako je žena? — Sluša, šta će.",
+          "russian": "Как жена? — Слушается, куда денется."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "жена не стенка, подвинется",
+        "кто в доме хозяин"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл., устар.-патриархальн.; мужская застольная шутка; сегодня цитируется чаще как образчик старого мышления, чем всерьёз; в незнакомой компании лучше не воспроизводить",
+      "note": "Соль в подмене вопроса: спрашивают о самочувствии, отвечают о власти в доме. Тот же приём в ko nosi pantalone u kući «кто в доме хозяин».",
+      "keyword": "žena",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.419Z"
     },
     {
       "id": "mtg8n99i34c37",
@@ -19297,6 +19405,33 @@
       "created_at": "2026-08-25T16:56:26.732Z"
     },
     {
+      "id": "mtg9vqwirpp3q",
+      "headword_latin": "Šta da ti kažem",
+      "headword_cyrillic": "Шта да ти кажем",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что тебе сказать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako je bilo? — Šta da ti kažem, moglo je i bolje.",
+          "russian": "Как прошло? — Что тебе сказать, могло быть и лучше."
+        }
+      ],
+      "analogs_ru": [
+        "что тебе сказать",
+        "ну что сказать",
+        "да что тут скажешь",
+        "сам понимаешь"
+      ],
+      "literal_ru": "",
+      "register": "разг.; беспомощное вступление или заключение, когда ответить нечего или неловко",
+      "note": "Отличается от šta reći тем, что обращено к конкретному собеседнику. См. также: ŠTA REĆI.",
+      "keyword": "kazati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.418Z"
+    },
+    {
       "id": "msyrhihl1xfxe",
       "headword_latin": "Šta fali?",
       "headword_cyrillic": "Шта фали?",
@@ -19773,6 +19908,33 @@
       "keyword": "švorc",
       "source": "frazeoteka",
       "created_at": "2026-08-30T20:04:38.694Z"
+    },
+    {
+      "id": "mtg9vqwio2odf",
+      "headword_latin": "Tako je kako je",
+      "headword_cyrillic": "Тако је како је",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "как есть, так есть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nije idealno, ali tako je kako je.",
+          "russian": "Не идеально, но как есть, так есть."
+        }
+      ],
+      "analogs_ru": [
+        "как есть, так есть",
+        "ничего не поделаешь",
+        "так уж вышло",
+        "имеем что имеем"
+      ],
+      "literal_ru": "",
+      "register": "разг., фаталист.; принятие положения без попытки его объяснить или исправить; часто закрывает разговор",
+      "note": "См. также: ŠTA ĆEMO, ŠTA DA SE RADI.",
+      "keyword": "tako",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.418Z"
     },
     {
       "id": "mt79r18o4nrjd",
@@ -20975,6 +21137,32 @@
       "keyword": "glava",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:34:03.002Z"
+    },
+    {
+      "id": "mtg9vqwk0126r",
+      "headword_latin": "U zdravlje da nosiš",
+      "headword_cyrillic": "У здравље да носиш",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "носи на здоровье",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nove cipele? U zdravlje da nosiš!",
+          "russian": "Новые туфли? Носи на здоровье!"
+        }
+      ],
+      "analogs_ru": [
+        "носи на здоровье",
+        "носи с удовольствием",
+        "на здоровье"
+      ],
+      "literal_ru": "",
+      "register": "разг., пожелание при обновке — новой одежде, обуви, часах; полная форма u zdravlje da nosiš, u zdravlje da pocepaš, na bolje da zameniš",
+      "note": "«Износи на здоровье» смущает даже сербских детей — зачем желать, чтобы вещь порвалась? Смысл в другом: пусть она сносится сама, от долгой носки, а не пропадёт от беды — не в аварии, не при пожаре. То есть пожелание не вещи, а хозяину: дожить до её износа. Формула держится и в торговле как вежливая присказка продавца, где у неё есть практический расчёт: чем скорее износишь, тем скорее придёшь снова. Для еды соответствие prijatno, для крупной покупки da ti je sa srećom.",
+      "keyword": "zdravlje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.420Z"
     },
     {
       "id": "mt7adkcrks20g",
@@ -22757,6 +22945,59 @@
       "keyword": "želudac",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:05:17.695Z"
+    },
+    {
+      "id": "mtg9vqwls8ffc",
+      "headword_latin": "Živ bio",
+      "headword_cyrillic": "Жив био",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "спасибо; дай бог здоровья",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pomogao si mi mnogo, živ bio!",
+          "russian": "Ты мне очень помог, дай бог тебе здоровья!"
+        }
+      ],
+      "analogs_ru": [
+        "дай бог здоровья",
+        "спасибо тебе",
+        "будь здоров",
+        "благослови тебя бог"
+      ],
+      "literal_ru": "жив был бы",
+      "register": "разг., благодарств.; тёплая замена сухому hvala, чаще из уст старших; согласуется по роду и числу: živa bila, živi bili; расширенно živ bio sto godina",
+      "note": "Все эти формулы — оптатив, старое пожелательное наклонение, совпавшее по форме с прошедшим временем; отсюда странность для русского уха: буквально «жив был», а значит «будь жив». В том же ряду ruke ti se pozlatile, daleko bilo, dabogda. См. также: RUKE TI SE POZLATILE; ŽIVA BILA, VELIKA PORASLA.",
+      "keyword": "živeti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.421Z"
+    },
+    {
+      "id": "mtg9vqwku14m6",
+      "headword_latin": "Živa bila, velika porasla",
+      "headword_cyrillic": "Жива била, велика порасла",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "расти большая, будь здорова",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Hvala ti, dušo, živa bila, velika porasla.",
+          "russian": "Спасибо, солнышко, расти большая, будь здорова."
+        }
+      ],
+      "analogs_ru": [
+        "расти большая",
+        "дай бог тебе здоровья",
+        "будь здорова, расти большая"
+      ],
+      "literal_ru": "",
+      "register": "разг., благословение ребёнку — чаще всего в ответ на его помощь или добрые слова; согласуется: živ bio, veliki porastao — мальчику",
+      "note": "",
+      "keyword": "zdravlje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:39:14.420Z"
     },
     {
       "id": "mt8v4y6xdp8q8",
