@@ -260,7 +260,18 @@ async function pull(quiet){
     if(!r.ok){const d=await r.json().catch(()=>({}));throw new Error(d.message||("ответ "+r.status));}
     const d=await r.json();
     sha=d.sha;
-    const parsed=JSON.parse(b64decode(d.content));
+    let tekst;
+    if(d.content&&d.encoding==="base64"){
+      tekst=b64decode(d.content);
+    }else{
+      // Файл больше 1 МБ: Contents API отдаёт пустой content, нужен сырой медиатип
+      const raw=await fetch(ghUrl()+"?ref=HEAD&t="+Date.now(),
+        {headers:{Authorization:"Bearer "+cfg.token,Accept:"application/vnd.github.raw"}});
+      if(!raw.ok)throw new Error("ответ "+raw.status+" при чтении крупного файла");
+      tekst=await raw.text();
+    }
+    if(!tekst||!tekst.trim())throw new Error("файл пуст");
+    const parsed=JSON.parse(tekst);
     entries=(Array.isArray(parsed)?parsed:parsed.entries||[]).map(normalize);
     cacheLocal();render();
     setSync("d-ok","синхронизировано");
@@ -484,14 +495,25 @@ $("out-save").onclick=()=>{
 
 $("search").oninput=render;
 
-/* ---------- старт ---------- */
-const canEdit=ghReady()||location.hash==="#admin";
+/* ---------- режим редактора ---------- */
+const ADMIN_KEY="frazeoteka.admin";
+function detectAdmin(){
+  const h=(location.hash||"").toLowerCase().replace(/^#\/?/,"");
+  const q=new URLSearchParams(location.search);
+  if(h==="admin"||q.has("admin")){localStorage.setItem(ADMIN_KEY,"1");return true;}
+  if(h==="izlaz"||q.get("admin")==="0"){localStorage.removeItem(ADMIN_KEY);return false;}
+  return localStorage.getItem(ADMIN_KEY)==="1";
+}
+const canEdit=ghReady()||detectAdmin();
 if(!canEdit)document.querySelectorAll(".editor-only").forEach(el=>el.remove());
+window.addEventListener("hashchange",()=>{if(detectAdmin()!==canEdit)location.reload();});
 
+/* ---------- старт ---------- */
 if(canEdit){
   loadCache();render();
   if(ghReady())pull(true);
-  else setSync("d-off","не подключено");
+  else{setSync("d-off","режим редактора — не подключено");
+    pullPublic().then(ok=>{if(ok)say("База прочитана из файла. Введи токен в «GitHub», чтобы сохранять правки.");});}
 }else{
   render();
   pullPublic().then(ok=>{
