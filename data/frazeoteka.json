@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T20:40:04.989Z",
+  "updated": "2026-08-30T20:45:42.724Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -3599,6 +3599,33 @@
       "created_at": "2026-08-24T18:55:45.610Z"
     },
     {
+      "id": "mtga42cki84dr",
+      "headword_latin": "Dati reč",
+      "headword_cyrillic": "Дати реч",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "дать слово",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dao sam mu reč da ću doći.",
+          "russian": "Я дал ему слово, что приду."
+        }
+      ],
+      "analogs_ru": [
+        "дать слово",
+        "пообещать",
+        "слово чести",
+        "поручиться"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; управление dati kome reč; второе значение — предоставить слово на собрании: dajem reč kolegi",
+      "note": "Родственные — održati reč «сдержать слово», pogaziti reč «нарушить слово», reč je reč. См. также: DRŽIM TE ZA REČ; LJUDI SE VEZUJU ZA REČ.",
+      "keyword": "reč",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.500Z"
+    },
+    {
       "id": "mt79ndftf5m1o",
       "headword_latin": "Dati vatru tabanima",
       "headword_cyrillic": "Дати ватру табанима",
@@ -3950,6 +3977,33 @@
       "keyword": "labud",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:04:45.430Z"
+    },
+    {
+      "id": "mtga42cmbcs9r",
+      "headword_latin": "Dobiti nogu",
+      "headword_cyrillic": "Добити ногу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "получить пинка; вылететь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dobio je nogu posle godinu dana.",
+          "russian": "Через год его турнули."
+        }
+      ],
+      "analogs_ru": [
+        "получить пинка",
+        "вылететь с работы",
+        "дать от ворот поворот",
+        "турнуть"
+      ],
+      "literal_ru": "получить ногу",
+      "register": "разг.; о внезапном увольнении или разрыве отношений; активно dati kome nogu; синонимы dobiti šut kartu, dobiti otkaz (нейтр., о работе)",
+      "note": "См. также: ŠUT KARTA.",
+      "keyword": "noga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.502Z"
     },
     {
       "id": "mt38wx4l3qkef",
@@ -4378,6 +4432,33 @@
       "keyword": "reč",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.235Z"
+    },
+    {
+      "id": "mtga42clfqphf",
+      "headword_latin": "Držati jezik za zubima",
+      "headword_cyrillic": "Држати језик за зубима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "держать язык за зубами",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako hoćeš da ostaneš tu, drži jezik za zubima.",
+          "russian": "Хочешь тут остаться — держи язык за зубами."
+        }
+      ],
+      "analogs_ru": [
+        "держать язык за зубами",
+        "помалкивать",
+        "не распускать язык",
+        "молчать"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; ходовое в императиве: drži jezik za zubima",
+      "note": "Совпадает с русским полностью. См. также: ĆUTATI KAO GROB.",
+      "keyword": "jezik",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.501Z"
     },
     {
       "id": "mt7dahkn7zi7v",
@@ -5374,6 +5455,32 @@
       "created_at": "2026-08-25T16:56:26.728Z"
     },
     {
+      "id": "mtga42coirb8r",
+      "headword_latin": "Gladan kao kurjak",
+      "headword_cyrillic": "Гладан као курјак",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "голоден как волк",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Daj nešto da jedem, gladan sam kao kurjak.",
+          "russian": "Дай поесть, я голоден как волк."
+        }
+      ],
+      "analogs_ru": [
+        "голоден как волк",
+        "зверски голоден",
+        "живот подвело"
+      ],
+      "literal_ru": "",
+      "register": "разг.; синонимы gladan kao vuk, gladan kao pas",
+      "note": "Kurjak — волк, слово более народное и старое, чем vuk.",
+      "keyword": "kurjak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.504Z"
+    },
+    {
       "id": "mt79r18o31pdo",
       "headword_latin": "Glava mu je u torbi",
       "headword_cyrillic": "Глава му је у торби",
@@ -5399,6 +5506,33 @@
       "keyword": "glava",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:25:38.952Z"
+    },
+    {
+      "id": "mtga42ck2yd9s",
+      "headword_latin": "Glava u oblacima",
+      "headword_cyrillic": "Глава у облацима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "витает в облаках",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uvek je s glavom u oblacima, ništa ne primećuje.",
+          "russian": "Вечно витает в облаках, ничего не замечает."
+        }
+      ],
+      "analogs_ru": [
+        "витает в облаках",
+        "голова в облаках",
+        "не от мира сего",
+        "мечтатель"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о рассеянном или мечтательном; ходовое on je s glavom u oblacima",
+      "note": "Совпадает с русским. См. также: ON JE U SVOM FILMU.",
+      "keyword": "oblak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.500Z"
     },
     {
       "id": "mt7ljk5o23fnj",
@@ -7228,6 +7362,33 @@
       "created_at": "2026-08-25T17:16:05.370Z"
     },
     {
+      "id": "mtga42cp9dvnx",
+      "headword_latin": "Jedeš mi džigericu",
+      "headword_cyrillic": "Једеш ми џигерицу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ты мне всю печёнку выел",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Prestani, jedeš mi džigericu ceo dan.",
+          "russian": "Прекрати, ты мне весь день печёнку ешь."
+        }
+      ],
+      "analogs_ru": [
+        "сидишь в печёнках",
+        "всю душу вымотал",
+        "достал уже",
+        "нервы мотаешь"
+      ],
+      "literal_ru": "ты мне печень ешь",
+      "register": "разг., груб.-неодобр.; о том, кто изводит придирками или нытьём; родственное ići kome na jetru, книжнее",
+      "note": "Džigerica (тур. ciğer) — обиходное название печени, в том числе как еды; jetra — анатомическое и книжное. Русское «сидеть в печёнках» опирается на тот же орган: печень у обоих народов — вместилище раздражения. См. также: IĆI NA ŽIVCE, SMARAČ.",
+      "keyword": "džigerica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.505Z"
+    },
+    {
       "id": "msxnt6d1yu3cl",
       "headword_latin": "Jedna kašika sama ne zveči",
       "headword_cyrillic": "Једна кашика сама не звечи",
@@ -7650,6 +7811,31 @@
       "keyword": "kad",
       "source": "frazeoteka",
       "created_at": "2026-08-24T18:55:45.609Z"
+    },
+    {
+      "id": "mtga42cprz8cz",
+      "headword_latin": "Kad s kurjacima živiš, nauči da urlaš",
+      "headword_cyrillic": "Кад с курјацима живиш, научи да урлаш",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "с волками жить — по-волчьи выть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Morao je da se prilagodi — kad s kurjacima živiš, nauči da urlaš.",
+          "russian": "Пришлось приспособиться: с волками жить — по-волчьи выть."
+        }
+      ],
+      "analogs_ru": [
+        "с волками жить — по-волчьи выть",
+        "в чужой монастырь со своим уставом не ходят"
+      ],
+      "literal_ru": "",
+      "register": "послов.; о вынужденном приспособлении к среде",
+      "note": "Совпадает с русским почти дословно, только волк назван старым словом kurjak. Именно этот оборот — верное соответствие русской пословице; ko sa đavolom tikve sadi, которое иногда подставляют вместо него, значит другое — расплату за союз с дурным человеком. См. также: KO SA ĐAVOLOM TIKVE SADI.",
+      "keyword": "kurjak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.505Z"
     },
     {
       "id": "msxkiw6xe5rip",
@@ -9130,6 +9316,32 @@
       "created_at": "2026-08-25T16:16:08.819Z"
     },
     {
+      "id": "mtga42cn6o7oc",
+      "headword_latin": "Krov nad glavom",
+      "headword_cyrillic": "Кров над главом",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "крыша над головой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Glavno je da ima krov nad glavom.",
+          "russian": "Главное, что есть крыша над головой."
+        }
+      ],
+      "analogs_ru": [
+        "крыша над головой",
+        "свой угол",
+        "жильё"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; о жилье как о самом необходимом; ходовое imati krov nad glavom, ostati bez krova nad glavom",
+      "note": "Совпадает с русским.",
+      "keyword": "krov",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.503Z"
+    },
+    {
       "id": "mt8v4y6w5onke",
       "headword_latin": "Krpež i trpež kuću drže",
       "headword_cyrillic": "Крпеж и трпеж кућу држе",
@@ -9669,6 +9881,32 @@
       "keyword": "pare",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:22:41.704Z"
+    },
+    {
+      "id": "mtga42cnvinrb",
+      "headword_latin": "Lije kao iz kabla",
+      "headword_cyrillic": "Лије као из кабла",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "льёт как из ведра",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne izlazi, lije kao iz kabla.",
+          "russian": "Не выходи, льёт как из ведра."
+        }
+      ],
+      "analogs_ru": [
+        "льёт как из ведра",
+        "ливень стеной",
+        "хлещет"
+      ],
+      "literal_ru": "",
+      "register": "разг., общеупотр.; о сильном ливне; синоним pljušti",
+      "note": "Kabao — «бадья, ведро». См. также: KIŠA SIPI.",
+      "keyword": "kabao",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.503Z"
     },
     {
       "id": "mt38pdhipb214",
@@ -13915,6 +14153,33 @@
       "created_at": "2026-08-19T16:27:34.560Z"
     },
     {
+      "id": "mtga42cpvbzgo",
+      "headword_latin": "Otići na doboš",
+      "headword_cyrillic": "Отићи на добош",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пойти с молотка",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kuća im je otišla na doboš.",
+          "russian": "Дом у них ушёл с молотка."
+        }
+      ],
+      "analogs_ru": [
+        "пойти с молотка",
+        "уйти за долги",
+        "пустить с молотка",
+        "пойти на торги"
+      ],
+      "literal_ru": "уйти на барабан",
+      "register": "разг.-устар.; об имуществе, продаваемом с принудительных торгов; активно dati na doboš, prodati na doboš",
+      "note": "Doboš (венг. dobos) — барабан; глашатай бил в барабан, созывая народ на торги. Русский «молоток» — от аукционного удара, серб — от барабанного боя перед ним; оба слова остались от одной и той же процедуры.",
+      "keyword": "doboš",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.505Z"
+    },
+    {
       "id": "mt38pyk0kavpl",
       "headword_latin": "Otkad je sveta i veka",
       "headword_cyrillic": "Откад је света и века",
@@ -15883,6 +16148,32 @@
       "created_at": "2026-08-24T15:22:41.702Z"
     },
     {
+      "id": "mtga42cmuqmnp",
+      "headword_latin": "Pristaje mu kao magarcu sedlo",
+      "headword_cyrillic": "Пристаје му као магарцу седло",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "идёт ему как корове седло",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta uloga mu pristaje kao magarcu sedlo.",
+          "russian": "Эта роль ему идёт как корове седло."
+        }
+      ],
+      "analogs_ru": [
+        "идёт как корове седло",
+        "не по фигуре",
+        "совсем не идёт"
+      ],
+      "literal_ru": "идёт ему как ослу седло",
+      "register": "разг., насмешл.; и об одежде, и о должности или роли, человеку не подходящей",
+      "note": "Русский взял корову, серб осла, англичанин скажет о свинье в помаде — во всех случаях животное, которому наряд заведомо не по чину. Родственное magarac ostaje magarac i pod zlatnim sedlom — но там о сути, а здесь о внешнем несоответствии. См. также: STOJI TI KAO PILETU SISE.",
+      "keyword": "sedlo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.502Z"
+    },
+    {
       "id": "mt0b9rqv57t3c",
       "headword_latin": "Prljava posla",
       "headword_cyrillic": "Прљава посла",
@@ -17167,6 +17458,32 @@
       "created_at": "2026-08-24T17:22:37.267Z"
     },
     {
+      "id": "mtga42cnd7i62",
+      "headword_latin": "Sedeti na dukatima",
+      "headword_cyrillic": "Седети на дукатима",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сидеть на мешке с золотом",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sedi na dukatima, a cenka se oko svakog dinara.",
+          "russian": "Сидит на мешке с золотом, а торгуется за каждый динар."
+        }
+      ],
+      "analogs_ru": [
+        "сидеть на мешке с золотом",
+        "купаться в деньгах",
+        "денег куры не клюют"
+      ],
+      "literal_ru": "сидеть на дукатах",
+      "register": "разг.; о скрытом или неиспользуемом богатстве — часто с намёком на скупость",
+      "note": "Dukat — золотая монета, в сербской традиции ещё и часть женского приданого, монисто. См. также: LEŽATI NA PARAMA.",
+      "keyword": "dukat",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.503Z"
+    },
+    {
       "id": "mt38pyk0cc0a7",
       "headword_latin": "Seo kao dečja guza na nošu",
       "headword_cyrillic": "Сео као дечја гуза на ношу",
@@ -17830,6 +18147,33 @@
       "created_at": "2026-08-25T16:23:47.922Z"
     },
     {
+      "id": "mtga42cqr7jg9",
+      "headword_latin": "Smeši mu se brk",
+      "headword_cyrillic": "Смеши му се брк",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "усмехается в усы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ćuti, a smeši mu se brk — znači da je uspelo.",
+          "russian": "Молчит, а сам в усы усмехается: значит, вышло."
+        }
+      ],
+      "analogs_ru": [
+        "усмехаться в усы",
+        "ухмыляться про себя",
+        "прятать улыбку",
+        "посмеиваться"
+      ],
+      "literal_ru": "у него ус улыбается",
+      "register": "разг.; о довольной улыбке, которую человек сдерживает; часто о том, кто знает больше, чем говорит, или втайне торжествует",
+      "note": "Усы в сербском обиходе — отдельная выразительная часть лица: brk u brk «нос к носу», ni brk mu nije zaigrao «даже бровью не повёл», pod brk «себе под нос».",
+      "keyword": "brk",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.506Z"
+    },
+    {
       "id": "msxknp37toeua",
       "headword_latin": "Smilje i bosilje",
       "headword_cyrillic": "Смиље и босиље",
@@ -18344,6 +18688,32 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "mtga42cl1bo20",
+      "headword_latin": "Srušiti mostove za sobom",
+      "headword_cyrillic": "Срушити мостове за собом",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сжечь мосты",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otišao je iz firme tako da je srušio sve mostove za sobom.",
+          "russian": "Ушёл из фирмы так, что сжёг за собой все мосты."
+        }
+      ],
+      "analogs_ru": [
+        "сжечь мосты",
+        "отрезать себе путь назад",
+        "порвать все связи"
+      ],
+      "literal_ru": "разрушить мосты за собой",
+      "register": "нейтр.-книжн.; о разрыве без возможности вернуться; вариант spaliti mostove тоже употребим, но реже",
+      "note": "Сербский рушит, русский жжёт.",
+      "keyword": "most",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.501Z"
+    },
+    {
       "id": "mt79wy49syc4s",
       "headword_latin": "Stajati u stavu mirno",
       "headword_cyrillic": "Стајати у ставу мирно",
@@ -18635,6 +19005,34 @@
       "keyword": "pile",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:22:41.704Z"
+    },
+    {
+      "id": "mtga42cquhzxt",
+      "headword_latin": "Stoka bez repa",
+      "headword_cyrillic": "Стока без репа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "скотина; хамьё",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta se guraju kao stoka bez repa.",
+          "russian": "Что они лезут как скоты."
+        }
+      ],
+      "analogs_ru": [
+        "скотина",
+        "хамьё",
+        "быдло",
+        "свинья",
+        "сволочь"
+      ],
+      "literal_ru": "скотина без хвоста — то есть человек",
+      "register": "груб.-разг., резко бранное; собирательное, чаще во множественном значении о толпе или о целой категории",
+      "note": "Сербская брань часто определяет человека через отрицание животного признака — «скот, только без хвоста»; тот же ход в dvonožac «двуногое». В публичной речи звучит как прямое оскорбление.",
+      "keyword": "stoka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.506Z"
     },
     {
       "id": "mt7a760cbi8aj",
@@ -19296,6 +19694,33 @@
       "keyword": "piškiti",
       "source": "frazeoteka",
       "created_at": "2026-08-30T20:29:20.351Z"
+    },
+    {
+      "id": "mtga42cjv7se8",
+      "headword_latin": "Šljiva na oku",
+      "headword_cyrillic": "Шљива на оку",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "фингал; синяк под глазом",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otkud ti ta šljiva na oku?",
+          "russian": "Откуда у тебя этот фингал?"
+        }
+      ],
+      "analogs_ru": [
+        "фингал",
+        "синяк под глазом",
+        "фонарь",
+        "бланш"
+      ],
+      "literal_ru": "слива на глазу",
+      "register": "разг.; ходовое doneo je šljivu na oku, napravio mu šljivu; синоним modrica (нейтр., о любом синяке)",
+      "note": "По цвету и форме — тёмно-синий кровоподтёк. Русский тоже берёт форму и цвет, но через фонарь и французское blanche; серб — через самый ходовой в стране фрукт, из которого гонят ракию.",
+      "keyword": "šljiva",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.499Z"
     },
     {
       "id": "mt0b9rqt12j0p",
@@ -22864,6 +23289,33 @@
       "keyword": "jadac",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.254Z"
+    },
+    {
+      "id": "mtga42cmquprg",
+      "headword_latin": "Zubato sunce",
+      "headword_cyrillic": "Зубато сунце",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "обманчивое солнце; светит, да не греет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sija, ali ne veruj — zubato sunce.",
+          "russian": "Светит, да не верь: светит, да не греет."
+        }
+      ],
+      "analogs_ru": [
+        "обманчивое солнце",
+        "светит, да не греет",
+        "солнце с морозом",
+        "зимнее солнце"
+      ],
+      "literal_ru": "зубастое солнце",
+      "register": "разг., старомодн.; о ярком солнце в морозный день, когда кажется тепло, а на деле холодно; ходовое в предостережении: nemoj bez jakne, zubato je sunce",
+      "note": "Образ объясняют двояко, и оба толкования живут рядом: солнце скалит зубы, насмехаясь над теми, кто вышел без куртки, — или оно не греет, а кусает, и зубы тут у холода. Слово zubato в этом сочетании больше нигде не встречается, разве что в редком zubati vetar «кусачий ветер». Оборот считается стариковским: сербы вспоминают, что первый раз слышали его от бабушки, и он неизменно всплывает в материнском наставлении одеться теплее. Дал название альбому новосадской группы Džukele (1998).",
+      "keyword": "sunce",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:45:42.502Z"
     },
     {
       "id": "mt8vfe9mrb7ex",
