@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T20:29:20.860Z",
+  "updated": "2026-08-30T20:35:31.349Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -4815,6 +4815,34 @@
       "created_at": "2026-08-25T16:56:26.726Z"
     },
     {
+      "id": "mtg9qylh89zbt",
+      "headword_latin": "Evo me",
+      "headword_cyrillic": "Ево ме",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "да вот я; всё нормально",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "'De si? — Evo me, tu sam.",
+          "russian": "Здорово, как ты? — Да всё нормально."
+        }
+      ],
+      "analogs_ru": [
+        "да вот я",
+        "я тут",
+        "всё нормально",
+        "да ничего",
+        "живой"
+      ],
+      "literal_ru": "вот меня",
+      "register": "разг.; стандартный ответ на gde si и šta ima; синоним tu sam «я тут»",
+      "note": "Частица evo с родительным местоимения — конструкция, которой в русском нет: evo me, evo ga, evo nas. Буквально «вот меня», а значит «вот я».",
+      "keyword": "evo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.109Z"
+    },
+    {
       "id": "mt7i7s5wx6sh7",
       "headword_latin": "Evo trčim",
       "headword_cyrillic": "Ево трчим",
@@ -4840,6 +4868,32 @@
       "keyword": "trčati",
       "source": "frazeoteka",
       "created_at": "2026-08-24T17:22:37.268Z"
+    },
+    {
+      "id": "mtg9qylkawnyz",
+      "headword_latin": "Evo, radi se",
+      "headword_cyrillic": "Ево, ради се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "да вот, работаем",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta radiš? — Evo, radi se polako.",
+          "russian": "Чем занят? — Да вот, работаем помаленьку."
+        }
+      ],
+      "analogs_ru": [
+        "да вот, работаю",
+        "работается помаленьку",
+        "да вот, тружусь"
+      ],
+      "literal_ru": "вот, работается",
+      "register": "разг., очень частотно; безличная возвратная форма вместо личной; модель продуктивна для любого занятия: uči se, odmara se, kuva se, sprema se, živi se",
+      "note": "Конструкция снимает с говорящего лишнюю значительность: не он трудится, а «трудится само». Русское «работается» существует, но у нас оно только о лёгкости процесса («сегодня хорошо работается»), а сербское — обычный способ ответить на вопрос о делах.",
+      "keyword": "raditi",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.112Z"
     },
     {
       "id": "mt39f3sxhpgbh",
@@ -5158,6 +5212,33 @@
       "keyword": "reka",
       "source": "frazeoteka",
       "created_at": "2026-08-24T14:38:03.125Z"
+    },
+    {
+      "id": "mtg9qylg0ww1m",
+      "headword_latin": "Gde si",
+      "headword_cyrillic": "Где си",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "здорово; как ты?",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "'De si, gde te nema?",
+          "russian": "Здорово, куда пропал?"
+        }
+      ],
+      "analogs_ru": [
+        "здорово",
+        "как ты",
+        "привет",
+        "ну что, как жизнь"
+      ],
+      "literal_ru": "где ты",
+      "register": "разг., очень частотно; приветствие, а не вопрос о местонахождении; ответа по существу не ждут; стяжение 'de si, полнее gde si, brate, gde si, care",
+      "note": "Продолжение с упрёком: gde si ti? nema te, kriješ se! Словарь сленга отмечает, что ответа тут не предполагается — вопрос задаётся из вежливости, ровно как kako si. Русскому первое время странно: спрашивают «где ты», когда человек стоит перед тобой. См. также: DE SI, BRATE; ŠTA IMA.",
+      "keyword": "gde",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.109Z"
     },
     {
       "id": "mtg8n99idfzsu",
@@ -9644,6 +9725,34 @@
       "created_at": "2026-08-17T20:01:31.767Z"
     },
     {
+      "id": "mtg9qylkcu3rr",
+      "headword_latin": "Ma idi, bre",
+      "headword_cyrillic": "Ма иди, бре",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "да брось; не спрашивай",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako je na poslu? — Ma idi, bre, ne pitaj.",
+          "russian": "Как на работе? — Да брось, не спрашивай."
+        }
+      ],
+      "analogs_ru": [
+        "да брось",
+        "да ну",
+        "не спрашивай",
+        "да ладно тебе",
+        "иди ты"
+      ],
+      "literal_ru": "да иди ты",
+      "register": "разг., фамильярн.; отмахивание — и от неприятного вопроса, и от невероятной новости",
+      "note": "Bre — частица без перевода, чистое усиление, важнейшее слово сербского разговорного обихода; окрашивает фразу и в фамильярность, и в эмоцию — от нежности (ajde bre) до раздражения (šta hoćeš, bre?). Считается опознавательным знаком сербской речи; в хорватском практически не встречается.",
+      "keyword": "bre",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.112Z"
+    },
+    {
       "id": "mt8xm4vewk6km",
       "headword_latin": "Ma ko mi kaže",
       "headword_cyrillic": "Ма ко ми каже",
@@ -10253,6 +10362,34 @@
       "keyword": "kućica",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.256Z"
+    },
+    {
+      "id": "mtg9qyllokv23",
+      "headword_latin": "Molim?",
+      "headword_cyrillic": "Молим?",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "простите?; что-что?; пожалуйста",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Molim? Nisam čuo.",
+          "russian": "Простите? Я не расслышал."
+        }
+      ],
+      "analogs_ru": [
+        "простите?",
+        "что-что?",
+        "не расслышал",
+        "да? (в трубку)",
+        "пожалуйста"
+      ],
+      "literal_ru": "",
+      "register": "нейтр., многофункциональное: переспрос, ответ на телефонный звонок, отклик на обращение по имени, вежливое «пожалуйста» в ответ на благодарность (hvala — molim); резкое Molim?! — «что ты сказал?», требование объясниться",
+      "note": "Переспрос через molim вежливее, чем šta? или kako?, которые в разговоре со старшим или незнакомым звучат грубовато. Русское «что?» в такой роли столь же невежливо, так что привычку стоит перенести целиком.",
+      "keyword": "moliti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.113Z"
     },
     {
       "id": "mt8wpyzrd27z6",
@@ -11651,6 +11788,33 @@
       "created_at": "2026-08-25T16:23:47.922Z"
     },
     {
+      "id": "mtg9qyll4hrj1",
+      "headword_latin": "Ne žalim se",
+      "headword_cyrillic": "Не жалим се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не жалуюсь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako si? — Ne žalim se.",
+          "russian": "Как ты? — Не жалуюсь."
+        }
+      ],
+      "analogs_ru": [
+        "не жалуюсь",
+        "грех жаловаться",
+        "всё нормально",
+        "не на что жаловаться"
+      ],
+      "literal_ru": "",
+      "register": "разг.; ответ о делах, означающий «нормально, но хвастаться не буду»; усиленно ne mogu se žaliti, grehota bi bilo da se žalim",
+      "note": "Весь сербский набор ответов на kako si устроен так, чтобы не сглазить и не показаться самодовольным: ne žalim se, uvek može bolje, ide nekako, đene-đene, da je bolje ne bi valjalo. Прямое odlično sam звучит почти вызывающе.",
+      "keyword": "žaliti se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.113Z"
+    },
+    {
       "id": "msyrhihlclbac",
       "headword_latin": "Neće ti faliti ni dlaka s glave",
       "headword_cyrillic": "Неће ти фалити ни длака с главе",
@@ -12722,6 +12886,33 @@
       "keyword": "lično",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:56:26.729Z"
+    },
+    {
+      "id": "mtg9qyliiq0q7",
+      "headword_latin": "Ništa posebno",
+      "headword_cyrillic": "Ништа посебно",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "да ничего особенного",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta ima? — Ništa posebno.",
+          "russian": "Что нового? — Да ничего особенного."
+        }
+      ],
+      "analogs_ru": [
+        "ничего особенного",
+        "да ничего",
+        "всё по-старому",
+        "как обычно"
+      ],
+      "literal_ru": "",
+      "register": "разг.; стандартный ответ на šta ima; короче — просто ništa",
+      "note": "Отвечать подробно не принято: вопрос ритуальный, ответ тоже.",
+      "keyword": "ništa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.110Z"
     },
     {
       "id": "mt7dxk13creoz",
@@ -18470,6 +18661,34 @@
       "created_at": "2026-08-17T21:51:42.266Z"
     },
     {
+      "id": "mtg9qylimg98g",
+      "headword_latin": "Svašta",
+      "headword_cyrillic": "Свашта",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. всякое, много всего; 2. (восклиц.) ну знаешь ли!, безобразие!",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta ima? — Svašta, ne stižem da ti ispričam.",
+          "russian": "Что нового? — Да всякого, рассказать не успею."
+        }
+      ],
+      "analogs_ru": [
+        "всякое",
+        "много всего",
+        "да чего только не",
+        "ну знаешь ли",
+        "безобразие"
+      ],
+      "literal_ru": "",
+      "register": "разг.; знач. 1 — ответ о полноте, знач. 2 — возглас возмущения; различает интонация",
+      "note": "См. также: SVAŠTA NEŠTO.",
+      "keyword": "svašta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.111Z"
+    },
+    {
       "id": "mt8wpyzvuxigf",
       "headword_latin": "Svašta nešto",
       "headword_cyrillic": "Свашта нешто",
@@ -19104,6 +19323,59 @@
       "created_at": "2026-08-18T14:32:12.249Z"
     },
     {
+      "id": "mtg9qylhvgznd",
+      "headword_latin": "Šta ima",
+      "headword_cyrillic": "Шта има",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что нового; как оно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ćao, šta ima?",
+          "russian": "Привет, что нового?"
+        }
+      ],
+      "analogs_ru": [
+        "что нового",
+        "как оно",
+        "как жизнь",
+        "чё как"
+      ],
+      "literal_ru": "",
+      "register": "разг., очень частотно; приветствие-вопрос, ответа по существу не требующее; стяжённо š'a ima; расширенно šta ima novo, šta ima kod tebe",
+      "note": "Vukajlija замечает не без ехидства, что вопрос философски необъятен и оттого почти абсурден: полный ответ на «что есть?» невозможен, — и что задают его, вероятно, потому, что ответить на «чего нет?» было бы ещё труднее. См. также: GDE SI, ŠTA SE RADI NA ESTRADI.",
+      "keyword": "imati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.109Z"
+    },
+    {
+      "id": "mtg9qyljj0zz2",
+      "headword_latin": "Šta ima, ima; šta nema, kupićemo",
+      "headword_cyrillic": "Шта има, има; шта нема, купићемо",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "что есть, то есть, чего нет — купим",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne brini za hranu — šta ima, ima; šta nema, kupićemo.",
+          "russian": "За еду не переживай: что есть, то есть, чего нет — купим."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "всё будет, не переживай",
+        "не хватит — докупим"
+      ],
+      "literal_ru": "",
+      "register": "разг., хлебосольная формула; говорится при сборе гостей или застолья — обещание, что стол не оскудеет",
+      "note": "В отличие от русского «чем богаты, тем и рады», где хозяин извиняется за скудость, здесь он, наоборот, заверяет, что недостачи не будет.",
+      "keyword": "kupiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.111Z"
+    },
+    {
       "id": "mt7a30sw64yc4",
       "headword_latin": "Šta je starije, kokoška ili jaje",
       "headword_cyrillic": "Шта је старије, кокошка или јаје",
@@ -19128,6 +19400,33 @@
       "keyword": "kokoška",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:34:58.256Z"
+    },
+    {
+      "id": "mtg9qylj6damj",
+      "headword_latin": "Šta nema!",
+      "headword_cyrillic": "Шта нема!",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "чего только нет!",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Šta ima kod vas? — Ma šta nema!",
+          "russian": "Что у вас нового? — Да чего только нет!"
+        }
+      ],
+      "analogs_ru": [
+        "чего только нет",
+        "всего навалом",
+        "полно всего",
+        "всё что душе угодно"
+      ],
+      "literal_ru": "чего нет",
+      "register": "разг., восклиц.; ответ на šta ima, вывернутый наизнанку",
+      "note": "Вместо перечисления имеющегося говорят, что перечислять нечего — нет разве что птичьего молока. См. также: NEMA ŠTA NEMA.",
+      "keyword": "nemati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.111Z"
     },
     {
       "id": "mt8wpyzvglida",
@@ -21076,6 +21375,33 @@
       "keyword": "uškopiti",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:38:11.628Z"
+    },
+    {
+      "id": "mtg9qylkexa8s",
+      "headword_latin": "Uvek može bolje",
+      "headword_cyrillic": "Увек може боље",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "бывает и лучше",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako ide? — Uvek može bolje.",
+          "russian": "Как идёт? — Бывает и лучше."
+        }
+      ],
+      "analogs_ru": [
+        "бывает и лучше",
+        "могло быть и получше",
+        "не блеск",
+        "так себе, если честно"
+      ],
+      "literal_ru": "всегда может быть лучше",
+      "register": "разг.; сдержанный ответ на вопрос о делах — не жалоба, но и не похвальба; в другом контексте призыв не останавливаться на достигнутом",
+      "note": "",
+      "keyword": "bolje",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:35:31.112Z"
     },
     {
       "id": "mt7lohm9oggtn",
