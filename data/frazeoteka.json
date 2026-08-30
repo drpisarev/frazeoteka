@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T20:45:42.724Z",
+  "updated": "2026-08-30T20:49:27.058Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -1558,6 +1558,33 @@
       "keyword": "jutro",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:16:08.822Z"
+    },
+    {
+      "id": "mtga8vf6jmmhd",
+      "headword_latin": "Bog i batina",
+      "headword_cyrillic": "Бог и батина",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "царь и бог",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U toj opštini on je Bog i batina.",
+          "russian": "В этой общине он царь и бог."
+        }
+      ],
+      "analogs_ru": [
+        "царь и бог",
+        "и бог, и царь, и воинский начальник",
+        "полный хозяин",
+        "власть и расправа"
+      ],
+      "literal_ru": "бог и палка",
+      "register": "разг.; о том, кто в своей области решает всё и ни перед кем не отвечает; ходовое on ti je tamo Bog i batina",
+      "note": "Сербская формула жёстче русской: рядом с богом стоит не царь, а палка — то есть не только власть, но и право наказывать. Соседнее vedri i oblači мягче: там самовластие без насилия. См. также: VEDRI I OBLAČI; ČIJA SILA, TOGA I PRAVDA.",
+      "keyword": "batina",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.802Z"
     },
     {
       "id": "msxlnru8wei3o",
@@ -4006,6 +4033,33 @@
       "created_at": "2026-08-30T20:45:42.502Z"
     },
     {
+      "id": "mtga8vf4mho3f",
+      "headword_latin": "Dobro doći kome",
+      "headword_cyrillic": "Добро доћи коме",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "прийтись кстати; пригодиться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta pomoć nam je dobro došla.",
+          "russian": "Эта помощь пришлась нам очень кстати."
+        }
+      ],
+      "analogs_ru": [
+        "прийтись кстати",
+        "пригодиться",
+        "не помешать",
+        "оказаться очень к месту"
+      ],
+      "literal_ru": "",
+      "register": "нейтр.; дательный лица: dobro će mi doći, dobro bi nam došlo; об услуге, вещи, деньгах, отдыхе",
+      "note": "Не путать с приветствием dobro došli «добро пожаловать» — та же форма, но там обращение к гостю, а здесь безличная оценка полезности. Различает дательный: dobro nam došlo против dobro došli.",
+      "keyword": "doći",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.800Z"
+    },
+    {
       "id": "mt38wx4l3qkef",
       "headword_latin": "Dobro jutro, Kolumbo",
       "headword_cyrillic": "Добро јутро, Колумбо",
@@ -4615,6 +4669,33 @@
       "keyword": "kosa",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:29:45.345Z"
+    },
+    {
+      "id": "mtga8vf70j8j9",
+      "headword_latin": "Dupke pun",
+      "headword_cyrillic": "Дупке пун",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "битком набит",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sala je bila dupke puna.",
+          "russian": "Зал был битком набит."
+        }
+      ],
+      "analogs_ru": [
+        "битком набит",
+        "полон до отказа",
+        "яблоку негде упасть",
+        "забит под завязку"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о зале, автобусе, площади",
+      "note": "Наречие dupke живёт почти только в этом сочетании и в dupke ustati «встать всем разом» (об овации). См. также: PUN-PUNCAT, PUNO KAO OKO.",
+      "keyword": "dupke",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.803Z"
     },
     {
       "id": "msxmobcxo7wiw",
@@ -7042,6 +7123,33 @@
       "created_at": "2026-08-24T13:22:48.135Z"
     },
     {
+      "id": "mtga8vf64qtmw",
+      "headword_latin": "Iz duga vremena",
+      "headword_cyrillic": "Из дуга времена",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "от нечего делать; со скуки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Naučio je da svira iz duga vremena.",
+          "russian": "Он выучился играть от нечего делать."
+        }
+      ],
+      "analogs_ru": [
+        "от нечего делать",
+        "со скуки",
+        "от безделья",
+        "чтобы время убить"
+      ],
+      "literal_ru": "из долгого времени",
+      "register": "разг.-книжн., чуть старомодн.; о занятии, затеянном только чтобы занять время; синонимы iz dosade, da prekrati vreme",
+      "note": "Dugo vreme здесь — не «долгое время», а «тягучая скука, длинные пустые часы». Русское «долгие вечера» держит тот же оттенок.",
+      "keyword": "vreme",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.802Z"
+    },
+    {
       "id": "mt391c52e3u5n",
       "headword_latin": "Izbirač naiđe na otirač",
       "headword_cyrillic": "Избирач наиђе на отирач",
@@ -7573,6 +7681,34 @@
       "keyword": "živ",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:56:26.729Z"
+    },
+    {
+      "id": "mtga8vf50nkez",
+      "headword_latin": "Jesti vek",
+      "headword_cyrillic": "Јести век",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "портить кровь; изводить",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Jede mi vek s tim pitanjima.",
+          "russian": "Портит мне кровь этими вопросами."
+        }
+      ],
+      "analogs_ru": [
+        "портить кровь",
+        "изводить",
+        "выматывать душу",
+        "жизни не давать",
+        "сживать со свету"
+      ],
+      "literal_ru": "есть век — поедать чей-л. срок жизни",
+      "register": "разг., экспресс.; управление jesti kome vek; ходовое jede mi vek, pojela mi je vek",
+      "note": "Образ буквальнее русского: не кровь портят, а прямо укорачивают жизнь. Vek здесь не «столетие», а «срок жизни», как в русском «отжил свой век». См. также: JEDEŠ MI DŽIGERICU, IĆI NA ŽIVCE.",
+      "keyword": "vek",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.801Z"
     },
     {
       "id": "mt79wy4b71oav",
@@ -8319,6 +8455,34 @@
       "keyword": "Nasta",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:24:53.585Z"
+    },
+    {
+      "id": "mtga8vf689qhm",
+      "headword_latin": "Kao od bede",
+      "headword_cyrillic": "Као од беде",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "спустя рукава; кое-как",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uči kao od bede, ništa mu se ne da.",
+          "russian": "Учится спустя рукава, ничего ему не хочется."
+        }
+      ],
+      "analogs_ru": [
+        "спустя рукава",
+        "кое-как",
+        "для галочки",
+        "лишь бы отделаться",
+        "через силу"
+      ],
+      "literal_ru": "как от беды",
+      "register": "разг., неодобр.; о работе, сделанной без души и без старания — будто из-под палки; ходовое radi kao od bede, jede kao od bede",
+      "note": "См. также: RADITI LEVOM NOGOM, DRŽI VODU DOK MAJSTORI ODU.",
+      "keyword": "beda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.802Z"
     },
     {
       "id": "mt6zbfrrjpuae",
@@ -11225,6 +11389,33 @@
       "created_at": "2026-08-21T17:45:17.191Z"
     },
     {
+      "id": "mtga8vf5bu6r9",
+      "headword_latin": "Naivna kao francuska sobarica",
+      "headword_cyrillic": "Наивна као француска собарица",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "наивна как французская горничная — то есть совсем не наивна",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pravi se naivna kao francuska sobarica.",
+          "russian": "Строит из себя саму невинность."
+        }
+      ],
+      "analogs_ru": [
+        "точного русского фразеологизма нет",
+        "сама невинность (иронически)",
+        "тоже мне, институтка",
+        "невинная овечка"
+      ],
+      "literal_ru": "",
+      "register": "разг., ирон., всегда с обратным знаком; о женщине, изображающей неискушённость; форма мужского рода не употребляется",
+      "note": "Оборот держится на том, что французская горничная в старой европейской литературе и водевиле — фигура заведомо тёртая и всё про всех знающая. Приём тот же, что в dobar kao hleb, сказанном с прищуром: похвальное слово с перевёрнутым знаком. Иностранцу опасно: буквальное прочтение даёт комплимент, а звучит это как обвинение в притворстве.",
+      "keyword": "sobarica",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.801Z"
+    },
+    {
       "id": "mt7i7s5v9q2fb",
       "headword_latin": "Najblaže rečeno",
       "headword_cyrillic": "Најблаже речено",
@@ -11302,6 +11493,33 @@
       "keyword": "naklon",
       "source": "frazeoteka",
       "created_at": "2026-08-25T17:21:27.336Z"
+    },
+    {
+      "id": "mtga8vf67wykw",
+      "headword_latin": "Naliti se do daske",
+      "headword_cyrillic": "Налити се до даске",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "напиться в стельку",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nalio se do daske i zaspao za stolom.",
+          "russian": "Напился в стельку и уснул за столом."
+        }
+      ],
+      "analogs_ru": [
+        "напиться в стельку",
+        "нализаться",
+        "надраться",
+        "залить глаза"
+      ],
+      "literal_ru": "налиться до доски",
+      "register": "разг., груб.; naliti se «налиться» о человеке — «напиться»",
+      "note": "Усилитель do daske тот же, что в odvrnuti muziku do daske, — «до упора». См. также: DO DASKE, PIJAN KAO MAJKA, BITI NA TRI ĆOŠKA.",
+      "keyword": "daska",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.802Z"
     },
     {
       "id": "mt7doil5hfi9u",
@@ -11601,6 +11819,33 @@
       "created_at": "2026-08-24T08:54:00.262Z"
     },
     {
+      "id": "mtga8vf5ehfix",
+      "headword_latin": "Ne da ni Bogu tamjana",
+      "headword_cyrillic": "Не да ни Богу тамјана",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "зимой снега не выпросишь; крайне скуп",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemoj od njega da tražiš, ne da on ni Bogu tamjana.",
+          "russian": "У него не проси, у него зимой снега не выпросишь."
+        }
+      ],
+      "analogs_ru": [
+        "зимой снега не выпросишь",
+        "у него не разживёшься",
+        "скупердяй",
+        "жмот отпетый"
+      ],
+      "literal_ru": "не даст и Богу ладана",
+      "register": "разг., резко неодобр.; о крайней скупости",
+      "note": "Логика предельная: не поделится даже с Богом, и даже тем, что Богу положено по обряду. См. также: IMA ZMIJU U DŽEPU.",
+      "keyword": "tamjan",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.801Z"
+    },
+    {
       "id": "mt7hwo7bv6dw2",
       "headword_latin": "Ne dam na sebe",
       "headword_cyrillic": "Не дам на себе",
@@ -11626,6 +11871,33 @@
       "keyword": "sebe",
       "source": "frazeoteka",
       "created_at": "2026-08-24T17:13:58.919Z"
+    },
+    {
+      "id": "mtga8vf504kcj",
+      "headword_latin": "Ne dao Bog",
+      "headword_cyrillic": "Не дао Бог",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не дай бог",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne dao Bog da se to ponovi.",
+          "russian": "Не дай бог, чтобы это повторилось."
+        }
+      ],
+      "analogs_ru": [
+        "не дай бог",
+        "упаси господь",
+        "избави боже",
+        "не приведи господь"
+      ],
+      "literal_ru": "",
+      "register": "разг., оберег; произносится при упоминании беды; формы ne dao Bog, ne daj Bože, Bože sačuvaj",
+      "note": "Оптатив, как и прочие пожелания этого ряда. См. также: DALEKO BILO, BUDI BOG S NAMA.",
+      "keyword": "bog",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.801Z"
     },
     {
       "id": "mt391c519q7u9",
@@ -11679,6 +11951,33 @@
       "keyword": "obzir",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:51:09.235Z"
+    },
+    {
+      "id": "mtga8vf52miny",
+      "headword_latin": "Ne drži vodu",
+      "headword_cyrillic": "Не држи воду",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не выдерживает критики",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ta teorija jednostavno ne drži vodu.",
+          "russian": "Эта теория попросту не выдерживает критики."
+        }
+      ],
+      "analogs_ru": [
+        "не выдерживает критики",
+        "шито белыми нитками",
+        "концы с концами не сходятся",
+        "несостоятельно"
+      ],
+      "literal_ru": "не держит воду",
+      "register": "нейтр.-публиц.; о доводе, версии, теории с логическими дырами",
+      "note": "Калька английского doesn't hold water, но в сербском прижилась прочно. Соседний оборот ne pije vodu значит другое — «не проходит, не катит» об отговорке или предложении: ne drži vodu о внутренней несостоятельности рассуждения, ne pije vodu о том, что предложенное не принимают. См. также: PIJE VODU.",
+      "keyword": "voda",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.801Z"
     },
     {
       "id": "mt7lohmb1qavo",
@@ -12159,6 +12458,33 @@
       "keyword": "pametan",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:23:47.922Z"
+    },
+    {
+      "id": "mtga8vf6vz7h8",
+      "headword_latin": "Ne znati ni brus",
+      "headword_cyrillic": "Не знати ни брус",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни бельмеса не знать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Došao je na ispit, a ne zna ni brus.",
+          "russian": "Пришёл на экзамен, а не знает ни бельмеса."
+        }
+      ],
+      "analogs_ru": [
+        "ни бельмеса не знать",
+        "ни бум-бум",
+        "ни в зуб ногой",
+        "полный ноль"
+      ],
+      "literal_ru": "не знать и точильного камня (brus — оселок для правки косы)",
+      "register": "разг.; редк./не подтверждено надёжно — как устойчивый оборот в источниках не найдено",
+      "note": "Толкование опирается на запись пользователя и на прозрачность образа. Проверенные соответствия того же смысла: nema pojma, ne zna ni koliko je crno pod noktom, ne zna ni slovo. Похоже на говорное; при случае записать регион и контекст.",
+      "keyword": "brus",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.802Z"
     },
     {
       "id": "mtg9qyll4hrj1",
@@ -23103,6 +23429,33 @@
       "keyword": "zbrda",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "mtga8vf7j0gqr",
+      "headword_latin": "Zdrav kao dren",
+      "headword_cyrillic": "Здрав као дрен",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "здоров как бык",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Devedeset mu je godina, a zdrav je kao dren.",
+          "russian": "Девяносто лет, а здоров как бык."
+        }
+      ],
+      "analogs_ru": [
+        "здоров как бык",
+        "кровь с молоком",
+        "крепок как дуб",
+        "здоровяк"
+      ],
+      "literal_ru": "здоров как кизил",
+      "register": "разг., одобр.; ходовое и в пожелании: da si mi zdrav kao dren",
+      "note": "Dren — кизил, кустарник с исключительно твёрдой древесиной, из которой делали рукояти и клинья. Русский меряет здоровье животным, серб — деревом. С кизилом связано и рождественское поверье: ветку клали в бадняк, а детей утром легонько трогали ею, «чтобы росли здоровыми, как дрен».",
+      "keyword": "dren",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:49:26.803Z"
     },
     {
       "id": "mt7hwo7b7ojgp",
