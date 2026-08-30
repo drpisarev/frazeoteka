@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-25T17:21:27.446Z",
+  "updated": "2026-08-30T20:04:38.888Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -602,6 +602,37 @@
       "keyword": "pet",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:15:39.929Z"
+    },
+    {
+      "id": "mtg8n99fncfs7",
+      "headword_latin": "Baciti oko",
+      "headword_cyrillic": "Бацити око",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "1. взглянуть, глянуть; 2. положить глаз",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Baci oko na ovaj tekst, molim te.",
+          "russian": "[знач. 1] Глянь этот текст, пожалуйста."
+        },
+        {
+          "serbian_latin": "Bacio je oko na nju još na prvoj godini.",
+          "russian": "[знач. 2] Он положил на неё глаз ещё на первом курсе."
+        }
+      ],
+      "analogs_ru": [
+        "глянуть",
+        "бросить взгляд",
+        "положить глаз",
+        "запасть на кого-л."
+      ],
+      "literal_ru": "бросить глаз",
+      "register": "разг.; знач. 1 — просьба посмотреть, проверить (baci oko na ovo); знач. 2 — с предлогом na и о человеке; вариант baciti pogled только для знач. 1, нейтральнее",
+      "note": "",
+      "keyword": "oko",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.691Z"
     },
     {
       "id": "msxlnru8vqj6o",
@@ -1313,6 +1344,34 @@
       "keyword": "znati",
       "source": "frazeoteka",
       "created_at": "2026-08-17T23:48:44.422Z"
+    },
+    {
+      "id": "mtg8n99hvyj1z",
+      "headword_latin": "Blejati",
+      "headword_cyrillic": "Блејати",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "тупить; слоняться без дела",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ništa ne radim, samo blejim tu.",
+          "russian": "Ничего не делаю, просто торчу тут."
+        }
+      ],
+      "analogs_ru": [
+        "тупить",
+        "зависать",
+        "слоняться без дела",
+        "балду гонять",
+        "втыкать"
+      ],
+      "literal_ru": "блеять (об овце)",
+      "register": "разг.-сленг., молодёжн.; о ничегонеделании — приятном или бессмысленном",
+      "note": "Существительное bleja «зависание, тусовка»: idemo na bleju. Не путать с русским «блеять» о речи — в сербском это только про овец и про безделье. См. также: HVATATI ZJALE.",
+      "keyword": "blejati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.693Z"
     },
     {
       "id": "mt0b1qg0wg7kq",
@@ -2530,6 +2589,33 @@
       "created_at": "2026-08-24T13:30:14.843Z"
     },
     {
+      "id": "mtg8n99ju6nnz",
+      "headword_latin": "Crkla sam od umora",
+      "headword_cyrillic": "Цркла сам од умора",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "я сдохла от усталости",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Crkla sam, ne mogu više ni korak.",
+          "russian": "Я сдохла, шагу больше не сделаю."
+        }
+      ],
+      "analogs_ru": [
+        "сдохла от усталости",
+        "умираю от усталости",
+        "без задних ног",
+        "трупом лежу"
+      ],
+      "literal_ru": "",
+      "register": "разг., груб.-экспресс.; согласуется по роду: crkao sam, crkla sam; синоним помягче mrtva sam",
+      "note": "Crknuti «сдохнуть» — о животном, в применении к себе грубовато, но обиходно. См. также: MRTAV UMORAN, KAO KUVANA NOGA.",
+      "keyword": "crknuti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.695Z"
+    },
+    {
       "id": "mt7ec5q25pcy7",
       "headword_latin": "Crkni-pukni",
       "headword_cyrillic": "Цркни-пукни",
@@ -3486,6 +3572,33 @@
       "keyword": "taban",
       "source": "frazeoteka",
       "created_at": "2026-08-24T13:22:48.137Z"
+    },
+    {
+      "id": "mtg8n99h3v36p",
+      "headword_latin": "De si, brate",
+      "headword_cyrillic": "Де си, брате",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "здорово, брат",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "De si, brate, gde te nema?",
+          "russian": "Здорово, брат, куда пропал?"
+        }
+      ],
+      "analogs_ru": [
+        "здорово, брат",
+        "привет, братан",
+        "как жизнь, дружище",
+        "здарова"
+      ],
+      "literal_ru": "где ты, брат",
+      "register": "разг., фамильярн.; стандартное мужское приветствие; региональные варианты обращения: brate — повсеместно, особенно в Белграде; gari — Нови-Сад и Воеводина; čovo — Суботица и север; прочие ходовые care, šefe, matori, burazeru",
+      "note": "Обращение brate давно потеряло родственный смысл и работает как чистая частица — его вставляют и в середину фразы (ma daj, brate), и в разговоре с малознакомым. Женщины между собой говорят seko, dušo. См. также: DE SI, KUĆO STARA.",
+      "keyword": "brate",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.693Z"
     },
     {
       "id": "mt7a30suyoitu",
@@ -4938,6 +5051,32 @@
       "created_at": "2026-08-24T14:38:03.125Z"
     },
     {
+      "id": "mtg8n99idfzsu",
+      "headword_latin": "Gde si, sokole",
+      "headword_cyrillic": "Где си, соколе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "здорово, орёл",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Gde si, sokole, sto godina!",
+          "russian": "Здорово, орёл, сто лет не виделись!"
+        }
+      ],
+      "analogs_ru": [
+        "здорово, орёл",
+        "привет, красавец",
+        "здорово, богатырь"
+      ],
+      "literal_ru": "где ты, сокол",
+      "register": "разг., тепло-шутл.; приветствие с комплиментом; ряд взаимозаменяемых обращений: sokole, golube, lepi, momčino, junačino",
+      "note": "Увеличительные суффиксы -ino в сербском не уничижают, а возвеличивают: momčina — рослый видный парень, junačina — молодец из молодцов; а ženturina, наоборот, уничижительно. Логика суффиксов тут не прямая, её приходится запоминать.",
+      "keyword": "soko",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.694Z"
+    },
+    {
       "id": "msxmobcx1ybvm",
       "headword_latin": "Gde svi Turci, tu i mali Mujo",
       "headword_cyrillic": "Где сви Турци, ту и мали Мујо",
@@ -5524,6 +5663,33 @@
       "keyword": "jagode",
       "source": "frazeoteka",
       "created_at": "2026-08-24T08:33:35.128Z"
+    },
+    {
+      "id": "mtg8n99gylj5b",
+      "headword_latin": "Ići na živce",
+      "headword_cyrillic": "Ићи на живце",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "действовать на нервы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ide mi na živce ta muzika.",
+          "russian": "Эта музыка действует мне на нервы."
+        }
+      ],
+      "analogs_ru": [
+        "действовать на нервы",
+        "раздражать",
+        "бесить",
+        "сидеть в печёнках"
+      ],
+      "literal_ru": "",
+      "register": "разг., очень частотно; управление ići kome na živce + дательный",
+      "note": "Совпадает с русским и по образу, и по конструкции. См. также: POGODITI U ŽIVAC, SMARAČ.",
+      "keyword": "živci",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.692Z"
     },
     {
       "id": "mt3ae8hkgebat",
@@ -7237,6 +7403,32 @@
       "keyword": "kadija",
       "source": "frazeoteka",
       "created_at": "2026-08-17T20:01:31.766Z"
+    },
+    {
+      "id": "mtg8n99i34c37",
+      "headword_latin": "Kako je, direktore",
+      "headword_cyrillic": "Како је, директоре",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "здорово, шеф",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ooo, kako je, direktore!",
+          "russian": "О, здорово, шеф!"
+        }
+      ],
+      "analogs_ru": [
+        "здорово, шеф",
+        "привет, начальник",
+        "как оно, командир"
+      ],
+      "literal_ru": "как дела, директор",
+      "register": "разг., шутл.-дружеск.; обращение к приятелю, никаким директором не являющемуся",
+      "note": "Шутка в намеренном повышении в звании. Того же типа: šefe, majstore, doktore, profesore.",
+      "keyword": "direktor",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.694Z"
     },
     {
       "id": "mt7ljk5mv65in",
@@ -11140,6 +11332,33 @@
       "created_at": "2026-08-24T14:38:03.125Z"
     },
     {
+      "id": "mtg8n99k182ld",
+      "headword_latin": "Ne zna se ko pije, a ko plaća",
+      "headword_cyrillic": "Не зна се ко пије, а ко плаћа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "полный бардак; не поймёшь, кто за что отвечает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "U toj firmi se ne zna ko pije, a ko plaća.",
+          "russian": "В этой фирме полный бардак."
+        }
+      ],
+      "analogs_ru": [
+        "полный бардак",
+        "кто в лес, кто по дрова",
+        "не поймёшь, кто за что отвечает",
+        "анархия"
+      ],
+      "literal_ru": "непонятно, кто пьёт, а кто платит",
+      "register": "разг.; о хаосе и неразберихе, где размыты роли и ответственность; порядок слов свободен: ne zna se ni ko pije ni ko plaća",
+      "note": "По происхождению кафанская мудрость: за общим столом сбились со счёта, кто сколько выпил и чья очередь платить. В политическом употреблении оборот получает второе дно — «они пьют, а народ платит», и в этом виде постоянно всплывает в комментариях о власти.",
+      "keyword": "piti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.696Z"
+    },
+    {
       "id": "mt8vjzki3jkk5",
       "headword_latin": "Ne znam, nisam pametna",
       "headword_cyrillic": "Не знам, нисам паметна",
@@ -11515,6 +11734,33 @@
       "keyword": "kapa",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:54:35.318Z"
+    },
+    {
+      "id": "mtg8n99ie2ufw",
+      "headword_latin": "Nemam ni prebijene pare",
+      "headword_cyrillic": "Немам ни пребијене паре",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни гроша за душой",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nemam ni prebijene pare do plate.",
+          "russian": "До зарплаты ни гроша за душой."
+        }
+      ],
+      "analogs_ru": [
+        "ни гроша за душой",
+        "ни копейки",
+        "пусто в карманах",
+        "ни полушки"
+      ],
+      "literal_ru": "нет и разбитой пары",
+      "register": "разг.; ходовое и в оценке: ne vredi ni prebijene pare",
+      "note": "Prebijena para — стёртая, разбитая мелкая монета, то есть самая ничтожная. См. также: NE VREDI NI PIŠLJIVA BOBA.",
+      "keyword": "para",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.694Z"
     },
     {
       "id": "mt8v4y6xm2slk",
@@ -13317,6 +13563,33 @@
       "created_at": "2026-08-24T17:17:31.668Z"
     },
     {
+      "id": "mtg8n99gq1xvl",
+      "headword_latin": "Padati s nogu",
+      "headword_cyrillic": "Падати с ногу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "валиться с ног",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Padam s nogu, idem da legnem.",
+          "russian": "Валюсь с ног, пойду лягу."
+        }
+      ],
+      "analogs_ru": [
+        "валиться с ног",
+        "еле на ногах стоять",
+        "без сил",
+        "с ног падаю"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о крайней усталости; ходовое padam s nogu, pao je s nogu od umora",
+      "note": "Совпадает с русским. См. также: JEDVA GLEDAM OD UMORA, MRTAV UMORAN.",
+      "keyword": "noga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.692Z"
+    },
+    {
       "id": "mt7a760bfw5h6",
       "headword_latin": "Pala mi je roletna na oči",
       "headword_cyrillic": "Пала ми је ролетна на очи",
@@ -13371,6 +13644,34 @@
       "keyword": "palamuditi",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:16:08.822Z"
+    },
+    {
+      "id": "mtg8n99g5lmk5",
+      "headword_latin": "Pali!",
+      "headword_cyrillic": "Пали!",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вали!; проваливай!",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Pali odavde dok nisam pozvao policiju.",
+          "russian": "Проваливай, пока я полицию не вызвал."
+        }
+      ],
+      "analogs_ru": [
+        "вали",
+        "проваливай",
+        "давай отсюда",
+        "топай",
+        "дуй отсюда"
+      ],
+      "literal_ru": "жги! — от paliti «зажигать»",
+      "register": "разг.-сленг., резк.; императив; двузначно — и «уходи», и «двигай, поехали», по интонации и адресату",
+      "note": "Родственное upaliti «завестись (о машине)», upalilo je «сработало», pali odavde «убирайся отсюда».",
+      "keyword": "paliti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.692Z"
     },
     {
       "id": "mt38wx4jae3od",
@@ -14767,6 +15068,34 @@
       "created_at": "2026-08-21T18:05:17.696Z"
     },
     {
+      "id": "mtg8n99gqcs5u",
+      "headword_latin": "Preko glave mi je",
+      "headword_cyrillic": "Преко главе ми је",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "сыт по горло; достало",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Preko glave mi je svega.",
+          "russian": "Всё мне уже поперёк горла."
+        }
+      ],
+      "analogs_ru": [
+        "сыт по горло",
+        "достало",
+        "по горло",
+        "выше крыши",
+        "надоело до чёртиков"
+      ],
+      "literal_ru": "выше головы у меня",
+      "register": "разг.; управление preko glave mi je čega + родительный; синонимы puna mi je kapa, dosta mi je",
+      "note": "См. также: PUNA MI JE KAPA, IMATI POSLA PREKO GLAVE.",
+      "keyword": "glava",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.692Z"
+    },
+    {
       "id": "mt79s7r7i1s7z",
       "headword_latin": "Preko noći",
       "headword_cyrillic": "Преко ноћи",
@@ -15845,6 +16174,60 @@
       "created_at": "2026-08-24T17:13:58.920Z"
     },
     {
+      "id": "mtg8n99h0wjjf",
+      "headword_latin": "Riba",
+      "headword_cyrillic": "Риба",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "красотка; девушка",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vidi kakva riba.",
+          "russian": "Глянь, какая красотка."
+        }
+      ],
+      "analogs_ru": [
+        "красотка",
+        "тёлка",
+        "девушка",
+        "деваха"
+      ],
+      "literal_ru": "рыба",
+      "register": "разг.-сленг., фамильярн.; о привлекательной женщине; не грубое, но в лицо и при старших не говорят; уменьшительное ribica — ласковое обращение",
+      "note": "Русское «рыба» о женщине означает холодность, сербское — привлекательность; ложный друг, способный сильно исказить смысл. Оценочный ряд: riba (просто красивая), komad (эффектная, грубее), lepotica (нейтрально-книжное). Мужского аналога нет, ближайшее frajer «парень, франт».",
+      "keyword": "riba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.693Z"
+    },
+    {
+      "id": "mtg8n99flvulf",
+      "headword_latin": "Roknuti",
+      "headword_cyrillic": "Рокнути",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "прибить; влететь по полной",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako sazna, roknuće nas.",
+          "russian": "Если узнает, нам конец."
+        }
+      ],
+      "analogs_ru": [
+        "прибить",
+        "пришибить",
+        "нам конец",
+        "влетит по первое число"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг., экспресс.; прямое значение «ударить, вмазать», чаще в переносном — о наказании или разносе; ходовое в будущем: roknuće nas",
+      "note": "Широкий сленговый разброс: roknuo je ispit «сдал на отлично», roknuli su nas na utakmici «разгромили нас», roknuo je jednu «хлопнул рюмку».",
+      "keyword": "roknuti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.691Z"
+    },
+    {
       "id": "mt8v4y6vi4g5r",
       "headword_latin": "Rovito",
       "headword_cyrillic": "Ровито",
@@ -16747,6 +17130,33 @@
       "created_at": "2026-08-24T15:34:03.001Z"
     },
     {
+      "id": "mtg8n99htgs47",
+      "headword_latin": "Smarač",
+      "headword_cyrillic": "Смарач",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "зануда; душнила",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne zovi ga, on je smarač.",
+          "russian": "Не зови его, он зануда."
+        }
+      ],
+      "analogs_ru": [
+        "зануда",
+        "душнила",
+        "нудный тип",
+        "достал уже"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг., неодобр.; о человеке, который утомляет разговорами или придирками; женский род smaračica; глагол smarati koga: smaraš me «ты меня достал»",
+      "note": "Всё гнездо стоит держать вместе: smoriti «утомить», smoren sam «я вымотан», smara me «меня это выматывает», smor «скукота», smarač «зануда». Один корень покрывает и усталость, и скуку, и раздражение — русский разводит это на три слова. См. также: SMOREN SAM, DŽANGRIZALO.",
+      "keyword": "smarač",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.693Z"
+    },
+    {
       "id": "mt8vjzkizrisc",
       "headword_latin": "Smeje se kao lud na brašno",
       "headword_cyrillic": "Смеје се као луд на брашно",
@@ -16803,6 +17213,34 @@
       "keyword": "smilje",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:33:17.251Z"
+    },
+    {
+      "id": "mtg8n99hiopvg",
+      "headword_latin": "Smor",
+      "headword_cyrillic": "Смор",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "скукота; тоска",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kakav smor, hajde da idemo.",
+          "russian": "Какая скукота, пойдём отсюда."
+        }
+      ],
+      "analogs_ru": [
+        "скукота",
+        "тоска",
+        "занудство",
+        "душнина",
+        "тухляк"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг., молодёжн.; о событии, месте, человеке или состоянии; ходовое ovo je smor, kakav smor, u smoru sam",
+      "note": "См. также: SMOREN SAM, SMARAČ.",
+      "keyword": "smor",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.693Z"
     },
     {
       "id": "mt38wx4mj94z3",
@@ -18643,6 +19081,34 @@
       "created_at": "2026-08-24T18:55:45.611Z"
     },
     {
+      "id": "mtg8n99iax094",
+      "headword_latin": "Švorc",
+      "headword_cyrillic": "Шворц",
+      "transcription": "",
+      "pos": "pridev",
+      "definition_ru": "на мели; без денег",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne mogu da izađem, švorc sam.",
+          "russian": "Не могу пойти, я на мели."
+        }
+      ],
+      "analogs_ru": [
+        "на мели",
+        "без гроша",
+        "пустой",
+        "голяк",
+        "в нулях"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг.; неизменяемое: ja sam švorc, ostao sam švorc; усиленно potpuno sam švorc",
+      "note": "Из нем. schwarz «чёрный», через schwarz sein «быть без денег».",
+      "keyword": "švorc",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.694Z"
+    },
+    {
       "id": "mt79r18o4nrjd",
       "headword_latin": "Tako nešto",
       "headword_cyrillic": "Тако нешто",
@@ -18934,6 +19400,34 @@
       "keyword": "kod nas",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:56:26.727Z"
+    },
+    {
+      "id": "mtg8n99j401ct",
+      "headword_latin": "Top! Vrh! Strava!",
+      "headword_cyrillic": "Топ! Врх! Страва!",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "класс! отпад! супер!",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kako ti je bilo? — Top!",
+          "russian": "Как тебе? — Отпад!"
+        }
+      ],
+      "analogs_ru": [
+        "класс",
+        "отпад",
+        "супер",
+        "огонь",
+        "бомба"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг., одобр.; взаимозаменяемые восклицания высшей похвалы; ещё в том же ряду ekstra, žestoko, carski, kida",
+      "note": "Top — из английского, vrh «вершина», strava буквально «ужас» — как русское «жутко здорово». Strava — характерный случай перевёрнутой оценки; прилагательное stravičan, наоборот, осталось при исходном смысле: stravičan zločin «чудовищное преступление».",
+      "keyword": "strava",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:04:38.695Z"
     },
     {
       "id": "mt7hwo7aemqo3",
