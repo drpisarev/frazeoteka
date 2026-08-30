@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T20:49:27.058Z",
+  "updated": "2026-08-30T20:53:13.854Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -1132,6 +1132,34 @@
       "keyword": "mirođija",
       "source": "frazeoteka",
       "created_at": "2026-08-19T16:21:52.136Z"
+    },
+    {
+      "id": "mtgadqh1x4pyj",
+      "headword_latin": "Biti na konju",
+      "headword_cyrillic": "Бити на коњу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "быть на коне; добиться успеха",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ako položim još ovaj ispit, na konju sam.",
+          "russian": "Сдам ещё этот экзамен — и я на коне."
+        }
+      ],
+      "analogs_ru": [
+        "быть на коне",
+        "дело в шляпе",
+        "в дамках",
+        "на белом коне",
+        "всё схвачено"
+      ],
+      "literal_ru": "",
+      "register": "разг., одобр.; о положении победителя — когда всё удалось и дальше пойдёт легко; ходовое sad sam na konju, bićemo na konju",
+      "note": "Образ сословный: конь веками был роскошью, доступной только состоятельным, — на коне ехал тот, кто выше прочих и в прямом, и в переносном смысле. Русское «на коне» устроено идентично.",
+      "keyword": "konj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:53:13.669Z"
     },
     {
       "id": "mt701p3a6ue9e",
@@ -7361,6 +7389,33 @@
       "keyword": "drum",
       "source": "frazeoteka",
       "created_at": "2026-08-24T15:15:39.930Z"
+    },
+    {
+      "id": "mtgadqh29ocw4",
+      "headword_latin": "Jak kao konj",
+      "headword_cyrillic": "Јак као коњ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "силён как бык",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Sam je podigao motor, jak je kao konj.",
+          "russian": "Один поднял мотор — силён как бык."
+        }
+      ],
+      "analogs_ru": [
+        "силён как бык",
+        "здоров как бык",
+        "силища",
+        "крепкий как дуб"
+      ],
+      "literal_ru": "силён как конь",
+      "register": "разг., одобр.; о физической силе; синонимы jak kao bik, jak kao mečka, jak kao vo",
+      "note": "Русский для силы берёт быка, сербский чаще коня, хотя jak kao bik тоже употребимо. При переводе брать русскую пару, а не калькировать. См. также: ZDRAV KAO DREN, KRŠAN.",
+      "keyword": "konj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:53:13.670Z"
     },
     {
       "id": "mt39f3sw1t12f",
@@ -17222,6 +17277,33 @@
       "created_at": "2026-08-19T16:27:34.558Z"
     },
     {
+      "id": "mtgadqh192ovl",
+      "headword_latin": "Raditi kao konj",
+      "headword_cyrillic": "Радити као коњ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пахать как лошадь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Radim kao konj, a plata ista.",
+          "russian": "Пашу как лошадь, а зарплата та же."
+        }
+      ],
+      "analogs_ru": [
+        "пахать как лошадь",
+        "работать как вол",
+        "вкалывать",
+        "ломить за троих"
+      ],
+      "literal_ru": "",
+      "register": "разг.; о тяжёлом изнурительном труде, часто с оттенком «и всё без толку»; синонимы raditi kao vo, rasturati se od posla",
+      "note": "См. также: RASTURATI SE OD POSLA, TOVARNA MARVA.",
+      "keyword": "konj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:53:13.669Z"
+    },
+    {
       "id": "msxknp37fbcp4",
       "headword_latin": "Raditi levom nogom",
       "headword_cyrillic": "Радити левом ногом",
@@ -19144,6 +19226,34 @@
       "keyword": "koka",
       "source": "frazeoteka",
       "created_at": "2026-08-21T18:05:17.695Z"
+    },
+    {
+      "id": "mtgadqh294ur5",
+      "headword_latin": "Stari konj",
+      "headword_cyrillic": "Стари коњ",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "старый осёл; неотёсанный мужлан",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Koji si ti stari konj, nisi ni pozdravio.",
+          "russian": "Ну ты и старый осёл, даже не поздоровался."
+        }
+      ],
+      "analogs_ru": [
+        "старый осёл",
+        "старый дурень",
+        "мужлан",
+        "хам",
+        "неотёсанный чурбан"
+      ],
+      "literal_ru": "старый конь",
+      "register": "разг., бранное; о грубом, невежливом, дремучем человеке в летах; вариант matori konj",
+      "note": "Серьёзная ловушка: само слово konj, обращённое к человеку, — грубое оскорбление «дурак, хам, невежа». Отсюда konju jedan! и glup si ko konj. По-русски конь в адрес человека звучит скорее одобрительно («ну ты конь!» — о силаче), так что калькировать нельзя ни в ту, ни в другую сторону: сербское «конь» — это русский «осёл». Отдельно: ko konj в разговоре работает и как чистый усилитель без связи с животным — hladno je ko konj «холодрыга», pada sneg ko konj «снег валит вовсю»; в этой роли слово стоит выше превосходной степени, примерно как русское «жутко», «зверски».",
+      "keyword": "konj",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:53:13.670Z"
     },
     {
       "id": "mt7ljk5pupuo4",
