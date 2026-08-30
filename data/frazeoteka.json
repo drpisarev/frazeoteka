@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T20:58:35.848Z",
+  "updated": "2026-08-30T21:00:14.814Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -604,6 +604,33 @@
       "keyword": "kamenje",
       "source": "frazeoteka",
       "created_at": "2026-08-30T20:55:38.299Z"
+    },
+    {
+      "id": "mtgamr8be5utr",
+      "headword_latin": "Bacati prašinu u oči",
+      "headword_cyrillic": "Бацати прашину у очи",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "пускать пыль в глаза",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne bacaj mi prašinu u oči, znam kako stoje stvari.",
+          "russian": "Не пускай мне пыль в глаза, я знаю, как обстоят дела."
+        }
+      ],
+      "analogs_ru": [
+        "пускать пыль в глаза",
+        "втирать очки",
+        "морочить голову",
+        "напускать туману"
+      ],
+      "literal_ru": "бросать пыль в глаза",
+      "register": "нейтр.-публиц., неодобр.; управление bacati kome prašinu u oči + дательный; несов. bacati обычная форма (о постоянной манере), сов. baciti о единичной уловке",
+      "note": "Хорватский языковой портал толкует так: обманывать, представляя вещи лучше, чем они есть. Оборот латинского происхождения — pulverem oculis infundere, буквально то же самое; отсюда полное совпадение с русским и наличие соответствий по всей Европе. Образ, по-видимому, из боевой практики: пыль в глаза противнику, чтобы он ничего не разглядел. Сербские и хорватские пособия по фразеологии берут его как учебный пример непрозрачности — в одном ряду с Ahilova peta, prati ruke od čega, figa u džepu, Potemkinova sela. Гнездо вокруг oko одно из самых богатых: baciti oko na koga «положить глаз», čuvati kao oči u glavi «беречь как зеницу ока», zažmuriti na jedno oko «смотреть сквозь пальцы», oko za oko, zub za zub, prostreliti očima «испепелить взглядом», biti slep kod zdravih očiju «не видеть очевидного», imati oko za nešto «иметь глаз на что-л.». Разница с соседями по смыслу: туман продают (prodavati maglu — пустые посулы), лапшу вешают (farbati nekoga), пыль пускают, чтобы выглядеть лучше, чем есть. См. также: PRODAVATI MAGLU, FARBATI NEKOGA, BACITI OKO.",
+      "keyword": "prašina",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T21:00:14.555Z"
     },
     {
       "id": "mt7doil5h3jsf",
