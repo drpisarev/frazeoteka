@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T21:06:12.203Z",
+  "updated": "2026-08-30T21:08:19.341Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -1065,6 +1065,34 @@
       "created_at": "2026-08-17T18:43:14.070Z"
     },
     {
+      "id": "mtgax54h0su1q",
+      "headword_latin": "Bez glave i repa",
+      "headword_cyrillic": "Без главе и репа",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ни складу ни ладу; без начала и конца",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Napisao je izveštaj bez glave i repa.",
+          "russian": "Написал отчёт — ни складу ни ладу."
+        }
+      ],
+      "analogs_ru": [
+        "ни складу ни ладу",
+        "ни начала ни конца",
+        "несусветица",
+        "бессвязно",
+        "сумбур"
+      ],
+      "literal_ru": "без головы и хвоста",
+      "register": "нейтр.-разг., неодобр.; о рассказе, тексте, плане, лишённом внутренней логики и порядка; работает и как определение (priča bez glave i repa), и как обстоятельство (objasnio je sve bez glave i repa)",
+      "note": "Словари толкуют: «не составляет цельного и логического единства; сумбурно». Образ от животного или рыбы: если нет ни головы, ни хвоста, непонятно, где начало, где конец и что это вообще. Русская «ни складу ни ладу» строится на музыкальном ладе, но результат тот же. Оборот входит в стандартный школьный список фразеологизмов — его разбирают как образец именного фразеологизма наравне с glavom i bradom, kost i koža, mačji kašalj, bog i batina. Соседи по гнезду glava: kao muha bez glave «как угорелый, бестолково», nemati ni glave ni repa. См. также: ZBRDA-ZDOLA, ŠUPLJA PRIČA, JA DRUMOM, TI ŠUMOM.",
+      "keyword": "glava",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T21:08:19.121Z"
+    },
+    {
       "id": "msxl6oysz72l3",
       "headword_latin": "Bez muke nema nauke",
       "headword_cyrillic": "Без муке нема науке",
@@ -1089,6 +1117,62 @@
       "keyword": "muka",
       "source": "frazeoteka",
       "created_at": "2026-08-17T18:48:03.556Z"
+    },
+    {
+      "id": "mtgax54h559px",
+      "headword_latin": "Bez pardona",
+      "headword_cyrillic": "Без пардона",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "без церемоний; без всякой жалости",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Otpustili su ga bez pardona, istog dana.",
+          "russian": "Уволили его без разговоров, в тот же день."
+        }
+      ],
+      "analogs_ru": [
+        "без церемоний",
+        "без разговоров",
+        "без сантиментов",
+        "невзирая на лица",
+        "жёстко и сразу"
+      ],
+      "literal_ru": "без прощения, без снисхождения",
+      "register": "разг.-публиц.; о действии решительном и не оставляющем места оправданиям: уволил, отказал, раскритиковал; ходовое и как самостоятельная оценка: on je bez pardona",
+      "note": "Из франц. pardon через немецкий. Русское «пардон» осталось шутливым извинением, сербское ушло в наречный оборот со значением беспощадности — и это единственное живое употребление слова, так что переводить через «пардон» нельзя. Соседние обороты: bez milosti «без пощады», книжнее и жёстче; bez ustezanja «без стеснения, не колеблясь» — мягче. См. также: NI PET NI ŠEST, CRKNI-PUKNI.",
+      "keyword": "pardon",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T21:08:19.121Z"
+    },
+    {
+      "id": "mtgax54eanwxd",
+      "headword_latin": "Bez po muke",
+      "headword_cyrillic": "Без по муке",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "играючи; без малейшего труда",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Rešio je zadatak bez po muke.",
+          "russian": "Он решил задачу играючи."
+        }
+      ],
+      "analogs_ru": [
+        "играючи",
+        "без труда",
+        "легко и просто",
+        "одной левой",
+        "не напрягаясь"
+      ],
+      "literal_ru": "без пол-муки — даже без половины усилия",
+      "register": "нейтр.-разг., одобр.; о деле, давшемся легко; равнозначный вариант ni po muke",
+      "note": "Конструкция для русского уха странная: po здесь не предлог, а сокращённое pola «половина», как в po sata «полчаса», po kile «полкило». Слово muka держит широкий разброс: «тяжёлый труд» (bez muke nema nauke), «страдание» (Kristove muke, biti na muci), «нажитое трудом» (ova kuća, to je moja muka) и «тошнота» — muka mi je значит «меня мутит», а вовсе не «мне мучительно»; это и есть главная ловушка. См. также: MAČJI KAŠALJ, PROSTO KO PASULJ, BEZ MUKE NEMA NAUKE.",
+      "keyword": "muka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T21:08:19.118Z"
     },
     {
       "id": "msxlnru84k383",
