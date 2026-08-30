@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T20:05:17.477Z",
+  "updated": "2026-08-30T20:29:20.860Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -685,6 +685,33 @@
       "keyword": "batina",
       "source": "frazeoteka",
       "created_at": "2026-08-17T19:01:20.432Z"
+    },
+    {
+      "id": "mtg9j0muzqml8",
+      "headword_latin": "Bečiti se",
+      "headword_cyrillic": "Бечити се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "таращиться; пялиться",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Zašto se bečiš, nikad nisi video?",
+          "russian": "Чего вытаращился, никогда не видел?"
+        }
+      ],
+      "analogs_ru": [
+        "таращиться",
+        "пялиться",
+        "вылупиться",
+        "глазеть"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; о вытаращенных от удивления или наглости глазах; ходовое в вопросе šta se bečiš?; невозвратное bečiti oči «таращить глаза»",
+      "note": "См. также: BLENUTI KAO TELE U ŠARENA VRATA, JE L' IGRA BELA MEČKA.",
+      "keyword": "bečiti se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.502Z"
     },
     {
       "id": "mt3ae8hngnqux",
@@ -3794,6 +3821,33 @@
       "created_at": "2026-08-24T13:22:48.136Z"
     },
     {
+      "id": "mtg9j0l0w8ma1",
+      "headword_latin": "Do jaja",
+      "headword_cyrillic": "До јаја",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "офигенно; охренительно",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Koncert je bio do jaja.",
+          "russian": "Концерт был просто офигенный."
+        }
+      ],
+      "analogs_ru": [
+        "офигенно",
+        "круто до невозможности",
+        "отпад",
+        "зашибись"
+      ],
+      "literal_ru": "до яиц",
+      "register": "вульг.-разг., одобр.; высшая похвала в молодёжной речи; приличные замены top, vrh, ekstra, strava",
+      "note": "См. также: TOP! VRH! STRAVA!",
+      "keyword": "jaja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.436Z"
+    },
+    {
       "id": "msxmobcvchf62",
       "headword_latin": "Dobar glas daleko se čuje, a rđav još dalje",
       "headword_cyrillic": "Добар глас далеко се чује, а рђав још даље",
@@ -4644,6 +4698,34 @@
       "created_at": "2026-08-25T16:16:08.821Z"
     },
     {
+      "id": "mtg9j0nmdke5z",
+      "headword_latin": "Džidža-bidže",
+      "headword_cyrillic": "Џиџа-биџе",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "финтифлюшки; безделушки",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Kupila je gomilu džidža-bidža za stan.",
+          "russian": "Накупила кучу финтифлюшек для квартиры."
+        }
+      ],
+      "analogs_ru": [
+        "финтифлюшки",
+        "безделушки",
+        "побрякушки",
+        "всякая мелочёвка",
+        "бирюльки"
+      ],
+      "literal_ru": "",
+      "register": "разг., шутл.-пренебр.; о мелких украшениях, сувенирах, разном декоративном хламе; единственное džidža живёт и само: neka džidža",
+      "note": "Удвоение с меной согласного — та же модель, что в šuć-muć, trte-mrte, dar-mar.",
+      "keyword": "džidža",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.530Z"
+    },
+    {
       "id": "mt39f3sue6ann",
       "headword_latin": "Đavo bi ga znao",
       "headword_cyrillic": "Ђаво би га знао",
@@ -4839,6 +4921,33 @@
       "keyword": "farbati",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.248Z"
+    },
+    {
+      "id": "mtg9j0iwix0df",
+      "headword_latin": "Fiks ideja",
+      "headword_cyrillic": "Фикс идеја",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "идея фикс; навязчивая идея",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Selidba u inostranstvo mu je postala fiks ideja.",
+          "russian": "Переезд за границу стал у него идеей фикс."
+        }
+      ],
+      "analogs_ru": [
+        "идея фикс",
+        "навязчивая идея",
+        "пунктик",
+        "заклинило на чём-л."
+      ],
+      "literal_ru": "",
+      "register": "нейтр.-разг.; ходовое to mu je postala fiks ideja",
+      "note": "Из лат. idée fixe через немецкий. См. также: IMATI TRIP DA.",
+      "keyword": "ideja",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.360Z"
     },
     {
       "id": "mt0b9rqw54iki",
@@ -5613,6 +5722,34 @@
       "created_at": "2026-08-17T19:29:45.346Z"
     },
     {
+      "id": "mtg9j0ioqfwkh",
+      "headword_latin": "I te kako",
+      "headword_cyrillic": "И те како",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ещё как; ещё бы",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Neću da čistim kuhinju. — I te kako hoćeš.",
+          "russian": "Не буду убирать кухню. — Ещё как будешь."
+        }
+      ],
+      "analogs_ru": [
+        "ещё как",
+        "ещё бы",
+        "да ещё как",
+        "очень даже",
+        "а как же"
+      ],
+      "literal_ru": "",
+      "register": "разг., очень частотно; усиленное подтверждение, часто в возражение отрицанию собеседника; отдельная реплика или усилитель при глаголе: i te kako znam",
+      "note": "",
+      "keyword": "kako",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.352Z"
+    },
+    {
       "id": "msxmobcy7x8i7",
       "headword_latin": "I vuk sit i sve ovce na broju",
       "headword_cyrillic": "И вук сит и све овце на броју",
@@ -5932,6 +6069,33 @@
       "keyword": "razni",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.247Z"
+    },
+    {
+      "id": "mtg9j0k0nsaf1",
+      "headword_latin": "Ima se, može se",
+      "headword_cyrillic": "Има се, може се",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "деньги есть — можем себе позволить",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Uzeo je najskuplju sobu — ima se, može se.",
+          "russian": "Взял самый дорогой номер: деньги есть — можно."
+        }
+      ],
+      "analogs_ru": [
+        "денег хватает",
+        "могу себе позволить",
+        "раз есть, чего жаться",
+        "гулять так гулять"
+      ],
+      "literal_ru": "имеется — можется",
+      "register": "разг., чаще с самоиронией или с насмешкой над чужой показухой; безличные возвратные формы, оба глагола без подлежащего",
+      "note": "",
+      "keyword": "imati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.402Z"
     },
     {
       "id": "mt391c51c09sq",
@@ -7405,6 +7569,33 @@
       "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
+      "id": "mtg9j0inxti6v",
+      "headword_latin": "Kakav si ti Indijanac",
+      "headword_cyrillic": "Какав си ти Индијанац",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ну ты и дикарь",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne znaš da se to plaća karticom? Kakav si ti Indijanac.",
+          "russian": "Не знаешь, что это картой платят? Ну ты и дикарь."
+        }
+      ],
+      "analogs_ru": [
+        "ну ты и дикарь",
+        "ты как из леса вышел",
+        "ну ты и тёмный",
+        "деревня"
+      ],
+      "literal_ru": "какой же ты индеец",
+      "register": "разг., насмешл.-фамильярн.; о неотёсанности или непонятливости, обычно необидно, между своими",
+      "note": "Indijanac — индеец (Америка); индиец будет Indijac.",
+      "keyword": "Indijanac",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.352Z"
+    },
+    {
       "id": "mtg8n99i34c37",
       "headword_latin": "Kako je, direktore",
       "headword_cyrillic": "Како је, директоре",
@@ -8592,6 +8783,34 @@
       "created_at": "2026-08-17T20:01:31.766Z"
     },
     {
+      "id": "mtg9j0nk5bozp",
+      "headword_latin": "Kokoška",
+      "headword_cyrillic": "Кокошка",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "1. курица (птица); 2. сплетница, пустоголовая женщина",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Skupile se kokoške, pa preturaju po tuđim životima.",
+          "russian": "Собрались клуши и перемывают чужие косточки."
+        }
+      ],
+      "analogs_ru": [
+        "курица",
+        "клуша",
+        "сплетница",
+        "трещотка",
+        "дура набитая"
+      ],
+      "literal_ru": "",
+      "register": "знач. 1 нейтр.; знач. 2 разг., резко неодобр., только о женщине — о болтливой, суетливой или недалёкой",
+      "note": "Родственное kokošinjac «курятник», переносно «галдёж, бедлам». Совпадает с русской «курицей» и по образу, и по резкости. Мужского соответствия нет: болтливого мужчину назовут baba — и это будет ещё обиднее.",
+      "keyword": "kokoška",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.528Z"
+    },
+    {
       "id": "mt7ec5q017izu",
       "headword_latin": "Koliko para, toliko muzike",
       "headword_cyrillic": "Колико пара, толико музике",
@@ -9372,6 +9591,33 @@
       "created_at": "2026-08-25T16:20:13.693Z"
     },
     {
+      "id": "mtg9j0l0mszjj",
+      "headword_latin": "Ljubiti kome stope",
+      "headword_cyrillic": "Љубити коме стопе",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "ноги готов целовать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Učinio mi je veliku uslugu, ljubiću mu stope zbog toga.",
+          "russian": "Он мне так помог, я ему ноги готов целовать."
+        }
+      ],
+      "analogs_ru": [
+        "ноги готов целовать",
+        "в ножки поклониться",
+        "по гроб жизни благодарен",
+        "молиться на кого-л."
+      ],
+      "literal_ru": "целовать кому-л. ступни",
+      "register": "разг., экспресс.; о безмерной благодарности; в другом контексте о раболепии перед сильным, и тогда резко неодобрительно",
+      "note": "",
+      "keyword": "stopa",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.436Z"
+    },
+    {
       "id": "msxnt6d3rqexs",
       "headword_latin": "Ljudi se vezuju za reč, a volovi za rogove",
       "headword_cyrillic": "Људи се везују за реч, а волови за рогове",
@@ -9532,6 +9778,25 @@
       "keyword": "klupa",
       "source": "frazeoteka",
       "created_at": "2026-08-24T17:22:37.269Z"
+    },
+    {
+      "id": "mtg9j0io1ghwz",
+      "headword_latin": "Majka Mara",
+      "headword_cyrillic": "Мајка Мара",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "вот это да; блеск — значение не установлено",
+      "paradigm": null,
+      "examples": [],
+      "analogs_ru": [
+        "не подтверждено"
+      ],
+      "literal_ru": "",
+      "register": "разг., восклиц.; редк./не подтверждено надёжно — как устойчивое восклицание в источниках не найдено",
+      "note": "Имя Мара (от Марии) в сербском обиходе — образцовое женское имя простолюдинки, отсюда Mara в присказках. Проверенные восклицания того же назначения: top, vrh, strava, ekstra, do jaja, majke mi. См. также: TOP! VRH! STRAVA!",
+      "keyword": "Mara",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.352Z"
     },
     {
       "id": "msxlgokc2gisz",
@@ -12969,6 +13234,34 @@
       "keyword": "odrediti",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:44.494Z"
+    },
+    {
+      "id": "mtg9j0io5ohia",
+      "headword_latin": "Ogrebati se",
+      "headword_cyrillic": "Огребати се",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "поживиться; урвать на халяву",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On samo zna da se ogrebe, ništa sam ne uradi.",
+          "russian": "Он только и умеет поживиться, сам ничего не делает."
+        }
+      ],
+      "analogs_ru": [
+        "поживиться",
+        "урвать",
+        "примазаться",
+        "нагреть руки",
+        "отхватить кусок"
+      ],
+      "literal_ru": "оцарапаться",
+      "register": "разг., неодобр.; управление ogrebati se o koga/šta «поживиться за чей-л. счёт»; о том, кто пристраивается к чужому успеху или к казённому добру",
+      "note": "См. также: POKUPITI KAJMAK, DEBELA HLADOVINA.",
+      "keyword": "ogrebati se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.352Z"
     },
     {
       "id": "mt3a4b4if9v38",
@@ -16859,6 +17152,33 @@
       "created_at": "2026-08-17T21:20:44.620Z"
     },
     {
+      "id": "mtg9j0imegu98",
+      "headword_latin": "Skini mi se s kurca",
+      "headword_cyrillic": "Скини ми се с курца",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "отвяжись; отвали",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Skini mi se s kurca, ne mogu više.",
+          "russian": "Отвяжись от меня, я больше не могу."
+        }
+      ],
+      "analogs_ru": [
+        "отвяжись",
+        "отвали",
+        "отстань от меня",
+        "иди ты"
+      ],
+      "literal_ru": "",
+      "register": "вульг., резк.; сильный посыл, не для приличного разговора",
+      "note": "Смягчённые ступени того же смысла: skini mi se s grbače «слезь с моего горба», pusti me na miru, ostavi me.",
+      "keyword": "skinuti se",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.350Z"
+    },
+    {
       "id": "mt0b9rqtky9g7",
       "headword_latin": "Sklopiti / zaklopiti / preklopiti",
       "headword_cyrillic": "Склопити / заклопити / преклопити",
@@ -18605,6 +18925,25 @@
       "created_at": "2026-08-21T18:24:53.586Z"
     },
     {
+      "id": "mtg9j0inhekrf",
+      "headword_latin": "Šiškiriški, ko to tamo piški",
+      "headword_cyrillic": "Шишкиришки, ко то тамо пишки",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "считалка-дразнилка; значение не установлено",
+      "paradigm": null,
+      "examples": [],
+      "analogs_ru": [
+        "не подтверждено"
+      ],
+      "literal_ru": "шишкиришки, кто это там писает",
+      "register": "разг., детск., шутл.; редк./не подтверждено надёжно — как устойчивая формула в источниках не найдено",
+      "note": "По устройству — рифмованная присказка на -iški, вроде русских «Эники-беники». Šiškiriški значения не имеет, служит только рифмой к piški «писает». Требуется живой контекст: кто и в какой обстановке так говорит.",
+      "keyword": "piškiti",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.351Z"
+    },
+    {
       "id": "mt0b9rqt12j0p",
       "headword_latin": "Špansko selo",
       "headword_cyrillic": "Шпанско село",
@@ -19081,6 +19420,34 @@
       "created_at": "2026-08-24T18:55:45.611Z"
     },
     {
+      "id": "mtg9j0ipu1vfy",
+      "headword_latin": "Šut karta",
+      "headword_cyrillic": "Шут карта",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "от ворот поворот",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Dobio je šut kartu posle mesec dana.",
+          "russian": "Через месяц ему дали от ворот поворот."
+        }
+      ],
+      "analogs_ru": [
+        "от ворот поворот",
+        "дать отставку",
+        "отшить",
+        "выставить за дверь",
+        "красная карточка"
+      ],
+      "literal_ru": "",
+      "register": "разг.; dobiti šut kartu «получить от ворот поворот», dati kome šut kartu «отшить, уволить, бросить»; ходовое и о работе, и о личных отношениях",
+      "note": "Из футбола плюс англ. shoot.",
+      "keyword": "karta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.353Z"
+    },
+    {
       "id": "mtg8n99iax094",
       "headword_latin": "Švorc",
       "headword_cyrillic": "Шворц",
@@ -19267,6 +19634,34 @@
       "keyword": "rogat",
       "source": "frazeoteka",
       "created_at": "2026-08-17T22:56:52.683Z"
+    },
+    {
+      "id": "mtg9j0iy22arq",
+      "headword_latin": "Tetka iz Crvenke",
+      "headword_cyrillic": "Тетка из Црвенке",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "тётя приехала; красные дни (о менструации)",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne večeras, stigla mi je tetka iz Crvenke.",
+          "russian": "Не сегодня, тётя приехала."
+        }
+      ],
+      "analogs_ru": [
+        "тётя приехала",
+        "красные дни",
+        "эти дни",
+        "женские дела",
+        "гости из Краснодара"
+      ],
+      "literal_ru": "тётушка из Црвенки",
+      "register": "разг., эвфемистич., старомодн.; ходовое stigla mi je tetka iz Crvenke, došla mi je tetka",
+      "note": "Црвенка — городок в Воеводине, и вся соль в корне crven «красный». Вариант — tetka u crvenom mercedesu. Русское «гости из Краснодара» устроено точно так же. Сербская пресса и феминистские издания регулярно приводят оборот как пример табуирования темы — рядом с meca, menzis, oni dani, ženski problemi — и отмечают, что молодые женщины от него уже отказываются.",
+      "keyword": "tetka",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.362Z"
     },
     {
       "id": "msxu2ocr5l4bq",
@@ -19828,6 +20223,33 @@
       "keyword": "oko",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:54:35.316Z"
+    },
+    {
+      "id": "mtg9j0l13enn3",
+      "headword_latin": "U dupe na vašar",
+      "headword_cyrillic": "У дупе на вашар",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "не твоё дело; на кудыкину гору",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Gde ćeš? — U dupe na vašar.",
+          "russian": "Ты куда? — На кудыкину гору."
+        }
+      ],
+      "analogs_ru": [
+        "не твоё дело",
+        "куда надо, туда и иду",
+        "на кудыкину гору",
+        "тебе-то что"
+      ],
+      "literal_ru": "в задницу на ярмарку",
+      "register": "груб.-разг., шутл.; отповедь на вопрос «куда идёшь?»",
+      "note": "Ответ намеренно абсурдный, как русское «на кудыкину гору». Vašar — ярмарка.",
+      "keyword": "vašar",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.437Z"
     },
     {
       "id": "mt7ec5q16xpfz",
@@ -20894,6 +21316,32 @@
       "created_at": "2026-08-17T22:56:52.685Z"
     },
     {
+      "id": "mtg9j0lmacbvi",
+      "headword_latin": "Vidi ribu",
+      "headword_cyrillic": "Види рибу",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "глянь какая",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vidi ribu, ono za šankom.",
+          "russian": "Глянь какая, вон у барной стойки."
+        }
+      ],
+      "analogs_ru": [
+        "глянь какая",
+        "смотри какая красотка",
+        "зацени"
+      ],
+      "literal_ru": "",
+      "register": "разг.-сленг., фамильярн.; о привлекательной женщине; о мужчине vidi mačka, vidi frajera; форма macan — «котяра, видный мужик»",
+      "note": "См. также: RIBA.",
+      "keyword": "riba",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.458Z"
+    },
+    {
       "id": "mt7doil56o19m",
       "headword_latin": "Viša sila",
       "headword_cyrillic": "Виша сила",
@@ -21901,6 +22349,34 @@
       "keyword": "zub",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:20:13.690Z"
+    },
+    {
+      "id": "mtg9j0mylkc78",
+      "headword_latin": "Zvocati",
+      "headword_cyrillic": "Звоцати",
+      "transcription": "",
+      "pos": "glagol",
+      "definition_ru": "пилить; зудеть",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Nisam ti rekao jer sam znao da ćeš zvocati.",
+          "russian": "Я тебе не сказал, потому что знал, что будешь пилить."
+        }
+      ],
+      "analogs_ru": [
+        "пилить",
+        "зудеть",
+        "нудить",
+        "долбить одно и то же",
+        "грызть"
+      ],
+      "literal_ru": "",
+      "register": "разг., неодобр.; о навязчивых упрёках и понуканиях, чаще внутри семьи; управление zvocati kome; существительное zvocanje",
+      "note": "Исходно zvocati — «клацать зубами, грызть»; отсюда образ: упрёки как непрерывное покусывание. См. также: KVOCATI, SOLITI PAMET, DŽANGRIZALO.",
+      "keyword": "zvocati",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T20:29:20.506Z"
     },
     {
       "id": "mt7cc585d7yrj",
