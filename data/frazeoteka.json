@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-30T21:01:52.347Z",
+  "updated": "2026-08-30T21:03:25.235Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -713,6 +713,34 @@
       "keyword": "koplje",
       "source": "frazeoteka",
       "created_at": "2026-08-30T20:56:46.511Z"
+    },
+    {
+      "id": "mtgaqu6y2bjj0",
+      "headword_latin": "Baciti ljagu na nekoga",
+      "headword_cyrillic": "Бацити љагу на некога",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "бросить тень на кого-л.; опорочить, запятнать",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Taj skandal je bacio ljagu na celu instituciju.",
+          "russian": "Этот скандал бросил тень на всё учреждение."
+        }
+      ],
+      "analogs_ru": [
+        "бросить тень на кого-л.",
+        "опорочить",
+        "очернить",
+        "запятнать чью-л. репутацию",
+        "обесславить"
+      ],
+      "literal_ru": "бросить пятно на кого-л.",
+      "register": "нейтр.-книжн.-публиц.; управление baciti ljagu na koga, na šta + аккузатив; несов. bacati о длящейся кампании, сов. baciti о конкретном поступке или заявлении; ходовое в защитной формуле nekolicina je bacila ljagu na celu struku",
+      "note": "Словари толкуют оборот как «опозорить, очернить, замарать» и «способствовать чьей-л. дурной славе». Парный оборот, который стоит выучить сразу вместе с этим, — sprati ljagu (реже skinuti ljagu) «смыть позор, обелить себя»: godinama je pokušavao da spere ljagu sa svog imena; одно пятно ставят, другое смывают. Ljaga — «позорное пятно, бесчестье», устаревшее прямое значение просто «пятно, грязь»; хорватский языковой портал возводит слово к русскому «ляга» — лужа, болотце, так что первоначальный образ — грязь, в которую вымазали. Русское «бросить тень» строится на затемнении, сербское на грязи, и потому сербское жёстче: ближе «очернить», «запятнать»; для мягкого «бросить тень» серб скажет baciti senku na. Гнездо baciti + отвлечённое существительное: baciti krivicu na koga «свалить вину», baciti obraz pod noge «опозориться», baciti rukavicu «бросить перчатку», baciti sidro «осесть», baciti u staro gvožđe «списать в утиль». См. также: BACATI DRVLJE I KAMENJE; VODA SVE OPERE OSIM CRNA OBRAZA; OZLOGLAŠEN.",
+      "keyword": "ljaga",
+      "source": "frazeoteka",
+      "created_at": "2026-08-30T21:03:25.018Z"
     },
     {
       "id": "mtgakmu0cijh5",
