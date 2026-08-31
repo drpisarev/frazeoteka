@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-31T13:32:13.355Z",
+  "updated": "2026-08-31T13:33:47.566Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -21262,6 +21262,33 @@
       "keyword": "kanta",
       "source": "frazeoteka",
       "created_at": "2026-08-31T13:32:13.292Z"
+    },
+    {
+      "id": "mtha4gv2h2pvg",
+      "headword_latin": "Tata-mata",
+      "headword_cyrillic": "Тата-мата",
+      "transcription": "",
+      "pos": "izraz",
+      "definition_ru": "главный; шишка; тот, кто всё решает",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "On je u toj firmi tata-mata, bez njega se ništa ne radi.",
+          "russian": "Он в этой фирме главный, без него ничего не делается."
+        }
+      ],
+      "analogs_ru": [
+        "главный",
+        "шишка",
+        "большой человек",
+        "он тут царь и бог"
+      ],
+      "literal_ru": "",
+      "register": "разг., чаще ирон.; о том, кто распоряжается или мнит себя распорядителем; ходовые формы on je tu tata-mata, ja sam ti tata-mata; известно и в словенском, куда пришло с юга",
+      "note": "Словенский словарь разговорной речи выводит оборот из сербского bog i batina — «тот, кто приказывает и наказывает», — называя tata-mata его более поздней разновидностью. К шахматному мату слово mata отношения не имеет, хотя словарь сленга обыгрывает и это: «отличный шахматист, ставит мат в два хода». В обиходе живёт с рифмованными продолжениями, которые составляют половину удовольствия: ja sam ti tata-mata iz antikvarijata, tata-mata kućnih aparata; модель та же, что в šta se radi na estradi. Заведено по записям papa kanta и tata kanta, сочетания которых в источниках не подтверждаются. См. также: BOG I BATINA, VEDRI I OBLAČI, DRŽATI KONCE U SVOJIM RUKAMA.",
+      "keyword": "tata-mata",
+      "source": "frazeoteka",
+      "created_at": "2026-08-31T13:33:47.487Z"
     },
     {
       "id": "mt7cc588sxeff",
