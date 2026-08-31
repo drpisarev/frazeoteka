@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-31T13:33:47.566Z",
+  "updated": "2026-08-31T13:34:11.896Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -8520,6 +8520,35 @@
       "created_at": "2026-08-30T20:04:38.694Z"
     },
     {
+      "id": "mtha4zn3opfu5",
+      "headword_latin": "Kanta",
+      "headword_cyrillic": "Канта",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "1. ведро, бак; 2. драндулет, развалюха",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Vozi neku kantu od pre trideset godina.",
+          "russian": "Ездит на каком-то драндулете тридцатилетней давности."
+        }
+      ],
+      "analogs_ru": [
+        "ведро",
+        "бак",
+        "мусорный бак",
+        "драндулет",
+        "корыто",
+        "ведро с болтами"
+      ],
+      "literal_ru": "",
+      "register": "знач. 1 нейтр.: kanta za smeće «мусорный бак», kanta vode «ведро воды»; знач. 2 разг.-сленг., пренебр., о старой машине, в компьютерном жаргоне восьмидесятых — о системном блоке; ходовое stara kanta, kanta na točkovima",
+      "note": "Нейтральное сербское слово для ведра — и kanta, и kofa; kabao книжнее и живёт в основном в обороте lije kao iz kabla. Заведено по записи «papa kanta», сочетание которой в источниках не подтверждается.",
+      "keyword": "kanta",
+      "source": "frazeoteka",
+      "created_at": "2026-08-31T13:34:11.823Z"
+    },
+    {
       "id": "mt7ljk5mv65in",
       "headword_latin": "Kao bez duše",
       "headword_cyrillic": "Као без душе",
@@ -15322,6 +15351,34 @@
       "keyword": "popustiti",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:23:47.925Z"
+    },
+    {
+      "id": "mtha4zmzn9mbj",
+      "headword_latin": "Papak",
+      "headword_cyrillic": "Папак",
+      "transcription": "",
+      "pos": "imenica",
+      "definition_ru": "деревенщина; хам, невоспитанный человек",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Parkirao je na trotoaru, papak jedan.",
+          "russian": "Припарковался на тротуаре, хам."
+        }
+      ],
+      "analogs_ru": [
+        "деревенщина",
+        "быдло",
+        "хам",
+        "жлоб",
+        "лох"
+      ],
+      "literal_ru": "копыто (парнокопытного)",
+      "register": "разг.-сленг., резко неодобр.; женский род papkuša, собирательное papčina, свойство papkarluk",
+      "note": "Значение заметно расходится по регионам. В Сараеве, где слово пошло в ход с начала восьмидесятых, papak — прежде всего невоспитанный, бесцеремонный, не считающийся с другими: паркуется на газоне, шумит, мусорит, не платит за общее. В Хорватии то же слово значит скорее «лох, растяпа, недотёпа» — оценка не поведения, а состоятельности. Сегодня нередко означает попросту «всякий, кто не из нашей компании».",
+      "keyword": "papak",
+      "source": "frazeoteka",
+      "created_at": "2026-08-31T13:34:11.820Z"
     },
     {
       "id": "mt3ae8hmmmgnt",
