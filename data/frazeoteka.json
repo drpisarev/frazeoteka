@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated": "2026-08-31T13:34:11.896Z",
+  "updated": "2026-08-31T13:48:40.834Z",
   "entries": [
     {
       "id": "mt7ljk5nmho18",
@@ -8520,35 +8520,6 @@
       "created_at": "2026-08-30T20:04:38.694Z"
     },
     {
-      "id": "mtha4zn3opfu5",
-      "headword_latin": "Kanta",
-      "headword_cyrillic": "Канта",
-      "transcription": "",
-      "pos": "imenica",
-      "definition_ru": "1. ведро, бак; 2. драндулет, развалюха",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Vozi neku kantu od pre trideset godina.",
-          "russian": "Ездит на каком-то драндулете тридцатилетней давности."
-        }
-      ],
-      "analogs_ru": [
-        "ведро",
-        "бак",
-        "мусорный бак",
-        "драндулет",
-        "корыто",
-        "ведро с болтами"
-      ],
-      "literal_ru": "",
-      "register": "знач. 1 нейтр.: kanta za smeće «мусорный бак», kanta vode «ведро воды»; знач. 2 разг.-сленг., пренебр., о старой машине, в компьютерном жаргоне восьмидесятых — о системном блоке; ходовое stara kanta, kanta na točkovima",
-      "note": "Нейтральное сербское слово для ведра — и kanta, и kofa; kabao книжнее и живёт в основном в обороте lije kao iz kabla. Заведено по записи «papa kanta», сочетание которой в источниках не подтверждается.",
-      "keyword": "kanta",
-      "source": "frazeoteka",
-      "created_at": "2026-08-31T13:34:11.823Z"
-    },
-    {
       "id": "mt7ljk5mv65in",
       "headword_latin": "Kao bez duše",
       "headword_cyrillic": "Као без душе",
@@ -9521,6 +9492,32 @@
       "keyword": "razumeti",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:23:47.923Z"
+    },
+    {
+      "id": "mthanlt039qdi",
+      "headword_latin": "Ko s đavolom tikve sadi, o glavu mu se lupaju",
+      "headword_cyrillic": "Ко с ђаволом тикве сади, о главу му се лупају",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "свяжешься с чёртом — сам поплатишься; опасные союзы оборачиваются против тебя",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ko s đavolom tikve sadi, o glavu mu se lupaju.",
+          "russian": "Кто связывается с чёртом, тот сам за это расплачивается."
+        },
+        {
+          "serbian_latin": "Ne znam da li je dobro ili loše što sam je video posle razgovora sa ministrom, jer bih ga inače upitao šta misli o srpskoj narodnoj izreci: „Ko s đavolom tikve sadi, o glavu mu se lupaju“.",
+          "russian": "Я бы иначе спросил министра, что он думает о сербской поговорке: кто с чёртом связывается, сам потом расплачивается."
+        }
+      ],
+      "analogs_ru": [],
+      "literal_ru": "кто с дьяволом тыквы сажает, тому они об голову и бьются",
+      "register": "poslovica, neodobr.; o saradnji s opasnim, nepoštenim ili moralno sumnjivim partnerom",
+      "note": "Варианты глагола во второй части колеблются: lupaju, obijaju, olupaju, но смысл остаётся тем же. Здесь важно не «плохое влияние компании» само по себе, а последствие сознательного союза с кем-то опасным: человек рассчитывал использовать зло в своих интересах, а оно ударило по нему самому.",
+      "keyword": "đavo; tikve",
+      "source": "frazeoteka",
+      "created_at": "2026-08-31T13:48:40.356Z"
     },
     {
       "id": "msxl6oysdneor",
@@ -12396,6 +12393,32 @@
       "created_at": "2026-08-24T18:59:35.603Z"
     },
     {
+      "id": "mthanlqzt7617",
+      "headword_latin": "Ne lipši, magarče, do zelene trave",
+      "headword_cyrillic": "Не липши, магарче, до зелене траве",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "жди до морковкина заговенья; обещанного не дождёшься; когда рак на горе свистнет",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ovako, ne lipši magarče do zelene trave.",
+          "russian": "А так — жди до морковкина заговенья."
+        },
+        {
+          "serbian_latin": "Ne lipši magarče do zelene trave.",
+          "russian": "Не надейся, что обещанное скоро исполнится."
+        }
+      ],
+      "analogs_ru": [],
+      "literal_ru": "не подыхай, осёл, до зелёной травы",
+      "register": "narodno, iron., neodobr.; o obećanju čije se ostvarenje beskrajno odlaže ili je malo verovatno",
+      "note": "Lipši — императив от lipsati, грубовато-разговорного «подыхать» о животных; для русского это важный стилистический оттенок. Politika фиксирует варианты Ne lipši, magarče, dok trava raste и do zelene trave. Смысл — надежда настолько далёкая, что до её осуществления можно и не дожить.",
+      "keyword": "magarče; zelena trava",
+      "source": "frazeoteka",
+      "created_at": "2026-08-31T13:48:40.283Z"
+    },
+    {
       "id": "mt38pyjw70fo0",
       "headword_latin": "Ne mešaj babe i žabe",
       "headword_cyrillic": "Не мешај бабе и жабе",
@@ -12526,6 +12549,32 @@
       "keyword": "jare",
       "source": "frazeoteka",
       "created_at": "2026-08-21T17:45:44.492Z"
+    },
+    {
+      "id": "mthanlr0d6t4r",
+      "headword_latin": "Ne pada sneg da pokrije breg, nego da svaka zverka pokaže svoj trag",
+      "headword_cyrillic": "Не пада снег да покрије брег, него да свака зверка покаже свој траг",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "обстоятельства показывают, кто есть кто; беда выводит всех на чистую воду",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Ne kaže narod slučajno: „Ne pada sneg da pokrije breg nego da svaka zverka pokaže svoj trag“.",
+          "russian": "Недаром говорят: обстоятельства нужны ещё и для того, чтобы стало видно, кто есть кто."
+        },
+        {
+          "serbian_latin": "Ne kaže se uzalud da „ne pada sneg da pokrije breg već da svaka zverka pokaže svoj trag“.",
+          "russian": "Не зря говорят, что трудные обстоятельства показывают истинное лицо каждого."
+        }
+      ],
+      "analogs_ru": [],
+      "literal_ru": "снег падает не для того, чтобы укрыть холм, а чтобы каждый зверёк оставил свой след",
+      "register": "poslovica; o događaju ili krizi koji otkrivaju pravo ponašanje ljudi",
+      "note": "Буквальный образ совершенно прозрачен в охотничьей культуре: на снегу становятся видны следы животных. Politika объясняет именно эту реальную основу поговорки. Переносный смысл — кризис или конфликт обнаруживает скрытые намерения, союзников и противников. Русского столь же образного устойчивого эквивалента нет.",
+      "keyword": "sneg; breg; zverka; trag",
+      "source": "frazeoteka",
+      "created_at": "2026-08-31T13:48:40.344Z"
     },
     {
       "id": "mt8v4y6wsutk9",
@@ -15351,34 +15400,6 @@
       "keyword": "popustiti",
       "source": "frazeoteka",
       "created_at": "2026-08-25T16:23:47.925Z"
-    },
-    {
-      "id": "mtha4zmzn9mbj",
-      "headword_latin": "Papak",
-      "headword_cyrillic": "Папак",
-      "transcription": "",
-      "pos": "imenica",
-      "definition_ru": "деревенщина; хам, невоспитанный человек",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Parkirao je na trotoaru, papak jedan.",
-          "russian": "Припарковался на тротуаре, хам."
-        }
-      ],
-      "analogs_ru": [
-        "деревенщина",
-        "быдло",
-        "хам",
-        "жлоб",
-        "лох"
-      ],
-      "literal_ru": "копыто (парнокопытного)",
-      "register": "разг.-сленг., резко неодобр.; женский род papkuša, собирательное papčina, свойство papkarluk",
-      "note": "Значение заметно расходится по регионам. В Сараеве, где слово пошло в ход с начала восьмидесятых, papak — прежде всего невоспитанный, бесцеремонный, не считающийся с другими: паркуется на газоне, шумит, мусорит, не платит за общее. В Хорватии то же слово значит скорее «лох, растяпа, недотёпа» — оценка не поведения, а состоятельности. Сегодня нередко означает попросту «всякий, кто не из нашей компании».",
-      "keyword": "papak",
-      "source": "frazeoteka",
-      "created_at": "2026-08-31T13:34:11.820Z"
     },
     {
       "id": "mt3ae8hmmmgnt",
@@ -18704,6 +18725,32 @@
       "created_at": "2026-08-24T14:58:53.118Z"
     },
     {
+      "id": "mthanlpz1bvd6",
+      "headword_latin": "Skuplja dara nego mera",
+      "headword_cyrillic": "Скупља дара него мера",
+      "transcription": "",
+      "pos": "izreka",
+      "definition_ru": "овчинка выделки не стоит; расходы больше выгоды; слишком дорогая цена за результат",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "SANU o niklu: Skuplja dara nego mera.",
+          "russian": "САНУ о никеле: овчинка выделки не стоит."
+        },
+        {
+          "serbian_latin": "Skuplja dara nego mera.",
+          "russian": "Расходы в итоге оказываются больше самой выгоды."
+        }
+      ],
+      "analogs_ru": [],
+      "literal_ru": "",
+      "register": "poslovično, razg.-publicistički; kada prateći troškovi ili šteta premašuju očekivanu korist",
+      "note": "Выражение особенно естественно, когда ради экономии, прибыли или небольшой пользы приходится понести несоразмерные затраты. Русские «овчинка выделки не стоит» и «себе дороже» хорошо передают прагматику. Компонент dara современному говорящему вне этой формулы непрозрачен, поэтому выражение лучше запоминать целиком.",
+      "keyword": "dara; mera",
+      "source": "frazeoteka",
+      "created_at": "2026-08-31T13:48:40.250Z"
+    },
+    {
       "id": "msxrqv204fhqh",
       "headword_latin": "Skuplja pita nego tepsija",
       "headword_cyrillic": "Скупља пита него тепсија",
@@ -20894,6 +20941,32 @@
       "created_at": "2026-08-25T17:16:05.369Z"
     },
     {
+      "id": "mthanlt1elar6",
+      "headword_latin": "Što je babi milo, to joj se i snilo",
+      "headword_cyrillic": "Што је баби мило, то јој се и снило",
+      "transcription": "",
+      "pos": "poslovica",
+      "definition_ru": "принимать желаемое за действительное; что хочется, то и мерещится",
+      "paradigm": null,
+      "examples": [
+        {
+          "serbian_latin": "Iz tabora naprednjaka je stigla poruka: „Što je babi milo, to joj se i snilo“.",
+          "russian": "В ответ прозвучало: вы просто выдаёте желаемое за действительное."
+        },
+        {
+          "serbian_latin": "Tekst platforme nastao je iz poetike „što je babi milo, to joj se i snilo“.",
+          "russian": "Текст платформы построен по принципу принятия желаемого за действительное."
+        }
+      ],
+      "analogs_ru": [],
+      "literal_ru": "что бабе мило, то ей и приснилось",
+      "register": "poslovica, iron.; o prognozama, tumačenjima i nadama zasnovanim prvenstveno na sopstvenim željama",
+      "note": "Baba здесь не обязательно конкретная старая женщина: это фольклорный персонаж рифмованной формулы. В современной политической речи выражение очень удобно для критики wishful thinking. Русскому лучше не сохранять «бабу», а переводить «принимать желаемое за действительное».",
+      "keyword": "babi milo; snilo",
+      "source": "frazeoteka",
+      "created_at": "2026-08-31T13:48:40.357Z"
+    },
+    {
       "id": "mt0aue8619ai4",
       "headword_latin": "Što je brzo, to je i kuso",
       "headword_cyrillic": "Што је брзо, то је и кусо",
@@ -21293,59 +21366,6 @@
       "keyword": "tante",
       "source": "frazeoteka",
       "created_at": "2026-08-18T14:32:12.247Z"
-    },
-    {
-      "id": "mtha2g6k76evq",
-      "headword_latin": "Tata kanta",
-      "headword_cyrillic": "Тата канта",
-      "transcription": "",
-      "pos": "izraz",
-      "definition_ru": "папа-мусорка; тот, кто доедает за детьми",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "Ne bacaj, daj meni — ja sam ovde tata kanta.",
-          "russian": "Не выбрасывай, давай сюда: я тут за мусорку."
-        }
-      ],
-      "analogs_ru": [
-        "пищевой утилизатор",
-        "живая мусорка",
-        "доедала"
-      ],
-      "literal_ru": "папа-ведро",
-      "register": "разг., семейн., шутл.; о родителе, который подъедает за детьми недоеденное; по той же модели mama kanta; как кодифицированный фразеологизм не зафиксировано — семейно-обиходное словоупотребление, а не словарная единица",
-      "note": "Добавляет к слову kanta ещё одно живое употребление — о человеке как о вместилище для остатков. Рядом стоит словарное переносное значение: kanta в жаргоне «зад, обычно женский и объёмистый», а stara kanta — обидное о немолодой женщине; при переносе слова на человека надо смотреть, о чём речь: за столом это шутка про остатки, вне стола может выйти оскорбление. Мотивировка балканская по духу: выбрасывать еду считается почти грехом — отсюда и uzmi kume da se ne baci, и od jazuka se deblja, и роль родителя-утилизатора как бытовая норма, над которой сами же подсмеиваются. См. также: KANTA; UZMI KUME DA SE NE BACI; JAZUK BACITI, A OD JAZUKA SE DEBLJA.",
-      "keyword": "kanta",
-      "source": "frazeoteka",
-      "created_at": "2026-08-31T13:32:13.292Z"
-    },
-    {
-      "id": "mtha4gv2h2pvg",
-      "headword_latin": "Tata-mata",
-      "headword_cyrillic": "Тата-мата",
-      "transcription": "",
-      "pos": "izraz",
-      "definition_ru": "главный; шишка; тот, кто всё решает",
-      "paradigm": null,
-      "examples": [
-        {
-          "serbian_latin": "On je u toj firmi tata-mata, bez njega se ništa ne radi.",
-          "russian": "Он в этой фирме главный, без него ничего не делается."
-        }
-      ],
-      "analogs_ru": [
-        "главный",
-        "шишка",
-        "большой человек",
-        "он тут царь и бог"
-      ],
-      "literal_ru": "",
-      "register": "разг., чаще ирон.; о том, кто распоряжается или мнит себя распорядителем; ходовые формы on je tu tata-mata, ja sam ti tata-mata; известно и в словенском, куда пришло с юга",
-      "note": "Словенский словарь разговорной речи выводит оборот из сербского bog i batina — «тот, кто приказывает и наказывает», — называя tata-mata его более поздней разновидностью. К шахматному мату слово mata отношения не имеет, хотя словарь сленга обыгрывает и это: «отличный шахматист, ставит мат в два хода». В обиходе живёт с рифмованными продолжениями, которые составляют половину удовольствия: ja sam ti tata-mata iz antikvarijata, tata-mata kućnih aparata; модель та же, что в šta se radi na estradi. Заведено по записям papa kanta и tata kanta, сочетания которых в источниках не подтверждаются. См. также: BOG I BATINA, VEDRI I OBLAČI, DRŽATI KONCE U SVOJIM RUKAMA.",
-      "keyword": "tata-mata",
-      "source": "frazeoteka",
-      "created_at": "2026-08-31T13:33:47.487Z"
     },
     {
       "id": "mt7cc588sxeff",
